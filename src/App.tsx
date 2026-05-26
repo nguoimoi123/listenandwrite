@@ -175,7 +175,7 @@ export default function App() {
         box: 1,
         tags: ['Life', 'Feelings']
       }
-    ];
+    ].filter(() => false);
   });
 
   const [currentFlashcardIndex, setCurrentFlashcardIndex] = useState<number>(0);
@@ -295,6 +295,11 @@ export default function App() {
   // Input Transcript and typing input states
   const [sourceTranscript, setSourceTranscript] = useState<string>('');
   const [studentText, setStudentText] = useState<string>('');
+  const transcriptSegments = sourceTranscript
+    .split(/(?<=[.!?])\s+|\n+/)
+    .map(segment => segment.trim())
+    .filter(Boolean);
+  const [selectedTtsSegmentIndex, setSelectedTtsSegmentIndex] = useState<number>(0);
 
   // Player States
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
@@ -307,6 +312,7 @@ export default function App() {
   // Web Speech API Synthesis state fallback for Custom Text without Audio Upload
   const synthRef = useRef<SpeechSynthesis | null>(null);
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
+  const synthRequestIdRef = useRef(0);
   const [isSynthPlaying, setIsSynthPlaying] = useState<boolean>(false);
 
   // Verification result states
@@ -344,6 +350,8 @@ export default function App() {
     localStorage.setItem('lw_v_words', JSON.stringify(vocabWords));
     if (localDirectoryHandle) {
       saveVocabToDirectory(localDirectoryHandle, vocabWords);
+    } else if (storageMode === 'gdrive' && gdriveToken && gdriveFolderId) {
+      saveVocabToGDrive(gdriveToken, gdriveFolderId, vocabWords);
     }
   }, [vocabWords, localDirectoryHandle]);
 
@@ -618,10 +626,14 @@ export default function App() {
           const parsed = JSON.parse(vocabText);
           if (Array.isArray(parsed)) {
             setVocabWords(parsed);
+            localStorage.setItem('lw_v_words', JSON.stringify(parsed));
           }
         } catch (vErr) {
           console.error("Lỗi đọc từ vựng từ GDrive:", vErr);
         }
+      } else {
+        setVocabWords([]);
+        localStorage.setItem('lw_v_words', JSON.stringify([]));
       }
 
       // Sync Practice logs
@@ -1107,6 +1119,7 @@ export default function App() {
     setStudentText('');
     setEvaluationResult(null);
     setIsEvaluationChecked(false);
+    setSelectedTtsSegmentIndex(0);
     stopAnyPlayback();
   }, [customTranscriptText, customTranslateText]);
 
@@ -1173,6 +1186,71 @@ export default function App() {
       audio.load();
     }
   }, [customAudioUrl]);
+
+  const startSynthPlayback = (text: string) => {
+    const synth = synthRef.current;
+    const speakText = text.trim();
+    if (!synth) {
+      alert("Thiết bị của bạn không hỗ trợ công cụ đọc văn bản SpeechSynthesis.");
+      return;
+    }
+    if (!speakText) {
+      alert("Chưa có nội dung transcript để đọc.");
+      return;
+    }
+
+    const requestId = synthRequestIdRef.current + 1;
+    synthRequestIdRef.current = requestId;
+    synth.cancel();
+    setIsSynthPlaying(false);
+
+    const utterance = new SpeechSynthesisUtterance(speakText);
+    utterance.lang = 'en-US';
+    utterance.rate = playSpeed;
+
+    utterance.onend = () => {
+      if (synthRequestIdRef.current === requestId) {
+        setIsSynthPlaying(false);
+      }
+    };
+
+    utterance.onerror = (e) => {
+      console.error("Synth error:", e);
+      if (synthRequestIdRef.current === requestId) {
+        setIsSynthPlaying(false);
+      }
+    };
+
+    utteranceRef.current = utterance;
+    window.setTimeout(() => {
+      if (synthRequestIdRef.current !== requestId) return;
+      synth.speak(utterance);
+      setIsSynthPlaying(true);
+    }, 0);
+    setListenCount(prev => {
+      const next = prev + 1;
+      syncHistoryDataToStorage(practiceLogs, next);
+      return next;
+    });
+  };
+
+  const playTtsSegment = (index: number) => {
+    if (transcriptSegments.length === 0) {
+      alert("Chưa có đoạn transcript để đọc.");
+      return;
+    }
+    const safeIndex = Math.min(Math.max(index, 0), transcriptSegments.length - 1);
+    setSelectedTtsSegmentIndex(safeIndex);
+    startSynthPlayback(transcriptSegments[safeIndex]);
+  };
+
+  const playRandomTtsSegment = () => {
+    if (transcriptSegments.length === 0) {
+      alert("Chưa có đoạn transcript để đọc.");
+      return;
+    }
+    playTtsSegment(Math.floor(Math.random() * transcriptSegments.length));
+  };
 
   const togglePlayback = () => {
     // If we have custom audio file loaded
@@ -2824,6 +2902,42 @@ ${evaluationResult.diffs.map(d => {
                       Xóa
                     </button>
                   )}
+                  {false && !customAudioUrl && (
+                    <div className="hidden">
+                      <button
+                        type="button"
+                        onClick={() => playTtsSegment(selectedTtsSegmentIndex - 1)}
+                        disabled={transcriptSegments.length === 0 || selectedTtsSegmentIndex <= 0}
+                        className="px-2 py-1 rounded-lg border border-slate-800 bg-slate-900 text-[10px] font-bold text-slate-300 hover:text-white hover:bg-slate-850 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      >
+                        Trước
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => playTtsSegment(selectedTtsSegmentIndex)}
+                        disabled={transcriptSegments.length === 0}
+                        className="px-2.5 py-1 rounded-lg bg-emerald-500/15 border border-emerald-500/25 text-[10px] font-black text-emerald-300 hover:bg-emerald-500/25 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      >
+                        Đọc đoạn {transcriptSegments.length ? selectedTtsSegmentIndex + 1 : 0}/{transcriptSegments.length}
+                      </button>
+                      <button
+                        type="button"
+                        onClick={playRandomTtsSegment}
+                        disabled={transcriptSegments.length === 0}
+                        className="px-2.5 py-1 rounded-lg border border-sky-500/25 bg-sky-500/10 text-[10px] font-black text-sky-300 hover:bg-sky-500/20 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      >
+                        Ngẫu nhiên
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => playTtsSegment(selectedTtsSegmentIndex + 1)}
+                        disabled={transcriptSegments.length === 0 || selectedTtsSegmentIndex >= transcriptSegments.length - 1}
+                        className="px-2 py-1 rounded-lg border border-slate-800 bg-slate-900 text-[10px] font-bold text-slate-300 hover:text-white hover:bg-slate-850 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      >
+                        Tiếp
+                      </button>
+                    </div>
+                  )}
                 </div>
 
                 {/* Playlist Grid Scroll */}
@@ -3544,6 +3658,43 @@ ${evaluationResult.diffs.map(d => {
                     </div>
                   )}
                 </div>
+
+                {!customAudioUrl && (
+                  <div className="flex flex-wrap items-center justify-center gap-1.5 select-none">
+                    <button
+                      type="button"
+                      onClick={() => playTtsSegment(selectedTtsSegmentIndex - 1)}
+                      disabled={transcriptSegments.length === 0 || selectedTtsSegmentIndex <= 0}
+                      className="px-2 py-1 rounded-lg border border-slate-800 bg-slate-900 text-[10px] font-bold text-slate-300 hover:text-white hover:bg-slate-850 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Trước
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => playTtsSegment(selectedTtsSegmentIndex)}
+                      disabled={transcriptSegments.length === 0}
+                      className="px-2.5 py-1 rounded-lg bg-emerald-500/15 border border-emerald-500/25 text-[10px] font-black text-emerald-300 hover:bg-emerald-500/25 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Đọc đoạn {transcriptSegments.length ? selectedTtsSegmentIndex + 1 : 0}/{transcriptSegments.length}
+                    </button>
+                    <button
+                      type="button"
+                      onClick={playRandomTtsSegment}
+                      disabled={transcriptSegments.length === 0}
+                      className="px-2.5 py-1 rounded-lg border border-sky-500/25 bg-sky-500/10 text-[10px] font-black text-sky-300 hover:bg-sky-500/20 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Ngẫu nhiên
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => playTtsSegment(selectedTtsSegmentIndex + 1)}
+                      disabled={transcriptSegments.length === 0 || selectedTtsSegmentIndex >= transcriptSegments.length - 1}
+                      className="px-2 py-1 rounded-lg border border-slate-800 bg-slate-900 text-[10px] font-bold text-slate-300 hover:text-white hover:bg-slate-850 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Tiếp
+                    </button>
+                  </div>
+                )}
 
                 {/* Micro operational media button control bars */}
                 <div className="flex items-center justify-center gap-3.5">
