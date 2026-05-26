@@ -1,0 +1,6 @@
+{
+  "name": "ListenWrite English",
+  "description": "Ứng dụng tối giản chuyên hỗ trợ học tiếng Anh qua nghe chép chính tả: tải lên tệp âm thanh và văn bản gốc, luyện nghe và viết lại, kèm hệ thống so sánh đối chiếu lỗi sai chi tiết từng từ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
