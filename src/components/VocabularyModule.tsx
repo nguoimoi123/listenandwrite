@@ -18,6 +18,7 @@ import {
   Info
 } from 'lucide-react';
 import { VocabularyWord } from '../App';
+import { wordPartGroups } from '../data/wordParts';
 
 interface VocabularyModuleProps {
   vocabWords: VocabularyWord[];
@@ -47,7 +48,7 @@ export default function VocabularyModule({
   handleGoogleSignIn
 }: VocabularyModuleProps) {
   // Navigation internal mode
-  const [activeSubTab, setActiveSubTab] = useState<'flashcards' | 'wordsList' | 'quiz'>('flashcards');
+  const [activeSubTab, setActiveSubTab] = useState<'flashcards' | 'wordParts' | 'wordsList' | 'quiz'>('flashcards');
 
   // Flashcards navigation
   const [currentCardIndex, setCurrentCardIndex] = useState<number>(0);
@@ -57,6 +58,8 @@ export default function VocabularyModule({
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [filterCategory, setFilterCategory] = useState<string>('All');
   const [filterBox, setFilterBox] = useState<number | 'All'>('All');
+  const [wordPartTypeFilter, setWordPartTypeFilter] = useState<'all' | 'prefix' | 'suffix'>('all');
+  const [selectedWordPartId, setSelectedWordPartId] = useState<string>(wordPartGroups[0]?.id || '');
 
   // New Word Form Toggle & Fields
   const [isAdding, setIsAdding] = useState<boolean>(false);
@@ -81,6 +84,8 @@ export default function VocabularyModule({
 
   // Computed Categories
   const categories = ['All', ...Array.from(new Set(vocabWords.map(w => w.category || 'General')))];
+  const filteredWordPartGroups = wordPartGroups.filter(group => wordPartTypeFilter === 'all' || group.type === wordPartTypeFilter);
+  const activeWordPartGroup = wordPartGroups.find(group => group.id === selectedWordPartId) || filteredWordPartGroups[0] || wordPartGroups[0];
 
   // Leitner boxes calculations
   const getBoxCount = (boxNum: number) => {
@@ -351,6 +356,18 @@ export default function VocabularyModule({
             >
               <Sparkles className="h-3.5 w-3.5" />
               <span>Trượt Ôn Flashcards</span>
+            </button>
+            
+            <button
+              onClick={() => setActiveSubTab('wordParts')}
+              className={`px-4 py-2 text-xs font-bold rounded-lg transition-all cursor-pointer flex items-center gap-1.5 ${
+                activeSubTab === 'wordParts'
+                  ? 'bg-emerald-500 text-slate-950 shadow'
+                  : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              <Zap className="h-3.5 w-3.5" />
+              <span>Tiền/Hậu Tố</span>
             </button>
             
             <button
@@ -717,6 +734,117 @@ export default function VocabularyModule({
             </div>
           )}
 
+        </div>
+      )}
+
+      {activeSubTab === 'wordParts' && (
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 animate-fade-in">
+          <div className="lg:col-span-4 bg-slate-900/35 border border-slate-900 rounded-2xl p-4 space-y-3">
+            <div className="flex items-center justify-between gap-2 border-b border-slate-850 pb-3">
+              <div>
+                <h3 className="text-xs font-black text-slate-200 uppercase tracking-wider">Bộ tiền tố / hậu tố</h3>
+                <p className="text-[10px] text-slate-500 mt-0.5">Học theo mảnh nghĩa để đoán từ nhanh hơn.</p>
+              </div>
+              <select
+                value={wordPartTypeFilter}
+                onChange={(e) => {
+                  const next = e.target.value as 'all' | 'prefix' | 'suffix';
+                  setWordPartTypeFilter(next);
+                  const first = wordPartGroups.find(group => next === 'all' || group.type === next);
+                  if (first) setSelectedWordPartId(first.id);
+                }}
+                className="bg-slate-950 border border-slate-800 rounded-lg px-2 py-1 text-[10px] text-slate-200 focus:outline-none focus:border-emerald-500"
+              >
+                <option value="all">Tất cả</option>
+                <option value="prefix">Prefix</option>
+                <option value="suffix">Suffix</option>
+              </select>
+            </div>
+
+            <div className="space-y-1.5 max-h-[520px] overflow-y-auto pr-1">
+              {filteredWordPartGroups.map((group) => {
+                const isActive = activeWordPartGroup?.id === group.id;
+                return (
+                  <button
+                    key={group.id}
+                    type="button"
+                    onClick={() => setSelectedWordPartId(group.id)}
+                    className={`w-full text-left px-3 py-2.5 rounded-xl border transition-all ${
+                      isActive
+                        ? 'bg-emerald-500/10 border-emerald-500/35 text-emerald-300'
+                        : 'bg-slate-950/50 border-slate-850 text-slate-300 hover:border-slate-700 hover:text-white'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between gap-2">
+                      <span className="font-black text-sm font-mono">{group.part}</span>
+                      <span className={`text-[9px] uppercase font-black px-2 py-0.5 rounded border ${
+                        group.type === 'prefix'
+                          ? 'bg-sky-500/10 border-sky-500/20 text-sky-300'
+                          : 'bg-amber-500/10 border-amber-500/20 text-amber-300'
+                      }`}>
+                        {group.type}
+                      </span>
+                    </div>
+                    <p className="text-[11px] text-slate-400 mt-1">{group.meaning}</p>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+          <div className="lg:col-span-8 bg-slate-900/35 border border-slate-900 rounded-2xl p-5 space-y-5">
+            {activeWordPartGroup && (
+              <>
+                <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 border-b border-slate-850 pb-4">
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-3xl font-black font-mono text-white">{activeWordPartGroup.part}</span>
+                      <span className={`text-[10px] uppercase font-black px-2 py-0.5 rounded border ${
+                        activeWordPartGroup.type === 'prefix'
+                          ? 'bg-sky-500/10 border-sky-500/20 text-sky-300'
+                          : 'bg-amber-500/10 border-amber-500/20 text-amber-300'
+                      }`}>
+                        {activeWordPartGroup.type === 'prefix' ? 'Tiền tố' : 'Hậu tố'}
+                      </span>
+                    </div>
+                    <p className="text-sm font-bold text-emerald-300 mt-1">{activeWordPartGroup.meaning}</p>
+                    <p className="text-xs text-slate-400 mt-2 leading-relaxed">{activeWordPartGroup.note}</p>
+                  </div>
+                  <div className="text-[10px] text-slate-500 bg-slate-950 border border-slate-850 rounded-xl px-3 py-2 font-mono">
+                    JSON: /word_parts.json
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                  {activeWordPartGroup.examples.map((item) => (
+                    <div key={item.word} className="bg-slate-950/60 border border-slate-850 rounded-2xl p-4 space-y-2">
+                      <div className="flex items-center justify-between gap-2">
+                        <span className="text-lg font-black text-white font-mono">{item.word}</span>
+                        <button
+                          type="button"
+                          onClick={() => handleSpeakWord(item.word)}
+                          className="p-1.5 rounded-lg bg-indigo-950/60 hover:bg-indigo-900 text-indigo-300 border border-indigo-900 transition-colors"
+                          title="Nghe phát âm"
+                        >
+                          <Volume2 className="h-3.5 w-3.5" />
+                        </button>
+                      </div>
+                      <div className="inline-flex px-2 py-0.5 bg-emerald-500/10 border border-emerald-500/20 rounded-lg text-[11px] text-emerald-300 font-mono">
+                        {item.breakdown}
+                      </div>
+                      <p className="text-sm font-bold text-slate-200">{item.meaning}</p>
+                      <p className="text-xs text-slate-450 italic leading-relaxed">"{item.example}"</p>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="bg-slate-950/50 border border-slate-850 rounded-2xl p-4 text-xs text-slate-350 leading-relaxed">
+                  <b className="text-emerald-300">Cách học:</b> đọc nghĩa của mảnh từ trước, sau đó đoán nghĩa của từng ví dụ bằng công thức
+                  <span className="font-mono text-sky-300"> prefix/suffix + root word</span>. Khi gặp từ mới, thử tách mảnh trước khi tra từ điển.
+                </div>
+              </>
+            )}
+          </div>
         </div>
       )}
 

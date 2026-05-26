@@ -1,0 +1,236 @@
+[
+  {
+    "id": "prefix-re",
+    "type": "prefix",
+    "part": "re-",
+    "meaning": "again; back",
+    "note": "Lặp lại hoặc quay lại trạng thái trước.",
+    "examples": [
+      { "word": "replay", "meaning": "phát/chơi lại", "breakdown": "re + play" },
+      { "word": "review", "meaning": "xem lại, ôn lại", "breakdown": "re + view" },
+      { "word": "rewrite", "meaning": "viết lại", "breakdown": "re + write" },
+      { "word": "reconnect", "meaning": "kết nối lại", "breakdown": "re + connect" }
+    ]
+  },
+  {
+    "id": "prefix-un",
+    "type": "prefix",
+    "part": "un-",
+    "meaning": "not; reverse",
+    "note": "Phủ định hoặc đảo ngược hành động.",
+    "examples": [
+      { "word": "unhappy", "meaning": "không vui", "breakdown": "un + happy" },
+      { "word": "unfair", "meaning": "không công bằng", "breakdown": "un + fair" },
+      { "word": "unlock", "meaning": "mở khóa", "breakdown": "un + lock" },
+      { "word": "undo", "meaning": "hoàn tác", "breakdown": "un + do" }
+    ]
+  },
+  {
+    "id": "prefix-dis",
+    "type": "prefix",
+    "part": "dis-",
+    "meaning": "not; opposite; away",
+    "note": "Phủ định, trái ngược hoặc tách rời.",
+    "examples": [
+      { "word": "disagree", "meaning": "không đồng ý", "breakdown": "dis + agree" },
+      { "word": "disconnect", "meaning": "ngắt kết nối", "breakdown": "dis + connect" },
+      { "word": "disappear", "meaning": "biến mất", "breakdown": "dis + appear" },
+      { "word": "disadvantage", "meaning": "bất lợi", "breakdown": "dis + advantage" }
+    ]
+  },
+  {
+    "id": "prefix-mis",
+    "type": "prefix",
+    "part": "mis-",
+    "meaning": "wrong; badly",
+    "note": "Làm sai, hiểu sai hoặc dùng sai.",
+    "examples": [
+      { "word": "misread", "meaning": "đọc nhầm", "breakdown": "mis + read" },
+      { "word": "misunderstand", "meaning": "hiểu lầm", "breakdown": "mis + understand" },
+      { "word": "mispronounce", "meaning": "phát âm sai", "breakdown": "mis + pronounce" },
+      { "word": "mislead", "meaning": "gây hiểu nhầm", "breakdown": "mis + lead" }
+    ]
+  },
+  {
+    "id": "prefix-pre",
+    "type": "prefix",
+    "part": "pre-",
+    "meaning": "before",
+    "note": "Xảy ra trước thời điểm chính.",
+    "examples": [
+      { "word": "preview", "meaning": "xem trước", "breakdown": "pre + view" },
+      { "word": "prepare", "meaning": "chuẩn bị", "breakdown": "pre + pare" },
+      { "word": "prepay", "meaning": "trả trước", "breakdown": "pre + pay" },
+      { "word": "preschool", "meaning": "mầm non", "breakdown": "pre + school" }
+    ]
+  },
+  {
+    "id": "prefix-over",
+    "type": "prefix",
+    "part": "over-",
+    "meaning": "too much; above",
+    "note": "Quá mức hoặc ở phía trên.",
+    "examples": [
+      { "word": "overwork", "meaning": "làm việc quá sức", "breakdown": "over + work" },
+      { "word": "overthink", "meaning": "suy nghĩ quá nhiều", "breakdown": "over + think" },
+      { "word": "overuse", "meaning": "lạm dụng", "breakdown": "over + use" },
+      { "word": "overcrowded", "meaning": "quá đông đúc", "breakdown": "over + crowded" }
+    ]
+  },
+  {
+    "id": "prefix-under",
+    "type": "prefix",
+    "part": "under-",
+    "meaning": "too little; below",
+    "note": "Thiếu mức, thấp hơn hoặc ở bên dưới.",
+    "examples": [
+      { "word": "underestimate", "meaning": "đánh giá thấp", "breakdown": "under + estimate" },
+      { "word": "underpaid", "meaning": "được trả lương thấp", "breakdown": "under + paid" },
+      { "word": "underground", "meaning": "dưới lòng đất", "breakdown": "under + ground" },
+      { "word": "underdeveloped", "meaning": "kém phát triển", "breakdown": "under + developed" }
+    ]
+  },
+  {
+    "id": "prefix-inter",
+    "type": "prefix",
+    "part": "inter-",
+    "meaning": "between; among",
+    "note": "Giữa nhiều người, nơi hoặc hệ thống.",
+    "examples": [
+      { "word": "international", "meaning": "quốc tế", "breakdown": "inter + national" },
+      { "word": "interact", "meaning": "tương tác", "breakdown": "inter + act" },
+      { "word": "interview", "meaning": "phỏng vấn", "breakdown": "inter + view" },
+      { "word": "interconnected", "meaning": "liên kết với nhau", "breakdown": "inter + connected" }
+    ]
+  },
+  {
+    "id": "prefix-trans",
+    "type": "prefix",
+    "part": "trans-",
+    "meaning": "across; change",
+    "note": "Đi xuyên qua, vượt qua hoặc biến đổi.",
+    "examples": [
+      { "word": "transport", "meaning": "vận chuyển", "breakdown": "trans + port" },
+      { "word": "transform", "meaning": "biến đổi", "breakdown": "trans + form" },
+      { "word": "translate", "meaning": "dịch", "breakdown": "trans + late" },
+      { "word": "transfer", "meaning": "chuyển giao", "breakdown": "trans + fer" }
+    ]
+  },
+  {
+    "id": "prefix-auto",
+    "type": "prefix",
+    "part": "auto-",
+    "meaning": "self; automatic",
+    "note": "Tự thân hoặc tự động.",
+    "examples": [
+      { "word": "automatic", "meaning": "tự động", "breakdown": "auto + matic" },
+      { "word": "autobiography", "meaning": "tự truyện", "breakdown": "auto + biography" },
+      { "word": "autopilot", "meaning": "chế độ lái tự động", "breakdown": "auto + pilot" },
+      { "word": "auto-save", "meaning": "tự lưu", "breakdown": "auto + save" }
+    ]
+  },
+  {
+    "id": "suffix-er",
+    "type": "suffix",
+    "part": "-er / -or",
+    "meaning": "person or thing that does something",
+    "note": "Người/vật thực hiện hành động.",
+    "examples": [
+      { "word": "teacher", "meaning": "giáo viên", "breakdown": "teach + er" },
+      { "word": "speaker", "meaning": "người nói, loa", "breakdown": "speak + er" },
+      { "word": "creator", "meaning": "người tạo ra", "breakdown": "create + or" },
+      { "word": "actor", "meaning": "diễn viên", "breakdown": "act + or" }
+    ]
+  },
+  {
+    "id": "suffix-tion",
+    "type": "suffix",
+    "part": "-tion / -sion",
+    "meaning": "action; process; result",
+    "note": "Danh từ chỉ hành động, quá trình hoặc kết quả.",
+    "examples": [
+      { "word": "education", "meaning": "giáo dục", "breakdown": "educate + tion" },
+      { "word": "decision", "meaning": "quyết định", "breakdown": "decide + sion" },
+      { "word": "connection", "meaning": "sự kết nối", "breakdown": "connect + tion" },
+      { "word": "revision", "meaning": "sự ôn/sửa lại", "breakdown": "revise + sion" }
+    ]
+  },
+  {
+    "id": "suffix-ment",
+    "type": "suffix",
+    "part": "-ment",
+    "meaning": "result; state; process",
+    "note": "Danh từ chỉ quá trình hoặc kết quả.",
+    "examples": [
+      { "word": "development", "meaning": "sự phát triển", "breakdown": "develop + ment" },
+      { "word": "improvement", "meaning": "sự cải thiện", "breakdown": "improve + ment" },
+      { "word": "agreement", "meaning": "sự đồng ý, thỏa thuận", "breakdown": "agree + ment" },
+      { "word": "movement", "meaning": "sự chuyển động", "breakdown": "move + ment" }
+    ]
+  },
+  {
+    "id": "suffix-able",
+    "type": "suffix",
+    "part": "-able / -ible",
+    "meaning": "can be; suitable for",
+    "note": "Tính từ chỉ khả năng có thể làm được.",
+    "examples": [
+      { "word": "readable", "meaning": "có thể đọc được", "breakdown": "read + able" },
+      { "word": "flexible", "meaning": "linh hoạt", "breakdown": "flex + ible" },
+      { "word": "visible", "meaning": "có thể nhìn thấy", "breakdown": "vis + ible" },
+      { "word": "manageable", "meaning": "có thể quản lý được", "breakdown": "manage + able" }
+    ]
+  },
+  {
+    "id": "suffix-less",
+    "type": "suffix",
+    "part": "-less",
+    "meaning": "without",
+    "note": "Không có điều gì đó.",
+    "examples": [
+      { "word": "careless", "meaning": "bất cẩn", "breakdown": "care + less" },
+      { "word": "homeless", "meaning": "vô gia cư", "breakdown": "home + less" },
+      { "word": "hopeless", "meaning": "vô vọng", "breakdown": "hope + less" },
+      { "word": "meaningless", "meaning": "vô nghĩa", "breakdown": "meaning + less" }
+    ]
+  },
+  {
+    "id": "suffix-ful",
+    "type": "suffix",
+    "part": "-ful",
+    "meaning": "full of; having",
+    "note": "Có nhiều hoặc đầy điều gì đó.",
+    "examples": [
+      { "word": "useful", "meaning": "hữu ích", "breakdown": "use + ful" },
+      { "word": "careful", "meaning": "cẩn thận", "breakdown": "care + ful" },
+      { "word": "hopeful", "meaning": "đầy hy vọng", "breakdown": "hope + ful" },
+      { "word": "powerful", "meaning": "mạnh mẽ", "breakdown": "power + ful" }
+    ]
+  },
+  {
+    "id": "suffix-ly",
+    "type": "suffix",
+    "part": "-ly",
+    "meaning": "in a certain way",
+    "note": "Trạng từ chỉ cách thức.",
+    "examples": [
+      { "word": "quickly", "meaning": "nhanh chóng", "breakdown": "quick + ly" },
+      { "word": "clearly", "meaning": "rõ ràng", "breakdown": "clear + ly" },
+      { "word": "slowly", "meaning": "chậm rãi", "breakdown": "slow + ly" },
+      { "word": "naturally", "meaning": "một cách tự nhiên", "breakdown": "natural + ly" }
+    ]
+  },
+  {
+    "id": "suffix-ize",
+    "type": "suffix",
+    "part": "-ize",
+    "meaning": "make; become",
+    "note": "Làm cho trở thành hoặc biến thành.",
+    "examples": [
+      { "word": "modernize", "meaning": "hiện đại hóa", "breakdown": "modern + ize" },
+      { "word": "organize", "meaning": "tổ chức, sắp xếp", "breakdown": "organ + ize" },
+      { "word": "summarize", "meaning": "tóm tắt", "breakdown": "summary + ize" },
+      { "word": "prioritize", "meaning": "ưu tiên", "breakdown": "priority + ize" }
+    ]
+  }
+]
