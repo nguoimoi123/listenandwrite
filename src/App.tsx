@@ -644,6 +644,7 @@ export default function App() {
       }
     } catch (err) {
       console.error("Lỗi kết nối tệp tin Google Drive:", err);
+      throw err;
     }
   };
 
@@ -661,8 +662,12 @@ export default function App() {
     }
   };
 
-  const handleChooseGDriveFolder = async (folderId: string, folderName: string) => {
-    if (!gdriveToken) return;
+  const handleChooseGDriveFolder = async (folderId: string, folderName: string, tokenOverride?: string) => {
+    const activeToken = tokenOverride || gdriveToken;
+    if (!activeToken) {
+      alert("⚠️ Chưa có quyền truy cập Google Drive. Vui lòng đăng nhập Google lại rồi chọn thư mục.");
+      return;
+    }
     try {
       setGDriveFolderId(folderId);
       setGDriveFolderName(folderName);
@@ -671,7 +676,7 @@ export default function App() {
       setStorageMode('gdrive');
       localStorage.setItem('lw_storage_mode', 'gdrive');
 
-      await syncGDriveLessons(gdriveToken, folderId);
+      await syncGDriveLessons(activeToken, folderId);
       setIsGDriveFolderModalOpen(false);
     } catch (err: any) {
       console.error("Lỗi đồng bộ thư mục chọn:", err);
@@ -696,7 +701,7 @@ export default function App() {
       setGDriveFoldersList(folders);
 
       // Automatically select the new folder
-      await handleChooseGDriveFolder(newFolderId, name);
+      await handleChooseGDriveFolder(newFolderId, name, gdriveToken);
     } catch (err: any) {
       console.error("Lỗi tạo thư mục mới trên Drive:", err);
       alert("⚠️ Không thể tạo thư mục mới trên Google Drive: " + (err.message || err));
@@ -807,7 +812,16 @@ export default function App() {
         if (savedFolderId && savedFolderName) {
           setGDriveFolderId(savedFolderId);
           setGDriveFolderName(savedFolderName);
-          await syncGDriveLessons(token, savedFolderId);
+          try {
+            await syncGDriveLessons(token, savedFolderId);
+          } catch (err: any) {
+            console.error("Không thể kết nối lại thư mục Google Drive đã lưu:", err);
+            setGDriveFolderId('');
+            setGDriveFolderName('');
+            localStorage.removeItem('lw_gdrive_folder_id');
+            localStorage.removeItem('lw_gdrive_folder_name');
+            alert("⚠️ Không thể mở lại thư mục Google Drive đã chọn trước đó. Vui lòng bấm Đồng bộ Google Drive và chọn lại thư mục.\n\nChi tiết: " + (err.message || err));
+          }
         }
       },
       () => {
