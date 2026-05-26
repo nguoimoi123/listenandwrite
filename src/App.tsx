@@ -302,6 +302,7 @@ export default function App() {
   const [currentTime, setCurrentTime] = useState<number>(0);
   const [duration, setDuration] = useState<number>(0);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const pendingAudioSeekRef = useRef<number | null>(null);
 
   // Web Speech API Synthesis state fallback for Custom Text without Audio Upload
   const synthRef = useRef<SpeechSynthesis | null>(null);
@@ -1144,6 +1145,7 @@ export default function App() {
 
   useEffect(() => {
     const audio = audioRef.current;
+    pendingAudioSeekRef.current = null;
     setIsPlaying(false);
     setCurrentTime(0);
     setDuration(0);
@@ -1234,6 +1236,7 @@ export default function App() {
       let newTime = audio.currentTime + seconds;
       if (newTime < 0) newTime = 0;
       if (Number.isFinite(audio.duration) && newTime > audio.duration) newTime = audio.duration;
+      pendingAudioSeekRef.current = newTime;
       audio.currentTime = newTime;
       setCurrentTime(newTime);
     } else {
@@ -1251,7 +1254,8 @@ export default function App() {
     if (audioRef.current) {
       const audio = audioRef.current;
       const safeDuration = Number.isFinite(audio.duration) ? audio.duration : duration;
-      const safeTime = Math.min(Math.max(time, 0), safeDuration || 0);
+      const safeTime = safeDuration ? Math.min(Math.max(time, 0), safeDuration) : Math.max(time, 0);
+      pendingAudioSeekRef.current = safeTime;
       audio.currentTime = safeTime;
       setCurrentTime(safeTime);
     }
@@ -3453,10 +3457,14 @@ ${evaluationResult.diffs.map(d => {
                 onLoadedMetadata={(e) => {
                   const audio = e.currentTarget;
                   const loadedDuration = Number.isFinite(audio.duration) ? audio.duration : 0;
-                  audio.currentTime = 0;
+                  const requestedTime = pendingAudioSeekRef.current;
+                  const targetTime = requestedTime !== null ? requestedTime : audio.currentTime;
+                  const safeTime = loadedDuration ? Math.min(Math.max(targetTime, 0), loadedDuration) : 0;
+                  audio.currentTime = safeTime;
                   audio.playbackRate = playSpeed;
                   setDuration(loadedDuration);
-                  setCurrentTime(0);
+                  setCurrentTime(safeTime);
+                  pendingAudioSeekRef.current = null;
                 }}
                 onDurationChange={(e) => {
                   const nextDuration = e.currentTarget.duration;
