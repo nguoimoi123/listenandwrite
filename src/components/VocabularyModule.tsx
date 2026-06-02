@@ -150,7 +150,7 @@ export default function VocabularyModule({
       .then((data: WordFamilyEntry[]) => {
         if (!isMounted) return;
         setWordFamilies(data);
-        setWordFamilyIndex(0);
+        setWordFamilyIndex(wordFamilyMode === 'review' ? Math.floor(Math.random() * data.length) : 0);
         setSelectedPosAnswer(null);
         setPosQuizPart(posOrder[Math.floor(Math.random() * posOrder.length)]);
       })
@@ -162,7 +162,7 @@ export default function VocabularyModule({
     return () => {
       isMounted = false;
     };
-  }, [selectedFamilyTopic]);
+  }, [selectedFamilyTopic, wordFamilyMode]);
 
   // Leitner boxes calculations
   const getBoxCount = (boxNum: number) => {
@@ -322,9 +322,18 @@ export default function VocabularyModule({
     });
   };
 
-  const goToNextWordFamily = () => {
+  const startRandomPartOfSpeechQuestion = () => {
     if (wordFamilies.length === 0) return;
-    setWordFamilyIndex((prev) => (prev + 1) % wordFamilies.length);
+
+    setWordFamilyIndex((prev) => {
+      if (wordFamilies.length === 1) return 0;
+
+      let next = Math.floor(Math.random() * wordFamilies.length);
+      while (next === prev) {
+        next = Math.floor(Math.random() * wordFamilies.length);
+      }
+      return next;
+    });
     setSelectedPosAnswer(null);
     setPosQuizPart(posOrder[Math.floor(Math.random() * posOrder.length)]);
   };
@@ -998,7 +1007,7 @@ export default function VocabularyModule({
                 type="button"
                 onClick={() => {
                   setWordFamilyMode('review');
-                  setSelectedPosAnswer(null);
+                  startRandomPartOfSpeechQuestion();
                 }}
                 className={`py-2 rounded-xl text-xs font-black border transition-all ${
                   wordFamilyMode === 'review'
@@ -1142,7 +1151,7 @@ export default function VocabularyModule({
                         <p className="italic text-slate-450">"{activeWordFamily.examples[posQuizPart]}"</p>
                         <button
                           type="button"
-                          onClick={goToNextWordFamily}
+                          onClick={startRandomPartOfSpeechQuestion}
                           className="w-full py-2.5 bg-emerald-500 hover:bg-emerald-450 text-slate-950 text-xs font-black rounded-xl transition-all"
                         >
                           Câu tiếp theo
