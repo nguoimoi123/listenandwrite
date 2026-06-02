@@ -1,0 +1,72 @@
+[
+  {
+    "id": "daily-life",
+    "name": "Daily Life",
+    "vi": "Sinh hoạt hằng ngày",
+    "file": "/word-families/daily-life.json",
+    "count": 100
+  },
+  {
+    "id": "school",
+    "name": "School",
+    "vi": "Trường học",
+    "file": "/word-families/school.json",
+    "count": 100
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "vi": "Công việc",
+    "file": "/word-families/work.json",
+    "count": 100
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "vi": "Du lịch",
+    "file": "/word-families/travel.json",
+    "count": 100
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "vi": "Sức khỏe",
+    "file": "/word-families/health.json",
+    "count": 100
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "vi": "Công nghệ",
+    "file": "/word-families/technology.json",
+    "count": 100
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "vi": "Kinh doanh",
+    "file": "/word-families/business.json",
+    "count": 100
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "vi": "Môi trường",
+    "file": "/word-families/environment.json",
+    "count": 100
+  },
+  {
+    "id": "society",
+    "name": "Society",
+    "vi": "Xã hội",
+    "file": "/word-families/society.json",
+    "count": 100
+  },
+  {
+    "id": "academic",
+    "name": "Academic",
+    "vi": "Học thuật",
+    "file": "/word-families/academic.json",
+    "count": 100
+  }
+]

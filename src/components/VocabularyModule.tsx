@@ -15,10 +15,53 @@ import {
   Search,
   CheckCircle,
   FolderOpen,
-  Info
+  Info,
+  Layers
 } from 'lucide-react';
 import { VocabularyWord } from '../App';
 import { wordPartGroups } from '../data/wordParts';
+
+type PartOfSpeech = 'noun' | 'adjective' | 'verb' | 'adverb';
+
+interface WordFamilyEntry {
+  id: string;
+  topic: string;
+  topicVi: string;
+  root: string;
+  meaningVi: string;
+  forms: Record<PartOfSpeech, string>;
+  recognition: Record<PartOfSpeech, string>;
+  examples: Record<PartOfSpeech, string>;
+}
+
+const wordFamilyTopics = [
+  { id: 'daily-life', name: 'Daily Life', vi: 'Sinh hoạt' },
+  { id: 'school', name: 'School', vi: 'Trường học' },
+  { id: 'work', name: 'Work', vi: 'Công việc' },
+  { id: 'travel', name: 'Travel', vi: 'Du lịch' },
+  { id: 'health', name: 'Health', vi: 'Sức khỏe' },
+  { id: 'technology', name: 'Technology', vi: 'Công nghệ' },
+  { id: 'business', name: 'Business', vi: 'Kinh doanh' },
+  { id: 'environment', name: 'Environment', vi: 'Môi trường' },
+  { id: 'society', name: 'Society', vi: 'Xã hội' },
+  { id: 'academic', name: 'Academic', vi: 'Học thuật' }
+];
+
+const posLabels: Record<PartOfSpeech, string> = {
+  noun: 'Danh từ',
+  adjective: 'Tính từ',
+  verb: 'Động từ',
+  adverb: 'Trạng từ'
+};
+
+const posShortLabels: Record<PartOfSpeech, string> = {
+  noun: 'Danh',
+  adjective: 'Tính',
+  verb: 'Động',
+  adverb: 'Trạng'
+};
+
+const posOrder: PartOfSpeech[] = ['noun', 'adjective', 'verb', 'adverb'];
 
 interface VocabularyModuleProps {
   vocabWords: VocabularyWord[];
@@ -48,7 +91,7 @@ export default function VocabularyModule({
   handleGoogleSignIn
 }: VocabularyModuleProps) {
   // Navigation internal mode
-  const [activeSubTab, setActiveSubTab] = useState<'flashcards' | 'wordParts' | 'wordsList' | 'quiz'>('flashcards');
+  const [activeSubTab, setActiveSubTab] = useState<'flashcards' | 'wordParts' | 'partsOfSpeech' | 'wordsList' | 'quiz'>('flashcards');
 
   // Flashcards navigation
   const [currentCardIndex, setCurrentCardIndex] = useState<number>(0);
@@ -60,6 +103,13 @@ export default function VocabularyModule({
   const [filterBox, setFilterBox] = useState<number | 'All'>('All');
   const [wordPartTypeFilter, setWordPartTypeFilter] = useState<'all' | 'prefix' | 'suffix'>('all');
   const [selectedWordPartId, setSelectedWordPartId] = useState<string>(wordPartGroups[0]?.id || '');
+  const [selectedFamilyTopic, setSelectedFamilyTopic] = useState<string>('daily-life');
+  const [wordFamilies, setWordFamilies] = useState<WordFamilyEntry[]>([]);
+  const [wordFamilyIndex, setWordFamilyIndex] = useState<number>(0);
+  const [wordFamilyMode, setWordFamilyMode] = useState<'study' | 'review'>('study');
+  const [posQuizPart, setPosQuizPart] = useState<PartOfSpeech>('noun');
+  const [selectedPosAnswer, setSelectedPosAnswer] = useState<PartOfSpeech | null>(null);
+  const [posQuizScore, setPosQuizScore] = useState<{ correct: number; total: number }>({ correct: 0, total: 0 });
 
   // New Word Form Toggle & Fields
   const [isAdding, setIsAdding] = useState<boolean>(false);
@@ -86,6 +136,33 @@ export default function VocabularyModule({
   const categories = ['All', ...Array.from(new Set(vocabWords.map(w => w.category || 'General')))];
   const filteredWordPartGroups = wordPartGroups.filter(group => wordPartTypeFilter === 'all' || group.type === wordPartTypeFilter);
   const activeWordPartGroup = wordPartGroups.find(group => group.id === selectedWordPartId) || filteredWordPartGroups[0] || wordPartGroups[0];
+  const activeWordFamily = wordFamilies[wordFamilyIndex] || null;
+  const activePosQuizWord = activeWordFamily ? activeWordFamily.forms[posQuizPart] : '';
+
+  useEffect(() => {
+    let isMounted = true;
+
+    fetch(`/word-families/${selectedFamilyTopic}.json`)
+      .then((res) => {
+        if (!res.ok) throw new Error(`Cannot load ${selectedFamilyTopic}.json`);
+        return res.json();
+      })
+      .then((data: WordFamilyEntry[]) => {
+        if (!isMounted) return;
+        setWordFamilies(data);
+        setWordFamilyIndex(0);
+        setSelectedPosAnswer(null);
+        setPosQuizPart(posOrder[Math.floor(Math.random() * posOrder.length)]);
+      })
+      .catch((error) => {
+        console.warn('Word family data load failed:', error);
+        if (isMounted) setWordFamilies([]);
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [selectedFamilyTopic]);
 
   // Leitner boxes calculations
   const getBoxCount = (boxNum: number) => {
@@ -245,6 +322,23 @@ export default function VocabularyModule({
     });
   };
 
+  const goToNextWordFamily = () => {
+    if (wordFamilies.length === 0) return;
+    setWordFamilyIndex((prev) => (prev + 1) % wordFamilies.length);
+    setSelectedPosAnswer(null);
+    setPosQuizPart(posOrder[Math.floor(Math.random() * posOrder.length)]);
+  };
+
+  const submitPartOfSpeechAnswer = (part: PartOfSpeech) => {
+    if (!activeWordFamily || selectedPosAnswer) return;
+
+    setSelectedPosAnswer(part);
+    setPosQuizScore((prev) => ({
+      correct: prev.correct + (part === posQuizPart ? 1 : 0),
+      total: prev.total + 1
+    }));
+  };
+
   const isSyncActive = localDirectoryHandle || (storageMode === 'gdrive' && gdriveFolderId);
 
   if (!isSyncActive) {
@@ -368,6 +462,18 @@ export default function VocabularyModule({
             >
               <Zap className="h-3.5 w-3.5" />
               <span>Tiền/Hậu Tố</span>
+            </button>
+            
+            <button
+              onClick={() => setActiveSubTab('partsOfSpeech')}
+              className={`px-4 py-2 text-xs font-bold rounded-lg transition-all cursor-pointer flex items-center gap-1.5 ${
+                activeSubTab === 'partsOfSpeech'
+                  ? 'bg-emerald-500 text-slate-950 shadow'
+                  : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              <Layers className="h-3.5 w-3.5" />
+              <span>Danh/Tính/Động/Trạng</span>
             </button>
             
             <button
@@ -843,6 +949,207 @@ export default function VocabularyModule({
                   <span className="font-mono text-sky-300"> prefix/suffix + root word</span>. Khi gặp từ mới, thử tách mảnh trước khi tra từ điển.
                 </div>
               </>
+            )}
+          </div>
+        </div>
+      )}
+
+      {activeSubTab === 'partsOfSpeech' && (
+        <div className="grid grid-cols-1 xl:grid-cols-12 gap-5 animate-fade-in">
+          <div className="xl:col-span-4 bg-slate-900/35 border border-slate-900 rounded-2xl p-4 space-y-4">
+            <div className="border-b border-slate-850 pb-3">
+              <h3 className="text-xs font-black text-slate-200 uppercase tracking-wider">4 loại từ chính</h3>
+              <p className="text-[10px] text-slate-500 mt-1">
+                Chọn chủ đề, học family word rồi ôn bằng câu hỏi: từ này là danh, tính, động hay trạng?
+              </p>
+            </div>
+
+            <select
+              value={selectedFamilyTopic}
+              onChange={(e) => setSelectedFamilyTopic(e.target.value)}
+              className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3 py-2 text-xs text-slate-200 focus:outline-none focus:border-emerald-500"
+            >
+              {wordFamilyTopics.map((topic) => (
+                <option key={topic.id} value={topic.id}>
+                  {topic.vi} - {topic.name}
+                </option>
+              ))}
+            </select>
+
+            <div className="grid grid-cols-2 gap-2">
+              <button
+                type="button"
+                onClick={() => setWordFamilyMode('study')}
+                className={`py-2 rounded-xl text-xs font-black border transition-all ${
+                  wordFamilyMode === 'study'
+                    ? 'bg-emerald-500 text-slate-950 border-emerald-500'
+                    : 'bg-slate-950 border-slate-850 text-slate-400 hover:text-white'
+                }`}
+              >
+                Học nhận biết
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setWordFamilyMode('review');
+                  setSelectedPosAnswer(null);
+                }}
+                className={`py-2 rounded-xl text-xs font-black border transition-all ${
+                  wordFamilyMode === 'review'
+                    ? 'bg-emerald-500 text-slate-950 border-emerald-500'
+                    : 'bg-slate-950 border-slate-850 text-slate-400 hover:text-white'
+                }`}
+              >
+                Ôn trắc nghiệm
+              </button>
+            </div>
+
+            <div className="space-y-1.5 max-h-[520px] overflow-y-auto pr-1">
+              {wordFamilies.map((item, index) => {
+                const isActive = index === wordFamilyIndex;
+                return (
+                  <button
+                    key={item.id}
+                    type="button"
+                    onClick={() => {
+                      setWordFamilyIndex(index);
+                      setSelectedPosAnswer(null);
+                      setPosQuizPart(posOrder[Math.floor(Math.random() * posOrder.length)]);
+                    }}
+                    className={`w-full text-left px-3 py-2.5 rounded-xl border transition-all ${
+                      isActive
+                        ? 'bg-emerald-500/10 border-emerald-500/35 text-emerald-300'
+                        : 'bg-slate-950/50 border-slate-850 text-slate-300 hover:border-slate-700 hover:text-white'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between gap-2">
+                      <span className="font-black text-sm font-mono">{item.root}</span>
+                      <span className="text-[10px] text-slate-500 font-mono">
+                        {index + 1}/{wordFamilies.length}
+                      </span>
+                    </div>
+                    <p className="text-[11px] text-slate-400 mt-1">{item.meaningVi}</p>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+          <div className="xl:col-span-8 bg-slate-900/35 border border-slate-900 rounded-2xl p-5 space-y-5">
+            {activeWordFamily ? (
+              <>
+                <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 border-b border-slate-850 pb-4">
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <Layers className="h-5 w-5 text-emerald-400" />
+                      <h3 className="text-2xl font-black text-white font-mono">{activeWordFamily.root}</h3>
+                    </div>
+                    <p className="text-sm text-emerald-300 font-bold mt-1">{activeWordFamily.meaningVi}</p>
+                    <p className="text-xs text-slate-450 mt-2">
+                      Chủ đề: {activeWordFamily.topicVi} - JSON: /word-families/{selectedFamilyTopic}.json
+                    </p>
+                  </div>
+                  <div className="bg-slate-950 border border-slate-850 rounded-xl px-3 py-2 text-xs text-slate-300 font-mono">
+                    Điểm ôn: <span className="text-emerald-400 font-black">{posQuizScore.correct}/{posQuizScore.total}</span>
+                  </div>
+                </div>
+
+                {wordFamilyMode === 'study' ? (
+                  <>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                      {posOrder.map((part) => (
+                        <div key={part} className="bg-slate-950/60 border border-slate-850 rounded-2xl p-4 space-y-3">
+                          <div className="flex items-center justify-between gap-2">
+                            <span className="text-[10px] uppercase tracking-widest font-black text-slate-500">{posLabels[part]}</span>
+                            <button
+                              type="button"
+                              onClick={() => handleSpeakWord(activeWordFamily.forms[part])}
+                              className="p-1.5 rounded-lg bg-indigo-950/60 hover:bg-indigo-900 text-indigo-300 border border-indigo-900 transition-colors"
+                              title="Nghe phát âm"
+                            >
+                              <Volume2 className="h-3.5 w-3.5" />
+                            </button>
+                          </div>
+                          <div className="text-xl font-black text-white font-mono">{activeWordFamily.forms[part]}</div>
+                          <p className="text-xs text-emerald-300 leading-relaxed">{activeWordFamily.recognition[part]}</p>
+                          <p className="text-xs text-slate-450 italic leading-relaxed">"{activeWordFamily.examples[part]}"</p>
+                        </div>
+                      ))}
+                    </div>
+
+                    <div className="bg-slate-950/50 border border-slate-850 rounded-2xl p-4 text-xs text-slate-350 leading-relaxed">
+                      <b className="text-emerald-300">Mẹo nhận biết nhanh:</b> danh từ thường làm chủ ngữ/tân ngữ; tính từ mô tả danh từ; động từ chỉ hành động/trạng thái; trạng từ bổ nghĩa cho động từ, tính từ hoặc cả câu. Đuôi như <span className="font-mono text-sky-300">-ion, -ment, -ness</span> hay gặp ở danh từ; <span className="font-mono text-amber-300">-ive, -able, -ful</span> hay gặp ở tính từ; <span className="font-mono text-indigo-300">-ly</span> hay gặp ở trạng từ.
+                    </div>
+                  </>
+                ) : (
+                  <div className="max-w-2xl mx-auto py-4 space-y-5">
+                    <div className="text-center space-y-2">
+                      <span className="text-[11px] uppercase font-black text-slate-500 tracking-widest block">
+                        Từ này thuộc loại nào?
+                      </span>
+                      <div className="inline-flex items-center gap-3 justify-center">
+                        <span className="text-4xl font-black font-mono tracking-tight text-white">{activePosQuizWord}</span>
+                        <button
+                          type="button"
+                          onClick={() => handleSpeakWord(activePosQuizWord)}
+                          className="p-2 bg-indigo-950 hover:bg-indigo-900 rounded-xl cursor-pointer transition-colors"
+                          title="Phát âm"
+                        >
+                          <Volume2 className="h-4 w-4 text-indigo-400" />
+                        </button>
+                      </div>
+                      <p className="text-xs text-slate-500">Gốc nghĩa: {activeWordFamily.meaningVi}</p>
+                    </div>
+
+                    <div className="grid grid-cols-2 gap-3">
+                      {posOrder.map((part) => {
+                        const isSelected = selectedPosAnswer === part;
+                        const isCorrect = posQuizPart === part;
+                        const revealed = Boolean(selectedPosAnswer);
+                        const stateClass = !revealed
+                          ? 'bg-slate-950/40 border-slate-800 hover:border-slate-700 hover:bg-slate-950 text-slate-200'
+                          : isCorrect
+                            ? 'bg-emerald-500/10 border-emerald-500 text-emerald-300'
+                            : isSelected
+                              ? 'bg-rose-500/10 border-rose-500 text-rose-300'
+                              : 'bg-slate-950/20 border-slate-900 text-slate-600';
+
+                        return (
+                          <button
+                            key={part}
+                            type="button"
+                            disabled={revealed}
+                            onClick={() => submitPartOfSpeechAnswer(part)}
+                            className={`py-4 px-4 rounded-2xl border text-sm font-black transition-all ${stateClass}`}
+                          >
+                            {posShortLabels[part]}
+                          </button>
+                        );
+                      })}
+                    </div>
+
+                    {selectedPosAnswer && (
+                      <div className="bg-slate-950 border border-slate-850 rounded-2xl p-4 text-xs text-slate-350 leading-relaxed space-y-3">
+                        <p>
+                          Đáp án đúng: <b className="text-emerald-300">{posLabels[posQuizPart]}</b>. {activeWordFamily.recognition[posQuizPart]}
+                        </p>
+                        <p className="italic text-slate-450">"{activeWordFamily.examples[posQuizPart]}"</p>
+                        <button
+                          type="button"
+                          onClick={goToNextWordFamily}
+                          className="w-full py-2.5 bg-emerald-500 hover:bg-emerald-450 text-slate-950 text-xs font-black rounded-xl transition-all"
+                        >
+                          Câu tiếp theo
+                        </button>
+                      </div>
+                    )}
+                  </div>
+                )}
+              </>
+            ) : (
+              <div className="py-16 text-center text-xs text-slate-500 italic">
+                Đang tải dữ liệu word family...
+              </div>
             )}
           </div>
         </div>
