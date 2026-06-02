@@ -3,2500 +3,2500 @@
     "id": "daily-life-001",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "cook",
+    "meaningVi": "nhóm từ \"cook\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "cooktion",
+      "adjective": "cookable",
+      "verb": "cook",
+      "adverb": "cookably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cooktion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cookable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cook\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cookably\"."
     },
     "examples": {
-      "noun": "The action is important in daily life.",
-      "adjective": "This is a active example for daily life.",
-      "verb": "Learners can act this idea in daily life.",
-      "adverb": "Use it actively when talking about daily life."
+      "noun": "The cooktion is important in daily life.",
+      "adjective": "This is a cookable case in daily life.",
+      "verb": "People often cook when working with daily life topics.",
+      "adverb": "The speaker explained it cookably in a daily life context."
     }
   },
   {
     "id": "daily-life-002",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "clean",
+    "meaningVi": "nhóm từ \"clean\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "cleanment",
+      "adjective": "cleanive",
+      "verb": "clean",
+      "adverb": "cleanively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cleanment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cleanive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"clean\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cleanively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in daily life.",
-      "adjective": "This is a adaptable example for daily life.",
-      "verb": "Learners can adapt this idea in daily life.",
-      "adverb": "Use it adaptably when talking about daily life."
+      "noun": "The cleanment is important in daily life.",
+      "adjective": "This is a cleanive case in daily life.",
+      "verb": "People often clean when working with daily life topics.",
+      "adverb": "The speaker explained it cleanively in a daily life context."
     }
   },
   {
     "id": "daily-life-003",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "shop",
+    "meaningVi": "nhóm từ \"shop\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "shoping",
+      "adjective": "shopal",
+      "verb": "shop",
+      "adverb": "shopally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shoping\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shopal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shop\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shopally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in daily life.",
-      "adjective": "This is a adjustable example for daily life.",
-      "verb": "Learners can adjust this idea in daily life.",
-      "adverb": "Use it adjustably when talking about daily life."
+      "noun": "The shoping is important in daily life.",
+      "adjective": "This is a shopal case in daily life.",
+      "verb": "People often shop when working with daily life topics.",
+      "adverb": "The speaker explained it shopally in a daily life context."
     }
   },
   {
     "id": "daily-life-004",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "budget",
+    "meaningVi": "nhóm từ \"budget\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "budgetance",
+      "adjective": "budgeted",
+      "verb": "budget",
+      "adverb": "budgetedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"budgetance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"budgeted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"budget\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"budgetedly\"."
     },
     "examples": {
-      "noun": "The admiration is important in daily life.",
-      "adjective": "This is a admirable example for daily life.",
-      "verb": "Learners can admire this idea in daily life.",
-      "adverb": "Use it admirably when talking about daily life."
+      "noun": "The budgetance is important in daily life.",
+      "adjective": "This is a budgeted case in daily life.",
+      "verb": "People often budget when working with daily life topics.",
+      "adverb": "The speaker explained it budgetedly in a daily life context."
     }
   },
   {
     "id": "daily-life-005",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "commute",
+    "meaningVi": "nhóm từ \"commute\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "commutence",
+      "adjective": "commuting",
+      "verb": "commute",
+      "adverb": "commutingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"commutence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"commuting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"commute\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"commutingly\"."
     },
     "examples": {
-      "noun": "The advice is important in daily life.",
-      "adjective": "This is a advisable example for daily life.",
-      "verb": "Learners can advise this idea in daily life.",
-      "adverb": "Use it advisably when talking about daily life."
+      "noun": "The commutence is important in daily life.",
+      "adjective": "This is a commuting case in daily life.",
+      "verb": "People often commute when working with daily life topics.",
+      "adverb": "The speaker explained it commutingly in a daily life context."
     }
   },
   {
     "id": "daily-life-006",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "exercise",
+    "meaningVi": "nhóm từ \"exercise\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "exercisal",
+      "adjective": "exercisous",
+      "verb": "exercise",
+      "adverb": "exercisously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"exercisal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"exercisous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"exercise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"exercisously\"."
     },
     "examples": {
-      "noun": "The analysis is important in daily life.",
-      "adjective": "This is a analytical example for daily life.",
-      "verb": "Learners can analyze this idea in daily life.",
-      "adverb": "Use it analytically when talking about daily life."
+      "noun": "The exercisal is important in daily life.",
+      "adjective": "This is a exercisous case in daily life.",
+      "verb": "People often exercise when working with daily life topics.",
+      "adverb": "The speaker explained it exercisously in a daily life context."
     }
   },
   {
     "id": "daily-life-007",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "relax",
+    "meaningVi": "nhóm từ \"relax\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "relaxy",
+      "adjective": "relaxary",
+      "verb": "relax",
+      "adverb": "relaxarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"relaxy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"relaxary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"relax\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"relaxarily\"."
     },
     "examples": {
-      "noun": "The application is important in daily life.",
-      "adjective": "This is a applicable example for daily life.",
-      "verb": "Learners can apply this idea in daily life.",
-      "adverb": "Use it applicably when talking about daily life."
+      "noun": "The relaxy is important in daily life.",
+      "adjective": "This is a relaxary case in daily life.",
+      "verb": "People often relax when working with daily life topics.",
+      "adverb": "The speaker explained it relaxarily in a daily life context."
     }
   },
   {
     "id": "daily-life-008",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "decorate",
+    "meaningVi": "nhóm từ \"decorate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "decorature",
+      "adjective": "decoratic",
+      "verb": "decorate",
+      "adverb": "decoratically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decorature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decoratic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decorate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decoratically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in daily life.",
-      "adjective": "This is a arranged example for daily life.",
-      "verb": "Learners can arrange this idea in daily life.",
-      "adverb": "Use it arrangedly when talking about daily life."
+      "noun": "The decorature is important in daily life.",
+      "adjective": "This is a decoratic case in daily life.",
+      "verb": "People often decorate when working with daily life topics.",
+      "adverb": "The speaker explained it decoratically in a daily life context."
     }
   },
   {
     "id": "daily-life-009",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "repair",
+    "meaningVi": "nhóm từ \"repair\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "repairage",
+      "adjective": "repairful",
+      "verb": "repair",
+      "adverb": "repairfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"repairage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"repairful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"repair\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"repairfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in daily life.",
-      "adjective": "This is a assessable example for daily life.",
-      "verb": "Learners can assess this idea in daily life.",
-      "adverb": "Use it assessably when talking about daily life."
+      "noun": "The repairage is important in daily life.",
+      "adjective": "This is a repairful case in daily life.",
+      "verb": "People often repair when working with daily life topics.",
+      "adverb": "The speaker explained it repairfully in a daily life context."
     }
   },
   {
     "id": "daily-life-010",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "organize",
+    "meaningVi": "nhóm từ \"organize\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "organizity",
+      "adjective": "organizant",
+      "verb": "organize",
+      "adverb": "organizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"organizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"organizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"organize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"organizantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in daily life.",
-      "adjective": "This is a assistant example for daily life.",
-      "verb": "Learners can assist this idea in daily life.",
-      "adverb": "Use it assistively when talking about daily life."
+      "noun": "The organizity is important in daily life.",
+      "adjective": "This is a organizant case in daily life.",
+      "verb": "People often organize when working with daily life topics.",
+      "adverb": "The speaker explained it organizantly in a daily life context."
     }
   },
   {
     "id": "daily-life-011",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "schedule",
+    "meaningVi": "nhóm từ \"schedule\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "schedultion",
+      "adjective": "schedulable",
+      "verb": "schedule",
+      "adverb": "schedulably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"schedultion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"schedulable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"schedule\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"schedulably\"."
     },
     "examples": {
-      "noun": "The attendance is important in daily life.",
-      "adjective": "This is a attentive example for daily life.",
-      "verb": "Learners can attend this idea in daily life.",
-      "adverb": "Use it attentively when talking about daily life."
+      "noun": "The schedultion is important in daily life.",
+      "adjective": "This is a schedulable case in daily life.",
+      "verb": "People often schedule when working with daily life topics.",
+      "adverb": "The speaker explained it schedulably in a daily life context."
     }
   },
   {
     "id": "daily-life-012",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "plan",
+    "meaningVi": "nhóm từ \"plan\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "planment",
+      "adjective": "planive",
+      "verb": "plan",
+      "adverb": "planively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"planment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"planive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"plan\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"planively\"."
     },
     "examples": {
-      "noun": "The benefit is important in daily life.",
-      "adjective": "This is a beneficial example for daily life.",
-      "verb": "Learners can benefit this idea in daily life.",
-      "adverb": "Use it beneficially when talking about daily life."
+      "noun": "The planment is important in daily life.",
+      "adjective": "This is a planive case in daily life.",
+      "verb": "People often plan when working with daily life topics.",
+      "adverb": "The speaker explained it planively in a daily life context."
     }
   },
   {
     "id": "daily-life-013",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "prepare",
+    "meaningVi": "nhóm từ \"prepare\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "preparing",
+      "adjective": "preparal",
+      "verb": "prepare",
+      "adverb": "preparally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"preparing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"preparal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prepare\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"preparally\"."
     },
     "examples": {
-      "noun": "The calculation is important in daily life.",
-      "adjective": "This is a calculable example for daily life.",
-      "verb": "Learners can calculate this idea in daily life.",
-      "adverb": "Use it calculably when talking about daily life."
+      "noun": "The preparing is important in daily life.",
+      "adjective": "This is a preparal case in daily life.",
+      "verb": "People often prepare when working with daily life topics.",
+      "adverb": "The speaker explained it preparally in a daily life context."
     }
   },
   {
     "id": "daily-life-014",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "wash",
+    "meaningVi": "nhóm từ \"wash\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "washance",
+      "adjective": "washed",
+      "verb": "wash",
+      "adverb": "washedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"washance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"washed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"wash\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"washedly\"."
     },
     "examples": {
-      "noun": "The care is important in daily life.",
-      "adjective": "This is a careful example for daily life.",
-      "verb": "Learners can care this idea in daily life.",
-      "adverb": "Use it carefully when talking about daily life."
+      "noun": "The washance is important in daily life.",
+      "adjective": "This is a washed case in daily life.",
+      "verb": "People often wash when working with daily life topics.",
+      "adverb": "The speaker explained it washedly in a daily life context."
     }
   },
   {
     "id": "daily-life-015",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "iron",
+    "meaningVi": "nhóm từ \"iron\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "ironence",
+      "adjective": "ironing",
+      "verb": "iron",
+      "adverb": "ironingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"ironence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"ironing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"iron\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"ironingly\"."
     },
     "examples": {
-      "noun": "The change is important in daily life.",
-      "adjective": "This is a changeable example for daily life.",
-      "verb": "Learners can change this idea in daily life.",
-      "adverb": "Use it changeably when talking about daily life."
+      "noun": "The ironence is important in daily life.",
+      "adjective": "This is a ironing case in daily life.",
+      "verb": "People often iron when working with daily life topics.",
+      "adverb": "The speaker explained it ironingly in a daily life context."
     }
   },
   {
     "id": "daily-life-016",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "fold",
+    "meaningVi": "nhóm từ \"fold\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "foldal",
+      "adjective": "foldous",
+      "verb": "fold",
+      "adverb": "foldously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"foldal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"foldous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"fold\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"foldously\"."
     },
     "examples": {
-      "noun": "The communication is important in daily life.",
-      "adjective": "This is a communicative example for daily life.",
-      "verb": "Learners can communicate this idea in daily life.",
-      "adverb": "Use it communicatively when talking about daily life."
+      "noun": "The foldal is important in daily life.",
+      "adjective": "This is a foldous case in daily life.",
+      "verb": "People often fold when working with daily life topics.",
+      "adverb": "The speaker explained it foldously in a daily life context."
     }
   },
   {
     "id": "daily-life-017",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "recycle",
+    "meaningVi": "nhóm từ \"recycle\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "recycly",
+      "adjective": "recyclary",
+      "verb": "recycle",
+      "adverb": "recyclarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recycly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"recyclary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recycle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recyclarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in daily life.",
-      "adjective": "This is a comparative example for daily life.",
-      "verb": "Learners can compare this idea in daily life.",
-      "adverb": "Use it comparatively when talking about daily life."
+      "noun": "The recycly is important in daily life.",
+      "adjective": "This is a recyclary case in daily life.",
+      "verb": "People often recycle when working with daily life topics.",
+      "adverb": "The speaker explained it recyclarily in a daily life context."
     }
   },
   {
     "id": "daily-life-018",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "garden",
+    "meaningVi": "nhóm từ \"garden\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "gardenure",
+      "adjective": "gardenic",
+      "verb": "garden",
+      "adverb": "gardenically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"gardenure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"gardenic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"garden\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"gardenically\"."
     },
     "examples": {
-      "noun": "The competition is important in daily life.",
-      "adjective": "This is a competitive example for daily life.",
-      "verb": "Learners can compete this idea in daily life.",
-      "adverb": "Use it competitively when talking about daily life."
+      "noun": "The gardenure is important in daily life.",
+      "adjective": "This is a gardenic case in daily life.",
+      "verb": "People often garden when working with daily life topics.",
+      "adverb": "The speaker explained it gardenically in a daily life context."
     }
   },
   {
     "id": "daily-life-019",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "host",
+    "meaningVi": "nhóm từ \"host\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "hostage",
+      "adjective": "hostful",
+      "verb": "host",
+      "adverb": "hostfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hostage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hostful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"host\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hostfully\"."
     },
     "examples": {
-      "noun": "The completion is important in daily life.",
-      "adjective": "This is a complete example for daily life.",
-      "verb": "Learners can complete this idea in daily life.",
-      "adverb": "Use it completely when talking about daily life."
+      "noun": "The hostage is important in daily life.",
+      "adjective": "This is a hostful case in daily life.",
+      "verb": "People often host when working with daily life topics.",
+      "adverb": "The speaker explained it hostfully in a daily life context."
     }
   },
   {
     "id": "daily-life-020",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "greet",
+    "meaningVi": "nhóm từ \"greet\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "greetity",
+      "adjective": "greetant",
+      "verb": "greet",
+      "adverb": "greetantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"greetity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"greetant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"greet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"greetantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in daily life.",
-      "adjective": "This is a concentrated example for daily life.",
-      "verb": "Learners can concentrate this idea in daily life.",
-      "adverb": "Use it concentratedly when talking about daily life."
+      "noun": "The greetity is important in daily life.",
+      "adjective": "This is a greetant case in daily life.",
+      "verb": "People often greet when working with daily life topics.",
+      "adverb": "The speaker explained it greetantly in a daily life context."
     }
   },
   {
     "id": "daily-life-021",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "socialize",
+    "meaningVi": "nhóm từ \"socialize\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "socializtion",
+      "adjective": "socializable",
+      "verb": "socialize",
+      "adverb": "socializably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"socializtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"socializable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"socialize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"socializably\"."
     },
     "examples": {
-      "noun": "The connection is important in daily life.",
-      "adjective": "This is a connected example for daily life.",
-      "verb": "Learners can connect this idea in daily life.",
-      "adverb": "Use it connectedly when talking about daily life."
+      "noun": "The socializtion is important in daily life.",
+      "adjective": "This is a socializable case in daily life.",
+      "verb": "People often socialize when working with daily life topics.",
+      "adverb": "The speaker explained it socializably in a daily life context."
     }
   },
   {
     "id": "daily-life-022",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "message",
+    "meaningVi": "nhóm từ \"message\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "messagment",
+      "adjective": "messagive",
+      "verb": "message",
+      "adverb": "messagively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"messagment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"messagive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"message\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"messagively\"."
     },
     "examples": {
-      "noun": "The consideration is important in daily life.",
-      "adjective": "This is a considerate example for daily life.",
-      "verb": "Learners can consider this idea in daily life.",
-      "adverb": "Use it considerately when talking about daily life."
+      "noun": "The messagment is important in daily life.",
+      "adjective": "This is a messagive case in daily life.",
+      "verb": "People often message when working with daily life topics.",
+      "adverb": "The speaker explained it messagively in a daily life context."
     }
   },
   {
     "id": "daily-life-023",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "call",
+    "meaningVi": "nhóm từ \"call\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "calling",
+      "adjective": "callal",
+      "verb": "call",
+      "adverb": "callally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"calling\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"callal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"call\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"callally\"."
     },
     "examples": {
-      "noun": "The creation is important in daily life.",
-      "adjective": "This is a creative example for daily life.",
-      "verb": "Learners can create this idea in daily life.",
-      "adverb": "Use it creatively when talking about daily life."
+      "noun": "The calling is important in daily life.",
+      "adjective": "This is a callal case in daily life.",
+      "verb": "People often call when working with daily life topics.",
+      "adverb": "The speaker explained it callally in a daily life context."
     }
   },
   {
     "id": "daily-life-024",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "text",
+    "meaningVi": "nhóm từ \"text\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "textance",
+      "adjective": "texted",
+      "verb": "text",
+      "adverb": "textedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"textance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"texted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"text\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"textedly\"."
     },
     "examples": {
-      "noun": "The decision is important in daily life.",
-      "adjective": "This is a decisive example for daily life.",
-      "verb": "Learners can decide this idea in daily life.",
-      "adverb": "Use it decisively when talking about daily life."
+      "noun": "The textance is important in daily life.",
+      "adjective": "This is a texted case in daily life.",
+      "verb": "People often text when working with daily life topics.",
+      "adverb": "The speaker explained it textedly in a daily life context."
     }
   },
   {
     "id": "daily-life-025",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "browse",
+    "meaningVi": "nhóm từ \"browse\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "browsence",
+      "adjective": "browsing",
+      "verb": "browse",
+      "adverb": "browsingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"browsence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"browsing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"browse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"browsingly\"."
     },
     "examples": {
-      "noun": "The definition is important in daily life.",
-      "adjective": "This is a definite example for daily life.",
-      "verb": "Learners can define this idea in daily life.",
-      "adverb": "Use it definitely when talking about daily life."
+      "noun": "The browsence is important in daily life.",
+      "adjective": "This is a browsing case in daily life.",
+      "verb": "People often browse when working with daily life topics.",
+      "adverb": "The speaker explained it browsingly in a daily life context."
     }
   },
   {
     "id": "daily-life-026",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "stream",
+    "meaningVi": "nhóm từ \"stream\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "streamal",
+      "adjective": "streamous",
+      "verb": "stream",
+      "adverb": "streamously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"streamal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"streamous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stream\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"streamously\"."
     },
     "examples": {
-      "noun": "The delivery is important in daily life.",
-      "adjective": "This is a deliverable example for daily life.",
-      "verb": "Learners can deliver this idea in daily life.",
-      "adverb": "Use it deliverably when talking about daily life."
+      "noun": "The streamal is important in daily life.",
+      "adjective": "This is a streamous case in daily life.",
+      "verb": "People often stream when working with daily life topics.",
+      "adverb": "The speaker explained it streamously in a daily life context."
     }
   },
   {
     "id": "daily-life-027",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "read",
+    "meaningVi": "nhóm từ \"read\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "ready",
+      "adjective": "readary",
+      "verb": "read",
+      "adverb": "readarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"ready\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"readary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"read\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"readarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in daily life.",
-      "adjective": "This is a dependent example for daily life.",
-      "verb": "Learners can depend this idea in daily life.",
-      "adverb": "Use it dependently when talking about daily life."
+      "noun": "The ready is important in daily life.",
+      "adjective": "This is a readary case in daily life.",
+      "verb": "People often read when working with daily life topics.",
+      "adverb": "The speaker explained it readarily in a daily life context."
     }
   },
   {
     "id": "daily-life-028",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "journal",
+    "meaningVi": "nhóm từ \"journal\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "journalure",
+      "adjective": "journalic",
+      "verb": "journal",
+      "adverb": "journalically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"journalure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"journalic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"journal\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"journalically\"."
     },
     "examples": {
-      "noun": "The description is important in daily life.",
-      "adjective": "This is a descriptive example for daily life.",
-      "verb": "Learners can describe this idea in daily life.",
-      "adverb": "Use it descriptively when talking about daily life."
+      "noun": "The journalure is important in daily life.",
+      "adjective": "This is a journalic case in daily life.",
+      "verb": "People often journal when working with daily life topics.",
+      "adverb": "The speaker explained it journalically in a daily life context."
     }
   },
   {
     "id": "daily-life-029",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "nap",
+    "meaningVi": "nhóm từ \"nap\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "napage",
+      "adjective": "napful",
+      "verb": "nap",
+      "adverb": "napfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"napage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"napful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"nap\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"napfully\"."
     },
     "examples": {
-      "noun": "The design is important in daily life.",
-      "adjective": "This is a designed example for daily life.",
-      "verb": "Learners can design this idea in daily life.",
-      "adverb": "Use it designedly when talking about daily life."
+      "noun": "The napage is important in daily life.",
+      "adjective": "This is a napful case in daily life.",
+      "verb": "People often nap when working with daily life topics.",
+      "adverb": "The speaker explained it napfully in a daily life context."
     }
   },
   {
     "id": "daily-life-030",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "snack",
+    "meaningVi": "nhóm từ \"snack\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "snackity",
+      "adjective": "snackant",
+      "verb": "snack",
+      "adverb": "snackantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"snackity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"snackant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"snack\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"snackantly\"."
     },
     "examples": {
-      "noun": "The development is important in daily life.",
-      "adjective": "This is a developed example for daily life.",
-      "verb": "Learners can develop this idea in daily life.",
-      "adverb": "Use it developmentally when talking about daily life."
+      "noun": "The snackity is important in daily life.",
+      "adjective": "This is a snackant case in daily life.",
+      "verb": "People often snack when working with daily life topics.",
+      "adverb": "The speaker explained it snackantly in a daily life context."
     }
   },
   {
     "id": "daily-life-031",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "shower",
+    "meaningVi": "nhóm từ \"shower\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "showertion",
+      "adjective": "showerable",
+      "verb": "shower",
+      "adverb": "showerably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"showertion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"showerable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shower\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"showerably\"."
     },
     "examples": {
-      "noun": "The difference is important in daily life.",
-      "adjective": "This is a different example for daily life.",
-      "verb": "Learners can differ this idea in daily life.",
-      "adverb": "Use it differently when talking about daily life."
+      "noun": "The showertion is important in daily life.",
+      "adjective": "This is a showerable case in daily life.",
+      "verb": "People often shower when working with daily life topics.",
+      "adverb": "The speaker explained it showerably in a daily life context."
     }
   },
   {
     "id": "daily-life-032",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "dress",
+    "meaningVi": "nhóm từ \"dress\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "dressment",
+      "adjective": "dressive",
+      "verb": "dress",
+      "adverb": "dressively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dressment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dressive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"dress\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dressively\"."
     },
     "examples": {
-      "noun": "The discussion is important in daily life.",
-      "adjective": "This is a discussable example for daily life.",
-      "verb": "Learners can discuss this idea in daily life.",
-      "adverb": "Use it discussably when talking about daily life."
+      "noun": "The dressment is important in daily life.",
+      "adjective": "This is a dressive case in daily life.",
+      "verb": "People often dress when working with daily life topics.",
+      "adverb": "The speaker explained it dressively in a daily life context."
     }
   },
   {
     "id": "daily-life-033",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "tidy",
+    "meaningVi": "nhóm từ \"tidy\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "tidying",
+      "adjective": "tidyal",
+      "verb": "tidy",
+      "adverb": "tidyally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tidying\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tidyal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tidy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tidyally\"."
     },
     "examples": {
-      "noun": "The education is important in daily life.",
-      "adjective": "This is a educational example for daily life.",
-      "verb": "Learners can educate this idea in daily life.",
-      "adverb": "Use it educationally when talking about daily life."
+      "noun": "The tidying is important in daily life.",
+      "adjective": "This is a tidyal case in daily life.",
+      "verb": "People often tidy when working with daily life topics.",
+      "adverb": "The speaker explained it tidyally in a daily life context."
     }
   },
   {
     "id": "daily-life-034",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "vacuum",
+    "meaningVi": "nhóm từ \"vacuum\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "vacuumance",
+      "adjective": "vacuumed",
+      "verb": "vacuum",
+      "adverb": "vacuumedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"vacuumance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"vacuumed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"vacuum\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"vacuumedly\"."
     },
     "examples": {
-      "noun": "The effect is important in daily life.",
-      "adjective": "This is a effective example for daily life.",
-      "verb": "Learners can effect this idea in daily life.",
-      "adverb": "Use it effectively when talking about daily life."
+      "noun": "The vacuumance is important in daily life.",
+      "adjective": "This is a vacuumed case in daily life.",
+      "verb": "People often vacuum when working with daily life topics.",
+      "adverb": "The speaker explained it vacuumedly in a daily life context."
     }
   },
   {
     "id": "daily-life-035",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "mop",
+    "meaningVi": "nhóm từ \"mop\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "mopence",
+      "adjective": "moping",
+      "verb": "mop",
+      "adverb": "mopingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mopence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"moping\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mop\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mopingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in daily life.",
-      "adjective": "This is a emphatic example for daily life.",
-      "verb": "Learners can emphasize this idea in daily life.",
-      "adverb": "Use it emphatically when talking about daily life."
+      "noun": "The mopence is important in daily life.",
+      "adjective": "This is a moping case in daily life.",
+      "verb": "People often mop when working with daily life topics.",
+      "adverb": "The speaker explained it mopingly in a daily life context."
     }
   },
   {
     "id": "daily-life-036",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "polish",
+    "meaningVi": "nhóm từ \"polish\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "polishal",
+      "adjective": "polishous",
+      "verb": "polish",
+      "adverb": "polishously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"polishal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"polishous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"polish\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"polishously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in daily life.",
-      "adjective": "This is a encouraging example for daily life.",
-      "verb": "Learners can encourage this idea in daily life.",
-      "adverb": "Use it encouragingly when talking about daily life."
+      "noun": "The polishal is important in daily life.",
+      "adjective": "This is a polishous case in daily life.",
+      "verb": "People often polish when working with daily life topics.",
+      "adverb": "The speaker explained it polishously in a daily life context."
     }
   },
   {
     "id": "daily-life-037",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "pack",
+    "meaningVi": "nhóm từ \"pack\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "packy",
+      "adjective": "packary",
+      "verb": "pack",
+      "adverb": "packarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"packy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"packary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pack\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"packarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in daily life.",
-      "adjective": "This is a enjoyable example for daily life.",
-      "verb": "Learners can enjoy this idea in daily life.",
-      "adverb": "Use it enjoyably when talking about daily life."
+      "noun": "The packy is important in daily life.",
+      "adjective": "This is a packary case in daily life.",
+      "verb": "People often pack when working with daily life topics.",
+      "adverb": "The speaker explained it packarily in a daily life context."
     }
   },
   {
     "id": "daily-life-038",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "unpack",
+    "meaningVi": "nhóm từ \"unpack\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "unpackure",
+      "adjective": "unpackic",
+      "verb": "unpack",
+      "adverb": "unpackically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"unpackure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"unpackic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"unpack\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"unpackically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in daily life.",
-      "adjective": "This is a evaluative example for daily life.",
-      "verb": "Learners can evaluate this idea in daily life.",
-      "adverb": "Use it evaluatively when talking about daily life."
+      "noun": "The unpackure is important in daily life.",
+      "adjective": "This is a unpackic case in daily life.",
+      "verb": "People often unpack when working with daily life topics.",
+      "adverb": "The speaker explained it unpackically in a daily life context."
     }
   },
   {
     "id": "daily-life-039",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "store",
+    "meaningVi": "nhóm từ \"store\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "storage",
+      "adjective": "storful",
+      "verb": "store",
+      "adverb": "storfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"storage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"storful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"store\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"storfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in daily life.",
-      "adjective": "This is a explanatory example for daily life.",
-      "verb": "Learners can explain this idea in daily life.",
-      "adverb": "Use it explanatorily when talking about daily life."
+      "noun": "The storage is important in daily life.",
+      "adjective": "This is a storful case in daily life.",
+      "verb": "People often store when working with daily life topics.",
+      "adverb": "The speaker explained it storfully in a daily life context."
     }
   },
   {
     "id": "daily-life-040",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "arrange",
+    "meaningVi": "nhóm từ \"arrange\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "arrangity",
+      "adjective": "arrangant",
+      "verb": "arrange",
+      "adverb": "arrangantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"arrangity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"arrangant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"arrange\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"arrangantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in daily life.",
-      "adjective": "This is a exploratory example for daily life.",
-      "verb": "Learners can explore this idea in daily life.",
-      "adverb": "Use it exploratorily when talking about daily life."
+      "noun": "The arrangity is important in daily life.",
+      "adjective": "This is a arrangant case in daily life.",
+      "verb": "People often arrange when working with daily life topics.",
+      "adverb": "The speaker explained it arrangantly in a daily life context."
     }
   },
   {
     "id": "daily-life-041",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "queue",
+    "meaningVi": "nhóm từ \"queue\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "queution",
+      "adjective": "queuable",
+      "verb": "queue",
+      "adverb": "queuably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"queution\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"queuable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"queue\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"queuably\"."
     },
     "examples": {
-      "noun": "The expression is important in daily life.",
-      "adjective": "This is a expressive example for daily life.",
-      "verb": "Learners can express this idea in daily life.",
-      "adverb": "Use it expressively when talking about daily life."
+      "noun": "The queution is important in daily life.",
+      "adjective": "This is a queuable case in daily life.",
+      "verb": "People often queue when working with daily life topics.",
+      "adverb": "The speaker explained it queuably in a daily life context."
     }
   },
   {
     "id": "daily-life-042",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "order",
+    "meaningVi": "nhóm từ \"order\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "orderment",
+      "adjective": "orderive",
+      "verb": "order",
+      "adverb": "orderively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"orderment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"orderive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"order\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"orderively\"."
     },
     "examples": {
-      "noun": "The failure is important in daily life.",
-      "adjective": "This is a failed example for daily life.",
-      "verb": "Learners can fail this idea in daily life.",
-      "adverb": "Use it failingly when talking about daily life."
+      "noun": "The orderment is important in daily life.",
+      "adjective": "This is a orderive case in daily life.",
+      "verb": "People often order when working with daily life topics.",
+      "adverb": "The speaker explained it orderively in a daily life context."
     }
   },
   {
     "id": "daily-life-043",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "dine",
+    "meaningVi": "nhóm từ \"dine\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "dineing",
+      "adjective": "dineal",
+      "verb": "dine",
+      "adverb": "dineally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dineing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dineal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"dine\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dineally\"."
     },
     "examples": {
-      "noun": "The focus is important in daily life.",
-      "adjective": "This is a focused example for daily life.",
-      "verb": "Learners can focus this idea in daily life.",
-      "adverb": "Use it focusedly when talking about daily life."
+      "noun": "The dineing is important in daily life.",
+      "adjective": "This is a dineal case in daily life.",
+      "verb": "People often dine when working with daily life topics.",
+      "adverb": "The speaker explained it dineally in a daily life context."
     }
   },
   {
     "id": "daily-life-044",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "rest",
+    "meaningVi": "nhóm từ \"rest\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "restance",
+      "adjective": "rested",
+      "verb": "rest",
+      "adverb": "restedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"restance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rested\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"restedly\"."
     },
     "examples": {
-      "noun": "The growth is important in daily life.",
-      "adjective": "This is a growing example for daily life.",
-      "verb": "Learners can grow this idea in daily life.",
-      "adverb": "Use it growingly when talking about daily life."
+      "noun": "The restance is important in daily life.",
+      "adjective": "This is a rested case in daily life.",
+      "verb": "People often rest when working with daily life topics.",
+      "adverb": "The speaker explained it restedly in a daily life context."
     }
   },
   {
     "id": "daily-life-045",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "hydrate",
+    "meaningVi": "nhóm từ \"hydrate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "hydratence",
+      "adjective": "hydrating",
+      "verb": "hydrate",
+      "adverb": "hydratingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hydratence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hydrating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"hydrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hydratingly\"."
     },
     "examples": {
-      "noun": "The help is important in daily life.",
-      "adjective": "This is a helpful example for daily life.",
-      "verb": "Learners can help this idea in daily life.",
-      "adverb": "Use it helpfully when talking about daily life."
+      "noun": "The hydratence is important in daily life.",
+      "adjective": "This is a hydrating case in daily life.",
+      "verb": "People often hydrate when working with daily life topics.",
+      "adverb": "The speaker explained it hydratingly in a daily life context."
     }
   },
   {
     "id": "daily-life-046",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "stretch",
+    "meaningVi": "nhóm từ \"stretch\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "stretchal",
+      "adjective": "stretchous",
+      "verb": "stretch",
+      "adverb": "stretchously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"stretchal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stretchous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stretch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stretchously\"."
     },
     "examples": {
-      "noun": "The identification is important in daily life.",
-      "adjective": "This is a identifiable example for daily life.",
-      "verb": "Learners can identify this idea in daily life.",
-      "adverb": "Use it identifiably when talking about daily life."
+      "noun": "The stretchal is important in daily life.",
+      "adjective": "This is a stretchous case in daily life.",
+      "verb": "People often stretch when working with daily life topics.",
+      "adverb": "The speaker explained it stretchously in a daily life context."
     }
   },
   {
     "id": "daily-life-047",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "meditate",
+    "meaningVi": "nhóm từ \"meditate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "meditaty",
+      "adjective": "meditatary",
+      "verb": "meditate",
+      "adverb": "meditatarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"meditaty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"meditatary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"meditate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"meditatarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in daily life.",
-      "adjective": "This is a imaginative example for daily life.",
-      "verb": "Learners can imagine this idea in daily life.",
-      "adverb": "Use it imaginatively when talking about daily life."
+      "noun": "The meditaty is important in daily life.",
+      "adjective": "This is a meditatary case in daily life.",
+      "verb": "People often meditate when working with daily life topics.",
+      "adverb": "The speaker explained it meditatarily in a daily life context."
     }
   },
   {
     "id": "daily-life-048",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "babysit",
+    "meaningVi": "nhóm từ \"babysit\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "babysiture",
+      "adjective": "babysitic",
+      "verb": "babysit",
+      "adverb": "babysitically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"babysiture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"babysitic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"babysit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"babysitically\"."
     },
     "examples": {
-      "noun": "The improvement is important in daily life.",
-      "adjective": "This is a improved example for daily life.",
-      "verb": "Learners can improve this idea in daily life.",
-      "adverb": "Use it improvingly when talking about daily life."
+      "noun": "The babysiture is important in daily life.",
+      "adjective": "This is a babysitic case in daily life.",
+      "verb": "People often babysit when working with daily life topics.",
+      "adverb": "The speaker explained it babysitically in a daily life context."
     }
   },
   {
     "id": "daily-life-049",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "pet-sit",
+    "meaningVi": "nhóm từ \"pet-sit\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "pet-sitage",
+      "adjective": "pet-sitful",
+      "verb": "pet-sit",
+      "adverb": "pet-sitfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pet-sitage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pet-sitful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pet-sit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pet-sitfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in daily life.",
-      "adjective": "This is a inclusive example for daily life.",
-      "verb": "Learners can include this idea in daily life.",
-      "adverb": "Use it inclusively when talking about daily life."
+      "noun": "The pet-sitage is important in daily life.",
+      "adjective": "This is a pet-sitful case in daily life.",
+      "verb": "People often pet-sit when working with daily life topics.",
+      "adverb": "The speaker explained it pet-sitfully in a daily life context."
     }
   },
   {
     "id": "daily-life-050",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "carpool",
+    "meaningVi": "nhóm từ \"carpool\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "carpoolity",
+      "adjective": "carpoolant",
+      "verb": "carpool",
+      "adverb": "carpoolantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"carpoolity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"carpoolant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"carpool\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"carpoolantly\"."
     },
     "examples": {
-      "noun": "The information is important in daily life.",
-      "adjective": "This is a informative example for daily life.",
-      "verb": "Learners can inform this idea in daily life.",
-      "adverb": "Use it informatively when talking about daily life."
+      "noun": "The carpoolity is important in daily life.",
+      "adjective": "This is a carpoolant case in daily life.",
+      "verb": "People often carpool when working with daily life topics.",
+      "adverb": "The speaker explained it carpoolantly in a daily life context."
     }
   },
   {
     "id": "daily-life-051",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "refill",
+    "meaningVi": "nhóm từ \"refill\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "refilltion",
+      "adjective": "refillable",
+      "verb": "refill",
+      "adverb": "refillably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refilltion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"refillable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"refillably\"."
     },
     "examples": {
-      "noun": "The innovation is important in daily life.",
-      "adjective": "This is a innovative example for daily life.",
-      "verb": "Learners can innovate this idea in daily life.",
-      "adverb": "Use it innovatively when talking about daily life."
+      "noun": "The refilltion is important in daily life.",
+      "adjective": "This is a refillable case in daily life.",
+      "verb": "People often refill when working with daily life topics.",
+      "adverb": "The speaker explained it refillably in a daily life context."
     }
   },
   {
     "id": "daily-life-052",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "declutter",
+    "meaningVi": "nhóm từ \"declutter\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "declutterment",
+      "adjective": "declutterive",
+      "verb": "declutter",
+      "adverb": "declutterively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"declutterment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"declutterive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"declutter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"declutterively\"."
     },
     "examples": {
-      "noun": "The instruction is important in daily life.",
-      "adjective": "This is a instructive example for daily life.",
-      "verb": "Learners can instruct this idea in daily life.",
-      "adverb": "Use it instructively when talking about daily life."
+      "noun": "The declutterment is important in daily life.",
+      "adjective": "This is a declutterive case in daily life.",
+      "verb": "People often declutter when working with daily life topics.",
+      "adverb": "The speaker explained it declutterively in a daily life context."
     }
   },
   {
     "id": "daily-life-053",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "donate",
+    "meaningVi": "nhóm từ \"donate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "donating",
+      "adjective": "donatal",
+      "verb": "donate",
+      "adverb": "donatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"donating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"donatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"donate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"donatally\"."
     },
     "examples": {
-      "noun": "The interaction is important in daily life.",
-      "adjective": "This is a interactive example for daily life.",
-      "verb": "Learners can interact this idea in daily life.",
-      "adverb": "Use it interactively when talking about daily life."
+      "noun": "The donating is important in daily life.",
+      "adjective": "This is a donatal case in daily life.",
+      "verb": "People often donate when working with daily life topics.",
+      "adverb": "The speaker explained it donatally in a daily life context."
     }
   },
   {
     "id": "daily-life-054",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "bargain",
+    "meaningVi": "nhóm từ \"bargain\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "bargainance",
+      "adjective": "bargained",
+      "verb": "bargain",
+      "adverb": "bargainedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bargainance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bargained\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bargain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bargainedly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in daily life.",
-      "adjective": "This is a interpretive example for daily life.",
-      "verb": "Learners can interpret this idea in daily life.",
-      "adverb": "Use it interpretively when talking about daily life."
+      "noun": "The bargainance is important in daily life.",
+      "adjective": "This is a bargained case in daily life.",
+      "verb": "People often bargain when working with daily life topics.",
+      "adverb": "The speaker explained it bargainedly in a daily life context."
     }
   },
   {
     "id": "daily-life-055",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "compare",
+    "meaningVi": "nhóm từ \"compare\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "comparence",
+      "adjective": "comparing",
+      "verb": "compare",
+      "adverb": "comparingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"comparence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"comparing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compare\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"comparingly\"."
     },
     "examples": {
-      "noun": "The learning is important in daily life.",
-      "adjective": "This is a learned example for daily life.",
-      "verb": "Learners can learn this idea in daily life.",
-      "adverb": "Use it learnedly when talking about daily life."
+      "noun": "The comparence is important in daily life.",
+      "adjective": "This is a comparing case in daily life.",
+      "verb": "People often compare when working with daily life topics.",
+      "adverb": "The speaker explained it comparingly in a daily life context."
     }
   },
   {
     "id": "daily-life-056",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "purchase",
+    "meaningVi": "nhóm từ \"purchase\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "purchasal",
+      "adjective": "purchasous",
+      "verb": "purchase",
+      "adverb": "purchasously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"purchasal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"purchasous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"purchase\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"purchasously\"."
     },
     "examples": {
-      "noun": "The management is important in daily life.",
-      "adjective": "This is a manageable example for daily life.",
-      "verb": "Learners can manage this idea in daily life.",
-      "adverb": "Use it manageably when talking about daily life."
+      "noun": "The purchasal is important in daily life.",
+      "adjective": "This is a purchasous case in daily life.",
+      "verb": "People often purchase when working with daily life topics.",
+      "adverb": "The speaker explained it purchasously in a daily life context."
     }
   },
   {
     "id": "daily-life-057",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "return",
+    "meaningVi": "nhóm từ \"return\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "returny",
+      "adjective": "returnary",
+      "verb": "return",
+      "adverb": "returnarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"returny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"returnary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"return\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"returnarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in daily life.",
-      "adjective": "This is a measurable example for daily life.",
-      "verb": "Learners can measure this idea in daily life.",
-      "adverb": "Use it measurably when talking about daily life."
+      "noun": "The returny is important in daily life.",
+      "adjective": "This is a returnary case in daily life.",
+      "verb": "People often return when working with daily life topics.",
+      "adverb": "The speaker explained it returnarily in a daily life context."
     }
   },
   {
     "id": "daily-life-058",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "exchange",
+    "meaningVi": "nhóm từ \"exchange\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "exchangure",
+      "adjective": "exchangic",
+      "verb": "exchange",
+      "adverb": "exchangically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"exchangure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"exchangic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"exchange\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"exchangically\"."
     },
     "examples": {
-      "noun": "The motivation is important in daily life.",
-      "adjective": "This is a motivated example for daily life.",
-      "verb": "Learners can motivate this idea in daily life.",
-      "adverb": "Use it motivationally when talking about daily life."
+      "noun": "The exchangure is important in daily life.",
+      "adjective": "This is a exchangic case in daily life.",
+      "verb": "People often exchange when working with daily life topics.",
+      "adverb": "The speaker explained it exchangically in a daily life context."
     }
   },
   {
     "id": "daily-life-059",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "subscribe",
+    "meaningVi": "nhóm từ \"subscribe\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "subscribage",
+      "adjective": "subscribful",
+      "verb": "subscribe",
+      "adverb": "subscribfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"subscribage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"subscribful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"subscribe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"subscribfully\"."
     },
     "examples": {
-      "noun": "The movement is important in daily life.",
-      "adjective": "This is a movable example for daily life.",
-      "verb": "Learners can move this idea in daily life.",
-      "adverb": "Use it movably when talking about daily life."
+      "noun": "The subscribage is important in daily life.",
+      "adjective": "This is a subscribful case in daily life.",
+      "verb": "People often subscribe when working with daily life topics.",
+      "adverb": "The speaker explained it subscribfully in a daily life context."
     }
   },
   {
     "id": "daily-life-060",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "unsubscribe",
+    "meaningVi": "nhóm từ \"unsubscribe\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "unsubscribity",
+      "adjective": "unsubscribant",
+      "verb": "unsubscribe",
+      "adverb": "unsubscribantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"unsubscribity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"unsubscribant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"unsubscribe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"unsubscribantly\"."
     },
     "examples": {
-      "noun": "The observation is important in daily life.",
-      "adjective": "This is a observant example for daily life.",
-      "verb": "Learners can observe this idea in daily life.",
-      "adverb": "Use it observantly when talking about daily life."
+      "noun": "The unsubscribity is important in daily life.",
+      "adjective": "This is a unsubscribant case in daily life.",
+      "verb": "People often unsubscribe when working with daily life topics.",
+      "adverb": "The speaker explained it unsubscribantly in a daily life context."
     }
   },
   {
     "id": "daily-life-061",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "charge",
+    "meaningVi": "nhóm từ \"charge\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "chargtion",
+      "adjective": "chargable",
+      "verb": "charge",
+      "adverb": "chargably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"chargtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"chargable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"charge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"chargably\"."
     },
     "examples": {
-      "noun": "The organization is important in daily life.",
-      "adjective": "This is a organized example for daily life.",
-      "verb": "Learners can organize this idea in daily life.",
-      "adverb": "Use it organizationally when talking about daily life."
+      "noun": "The chargtion is important in daily life.",
+      "adjective": "This is a chargable case in daily life.",
+      "verb": "People often charge when working with daily life topics.",
+      "adverb": "The speaker explained it chargably in a daily life context."
     }
   },
   {
     "id": "daily-life-062",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "recharge",
+    "meaningVi": "nhóm từ \"recharge\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "rechargment",
+      "adjective": "rechargive",
+      "verb": "recharge",
+      "adverb": "rechargively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rechargment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rechargive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recharge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rechargively\"."
     },
     "examples": {
-      "noun": "The participation is important in daily life.",
-      "adjective": "This is a participatory example for daily life.",
-      "verb": "Learners can participate this idea in daily life.",
-      "adverb": "Use it participatively when talking about daily life."
+      "noun": "The rechargment is important in daily life.",
+      "adjective": "This is a rechargive case in daily life.",
+      "verb": "People often recharge when working with daily life topics.",
+      "adverb": "The speaker explained it rechargively in a daily life context."
     }
   },
   {
     "id": "daily-life-063",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "maintain",
+    "meaningVi": "nhóm từ \"maintain\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "maintaining",
+      "adjective": "maintainal",
+      "verb": "maintain",
+      "adverb": "maintainally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"maintaining\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"maintainal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"maintain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"maintainally\"."
     },
     "examples": {
-      "noun": "The performance is important in daily life.",
-      "adjective": "This is a performative example for daily life.",
-      "verb": "Learners can perform this idea in daily life.",
-      "adverb": "Use it performatively when talking about daily life."
+      "noun": "The maintaining is important in daily life.",
+      "adjective": "This is a maintainal case in daily life.",
+      "verb": "People often maintain when working with daily life topics.",
+      "adverb": "The speaker explained it maintainally in a daily life context."
     }
   },
   {
     "id": "daily-life-064",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "assemble",
+    "meaningVi": "nhóm từ \"assemble\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "assemblance",
+      "adjective": "assembld",
+      "verb": "assemble",
+      "adverb": "assembldly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assemblance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assembld\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assemble\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assembldly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in daily life.",
-      "adjective": "This is a persuasive example for daily life.",
-      "verb": "Learners can persuade this idea in daily life.",
-      "adverb": "Use it persuasively when talking about daily life."
+      "noun": "The assemblance is important in daily life.",
+      "adjective": "This is a assembld case in daily life.",
+      "verb": "People often assemble when working with daily life topics.",
+      "adverb": "The speaker explained it assembldly in a daily life context."
     }
   },
   {
     "id": "daily-life-065",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "install",
+    "meaningVi": "nhóm từ \"install\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "installence",
+      "adjective": "installing",
+      "verb": "install",
+      "adverb": "installingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"installence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"installing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"install\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"installingly\"."
     },
     "examples": {
-      "noun": "The plan is important in daily life.",
-      "adjective": "This is a planned example for daily life.",
-      "verb": "Learners can plan this idea in daily life.",
-      "adverb": "Use it plannedly when talking about daily life."
+      "noun": "The installence is important in daily life.",
+      "adjective": "This is a installing case in daily life.",
+      "verb": "People often install when working with daily life topics.",
+      "adverb": "The speaker explained it installingly in a daily life context."
     }
   },
   {
     "id": "daily-life-066",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "replace",
+    "meaningVi": "nhóm từ \"replace\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "replacal",
+      "adjective": "replacous",
+      "verb": "replace",
+      "adverb": "replacously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"replacal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"replacous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"replace\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"replacously\"."
     },
     "examples": {
-      "noun": "The prediction is important in daily life.",
-      "adjective": "This is a predictable example for daily life.",
-      "verb": "Learners can predict this idea in daily life.",
-      "adverb": "Use it predictably when talking about daily life."
+      "noun": "The replacal is important in daily life.",
+      "adjective": "This is a replacous case in daily life.",
+      "verb": "People often replace when working with daily life topics.",
+      "adverb": "The speaker explained it replacously in a daily life context."
     }
   },
   {
     "id": "daily-life-067",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "fix",
+    "meaningVi": "nhóm từ \"fix\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "fixy",
+      "adjective": "fixary",
+      "verb": "fix",
+      "adverb": "fixarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"fixy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"fixary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"fix\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"fixarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in daily life.",
-      "adjective": "This is a prepared example for daily life.",
-      "verb": "Learners can prepare this idea in daily life.",
-      "adverb": "Use it preparedly when talking about daily life."
+      "noun": "The fixy is important in daily life.",
+      "adjective": "This is a fixary case in daily life.",
+      "verb": "People often fix when working with daily life topics.",
+      "adverb": "The speaker explained it fixarily in a daily life context."
     }
   },
   {
     "id": "daily-life-068",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "label",
+    "meaningVi": "nhóm từ \"label\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "labelure",
+      "adjective": "labelic",
+      "verb": "label",
+      "adverb": "labelically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"labelure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"labelic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"label\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"labelically\"."
     },
     "examples": {
-      "noun": "The presentation is important in daily life.",
-      "adjective": "This is a presentable example for daily life.",
-      "verb": "Learners can present this idea in daily life.",
-      "adverb": "Use it presentably when talking about daily life."
+      "noun": "The labelure is important in daily life.",
+      "adjective": "This is a labelic case in daily life.",
+      "verb": "People often label when working with daily life topics.",
+      "adverb": "The speaker explained it labelically in a daily life context."
     }
   },
   {
     "id": "daily-life-069",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "sort",
+    "meaningVi": "nhóm từ \"sort\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "sortage",
+      "adjective": "sortful",
+      "verb": "sort",
+      "adverb": "sortfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sortage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sortful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sort\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sortfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in daily life.",
-      "adjective": "This is a preventive example for daily life.",
-      "verb": "Learners can prevent this idea in daily life.",
-      "adverb": "Use it preventively when talking about daily life."
+      "noun": "The sortage is important in daily life.",
+      "adjective": "This is a sortful case in daily life.",
+      "verb": "People often sort when working with daily life topics.",
+      "adverb": "The speaker explained it sortfully in a daily life context."
     }
   },
   {
     "id": "daily-life-070",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "prioritize",
+    "meaningVi": "nhóm từ \"prioritize\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "prioritizity",
+      "adjective": "prioritizant",
+      "verb": "prioritize",
+      "adverb": "prioritizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prioritizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prioritizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prioritize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prioritizantly\"."
     },
     "examples": {
-      "noun": "The production is important in daily life.",
-      "adjective": "This is a productive example for daily life.",
-      "verb": "Learners can produce this idea in daily life.",
-      "adverb": "Use it productively when talking about daily life."
+      "noun": "The prioritizity is important in daily life.",
+      "adjective": "This is a prioritizant case in daily life.",
+      "verb": "People often prioritize when working with daily life topics.",
+      "adverb": "The speaker explained it prioritizantly in a daily life context."
     }
   },
   {
     "id": "daily-life-071",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "multitask",
+    "meaningVi": "nhóm từ \"multitask\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "multitasktion",
+      "adjective": "multitaskable",
+      "verb": "multitask",
+      "adverb": "multitaskably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"multitasktion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"multitaskable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"multitask\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"multitaskably\"."
     },
     "examples": {
-      "noun": "The protection is important in daily life.",
-      "adjective": "This is a protective example for daily life.",
-      "verb": "Learners can protect this idea in daily life.",
-      "adverb": "Use it protectively when talking about daily life."
+      "noun": "The multitasktion is important in daily life.",
+      "adjective": "This is a multitaskable case in daily life.",
+      "verb": "People often multitask when working with daily life topics.",
+      "adverb": "The speaker explained it multitaskably in a daily life context."
     }
   },
   {
     "id": "daily-life-072",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "celebrate",
+    "meaningVi": "nhóm từ \"celebrate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "celebratment",
+      "adjective": "celebrative",
+      "verb": "celebrate",
+      "adverb": "celebratively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"celebratment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"celebrative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"celebrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"celebratively\"."
     },
     "examples": {
-      "noun": "The question is important in daily life.",
-      "adjective": "This is a questionable example for daily life.",
-      "verb": "Learners can question this idea in daily life.",
-      "adverb": "Use it questionably when talking about daily life."
+      "noun": "The celebratment is important in daily life.",
+      "adjective": "This is a celebrative case in daily life.",
+      "verb": "People often celebrate when working with daily life topics.",
+      "adverb": "The speaker explained it celebratively in a daily life context."
     }
   },
   {
     "id": "daily-life-073",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "invite",
+    "meaningVi": "nhóm từ \"invite\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "inviting",
+      "adjective": "invital",
+      "verb": "invite",
+      "adverb": "invitally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"inviting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"invital\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"invite\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"invitally\"."
     },
     "examples": {
-      "noun": "The reaction is important in daily life.",
-      "adjective": "This is a reactive example for daily life.",
-      "verb": "Learners can react this idea in daily life.",
-      "adverb": "Use it reactively when talking about daily life."
+      "noun": "The inviting is important in daily life.",
+      "adjective": "This is a invital case in daily life.",
+      "verb": "People often invite when working with daily life topics.",
+      "adverb": "The speaker explained it invitally in a daily life context."
     }
   },
   {
     "id": "daily-life-074",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "visit",
+    "meaningVi": "nhóm từ \"visit\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "visitance",
+      "adjective": "visited",
+      "verb": "visit",
+      "adverb": "visitedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"visitance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"visited\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"visit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"visitedly\"."
     },
     "examples": {
-      "noun": "The recognition is important in daily life.",
-      "adjective": "This is a recognizable example for daily life.",
-      "verb": "Learners can recognize this idea in daily life.",
-      "adverb": "Use it recognizably when talking about daily life."
+      "noun": "The visitance is important in daily life.",
+      "adjective": "This is a visited case in daily life.",
+      "verb": "People often visit when working with daily life topics.",
+      "adverb": "The speaker explained it visitedly in a daily life context."
     }
   },
   {
     "id": "daily-life-075",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "cycle",
+    "meaningVi": "nhóm từ \"cycle\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "cyclence",
+      "adjective": "cycling",
+      "verb": "cycle",
+      "adverb": "cyclingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cyclence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cycling\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cycle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cyclingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in daily life.",
-      "adjective": "This is a recommendable example for daily life.",
-      "verb": "Learners can recommend this idea in daily life.",
-      "adverb": "Use it recommendably when talking about daily life."
+      "noun": "The cyclence is important in daily life.",
+      "adjective": "This is a cycling case in daily life.",
+      "verb": "People often cycle when working with daily life topics.",
+      "adverb": "The speaker explained it cyclingly in a daily life context."
     }
   },
   {
     "id": "daily-life-076",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "walk",
+    "meaningVi": "nhóm từ \"walk\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "walkal",
+      "adjective": "walkous",
+      "verb": "walk",
+      "adverb": "walkously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"walkal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"walkous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"walk\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"walkously\"."
     },
     "examples": {
-      "noun": "The reduction is important in daily life.",
-      "adjective": "This is a reduced example for daily life.",
-      "verb": "Learners can reduce this idea in daily life.",
-      "adverb": "Use it reductively when talking about daily life."
+      "noun": "The walkal is important in daily life.",
+      "adjective": "This is a walkous case in daily life.",
+      "verb": "People often walk when working with daily life topics.",
+      "adverb": "The speaker explained it walkously in a daily life context."
     }
   },
   {
     "id": "daily-life-077",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "drive",
+    "meaningVi": "nhóm từ \"drive\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "drivy",
+      "adjective": "drivary",
+      "verb": "drive",
+      "adverb": "drivarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"drivy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"drivary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"drive\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"drivarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in daily life.",
-      "adjective": "This is a reflective example for daily life.",
-      "verb": "Learners can reflect this idea in daily life.",
-      "adverb": "Use it reflectively when talking about daily life."
+      "noun": "The drivy is important in daily life.",
+      "adjective": "This is a drivary case in daily life.",
+      "verb": "People often drive when working with daily life topics.",
+      "adverb": "The speaker explained it drivarily in a daily life context."
     }
   },
   {
     "id": "daily-life-078",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "park",
+    "meaningVi": "nhóm từ \"park\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "parkure",
+      "adjective": "parkic",
+      "verb": "park",
+      "adverb": "parkically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"parkure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"parkic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"park\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"parkically\"."
     },
     "examples": {
-      "noun": "The relation is important in daily life.",
-      "adjective": "This is a related example for daily life.",
-      "verb": "Learners can relate this idea in daily life.",
-      "adverb": "Use it relatedly when talking about daily life."
+      "noun": "The parkure is important in daily life.",
+      "adjective": "This is a parkic case in daily life.",
+      "verb": "People often park when working with daily life topics.",
+      "adverb": "The speaker explained it parkically in a daily life context."
     }
   },
   {
     "id": "daily-life-079",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "navigate",
+    "meaningVi": "nhóm từ \"navigate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "navigatage",
+      "adjective": "navigatful",
+      "verb": "navigate",
+      "adverb": "navigatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"navigatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"navigatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"navigate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"navigatfully\"."
     },
     "examples": {
-      "noun": "The memory is important in daily life.",
-      "adjective": "This is a memorable example for daily life.",
-      "verb": "Learners can remember this idea in daily life.",
-      "adverb": "Use it memorably when talking about daily life."
+      "noun": "The navigatage is important in daily life.",
+      "adjective": "This is a navigatful case in daily life.",
+      "verb": "People often navigate when working with daily life topics.",
+      "adverb": "The speaker explained it navigatfully in a daily life context."
     }
   },
   {
     "id": "daily-life-080",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "save",
+    "meaningVi": "nhóm từ \"save\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "saveity",
+      "adjective": "saveant",
+      "verb": "save",
+      "adverb": "saveantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"saveity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"saveant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"save\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"saveantly\"."
     },
     "examples": {
-      "noun": "The repair is important in daily life.",
-      "adjective": "This is a repairable example for daily life.",
-      "verb": "Learners can repair this idea in daily life.",
-      "adverb": "Use it repairably when talking about daily life."
+      "noun": "The saveity is important in daily life.",
+      "adjective": "This is a saveant case in daily life.",
+      "verb": "People often save when working with daily life topics.",
+      "adverb": "The speaker explained it saveantly in a daily life context."
     }
   },
   {
     "id": "daily-life-081",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "spend",
+    "meaningVi": "nhóm từ \"spend\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "spendtion",
+      "adjective": "spendable",
+      "verb": "spend",
+      "adverb": "spendably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"spendtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"spendable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"spend\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"spendably\"."
     },
     "examples": {
-      "noun": "The research is important in daily life.",
-      "adjective": "This is a researchable example for daily life.",
-      "verb": "Learners can research this idea in daily life.",
-      "adverb": "Use it researchably when talking about daily life."
+      "noun": "The spendtion is important in daily life.",
+      "adjective": "This is a spendable case in daily life.",
+      "verb": "People often spend when working with daily life topics.",
+      "adverb": "The speaker explained it spendably in a daily life context."
     }
   },
   {
     "id": "daily-life-082",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "borrow",
+    "meaningVi": "nhóm từ \"borrow\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "borrowment",
+      "adjective": "borrowive",
+      "verb": "borrow",
+      "adverb": "borrowively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"borrowment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"borrowive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"borrow\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"borrowively\"."
     },
     "examples": {
-      "noun": "The response is important in daily life.",
-      "adjective": "This is a responsive example for daily life.",
-      "verb": "Learners can respond this idea in daily life.",
-      "adverb": "Use it responsively when talking about daily life."
+      "noun": "The borrowment is important in daily life.",
+      "adjective": "This is a borrowive case in daily life.",
+      "verb": "People often borrow when working with daily life topics.",
+      "adverb": "The speaker explained it borrowively in a daily life context."
     }
   },
   {
     "id": "daily-life-083",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "lend",
+    "meaningVi": "nhóm từ \"lend\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "lending",
+      "adjective": "lendal",
+      "verb": "lend",
+      "adverb": "lendally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lending\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lendal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lend\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lendally\"."
     },
     "examples": {
-      "noun": "The revision is important in daily life.",
-      "adjective": "This is a revised example for daily life.",
-      "verb": "Learners can revise this idea in daily life.",
-      "adverb": "Use it revisedly when talking about daily life."
+      "noun": "The lending is important in daily life.",
+      "adjective": "This is a lendal case in daily life.",
+      "verb": "People often lend when working with daily life topics.",
+      "adverb": "The speaker explained it lendally in a daily life context."
     }
   },
   {
     "id": "daily-life-084",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "share",
+    "meaningVi": "nhóm từ \"share\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "sharance",
+      "adjective": "shard",
+      "verb": "share",
+      "adverb": "shardly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sharance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shard\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"share\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shardly\"."
     },
     "examples": {
-      "noun": "The selection is important in daily life.",
-      "adjective": "This is a selective example for daily life.",
-      "verb": "Learners can select this idea in daily life.",
-      "adverb": "Use it selectively when talking about daily life."
+      "noun": "The sharance is important in daily life.",
+      "adjective": "This is a shard case in daily life.",
+      "verb": "People often share when working with daily life topics.",
+      "adverb": "The speaker explained it shardly in a daily life context."
     }
   },
   {
     "id": "daily-life-085",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "cookout",
+    "meaningVi": "nhóm từ \"cookout\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "cookoutence",
+      "adjective": "cookouting",
+      "verb": "cookout",
+      "adverb": "cookoutingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cookoutence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cookouting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cookout\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cookoutingly\"."
     },
     "examples": {
-      "noun": "The solution is important in daily life.",
-      "adjective": "This is a solvable example for daily life.",
-      "verb": "Learners can solve this idea in daily life.",
-      "adverb": "Use it solvably when talking about daily life."
+      "noun": "The cookoutence is important in daily life.",
+      "adjective": "This is a cookouting case in daily life.",
+      "verb": "People often cookout when working with daily life topics.",
+      "adverb": "The speaker explained it cookoutingly in a daily life context."
     }
   },
   {
     "id": "daily-life-086",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "picnic",
+    "meaningVi": "nhóm từ \"picnic\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "picnical",
+      "adjective": "picnicous",
+      "verb": "picnic",
+      "adverb": "picnicously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"picnical\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"picnicous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"picnic\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"picnicously\"."
     },
     "examples": {
-      "noun": "The specialization is important in daily life.",
-      "adjective": "This is a specialized example for daily life.",
-      "verb": "Learners can specialize this idea in daily life.",
-      "adverb": "Use it specially when talking about daily life."
+      "noun": "The picnical is important in daily life.",
+      "adjective": "This is a picnicous case in daily life.",
+      "verb": "People often picnic when working with daily life topics.",
+      "adverb": "The speaker explained it picnicously in a daily life context."
     }
   },
   {
     "id": "daily-life-087",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "renovate",
+    "meaningVi": "nhóm từ \"renovate\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "renovaty",
+      "adjective": "renovatary",
+      "verb": "renovate",
+      "adverb": "renovatarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"renovaty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"renovatary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"renovate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"renovatarily\"."
     },
     "examples": {
-      "noun": "The strength is important in daily life.",
-      "adjective": "This is a strong example for daily life.",
-      "verb": "Learners can strengthen this idea in daily life.",
-      "adverb": "Use it strongly when talking about daily life."
+      "noun": "The renovaty is important in daily life.",
+      "adjective": "This is a renovatary case in daily life.",
+      "verb": "People often renovate when working with daily life topics.",
+      "adverb": "The speaker explained it renovatarily in a daily life context."
     }
   },
   {
     "id": "daily-life-088",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "furnish",
+    "meaningVi": "nhóm từ \"furnish\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "furnishure",
+      "adjective": "furnishic",
+      "verb": "furnish",
+      "adverb": "furnishically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"furnishure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"furnishic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"furnish\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"furnishically\"."
     },
     "examples": {
-      "noun": "The study is important in daily life.",
-      "adjective": "This is a studious example for daily life.",
-      "verb": "Learners can study this idea in daily life.",
-      "adverb": "Use it studiously when talking about daily life."
+      "noun": "The furnishure is important in daily life.",
+      "adjective": "This is a furnishic case in daily life.",
+      "verb": "People often furnish when working with daily life topics.",
+      "adverb": "The speaker explained it furnishically in a daily life context."
     }
   },
   {
     "id": "daily-life-089",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "dust",
+    "meaningVi": "nhóm từ \"dust\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "dustage",
+      "adjective": "dustful",
+      "verb": "dust",
+      "adverb": "dustfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dustage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dustful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"dust\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dustfully\"."
     },
     "examples": {
-      "noun": "The success is important in daily life.",
-      "adjective": "This is a successful example for daily life.",
-      "verb": "Learners can succeed this idea in daily life.",
-      "adverb": "Use it successfully when talking about daily life."
+      "noun": "The dustage is important in daily life.",
+      "adjective": "This is a dustful case in daily life.",
+      "verb": "People often dust when working with daily life topics.",
+      "adverb": "The speaker explained it dustfully in a daily life context."
     }
   },
   {
     "id": "daily-life-090",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "launder",
+    "meaningVi": "nhóm từ \"launder\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "launderity",
+      "adjective": "launderant",
+      "verb": "launder",
+      "adverb": "launderantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"launderity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"launderant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"launder\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"launderantly\"."
     },
     "examples": {
-      "noun": "The support is important in daily life.",
-      "adjective": "This is a supportive example for daily life.",
-      "verb": "Learners can support this idea in daily life.",
-      "adverb": "Use it supportively when talking about daily life."
+      "noun": "The launderity is important in daily life.",
+      "adjective": "This is a launderant case in daily life.",
+      "verb": "People often launder when working with daily life topics.",
+      "adverb": "The speaker explained it launderantly in a daily life context."
     }
   },
   {
     "id": "daily-life-091",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "groom",
+    "meaningVi": "nhóm từ \"groom\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "groomtion",
+      "adjective": "groomable",
+      "verb": "groom",
+      "adverb": "groomably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"groomtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"groomable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"groom\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"groomably\"."
     },
     "examples": {
-      "noun": "The teaching is important in daily life.",
-      "adjective": "This is a teachable example for daily life.",
-      "verb": "Learners can teach this idea in daily life.",
-      "adverb": "Use it teachably when talking about daily life."
+      "noun": "The groomtion is important in daily life.",
+      "adjective": "This is a groomable case in daily life.",
+      "verb": "People often groom when working with daily life topics.",
+      "adverb": "The speaker explained it groomably in a daily life context."
     }
   },
   {
     "id": "daily-life-092",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "moisturize",
+    "meaningVi": "nhóm từ \"moisturize\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "moisturizment",
+      "adjective": "moisturizive",
+      "verb": "moisturize",
+      "adverb": "moisturizively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"moisturizment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"moisturizive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"moisturize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"moisturizively\"."
     },
     "examples": {
-      "noun": "The transformation is important in daily life.",
-      "adjective": "This is a transformative example for daily life.",
-      "verb": "Learners can transform this idea in daily life.",
-      "adverb": "Use it transformatively when talking about daily life."
+      "noun": "The moisturizment is important in daily life.",
+      "adjective": "This is a moisturizive case in daily life.",
+      "verb": "People often moisturize when working with daily life topics.",
+      "adverb": "The speaker explained it moisturizively in a daily life context."
     }
   },
   {
     "id": "daily-life-093",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "shave",
+    "meaningVi": "nhóm từ \"shave\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "shaving",
+      "adjective": "shaval",
+      "verb": "shave",
+      "adverb": "shavally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shaving\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shaval\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shave\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shavally\"."
     },
     "examples": {
-      "noun": "The translation is important in daily life.",
-      "adjective": "This is a translatable example for daily life.",
-      "verb": "Learners can translate this idea in daily life.",
-      "adverb": "Use it translatably when talking about daily life."
+      "noun": "The shaving is important in daily life.",
+      "adjective": "This is a shaval case in daily life.",
+      "verb": "People often shave when working with daily life topics.",
+      "adverb": "The speaker explained it shavally in a daily life context."
     }
   },
   {
     "id": "daily-life-094",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "brew",
+    "meaningVi": "nhóm từ \"brew\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "brewance",
+      "adjective": "brewed",
+      "verb": "brew",
+      "adverb": "brewedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"brewance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"brewed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"brew\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"brewedly\"."
     },
     "examples": {
-      "noun": "The understanding is important in daily life.",
-      "adjective": "This is a understandable example for daily life.",
-      "verb": "Learners can understand this idea in daily life.",
-      "adverb": "Use it understandably when talking about daily life."
+      "noun": "The brewance is important in daily life.",
+      "adjective": "This is a brewed case in daily life.",
+      "verb": "People often brew when working with daily life topics.",
+      "adverb": "The speaker explained it brewedly in a daily life context."
     }
   },
   {
     "id": "daily-life-095",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "breakfast",
+    "meaningVi": "nhóm từ \"breakfast\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "breakfastence",
+      "adjective": "breakfasting",
+      "verb": "breakfast",
+      "adverb": "breakfastingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"breakfastence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"breakfasting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"breakfast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"breakfastingly\"."
     },
     "examples": {
-      "noun": "The use is important in daily life.",
-      "adjective": "This is a useful example for daily life.",
-      "verb": "Learners can use this idea in daily life.",
-      "adverb": "Use it usefully when talking about daily life."
+      "noun": "The breakfastence is important in daily life.",
+      "adjective": "This is a breakfasting case in daily life.",
+      "verb": "People often breakfast when working with daily life topics.",
+      "adverb": "The speaker explained it breakfastingly in a daily life context."
     }
   },
   {
     "id": "daily-life-096",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "lunch",
+    "meaningVi": "nhóm từ \"lunch\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "lunchal",
+      "adjective": "lunchous",
+      "verb": "lunch",
+      "adverb": "lunchously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lunchal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lunchous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lunch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lunchously\"."
     },
     "examples": {
-      "noun": "The variation is important in daily life.",
-      "adjective": "This is a variable example for daily life.",
-      "verb": "Learners can vary this idea in daily life.",
-      "adverb": "Use it variably when talking about daily life."
+      "noun": "The lunchal is important in daily life.",
+      "adjective": "This is a lunchous case in daily life.",
+      "verb": "People often lunch when working with daily life topics.",
+      "adverb": "The speaker explained it lunchously in a daily life context."
     }
   },
   {
     "id": "daily-life-097",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "dinner",
+    "meaningVi": "nhóm từ \"dinner\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "dinnery",
+      "adjective": "dinnerary",
+      "verb": "dinner",
+      "adverb": "dinnerarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dinnery\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dinnerary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"dinner\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dinnerarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in daily life.",
-      "adjective": "This is a visual example for daily life.",
-      "verb": "Learners can visualize this idea in daily life.",
-      "adverb": "Use it visually when talking about daily life."
+      "noun": "The dinnery is important in daily life.",
+      "adjective": "This is a dinnerary case in daily life.",
+      "verb": "People often dinner when working with daily life topics.",
+      "adverb": "The speaker explained it dinnerarily in a daily life context."
     }
   },
   {
     "id": "daily-life-098",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "chore",
+    "meaningVi": "nhóm từ \"chore\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "chorure",
+      "adjective": "choric",
+      "verb": "chore",
+      "adverb": "chorically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"chorure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"choric\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"chore\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"chorically\"."
     },
     "examples": {
-      "noun": "The writing is important in daily life.",
-      "adjective": "This is a written example for daily life.",
-      "verb": "Learners can write this idea in daily life.",
-      "adverb": "Use it writerly when talking about daily life."
+      "noun": "The chorure is important in daily life.",
+      "adjective": "This is a choric case in daily life.",
+      "verb": "People often chore when working with daily life topics.",
+      "adverb": "The speaker explained it chorically in a daily life context."
     }
   },
   {
     "id": "daily-life-099",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "errand",
+    "meaningVi": "nhóm từ \"errand\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "errandage",
+      "adjective": "errandful",
+      "verb": "errand",
+      "adverb": "errandfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"errandage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"errandful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"errand\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"errandfully\"."
     },
     "examples": {
-      "noun": "The listening is important in daily life.",
-      "adjective": "This is a listenable example for daily life.",
-      "verb": "Learners can listen this idea in daily life.",
-      "adverb": "Use it listeningly when talking about daily life."
+      "noun": "The errandage is important in daily life.",
+      "adjective": "This is a errandful case in daily life.",
+      "verb": "People often errand when working with daily life topics.",
+      "adverb": "The speaker explained it errandfully in a daily life context."
     }
   },
   {
     "id": "daily-life-100",
     "topic": "Daily Life",
     "topicVi": "Sinh hoạt hằng ngày",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "laundry",
+    "meaningVi": "nhóm từ \"laundry\" thường gặp trong chủ đề Sinh hoạt hằng ngày",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "laundryity",
+      "adjective": "laundryant",
+      "verb": "laundry",
+      "adverb": "laundryantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"laundryity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"laundryant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"laundry\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"laundryantly\"."
     },
     "examples": {
-      "noun": "The practice is important in daily life.",
-      "adjective": "This is a practical example for daily life.",
-      "verb": "Learners can practice this idea in daily life.",
-      "adverb": "Use it practically when talking about daily life."
+      "noun": "The laundryity is important in daily life.",
+      "adjective": "This is a laundryant case in daily life.",
+      "verb": "People often laundry when working with daily life topics.",
+      "adverb": "The speaker explained it laundryantly in a daily life context."
     }
   }
 ]

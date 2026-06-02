@@ -3,2500 +3,2500 @@
     "id": "environment-001",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "conserve",
+    "meaningVi": "nhóm từ \"conserve\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "conservtion",
+      "adjective": "conservable",
+      "verb": "conserve",
+      "adverb": "conservably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"conservtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"conservable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"conserve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"conservably\"."
     },
     "examples": {
-      "noun": "The action is important in environment.",
-      "adjective": "This is a active example for environment.",
-      "verb": "Learners can act this idea in environment.",
-      "adverb": "Use it actively when talking about environment."
+      "noun": "The conservtion is important in environment.",
+      "adjective": "This is a conservable case in environment.",
+      "verb": "People often conserve when working with environment topics.",
+      "adverb": "The speaker explained it conservably in a environment context."
     }
   },
   {
     "id": "environment-002",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "preserve",
+    "meaningVi": "nhóm từ \"preserve\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "preservment",
+      "adjective": "preservive",
+      "verb": "preserve",
+      "adverb": "preservively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"preservment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"preservive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"preserve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"preservively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in environment.",
-      "adjective": "This is a adaptable example for environment.",
-      "verb": "Learners can adapt this idea in environment.",
-      "adverb": "Use it adaptably when talking about environment."
+      "noun": "The preservment is important in environment.",
+      "adjective": "This is a preservive case in environment.",
+      "verb": "People often preserve when working with environment topics.",
+      "adverb": "The speaker explained it preservively in a environment context."
     }
   },
   {
     "id": "environment-003",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "protect",
+    "meaningVi": "nhóm từ \"protect\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "protecting",
+      "adjective": "protectal",
+      "verb": "protect",
+      "adverb": "protectally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"protecting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"protectal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"protect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"protectally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in environment.",
-      "adjective": "This is a adjustable example for environment.",
-      "verb": "Learners can adjust this idea in environment.",
-      "adverb": "Use it adjustably when talking about environment."
+      "noun": "The protecting is important in environment.",
+      "adjective": "This is a protectal case in environment.",
+      "verb": "People often protect when working with environment topics.",
+      "adverb": "The speaker explained it protectally in a environment context."
     }
   },
   {
     "id": "environment-004",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "restore",
+    "meaningVi": "nhóm từ \"restore\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "restorance",
+      "adjective": "restord",
+      "verb": "restore",
+      "adverb": "restordly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"restorance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"restord\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"restore\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"restordly\"."
     },
     "examples": {
-      "noun": "The admiration is important in environment.",
-      "adjective": "This is a admirable example for environment.",
-      "verb": "Learners can admire this idea in environment.",
-      "adverb": "Use it admirably when talking about environment."
+      "noun": "The restorance is important in environment.",
+      "adjective": "This is a restord case in environment.",
+      "verb": "People often restore when working with environment topics.",
+      "adverb": "The speaker explained it restordly in a environment context."
     }
   },
   {
     "id": "environment-005",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "reforest",
+    "meaningVi": "nhóm từ \"reforest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "reforestence",
+      "adjective": "reforesting",
+      "verb": "reforest",
+      "adverb": "reforestingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reforestence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reforesting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reforest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reforestingly\"."
     },
     "examples": {
-      "noun": "The advice is important in environment.",
-      "adjective": "This is a advisable example for environment.",
-      "verb": "Learners can advise this idea in environment.",
-      "adverb": "Use it advisably when talking about environment."
+      "noun": "The reforestence is important in environment.",
+      "adjective": "This is a reforesting case in environment.",
+      "verb": "People often reforest when working with environment topics.",
+      "adverb": "The speaker explained it reforestingly in a environment context."
     }
   },
   {
     "id": "environment-006",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "afforest",
+    "meaningVi": "nhóm từ \"afforest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "afforestal",
+      "adjective": "afforestous",
+      "verb": "afforest",
+      "adverb": "afforestously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"afforestal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"afforestous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"afforest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"afforestously\"."
     },
     "examples": {
-      "noun": "The analysis is important in environment.",
-      "adjective": "This is a analytical example for environment.",
-      "verb": "Learners can analyze this idea in environment.",
-      "adverb": "Use it analytically when talking about environment."
+      "noun": "The afforestal is important in environment.",
+      "adjective": "This is a afforestous case in environment.",
+      "verb": "People often afforest when working with environment topics.",
+      "adverb": "The speaker explained it afforestously in a environment context."
     }
   },
   {
     "id": "environment-007",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "plant",
+    "meaningVi": "nhóm từ \"plant\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "planty",
+      "adjective": "plantary",
+      "verb": "plant",
+      "adverb": "plantarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"planty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"plantary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"plant\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"plantarily\"."
     },
     "examples": {
-      "noun": "The application is important in environment.",
-      "adjective": "This is a applicable example for environment.",
-      "verb": "Learners can apply this idea in environment.",
-      "adverb": "Use it applicably when talking about environment."
+      "noun": "The planty is important in environment.",
+      "adjective": "This is a plantary case in environment.",
+      "verb": "People often plant when working with environment topics.",
+      "adverb": "The speaker explained it plantarily in a environment context."
     }
   },
   {
     "id": "environment-008",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "compost",
+    "meaningVi": "nhóm từ \"compost\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "composture",
+      "adjective": "compostic",
+      "verb": "compost",
+      "adverb": "compostically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"composture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compostic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compost\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compostically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in environment.",
-      "adjective": "This is a arranged example for environment.",
-      "verb": "Learners can arrange this idea in environment.",
-      "adverb": "Use it arrangedly when talking about environment."
+      "noun": "The composture is important in environment.",
+      "adjective": "This is a compostic case in environment.",
+      "verb": "People often compost when working with environment topics.",
+      "adverb": "The speaker explained it compostically in a environment context."
     }
   },
   {
     "id": "environment-009",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "recycle",
+    "meaningVi": "nhóm từ \"recycle\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "recyclage",
+      "adjective": "recyclful",
+      "verb": "recycle",
+      "adverb": "recyclfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recyclage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"recyclful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recycle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recyclfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in environment.",
-      "adjective": "This is a assessable example for environment.",
-      "verb": "Learners can assess this idea in environment.",
-      "adverb": "Use it assessably when talking about environment."
+      "noun": "The recyclage is important in environment.",
+      "adjective": "This is a recyclful case in environment.",
+      "verb": "People often recycle when working with environment topics.",
+      "adverb": "The speaker explained it recyclfully in a environment context."
     }
   },
   {
     "id": "environment-010",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "reuse",
+    "meaningVi": "nhóm từ \"reuse\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "reusity",
+      "adjective": "reusant",
+      "verb": "reuse",
+      "adverb": "reusantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reusity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reusant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reuse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reusantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in environment.",
-      "adjective": "This is a assistant example for environment.",
-      "verb": "Learners can assist this idea in environment.",
-      "adverb": "Use it assistively when talking about environment."
+      "noun": "The reusity is important in environment.",
+      "adjective": "This is a reusant case in environment.",
+      "verb": "People often reuse when working with environment topics.",
+      "adverb": "The speaker explained it reusantly in a environment context."
     }
   },
   {
     "id": "environment-011",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "reduce",
+    "meaningVi": "nhóm từ \"reduce\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "reduction",
+      "adjective": "reducable",
+      "verb": "reduce",
+      "adverb": "reducably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reduction\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reducable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reduce\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reducably\"."
     },
     "examples": {
-      "noun": "The attendance is important in environment.",
-      "adjective": "This is a attentive example for environment.",
-      "verb": "Learners can attend this idea in environment.",
-      "adverb": "Use it attentively when talking about environment."
+      "noun": "The reduction is important in environment.",
+      "adjective": "This is a reducable case in environment.",
+      "verb": "People often reduce when working with environment topics.",
+      "adverb": "The speaker explained it reducably in a environment context."
     }
   },
   {
     "id": "environment-012",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "repair",
+    "meaningVi": "nhóm từ \"repair\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "repairment",
+      "adjective": "repairive",
+      "verb": "repair",
+      "adverb": "repairively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"repairment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"repairive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"repair\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"repairively\"."
     },
     "examples": {
-      "noun": "The benefit is important in environment.",
-      "adjective": "This is a beneficial example for environment.",
-      "verb": "Learners can benefit this idea in environment.",
-      "adverb": "Use it beneficially when talking about environment."
+      "noun": "The repairment is important in environment.",
+      "adjective": "This is a repairive case in environment.",
+      "verb": "People often repair when working with environment topics.",
+      "adverb": "The speaker explained it repairively in a environment context."
     }
   },
   {
     "id": "environment-013",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "refill",
+    "meaningVi": "nhóm từ \"refill\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "refilling",
+      "adjective": "refillal",
+      "verb": "refill",
+      "adverb": "refillally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refilling\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"refillal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"refillally\"."
     },
     "examples": {
-      "noun": "The calculation is important in environment.",
-      "adjective": "This is a calculable example for environment.",
-      "verb": "Learners can calculate this idea in environment.",
-      "adverb": "Use it calculably when talking about environment."
+      "noun": "The refilling is important in environment.",
+      "adjective": "This is a refillal case in environment.",
+      "verb": "People often refill when working with environment topics.",
+      "adverb": "The speaker explained it refillally in a environment context."
     }
   },
   {
     "id": "environment-014",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "monitor",
+    "meaningVi": "nhóm từ \"monitor\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "monitorance",
+      "adjective": "monitored",
+      "verb": "monitor",
+      "adverb": "monitoredly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monitorance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monitored\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monitor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monitoredly\"."
     },
     "examples": {
-      "noun": "The care is important in environment.",
-      "adjective": "This is a careful example for environment.",
-      "verb": "Learners can care this idea in environment.",
-      "adverb": "Use it carefully when talking about environment."
+      "noun": "The monitorance is important in environment.",
+      "adjective": "This is a monitored case in environment.",
+      "verb": "People often monitor when working with environment topics.",
+      "adverb": "The speaker explained it monitoredly in a environment context."
     }
   },
   {
     "id": "environment-015",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "measure",
+    "meaningVi": "nhóm từ \"measure\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "measurence",
+      "adjective": "measuring",
+      "verb": "measure",
+      "adverb": "measuringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"measurence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"measuring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"measure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"measuringly\"."
     },
     "examples": {
-      "noun": "The change is important in environment.",
-      "adjective": "This is a changeable example for environment.",
-      "verb": "Learners can change this idea in environment.",
-      "adverb": "Use it changeably when talking about environment."
+      "noun": "The measurence is important in environment.",
+      "adjective": "This is a measuring case in environment.",
+      "verb": "People often measure when working with environment topics.",
+      "adverb": "The speaker explained it measuringly in a environment context."
     }
   },
   {
     "id": "environment-016",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "sample",
+    "meaningVi": "nhóm từ \"sample\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "samplal",
+      "adjective": "samplous",
+      "verb": "sample",
+      "adverb": "samplously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"samplal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"samplous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sample\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"samplously\"."
     },
     "examples": {
-      "noun": "The communication is important in environment.",
-      "adjective": "This is a communicative example for environment.",
-      "verb": "Learners can communicate this idea in environment.",
-      "adverb": "Use it communicatively when talking about environment."
+      "noun": "The samplal is important in environment.",
+      "adjective": "This is a samplous case in environment.",
+      "verb": "People often sample when working with environment topics.",
+      "adverb": "The speaker explained it samplously in a environment context."
     }
   },
   {
     "id": "environment-017",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "survey",
+    "meaningVi": "nhóm từ \"survey\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "surveyy",
+      "adjective": "surveyary",
+      "verb": "survey",
+      "adverb": "surveyarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"surveyy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"surveyary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"survey\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"surveyarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in environment.",
-      "adjective": "This is a comparative example for environment.",
-      "verb": "Learners can compare this idea in environment.",
-      "adverb": "Use it comparatively when talking about environment."
+      "noun": "The surveyy is important in environment.",
+      "adjective": "This is a surveyary case in environment.",
+      "verb": "People often survey when working with environment topics.",
+      "adverb": "The speaker explained it surveyarily in a environment context."
     }
   },
   {
     "id": "environment-018",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "map",
+    "meaningVi": "nhóm từ \"map\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "mapure",
+      "adjective": "mapic",
+      "verb": "map",
+      "adverb": "mapically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mapure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mapic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"map\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mapically\"."
     },
     "examples": {
-      "noun": "The competition is important in environment.",
-      "adjective": "This is a competitive example for environment.",
-      "verb": "Learners can compete this idea in environment.",
-      "adverb": "Use it competitively when talking about environment."
+      "noun": "The mapure is important in environment.",
+      "adjective": "This is a mapic case in environment.",
+      "verb": "People often map when working with environment topics.",
+      "adverb": "The speaker explained it mapically in a environment context."
     }
   },
   {
     "id": "environment-019",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "clean",
+    "meaningVi": "nhóm từ \"clean\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "cleanage",
+      "adjective": "cleanful",
+      "verb": "clean",
+      "adverb": "cleanfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cleanage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cleanful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"clean\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cleanfully\"."
     },
     "examples": {
-      "noun": "The completion is important in environment.",
-      "adjective": "This is a complete example for environment.",
-      "verb": "Learners can complete this idea in environment.",
-      "adverb": "Use it completely when talking about environment."
+      "noun": "The cleanage is important in environment.",
+      "adjective": "This is a cleanful case in environment.",
+      "verb": "People often clean when working with environment topics.",
+      "adverb": "The speaker explained it cleanfully in a environment context."
     }
   },
   {
     "id": "environment-020",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "filter",
+    "meaningVi": "nhóm từ \"filter\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "filterity",
+      "adjective": "filterant",
+      "verb": "filter",
+      "adverb": "filterantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"filterity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"filterant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"filter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"filterantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in environment.",
-      "adjective": "This is a concentrated example for environment.",
-      "verb": "Learners can concentrate this idea in environment.",
-      "adverb": "Use it concentratedly when talking about environment."
+      "noun": "The filterity is important in environment.",
+      "adjective": "This is a filterant case in environment.",
+      "verb": "People often filter when working with environment topics.",
+      "adverb": "The speaker explained it filterantly in a environment context."
     }
   },
   {
     "id": "environment-021",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "purify",
+    "meaningVi": "nhóm từ \"purify\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "purifytion",
+      "adjective": "purifyable",
+      "verb": "purify",
+      "adverb": "purifyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"purifytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"purifyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"purify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"purifyably\"."
     },
     "examples": {
-      "noun": "The connection is important in environment.",
-      "adjective": "This is a connected example for environment.",
-      "verb": "Learners can connect this idea in environment.",
-      "adverb": "Use it connectedly when talking about environment."
+      "noun": "The purifytion is important in environment.",
+      "adjective": "This is a purifyable case in environment.",
+      "verb": "People often purify when working with environment topics.",
+      "adverb": "The speaker explained it purifyably in a environment context."
     }
   },
   {
     "id": "environment-022",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "desalinate",
+    "meaningVi": "nhóm từ \"desalinate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "desalinatment",
+      "adjective": "desalinative",
+      "verb": "desalinate",
+      "adverb": "desalinatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"desalinatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"desalinative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"desalinate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"desalinatively\"."
     },
     "examples": {
-      "noun": "The consideration is important in environment.",
-      "adjective": "This is a considerate example for environment.",
-      "verb": "Learners can consider this idea in environment.",
-      "adverb": "Use it considerately when talking about environment."
+      "noun": "The desalinatment is important in environment.",
+      "adjective": "This is a desalinative case in environment.",
+      "verb": "People often desalinate when working with environment topics.",
+      "adverb": "The speaker explained it desalinatively in a environment context."
     }
   },
   {
     "id": "environment-023",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "irrigate",
+    "meaningVi": "nhóm từ \"irrigate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "irrigating",
+      "adjective": "irrigatal",
+      "verb": "irrigate",
+      "adverb": "irrigatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"irrigating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"irrigatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"irrigate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"irrigatally\"."
     },
     "examples": {
-      "noun": "The creation is important in environment.",
-      "adjective": "This is a creative example for environment.",
-      "verb": "Learners can create this idea in environment.",
-      "adverb": "Use it creatively when talking about environment."
+      "noun": "The irrigating is important in environment.",
+      "adjective": "This is a irrigatal case in environment.",
+      "verb": "People often irrigate when working with environment topics.",
+      "adverb": "The speaker explained it irrigatally in a environment context."
     }
   },
   {
     "id": "environment-024",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "harvest",
+    "meaningVi": "nhóm từ \"harvest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "harvestance",
+      "adjective": "harvested",
+      "verb": "harvest",
+      "adverb": "harvestedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"harvestance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"harvested\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"harvest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"harvestedly\"."
     },
     "examples": {
-      "noun": "The decision is important in environment.",
-      "adjective": "This is a decisive example for environment.",
-      "verb": "Learners can decide this idea in environment.",
-      "adverb": "Use it decisively when talking about environment."
+      "noun": "The harvestance is important in environment.",
+      "adjective": "This is a harvested case in environment.",
+      "verb": "People often harvest when working with environment topics.",
+      "adverb": "The speaker explained it harvestedly in a environment context."
     }
   },
   {
     "id": "environment-025",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "cultivate",
+    "meaningVi": "nhóm từ \"cultivate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "cultivatence",
+      "adjective": "cultivating",
+      "verb": "cultivate",
+      "adverb": "cultivatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cultivatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cultivating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cultivate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cultivatingly\"."
     },
     "examples": {
-      "noun": "The definition is important in environment.",
-      "adjective": "This is a definite example for environment.",
-      "verb": "Learners can define this idea in environment.",
-      "adverb": "Use it definitely when talking about environment."
+      "noun": "The cultivatence is important in environment.",
+      "adjective": "This is a cultivating case in environment.",
+      "verb": "People often cultivate when working with environment topics.",
+      "adverb": "The speaker explained it cultivatingly in a environment context."
     }
   },
   {
     "id": "environment-026",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "pollinate",
+    "meaningVi": "nhóm từ \"pollinate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "pollinatal",
+      "adjective": "pollinatous",
+      "verb": "pollinate",
+      "adverb": "pollinatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pollinatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pollinatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pollinate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pollinatously\"."
     },
     "examples": {
-      "noun": "The delivery is important in environment.",
-      "adjective": "This is a deliverable example for environment.",
-      "verb": "Learners can deliver this idea in environment.",
-      "adverb": "Use it deliverably when talking about environment."
+      "noun": "The pollinatal is important in environment.",
+      "adjective": "This is a pollinatous case in environment.",
+      "verb": "People often pollinate when working with environment topics.",
+      "adverb": "The speaker explained it pollinatously in a environment context."
     }
   },
   {
     "id": "environment-027",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "biodegrade",
+    "meaningVi": "nhóm từ \"biodegrade\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "biodegrady",
+      "adjective": "biodegradary",
+      "verb": "biodegrade",
+      "adverb": "biodegradarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"biodegrady\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"biodegradary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"biodegrade\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"biodegradarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in environment.",
-      "adjective": "This is a dependent example for environment.",
-      "verb": "Learners can depend this idea in environment.",
-      "adverb": "Use it dependently when talking about environment."
+      "noun": "The biodegrady is important in environment.",
+      "adjective": "This is a biodegradary case in environment.",
+      "verb": "People often biodegrade when working with environment topics.",
+      "adverb": "The speaker explained it biodegradarily in a environment context."
     }
   },
   {
     "id": "environment-028",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "decompose",
+    "meaningVi": "nhóm từ \"decompose\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "decomposure",
+      "adjective": "decomposic",
+      "verb": "decompose",
+      "adverb": "decomposically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decomposure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decomposic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decompose\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decomposically\"."
     },
     "examples": {
-      "noun": "The description is important in environment.",
-      "adjective": "This is a descriptive example for environment.",
-      "verb": "Learners can describe this idea in environment.",
-      "adverb": "Use it descriptively when talking about environment."
+      "noun": "The decomposure is important in environment.",
+      "adjective": "This is a decomposic case in environment.",
+      "verb": "People often decompose when working with environment topics.",
+      "adverb": "The speaker explained it decomposically in a environment context."
     }
   },
   {
     "id": "environment-029",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "contaminate",
+    "meaningVi": "nhóm từ \"contaminate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "contaminatage",
+      "adjective": "contaminatful",
+      "verb": "contaminate",
+      "adverb": "contaminatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"contaminatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"contaminatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"contaminate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"contaminatfully\"."
     },
     "examples": {
-      "noun": "The design is important in environment.",
-      "adjective": "This is a designed example for environment.",
-      "verb": "Learners can design this idea in environment.",
-      "adverb": "Use it designedly when talking about environment."
+      "noun": "The contaminatage is important in environment.",
+      "adjective": "This is a contaminatful case in environment.",
+      "verb": "People often contaminate when working with environment topics.",
+      "adverb": "The speaker explained it contaminatfully in a environment context."
     }
   },
   {
     "id": "environment-030",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "pollute",
+    "meaningVi": "nhóm từ \"pollute\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "pollutity",
+      "adjective": "pollutant",
+      "verb": "pollute",
+      "adverb": "pollutantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pollutity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pollutant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pollute\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pollutantly\"."
     },
     "examples": {
-      "noun": "The development is important in environment.",
-      "adjective": "This is a developed example for environment.",
-      "verb": "Learners can develop this idea in environment.",
-      "adverb": "Use it developmentally when talking about environment."
+      "noun": "The pollutity is important in environment.",
+      "adjective": "This is a pollutant case in environment.",
+      "verb": "People often pollute when working with environment topics.",
+      "adverb": "The speaker explained it pollutantly in a environment context."
     }
   },
   {
     "id": "environment-031",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "emit",
+    "meaningVi": "nhóm từ \"emit\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "emittion",
+      "adjective": "emitable",
+      "verb": "emit",
+      "adverb": "emitably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"emittion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"emitable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"emit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"emitably\"."
     },
     "examples": {
-      "noun": "The difference is important in environment.",
-      "adjective": "This is a different example for environment.",
-      "verb": "Learners can differ this idea in environment.",
-      "adverb": "Use it differently when talking about environment."
+      "noun": "The emittion is important in environment.",
+      "adjective": "This is a emitable case in environment.",
+      "verb": "People often emit when working with environment topics.",
+      "adverb": "The speaker explained it emitably in a environment context."
     }
   },
   {
     "id": "environment-032",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "absorb",
+    "meaningVi": "nhóm từ \"absorb\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "absorbment",
+      "adjective": "absorbive",
+      "verb": "absorb",
+      "adverb": "absorbively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"absorbment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"absorbive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"absorb\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"absorbively\"."
     },
     "examples": {
-      "noun": "The discussion is important in environment.",
-      "adjective": "This is a discussable example for environment.",
-      "verb": "Learners can discuss this idea in environment.",
-      "adverb": "Use it discussably when talking about environment."
+      "noun": "The absorbment is important in environment.",
+      "adjective": "This is a absorbive case in environment.",
+      "verb": "People often absorb when working with environment topics.",
+      "adverb": "The speaker explained it absorbively in a environment context."
     }
   },
   {
     "id": "environment-033",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "sequester",
+    "meaningVi": "nhóm từ \"sequester\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "sequestering",
+      "adjective": "sequesteral",
+      "verb": "sequester",
+      "adverb": "sequesterally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sequestering\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sequesteral\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sequester\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sequesterally\"."
     },
     "examples": {
-      "noun": "The education is important in environment.",
-      "adjective": "This is a educational example for environment.",
-      "verb": "Learners can educate this idea in environment.",
-      "adverb": "Use it educationally when talking about environment."
+      "noun": "The sequestering is important in environment.",
+      "adjective": "This is a sequesteral case in environment.",
+      "verb": "People often sequester when working with environment topics.",
+      "adverb": "The speaker explained it sequesterally in a environment context."
     }
   },
   {
     "id": "environment-034",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "offset",
+    "meaningVi": "nhóm từ \"offset\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "offsetance",
+      "adjective": "offseted",
+      "verb": "offset",
+      "adverb": "offsetedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"offsetance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"offseted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"offset\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"offsetedly\"."
     },
     "examples": {
-      "noun": "The effect is important in environment.",
-      "adjective": "This is a effective example for environment.",
-      "verb": "Learners can effect this idea in environment.",
-      "adverb": "Use it effectively when talking about environment."
+      "noun": "The offsetance is important in environment.",
+      "adjective": "This is a offseted case in environment.",
+      "verb": "People often offset when working with environment topics.",
+      "adverb": "The speaker explained it offsetedly in a environment context."
     }
   },
   {
     "id": "environment-035",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "regulate",
+    "meaningVi": "nhóm từ \"regulate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "regulatence",
+      "adjective": "regulating",
+      "verb": "regulate",
+      "adverb": "regulatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"regulatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"regulating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"regulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"regulatingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in environment.",
-      "adjective": "This is a emphatic example for environment.",
-      "verb": "Learners can emphasize this idea in environment.",
-      "adverb": "Use it emphatically when talking about environment."
+      "noun": "The regulatence is important in environment.",
+      "adjective": "This is a regulating case in environment.",
+      "verb": "People often regulate when working with environment topics.",
+      "adverb": "The speaker explained it regulatingly in a environment context."
     }
   },
   {
     "id": "environment-036",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "enforce",
+    "meaningVi": "nhóm từ \"enforce\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "enforcal",
+      "adjective": "enforcous",
+      "verb": "enforce",
+      "adverb": "enforcously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"enforcal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"enforcous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"enforce\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"enforcously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in environment.",
-      "adjective": "This is a encouraging example for environment.",
-      "verb": "Learners can encourage this idea in environment.",
-      "adverb": "Use it encouragingly when talking about environment."
+      "noun": "The enforcal is important in environment.",
+      "adjective": "This is a enforcous case in environment.",
+      "verb": "People often enforce when working with environment topics.",
+      "adverb": "The speaker explained it enforcously in a environment context."
     }
   },
   {
     "id": "environment-037",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "ban",
+    "meaningVi": "nhóm từ \"ban\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "bany",
+      "adjective": "banary",
+      "verb": "ban",
+      "adverb": "banarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bany\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"banary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ban\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"banarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in environment.",
-      "adjective": "This is a enjoyable example for environment.",
-      "verb": "Learners can enjoy this idea in environment.",
-      "adverb": "Use it enjoyably when talking about environment."
+      "noun": "The bany is important in environment.",
+      "adjective": "This is a banary case in environment.",
+      "verb": "People often ban when working with environment topics.",
+      "adverb": "The speaker explained it banarily in a environment context."
     }
   },
   {
     "id": "environment-038",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "educate",
+    "meaningVi": "nhóm từ \"educate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "educature",
+      "adjective": "educatic",
+      "verb": "educate",
+      "adverb": "educatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"educature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"educatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"educate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"educatically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in environment.",
-      "adjective": "This is a evaluative example for environment.",
-      "verb": "Learners can evaluate this idea in environment.",
-      "adverb": "Use it evaluatively when talking about environment."
+      "noun": "The educature is important in environment.",
+      "adjective": "This is a educatic case in environment.",
+      "verb": "People often educate when working with environment topics.",
+      "adverb": "The speaker explained it educatically in a environment context."
     }
   },
   {
     "id": "environment-039",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "campaign",
+    "meaningVi": "nhóm từ \"campaign\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "campaignage",
+      "adjective": "campaignful",
+      "verb": "campaign",
+      "adverb": "campaignfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"campaignage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"campaignful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"campaign\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"campaignfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in environment.",
-      "adjective": "This is a explanatory example for environment.",
-      "verb": "Learners can explain this idea in environment.",
-      "adverb": "Use it explanatorily when talking about environment."
+      "noun": "The campaignage is important in environment.",
+      "adjective": "This is a campaignful case in environment.",
+      "verb": "People often campaign when working with environment topics.",
+      "adverb": "The speaker explained it campaignfully in a environment context."
     }
   },
   {
     "id": "environment-040",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "protest",
+    "meaningVi": "nhóm từ \"protest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "protestity",
+      "adjective": "protestant",
+      "verb": "protest",
+      "adverb": "protestantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"protestity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"protestant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"protest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"protestantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in environment.",
-      "adjective": "This is a exploratory example for environment.",
-      "verb": "Learners can explore this idea in environment.",
-      "adverb": "Use it exploratorily when talking about environment."
+      "noun": "The protestity is important in environment.",
+      "adjective": "This is a protestant case in environment.",
+      "verb": "People often protest when working with environment topics.",
+      "adverb": "The speaker explained it protestantly in a environment context."
     }
   },
   {
     "id": "environment-041",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "lobby",
+    "meaningVi": "nhóm từ \"lobby\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "lobbytion",
+      "adjective": "lobbyable",
+      "verb": "lobby",
+      "adverb": "lobbyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lobbytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lobbyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lobby\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lobbyably\"."
     },
     "examples": {
-      "noun": "The expression is important in environment.",
-      "adjective": "This is a expressive example for environment.",
-      "verb": "Learners can express this idea in environment.",
-      "adverb": "Use it expressively when talking about environment."
+      "noun": "The lobbytion is important in environment.",
+      "adjective": "This is a lobbyable case in environment.",
+      "verb": "People often lobby when working with environment topics.",
+      "adverb": "The speaker explained it lobbyably in a environment context."
     }
   },
   {
     "id": "environment-042",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "remediate",
+    "meaningVi": "nhóm từ \"remediate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "remediatment",
+      "adjective": "remediative",
+      "verb": "remediate",
+      "adverb": "remediatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"remediatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"remediative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"remediate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"remediatively\"."
     },
     "examples": {
-      "noun": "The failure is important in environment.",
-      "adjective": "This is a failed example for environment.",
-      "verb": "Learners can fail this idea in environment.",
-      "adverb": "Use it failingly when talking about environment."
+      "noun": "The remediatment is important in environment.",
+      "adjective": "This is a remediative case in environment.",
+      "verb": "People often remediate when working with environment topics.",
+      "adverb": "The speaker explained it remediatively in a environment context."
     }
   },
   {
     "id": "environment-043",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "adapt",
+    "meaningVi": "nhóm từ \"adapt\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "adapting",
+      "adjective": "adaptal",
+      "verb": "adapt",
+      "adverb": "adaptally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"adapting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"adaptal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"adapt\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"adaptally\"."
     },
     "examples": {
-      "noun": "The focus is important in environment.",
-      "adjective": "This is a focused example for environment.",
-      "verb": "Learners can focus this idea in environment.",
-      "adverb": "Use it focusedly when talking about environment."
+      "noun": "The adapting is important in environment.",
+      "adjective": "This is a adaptal case in environment.",
+      "verb": "People often adapt when working with environment topics.",
+      "adverb": "The speaker explained it adaptally in a environment context."
     }
   },
   {
     "id": "environment-044",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "mitigate",
+    "meaningVi": "nhóm từ \"mitigate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "mitigatance",
+      "adjective": "mitigatd",
+      "verb": "mitigate",
+      "adverb": "mitigatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mitigatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mitigatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mitigate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mitigatdly\"."
     },
     "examples": {
-      "noun": "The growth is important in environment.",
-      "adjective": "This is a growing example for environment.",
-      "verb": "Learners can grow this idea in environment.",
-      "adverb": "Use it growingly when talking about environment."
+      "noun": "The mitigatance is important in environment.",
+      "adjective": "This is a mitigatd case in environment.",
+      "verb": "People often mitigate when working with environment topics.",
+      "adverb": "The speaker explained it mitigatdly in a environment context."
     }
   },
   {
     "id": "environment-045",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "warm",
+    "meaningVi": "nhóm từ \"warm\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "warmence",
+      "adjective": "warming",
+      "verb": "warm",
+      "adverb": "warmingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"warmence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"warming\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"warm\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"warmingly\"."
     },
     "examples": {
-      "noun": "The help is important in environment.",
-      "adjective": "This is a helpful example for environment.",
-      "verb": "Learners can help this idea in environment.",
-      "adverb": "Use it helpfully when talking about environment."
+      "noun": "The warmence is important in environment.",
+      "adjective": "This is a warming case in environment.",
+      "verb": "People often warm when working with environment topics.",
+      "adverb": "The speaker explained it warmingly in a environment context."
     }
   },
   {
     "id": "environment-046",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "cool",
+    "meaningVi": "nhóm từ \"cool\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "coolal",
+      "adjective": "coolous",
+      "verb": "cool",
+      "adverb": "coolously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coolal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coolous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cool\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coolously\"."
     },
     "examples": {
-      "noun": "The identification is important in environment.",
-      "adjective": "This is a identifiable example for environment.",
-      "verb": "Learners can identify this idea in environment.",
-      "adverb": "Use it identifiably when talking about environment."
+      "noun": "The coolal is important in environment.",
+      "adjective": "This is a coolous case in environment.",
+      "verb": "People often cool when working with environment topics.",
+      "adverb": "The speaker explained it coolously in a environment context."
     }
   },
   {
     "id": "environment-047",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "flood",
+    "meaningVi": "nhóm từ \"flood\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "floody",
+      "adjective": "floodary",
+      "verb": "flood",
+      "adverb": "floodarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"floody\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"floodary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"flood\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"floodarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in environment.",
-      "adjective": "This is a imaginative example for environment.",
-      "verb": "Learners can imagine this idea in environment.",
-      "adverb": "Use it imaginatively when talking about environment."
+      "noun": "The floody is important in environment.",
+      "adjective": "This is a floodary case in environment.",
+      "verb": "People often flood when working with environment topics.",
+      "adverb": "The speaker explained it floodarily in a environment context."
     }
   },
   {
     "id": "environment-048",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "drought",
+    "meaningVi": "nhóm từ \"drought\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "droughture",
+      "adjective": "droughtic",
+      "verb": "drought",
+      "adverb": "droughtically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"droughture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"droughtic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"drought\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"droughtically\"."
     },
     "examples": {
-      "noun": "The improvement is important in environment.",
-      "adjective": "This is a improved example for environment.",
-      "verb": "Learners can improve this idea in environment.",
-      "adverb": "Use it improvingly when talking about environment."
+      "noun": "The droughture is important in environment.",
+      "adjective": "This is a droughtic case in environment.",
+      "verb": "People often drought when working with environment topics.",
+      "adverb": "The speaker explained it droughtically in a environment context."
     }
   },
   {
     "id": "environment-049",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "erode",
+    "meaningVi": "nhóm từ \"erode\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "erodage",
+      "adjective": "erodful",
+      "verb": "erode",
+      "adverb": "erodfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"erodage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"erodful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"erode\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"erodfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in environment.",
-      "adjective": "This is a inclusive example for environment.",
-      "verb": "Learners can include this idea in environment.",
-      "adverb": "Use it inclusively when talking about environment."
+      "noun": "The erodage is important in environment.",
+      "adjective": "This is a erodful case in environment.",
+      "verb": "People often erode when working with environment topics.",
+      "adverb": "The speaker explained it erodfully in a environment context."
     }
   },
   {
     "id": "environment-050",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "sediment",
+    "meaningVi": "nhóm từ \"sediment\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "sedimentity",
+      "adjective": "sedimentant",
+      "verb": "sediment",
+      "adverb": "sedimentantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sedimentity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sedimentant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sediment\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sedimentantly\"."
     },
     "examples": {
-      "noun": "The information is important in environment.",
-      "adjective": "This is a informative example for environment.",
-      "verb": "Learners can inform this idea in environment.",
-      "adverb": "Use it informatively when talking about environment."
+      "noun": "The sedimentity is important in environment.",
+      "adjective": "This is a sedimentant case in environment.",
+      "verb": "People often sediment when working with environment topics.",
+      "adverb": "The speaker explained it sedimentantly in a environment context."
     }
   },
   {
     "id": "environment-051",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "drain",
+    "meaningVi": "nhóm từ \"drain\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "draintion",
+      "adjective": "drainable",
+      "verb": "drain",
+      "adverb": "drainably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"draintion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"drainable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"drain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"drainably\"."
     },
     "examples": {
-      "noun": "The innovation is important in environment.",
-      "adjective": "This is a innovative example for environment.",
-      "verb": "Learners can innovate this idea in environment.",
-      "adverb": "Use it innovatively when talking about environment."
+      "noun": "The draintion is important in environment.",
+      "adjective": "This is a drainable case in environment.",
+      "verb": "People often drain when working with environment topics.",
+      "adverb": "The speaker explained it drainably in a environment context."
     }
   },
   {
     "id": "environment-052",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "recharge",
+    "meaningVi": "nhóm từ \"recharge\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "rechargment",
+      "adjective": "rechargive",
+      "verb": "recharge",
+      "adverb": "rechargively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rechargment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rechargive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recharge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rechargively\"."
     },
     "examples": {
-      "noun": "The instruction is important in environment.",
-      "adjective": "This is a instructive example for environment.",
-      "verb": "Learners can instruct this idea in environment.",
-      "adverb": "Use it instructively when talking about environment."
+      "noun": "The rechargment is important in environment.",
+      "adjective": "This is a rechargive case in environment.",
+      "verb": "People often recharge when working with environment topics.",
+      "adverb": "The speaker explained it rechargively in a environment context."
     }
   },
   {
     "id": "environment-053",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "revegetate",
+    "meaningVi": "nhóm từ \"revegetate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "revegetating",
+      "adjective": "revegetatal",
+      "verb": "revegetate",
+      "adverb": "revegetatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"revegetating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"revegetatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"revegetate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"revegetatally\"."
     },
     "examples": {
-      "noun": "The interaction is important in environment.",
-      "adjective": "This is a interactive example for environment.",
-      "verb": "Learners can interact this idea in environment.",
-      "adverb": "Use it interactively when talking about environment."
+      "noun": "The revegetating is important in environment.",
+      "adjective": "This is a revegetatal case in environment.",
+      "verb": "People often revegetate when working with environment topics.",
+      "adverb": "The speaker explained it revegetatally in a environment context."
     }
   },
   {
     "id": "environment-054",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "habitat",
+    "meaningVi": "nhóm từ \"habitat\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "habitatance",
+      "adjective": "habitated",
+      "verb": "habitat",
+      "adverb": "habitatedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"habitatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"habitated\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"habitat\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"habitatedly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in environment.",
-      "adjective": "This is a interpretive example for environment.",
-      "verb": "Learners can interpret this idea in environment.",
-      "adverb": "Use it interpretively when talking about environment."
+      "noun": "The habitatance is important in environment.",
+      "adjective": "This is a habitated case in environment.",
+      "verb": "People often habitat when working with environment topics.",
+      "adverb": "The speaker explained it habitatedly in a environment context."
     }
   },
   {
     "id": "environment-055",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "shelter",
+    "meaningVi": "nhóm từ \"shelter\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "shelterence",
+      "adjective": "sheltering",
+      "verb": "shelter",
+      "adverb": "shelteringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shelterence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sheltering\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shelter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shelteringly\"."
     },
     "examples": {
-      "noun": "The learning is important in environment.",
-      "adjective": "This is a learned example for environment.",
-      "verb": "Learners can learn this idea in environment.",
-      "adverb": "Use it learnedly when talking about environment."
+      "noun": "The shelterence is important in environment.",
+      "adjective": "This is a sheltering case in environment.",
+      "verb": "People often shelter when working with environment topics.",
+      "adverb": "The speaker explained it shelteringly in a environment context."
     }
   },
   {
     "id": "environment-056",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "migrate",
+    "meaningVi": "nhóm từ \"migrate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "migratal",
+      "adjective": "migratous",
+      "verb": "migrate",
+      "adverb": "migratously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"migratal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"migratous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"migrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"migratously\"."
     },
     "examples": {
-      "noun": "The management is important in environment.",
-      "adjective": "This is a manageable example for environment.",
-      "verb": "Learners can manage this idea in environment.",
-      "adverb": "Use it manageably when talking about environment."
+      "noun": "The migratal is important in environment.",
+      "adjective": "This is a migratous case in environment.",
+      "verb": "People often migrate when working with environment topics.",
+      "adverb": "The speaker explained it migratously in a environment context."
     }
   },
   {
     "id": "environment-057",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "breed",
+    "meaningVi": "nhóm từ \"breed\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "breedy",
+      "adjective": "breedary",
+      "verb": "breed",
+      "adverb": "breedarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"breedy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"breedary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"breed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"breedarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in environment.",
-      "adjective": "This is a measurable example for environment.",
-      "verb": "Learners can measure this idea in environment.",
-      "adverb": "Use it measurably when talking about environment."
+      "noun": "The breedy is important in environment.",
+      "adjective": "This is a breedary case in environment.",
+      "verb": "People often breed when working with environment topics.",
+      "adverb": "The speaker explained it breedarily in a environment context."
     }
   },
   {
     "id": "environment-058",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "nest",
+    "meaningVi": "nhóm từ \"nest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "nesture",
+      "adjective": "nestic",
+      "verb": "nest",
+      "adverb": "nestically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"nesture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"nestic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"nest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"nestically\"."
     },
     "examples": {
-      "noun": "The motivation is important in environment.",
-      "adjective": "This is a motivated example for environment.",
-      "verb": "Learners can motivate this idea in environment.",
-      "adverb": "Use it motivationally when talking about environment."
+      "noun": "The nesture is important in environment.",
+      "adjective": "This is a nestic case in environment.",
+      "verb": "People often nest when working with environment topics.",
+      "adverb": "The speaker explained it nestically in a environment context."
     }
   },
   {
     "id": "environment-059",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "graze",
+    "meaningVi": "nhóm từ \"graze\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "grazage",
+      "adjective": "grazful",
+      "verb": "graze",
+      "adverb": "grazfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"grazage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"grazful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"graze\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"grazfully\"."
     },
     "examples": {
-      "noun": "The movement is important in environment.",
-      "adjective": "This is a movable example for environment.",
-      "verb": "Learners can move this idea in environment.",
-      "adverb": "Use it movably when talking about environment."
+      "noun": "The grazage is important in environment.",
+      "adjective": "This is a grazful case in environment.",
+      "verb": "People often graze when working with environment topics.",
+      "adverb": "The speaker explained it grazfully in a environment context."
     }
   },
   {
     "id": "environment-060",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "forage",
+    "meaningVi": "nhóm từ \"forage\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "foragity",
+      "adjective": "foragant",
+      "verb": "forage",
+      "adverb": "foragantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"foragity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"foragant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"forage\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"foragantly\"."
     },
     "examples": {
-      "noun": "The observation is important in environment.",
-      "adjective": "This is a observant example for environment.",
-      "verb": "Learners can observe this idea in environment.",
-      "adverb": "Use it observantly when talking about environment."
+      "noun": "The foragity is important in environment.",
+      "adjective": "This is a foragant case in environment.",
+      "verb": "People often forage when working with environment topics.",
+      "adverb": "The speaker explained it foragantly in a environment context."
     }
   },
   {
     "id": "environment-061",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "photosynthesize",
+    "meaningVi": "nhóm từ \"photosynthesize\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "photosynthesiztion",
+      "adjective": "photosynthesizable",
+      "verb": "photosynthesize",
+      "adverb": "photosynthesizably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"photosynthesiztion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"photosynthesizable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"photosynthesize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"photosynthesizably\"."
     },
     "examples": {
-      "noun": "The organization is important in environment.",
-      "adjective": "This is a organized example for environment.",
-      "verb": "Learners can organize this idea in environment.",
-      "adverb": "Use it organizationally when talking about environment."
+      "noun": "The photosynthesiztion is important in environment.",
+      "adjective": "This is a photosynthesizable case in environment.",
+      "verb": "People often photosynthesize when working with environment topics.",
+      "adverb": "The speaker explained it photosynthesizably in a environment context."
     }
   },
   {
     "id": "environment-062",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "evaporate",
+    "meaningVi": "nhóm từ \"evaporate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "evaporatment",
+      "adjective": "evaporative",
+      "verb": "evaporate",
+      "adverb": "evaporatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"evaporatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"evaporative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"evaporate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"evaporatively\"."
     },
     "examples": {
-      "noun": "The participation is important in environment.",
-      "adjective": "This is a participatory example for environment.",
-      "verb": "Learners can participate this idea in environment.",
-      "adverb": "Use it participatively when talking about environment."
+      "noun": "The evaporatment is important in environment.",
+      "adjective": "This is a evaporative case in environment.",
+      "verb": "People often evaporate when working with environment topics.",
+      "adverb": "The speaker explained it evaporatively in a environment context."
     }
   },
   {
     "id": "environment-063",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "condense",
+    "meaningVi": "nhóm từ \"condense\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "condensing",
+      "adjective": "condensal",
+      "verb": "condense",
+      "adverb": "condensally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"condensing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"condensal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"condense\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"condensally\"."
     },
     "examples": {
-      "noun": "The performance is important in environment.",
-      "adjective": "This is a performative example for environment.",
-      "verb": "Learners can perform this idea in environment.",
-      "adverb": "Use it performatively when talking about environment."
+      "noun": "The condensing is important in environment.",
+      "adjective": "This is a condensal case in environment.",
+      "verb": "People often condense when working with environment topics.",
+      "adverb": "The speaker explained it condensally in a environment context."
     }
   },
   {
     "id": "environment-064",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "precipitate",
+    "meaningVi": "nhóm từ \"precipitate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "precipitatance",
+      "adjective": "precipitatd",
+      "verb": "precipitate",
+      "adverb": "precipitatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"precipitatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"precipitatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"precipitate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"precipitatdly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in environment.",
-      "adjective": "This is a persuasive example for environment.",
-      "verb": "Learners can persuade this idea in environment.",
-      "adverb": "Use it persuasively when talking about environment."
+      "noun": "The precipitatance is important in environment.",
+      "adjective": "This is a precipitatd case in environment.",
+      "verb": "People often precipitate when working with environment topics.",
+      "adverb": "The speaker explained it precipitatdly in a environment context."
     }
   },
   {
     "id": "environment-065",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "forecast",
+    "meaningVi": "nhóm từ \"forecast\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "forecastence",
+      "adjective": "forecasting",
+      "verb": "forecast",
+      "adverb": "forecastingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"forecastence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"forecasting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"forecast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"forecastingly\"."
     },
     "examples": {
-      "noun": "The plan is important in environment.",
-      "adjective": "This is a planned example for environment.",
-      "verb": "Learners can plan this idea in environment.",
-      "adverb": "Use it plannedly when talking about environment."
+      "noun": "The forecastence is important in environment.",
+      "adjective": "This is a forecasting case in environment.",
+      "verb": "People often forecast when working with environment topics.",
+      "adverb": "The speaker explained it forecastingly in a environment context."
     }
   },
   {
     "id": "environment-066",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "model",
+    "meaningVi": "nhóm từ \"model\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "modelal",
+      "adjective": "modelous",
+      "verb": "model",
+      "adverb": "modelously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"modelal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"modelous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"model\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"modelously\"."
     },
     "examples": {
-      "noun": "The prediction is important in environment.",
-      "adjective": "This is a predictable example for environment.",
-      "verb": "Learners can predict this idea in environment.",
-      "adverb": "Use it predictably when talking about environment."
+      "noun": "The modelal is important in environment.",
+      "adjective": "This is a modelous case in environment.",
+      "verb": "People often model when working with environment topics.",
+      "adverb": "The speaker explained it modelously in a environment context."
     }
   },
   {
     "id": "environment-067",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "assess",
+    "meaningVi": "nhóm từ \"assess\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "assessy",
+      "adjective": "assessary",
+      "verb": "assess",
+      "adverb": "assessarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assessy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assessary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assess\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assessarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in environment.",
-      "adjective": "This is a prepared example for environment.",
-      "verb": "Learners can prepare this idea in environment.",
-      "adverb": "Use it preparedly when talking about environment."
+      "noun": "The assessy is important in environment.",
+      "adjective": "This is a assessary case in environment.",
+      "verb": "People often assess when working with environment topics.",
+      "adverb": "The speaker explained it assessarily in a environment context."
     }
   },
   {
     "id": "environment-068",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "audit",
+    "meaningVi": "nhóm từ \"audit\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "auditure",
+      "adjective": "auditic",
+      "verb": "audit",
+      "adverb": "auditically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"auditure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"auditic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"audit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"auditically\"."
     },
     "examples": {
-      "noun": "The presentation is important in environment.",
-      "adjective": "This is a presentable example for environment.",
-      "verb": "Learners can present this idea in environment.",
-      "adverb": "Use it presentably when talking about environment."
+      "noun": "The auditure is important in environment.",
+      "adjective": "This is a auditic case in environment.",
+      "verb": "People often audit when working with environment topics.",
+      "adverb": "The speaker explained it auditically in a environment context."
     }
   },
   {
     "id": "environment-069",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "certify",
+    "meaningVi": "nhóm từ \"certify\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "certifyage",
+      "adjective": "certifyful",
+      "verb": "certify",
+      "adverb": "certifyfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"certifyage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"certifyful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"certify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"certifyfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in environment.",
-      "adjective": "This is a preventive example for environment.",
-      "verb": "Learners can prevent this idea in environment.",
-      "adverb": "Use it preventively when talking about environment."
+      "noun": "The certifyage is important in environment.",
+      "adjective": "This is a certifyful case in environment.",
+      "verb": "People often certify when working with environment topics.",
+      "adverb": "The speaker explained it certifyfully in a environment context."
     }
   },
   {
     "id": "environment-070",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "insulate",
+    "meaningVi": "nhóm từ \"insulate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "insulatity",
+      "adjective": "insulatant",
+      "verb": "insulate",
+      "adverb": "insulatantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"insulatity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"insulatant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"insulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"insulatantly\"."
     },
     "examples": {
-      "noun": "The production is important in environment.",
-      "adjective": "This is a productive example for environment.",
-      "verb": "Learners can produce this idea in environment.",
-      "adverb": "Use it productively when talking about environment."
+      "noun": "The insulatity is important in environment.",
+      "adjective": "This is a insulatant case in environment.",
+      "verb": "People often insulate when working with environment topics.",
+      "adverb": "The speaker explained it insulatantly in a environment context."
     }
   },
   {
     "id": "environment-071",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "weatherize",
+    "meaningVi": "nhóm từ \"weatherize\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "weatheriztion",
+      "adjective": "weatherizable",
+      "verb": "weatherize",
+      "adverb": "weatherizably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"weatheriztion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"weatherizable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"weatherize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"weatherizably\"."
     },
     "examples": {
-      "noun": "The protection is important in environment.",
-      "adjective": "This is a protective example for environment.",
-      "verb": "Learners can protect this idea in environment.",
-      "adverb": "Use it protectively when talking about environment."
+      "noun": "The weatheriztion is important in environment.",
+      "adjective": "This is a weatherizable case in environment.",
+      "verb": "People often weatherize when working with environment topics.",
+      "adverb": "The speaker explained it weatherizably in a environment context."
     }
   },
   {
     "id": "environment-072",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "electrify",
+    "meaningVi": "nhóm từ \"electrify\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "electrifyment",
+      "adjective": "electrifyive",
+      "verb": "electrify",
+      "adverb": "electrifyively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"electrifyment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"electrifyive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"electrify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"electrifyively\"."
     },
     "examples": {
-      "noun": "The question is important in environment.",
-      "adjective": "This is a questionable example for environment.",
-      "verb": "Learners can question this idea in environment.",
-      "adverb": "Use it questionably when talking about environment."
+      "noun": "The electrifyment is important in environment.",
+      "adjective": "This is a electrifyive case in environment.",
+      "verb": "People often electrify when working with environment topics.",
+      "adverb": "The speaker explained it electrifyively in a environment context."
     }
   },
   {
     "id": "environment-073",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "decarbonize",
+    "meaningVi": "nhóm từ \"decarbonize\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "decarbonizing",
+      "adjective": "decarbonizal",
+      "verb": "decarbonize",
+      "adverb": "decarbonizally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decarbonizing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decarbonizal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decarbonize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decarbonizally\"."
     },
     "examples": {
-      "noun": "The reaction is important in environment.",
-      "adjective": "This is a reactive example for environment.",
-      "verb": "Learners can react this idea in environment.",
-      "adverb": "Use it reactively when talking about environment."
+      "noun": "The decarbonizing is important in environment.",
+      "adjective": "This is a decarbonizal case in environment.",
+      "verb": "People often decarbonize when working with environment topics.",
+      "adverb": "The speaker explained it decarbonizally in a environment context."
     }
   },
   {
     "id": "environment-074",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "upcycle",
+    "meaningVi": "nhóm từ \"upcycle\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "upcyclance",
+      "adjective": "upcycld",
+      "verb": "upcycle",
+      "adverb": "upcycldly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"upcyclance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"upcycld\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"upcycle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"upcycldly\"."
     },
     "examples": {
-      "noun": "The recognition is important in environment.",
-      "adjective": "This is a recognizable example for environment.",
-      "verb": "Learners can recognize this idea in environment.",
-      "adverb": "Use it recognizably when talking about environment."
+      "noun": "The upcyclance is important in environment.",
+      "adjective": "This is a upcycld case in environment.",
+      "verb": "People often upcycle when working with environment topics.",
+      "adverb": "The speaker explained it upcycldly in a environment context."
     }
   },
   {
     "id": "environment-075",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "landfill",
+    "meaningVi": "nhóm từ \"landfill\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "landfillence",
+      "adjective": "landfilling",
+      "verb": "landfill",
+      "adverb": "landfillingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"landfillence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"landfilling\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"landfill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"landfillingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in environment.",
-      "adjective": "This is a recommendable example for environment.",
-      "verb": "Learners can recommend this idea in environment.",
-      "adverb": "Use it recommendably when talking about environment."
+      "noun": "The landfillence is important in environment.",
+      "adjective": "This is a landfilling case in environment.",
+      "verb": "People often landfill when working with environment topics.",
+      "adverb": "The speaker explained it landfillingly in a environment context."
     }
   },
   {
     "id": "environment-076",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "incinerate",
+    "meaningVi": "nhóm từ \"incinerate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "incineratal",
+      "adjective": "incineratous",
+      "verb": "incinerate",
+      "adverb": "incineratously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"incineratal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"incineratous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"incinerate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"incineratously\"."
     },
     "examples": {
-      "noun": "The reduction is important in environment.",
-      "adjective": "This is a reduced example for environment.",
-      "verb": "Learners can reduce this idea in environment.",
-      "adverb": "Use it reductively when talking about environment."
+      "noun": "The incineratal is important in environment.",
+      "adjective": "This is a incineratous case in environment.",
+      "verb": "People often incinerate when working with environment topics.",
+      "adverb": "The speaker explained it incineratously in a environment context."
     }
   },
   {
     "id": "environment-077",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "mine",
+    "meaningVi": "nhóm từ \"mine\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "miney",
+      "adjective": "mineary",
+      "verb": "mine",
+      "adverb": "minearily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"miney\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mineary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mine\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"minearily\"."
     },
     "examples": {
-      "noun": "The reflection is important in environment.",
-      "adjective": "This is a reflective example for environment.",
-      "verb": "Learners can reflect this idea in environment.",
-      "adverb": "Use it reflectively when talking about environment."
+      "noun": "The miney is important in environment.",
+      "adjective": "This is a mineary case in environment.",
+      "verb": "People often mine when working with environment topics.",
+      "adverb": "The speaker explained it minearily in a environment context."
     }
   },
   {
     "id": "environment-078",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "drill",
+    "meaningVi": "nhóm từ \"drill\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "drillure",
+      "adjective": "drillic",
+      "verb": "drill",
+      "adverb": "drillically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"drillure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"drillic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"drill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"drillically\"."
     },
     "examples": {
-      "noun": "The relation is important in environment.",
-      "adjective": "This is a related example for environment.",
-      "verb": "Learners can relate this idea in environment.",
-      "adverb": "Use it relatedly when talking about environment."
+      "noun": "The drillure is important in environment.",
+      "adjective": "This is a drillic case in environment.",
+      "verb": "People often drill when working with environment topics.",
+      "adverb": "The speaker explained it drillically in a environment context."
     }
   },
   {
     "id": "environment-079",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "extract",
+    "meaningVi": "nhóm từ \"extract\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "extractage",
+      "adjective": "extractful",
+      "verb": "extract",
+      "adverb": "extractfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"extractage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"extractful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"extract\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"extractfully\"."
     },
     "examples": {
-      "noun": "The memory is important in environment.",
-      "adjective": "This is a memorable example for environment.",
-      "verb": "Learners can remember this idea in environment.",
-      "adverb": "Use it memorably when talking about environment."
+      "noun": "The extractage is important in environment.",
+      "adjective": "This is a extractful case in environment.",
+      "verb": "People often extract when working with environment topics.",
+      "adverb": "The speaker explained it extractfully in a environment context."
     }
   },
   {
     "id": "environment-080",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "refine",
+    "meaningVi": "nhóm từ \"refine\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "refinity",
+      "adjective": "refinant",
+      "verb": "refine",
+      "adverb": "refinantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refinity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"refinant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refine\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"refinantly\"."
     },
     "examples": {
-      "noun": "The repair is important in environment.",
-      "adjective": "This is a repairable example for environment.",
-      "verb": "Learners can repair this idea in environment.",
-      "adverb": "Use it repairably when talking about environment."
+      "noun": "The refinity is important in environment.",
+      "adjective": "This is a refinant case in environment.",
+      "verb": "People often refine when working with environment topics.",
+      "adverb": "The speaker explained it refinantly in a environment context."
     }
   },
   {
     "id": "environment-081",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "spill",
+    "meaningVi": "nhóm từ \"spill\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "spilltion",
+      "adjective": "spillable",
+      "verb": "spill",
+      "adverb": "spillably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"spilltion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"spillable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"spill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"spillably\"."
     },
     "examples": {
-      "noun": "The research is important in environment.",
-      "adjective": "This is a researchable example for environment.",
-      "verb": "Learners can research this idea in environment.",
-      "adverb": "Use it researchably when talking about environment."
+      "noun": "The spilltion is important in environment.",
+      "adjective": "This is a spillable case in environment.",
+      "verb": "People often spill when working with environment topics.",
+      "adverb": "The speaker explained it spillably in a environment context."
     }
   },
   {
     "id": "environment-082",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "leak",
+    "meaningVi": "nhóm từ \"leak\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "leakment",
+      "adjective": "leakive",
+      "verb": "leak",
+      "adverb": "leakively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"leakment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"leakive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"leak\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"leakively\"."
     },
     "examples": {
-      "noun": "The response is important in environment.",
-      "adjective": "This is a responsive example for environment.",
-      "verb": "Learners can respond this idea in environment.",
-      "adverb": "Use it responsively when talking about environment."
+      "noun": "The leakment is important in environment.",
+      "adjective": "This is a leakive case in environment.",
+      "verb": "People often leak when working with environment topics.",
+      "adverb": "The speaker explained it leakively in a environment context."
     }
   },
   {
     "id": "environment-083",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "contain",
+    "meaningVi": "nhóm từ \"contain\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "containing",
+      "adjective": "containal",
+      "verb": "contain",
+      "adverb": "containally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"containing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"containal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"contain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"containally\"."
     },
     "examples": {
-      "noun": "The revision is important in environment.",
-      "adjective": "This is a revised example for environment.",
-      "verb": "Learners can revise this idea in environment.",
-      "adverb": "Use it revisedly when talking about environment."
+      "noun": "The containing is important in environment.",
+      "adjective": "This is a containal case in environment.",
+      "verb": "People often contain when working with environment topics.",
+      "adverb": "The speaker explained it containally in a environment context."
     }
   },
   {
     "id": "environment-084",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "climate",
+    "meaningVi": "nhóm từ \"climate\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "climatance",
+      "adjective": "climatd",
+      "verb": "climate",
+      "adverb": "climatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"climatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"climatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"climate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"climatdly\"."
     },
     "examples": {
-      "noun": "The selection is important in environment.",
-      "adjective": "This is a selective example for environment.",
-      "verb": "Learners can select this idea in environment.",
-      "adverb": "Use it selectively when talking about environment."
+      "noun": "The climatance is important in environment.",
+      "adjective": "This is a climatd case in environment.",
+      "verb": "People often climate when working with environment topics.",
+      "adverb": "The speaker explained it climatdly in a environment context."
     }
   },
   {
     "id": "environment-085",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "biodiversity",
+    "meaningVi": "nhóm từ \"biodiversity\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "biodiversityence",
+      "adjective": "biodiversitying",
+      "verb": "biodiversity",
+      "adverb": "biodiversityingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"biodiversityence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"biodiversitying\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"biodiversity\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"biodiversityingly\"."
     },
     "examples": {
-      "noun": "The solution is important in environment.",
-      "adjective": "This is a solvable example for environment.",
-      "verb": "Learners can solve this idea in environment.",
-      "adverb": "Use it solvably when talking about environment."
+      "noun": "The biodiversityence is important in environment.",
+      "adjective": "This is a biodiversitying case in environment.",
+      "verb": "People often biodiversity when working with environment topics.",
+      "adverb": "The speaker explained it biodiversityingly in a environment context."
     }
   },
   {
     "id": "environment-086",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "ecosystem",
+    "meaningVi": "nhóm từ \"ecosystem\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "ecosystemal",
+      "adjective": "ecosystemous",
+      "verb": "ecosystem",
+      "adverb": "ecosystemously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"ecosystemal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"ecosystemous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ecosystem\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"ecosystemously\"."
     },
     "examples": {
-      "noun": "The specialization is important in environment.",
-      "adjective": "This is a specialized example for environment.",
-      "verb": "Learners can specialize this idea in environment.",
-      "adverb": "Use it specially when talking about environment."
+      "noun": "The ecosystemal is important in environment.",
+      "adjective": "This is a ecosystemous case in environment.",
+      "verb": "People often ecosystem when working with environment topics.",
+      "adverb": "The speaker explained it ecosystemously in a environment context."
     }
   },
   {
     "id": "environment-087",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "watershed",
+    "meaningVi": "nhóm từ \"watershed\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "watershedy",
+      "adjective": "watershedary",
+      "verb": "watershed",
+      "adverb": "watershedarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"watershedy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"watershedary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"watershed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"watershedarily\"."
     },
     "examples": {
-      "noun": "The strength is important in environment.",
-      "adjective": "This is a strong example for environment.",
-      "verb": "Learners can strengthen this idea in environment.",
-      "adverb": "Use it strongly when talking about environment."
+      "noun": "The watershedy is important in environment.",
+      "adjective": "This is a watershedary case in environment.",
+      "verb": "People often watershed when working with environment topics.",
+      "adverb": "The speaker explained it watershedarily in a environment context."
     }
   },
   {
     "id": "environment-088",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "wetland",
+    "meaningVi": "nhóm từ \"wetland\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "wetlandure",
+      "adjective": "wetlandic",
+      "verb": "wetland",
+      "adverb": "wetlandically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"wetlandure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"wetlandic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"wetland\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"wetlandically\"."
     },
     "examples": {
-      "noun": "The study is important in environment.",
-      "adjective": "This is a studious example for environment.",
-      "verb": "Learners can study this idea in environment.",
-      "adverb": "Use it studiously when talking about environment."
+      "noun": "The wetlandure is important in environment.",
+      "adjective": "This is a wetlandic case in environment.",
+      "verb": "People often wetland when working with environment topics.",
+      "adverb": "The speaker explained it wetlandically in a environment context."
     }
   },
   {
     "id": "environment-089",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "forest",
+    "meaningVi": "nhóm từ \"forest\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "forestage",
+      "adjective": "forestful",
+      "verb": "forest",
+      "adverb": "forestfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"forestage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"forestful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"forest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"forestfully\"."
     },
     "examples": {
-      "noun": "The success is important in environment.",
-      "adjective": "This is a successful example for environment.",
-      "verb": "Learners can succeed this idea in environment.",
-      "adverb": "Use it successfully when talking about environment."
+      "noun": "The forestage is important in environment.",
+      "adjective": "This is a forestful case in environment.",
+      "verb": "People often forest when working with environment topics.",
+      "adverb": "The speaker explained it forestfully in a environment context."
     }
   },
   {
     "id": "environment-090",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "ocean",
+    "meaningVi": "nhóm từ \"ocean\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "oceanity",
+      "adjective": "oceanant",
+      "verb": "ocean",
+      "adverb": "oceanantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"oceanity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"oceanant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ocean\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"oceanantly\"."
     },
     "examples": {
-      "noun": "The support is important in environment.",
-      "adjective": "This is a supportive example for environment.",
-      "verb": "Learners can support this idea in environment.",
-      "adverb": "Use it supportively when talking about environment."
+      "noun": "The oceanity is important in environment.",
+      "adjective": "This is a oceanant case in environment.",
+      "verb": "People often ocean when working with environment topics.",
+      "adverb": "The speaker explained it oceanantly in a environment context."
     }
   },
   {
     "id": "environment-091",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "atmosphere",
+    "meaningVi": "nhóm từ \"atmosphere\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "atmosphertion",
+      "adjective": "atmospherable",
+      "verb": "atmosphere",
+      "adverb": "atmospherably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"atmosphertion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"atmospherable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"atmosphere\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"atmospherably\"."
     },
     "examples": {
-      "noun": "The teaching is important in environment.",
-      "adjective": "This is a teachable example for environment.",
-      "verb": "Learners can teach this idea in environment.",
-      "adverb": "Use it teachably when talking about environment."
+      "noun": "The atmosphertion is important in environment.",
+      "adjective": "This is a atmospherable case in environment.",
+      "verb": "People often atmosphere when working with environment topics.",
+      "adverb": "The speaker explained it atmospherably in a environment context."
     }
   },
   {
     "id": "environment-092",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "emission",
+    "meaningVi": "nhóm từ \"emission\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "emissionment",
+      "adjective": "emissionive",
+      "verb": "emission",
+      "adverb": "emissionively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"emissionment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"emissionive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"emission\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"emissionively\"."
     },
     "examples": {
-      "noun": "The transformation is important in environment.",
-      "adjective": "This is a transformative example for environment.",
-      "verb": "Learners can transform this idea in environment.",
-      "adverb": "Use it transformatively when talking about environment."
+      "noun": "The emissionment is important in environment.",
+      "adjective": "This is a emissionive case in environment.",
+      "verb": "People often emission when working with environment topics.",
+      "adverb": "The speaker explained it emissionively in a environment context."
     }
   },
   {
     "id": "environment-093",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "carbon",
+    "meaningVi": "nhóm từ \"carbon\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "carboning",
+      "adjective": "carbonal",
+      "verb": "carbon",
+      "adverb": "carbonally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"carboning\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"carbonal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"carbon\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"carbonally\"."
     },
     "examples": {
-      "noun": "The translation is important in environment.",
-      "adjective": "This is a translatable example for environment.",
-      "verb": "Learners can translate this idea in environment.",
-      "adverb": "Use it translatably when talking about environment."
+      "noun": "The carboning is important in environment.",
+      "adjective": "This is a carbonal case in environment.",
+      "verb": "People often carbon when working with environment topics.",
+      "adverb": "The speaker explained it carbonally in a environment context."
     }
   },
   {
     "id": "environment-094",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "methane",
+    "meaningVi": "nhóm từ \"methane\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "methanance",
+      "adjective": "methand",
+      "verb": "methane",
+      "adverb": "methandly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"methanance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"methand\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"methane\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"methandly\"."
     },
     "examples": {
-      "noun": "The understanding is important in environment.",
-      "adjective": "This is a understandable example for environment.",
-      "verb": "Learners can understand this idea in environment.",
-      "adverb": "Use it understandably when talking about environment."
+      "noun": "The methanance is important in environment.",
+      "adjective": "This is a methand case in environment.",
+      "verb": "People often methane when working with environment topics.",
+      "adverb": "The speaker explained it methandly in a environment context."
     }
   },
   {
     "id": "environment-095",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "plastic",
+    "meaningVi": "nhóm từ \"plastic\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "plasticence",
+      "adjective": "plasticing",
+      "verb": "plastic",
+      "adverb": "plasticingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"plasticence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"plasticing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"plastic\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"plasticingly\"."
     },
     "examples": {
-      "noun": "The use is important in environment.",
-      "adjective": "This is a useful example for environment.",
-      "verb": "Learners can use this idea in environment.",
-      "adverb": "Use it usefully when talking about environment."
+      "noun": "The plasticence is important in environment.",
+      "adjective": "This is a plasticing case in environment.",
+      "verb": "People often plastic when working with environment topics.",
+      "adverb": "The speaker explained it plasticingly in a environment context."
     }
   },
   {
     "id": "environment-096",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "waste",
+    "meaningVi": "nhóm từ \"waste\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "wastal",
+      "adjective": "wastous",
+      "verb": "waste",
+      "adverb": "wastously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"wastal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"wastous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"waste\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"wastously\"."
     },
     "examples": {
-      "noun": "The variation is important in environment.",
-      "adjective": "This is a variable example for environment.",
-      "verb": "Learners can vary this idea in environment.",
-      "adverb": "Use it variably when talking about environment."
+      "noun": "The wastal is important in environment.",
+      "adjective": "This is a wastous case in environment.",
+      "verb": "People often waste when working with environment topics.",
+      "adverb": "The speaker explained it wastously in a environment context."
     }
   },
   {
     "id": "environment-097",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "wildlife",
+    "meaningVi": "nhóm từ \"wildlife\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "wildlify",
+      "adjective": "wildlifary",
+      "verb": "wildlife",
+      "adverb": "wildlifarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"wildlify\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"wildlifary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"wildlife\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"wildlifarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in environment.",
-      "adjective": "This is a visual example for environment.",
-      "verb": "Learners can visualize this idea in environment.",
-      "adverb": "Use it visually when talking about environment."
+      "noun": "The wildlify is important in environment.",
+      "adjective": "This is a wildlifary case in environment.",
+      "verb": "People often wildlife when working with environment topics.",
+      "adverb": "The speaker explained it wildlifarily in a environment context."
     }
   },
   {
     "id": "environment-098",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "soil",
+    "meaningVi": "nhóm từ \"soil\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "soilure",
+      "adjective": "soilic",
+      "verb": "soil",
+      "adverb": "soilically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"soilure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"soilic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"soil\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"soilically\"."
     },
     "examples": {
-      "noun": "The writing is important in environment.",
-      "adjective": "This is a written example for environment.",
-      "verb": "Learners can write this idea in environment.",
-      "adverb": "Use it writerly when talking about environment."
+      "noun": "The soilure is important in environment.",
+      "adjective": "This is a soilic case in environment.",
+      "verb": "People often soil when working with environment topics.",
+      "adverb": "The speaker explained it soilically in a environment context."
     }
   },
   {
     "id": "environment-099",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "wildfire",
+    "meaningVi": "nhóm từ \"wildfire\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "wildfirage",
+      "adjective": "wildfirful",
+      "verb": "wildfire",
+      "adverb": "wildfirfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"wildfirage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"wildfirful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"wildfire\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"wildfirfully\"."
     },
     "examples": {
-      "noun": "The listening is important in environment.",
-      "adjective": "This is a listenable example for environment.",
-      "verb": "Learners can listen this idea in environment.",
-      "adverb": "Use it listeningly when talking about environment."
+      "noun": "The wildfirage is important in environment.",
+      "adjective": "This is a wildfirful case in environment.",
+      "verb": "People often wildfire when working with environment topics.",
+      "adverb": "The speaker explained it wildfirfully in a environment context."
     }
   },
   {
     "id": "environment-100",
     "topic": "Environment",
     "topicVi": "Môi trường",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "conservation",
+    "meaningVi": "nhóm từ \"conservation\" thường gặp trong chủ đề Môi trường",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "conservationity",
+      "adjective": "conservationant",
+      "verb": "conservation",
+      "adverb": "conservationantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"conservationity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"conservationant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"conservation\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"conservationantly\"."
     },
     "examples": {
-      "noun": "The practice is important in environment.",
-      "adjective": "This is a practical example for environment.",
-      "verb": "Learners can practice this idea in environment.",
-      "adverb": "Use it practically when talking about environment."
+      "noun": "The conservationity is important in environment.",
+      "adjective": "This is a conservationant case in environment.",
+      "verb": "People often conservation when working with environment topics.",
+      "adverb": "The speaker explained it conservationantly in a environment context."
     }
   }
 ]

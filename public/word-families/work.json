@@ -3,2500 +3,2500 @@
     "id": "work-001",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "hire",
+    "meaningVi": "nhóm từ \"hire\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "hiretion",
+      "adjective": "hireable",
+      "verb": "hire",
+      "adverb": "hireably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hiretion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hireable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"hire\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hireably\"."
     },
     "examples": {
-      "noun": "The action is important in work.",
-      "adjective": "This is a active example for work.",
-      "verb": "Learners can act this idea in work.",
-      "adverb": "Use it actively when talking about work."
+      "noun": "The hiretion is important in work.",
+      "adjective": "This is a hireable case in work.",
+      "verb": "People often hire when working with work topics.",
+      "adverb": "The speaker explained it hireably in a work context."
     }
   },
   {
     "id": "work-002",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "recruit",
+    "meaningVi": "nhóm từ \"recruit\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "recruitment",
+      "adjective": "recruitive",
+      "verb": "recruit",
+      "adverb": "recruitively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recruitment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"recruitive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recruit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recruitively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in work.",
-      "adjective": "This is a adaptable example for work.",
-      "verb": "Learners can adapt this idea in work.",
-      "adverb": "Use it adaptably when talking about work."
+      "noun": "The recruitment is important in work.",
+      "adjective": "This is a recruitive case in work.",
+      "verb": "People often recruit when working with work topics.",
+      "adverb": "The speaker explained it recruitively in a work context."
     }
   },
   {
     "id": "work-003",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "onboard",
+    "meaningVi": "nhóm từ \"onboard\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "onboarding",
+      "adjective": "onboardal",
+      "verb": "onboard",
+      "adverb": "onboardally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"onboarding\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"onboardal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"onboard\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"onboardally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in work.",
-      "adjective": "This is a adjustable example for work.",
-      "verb": "Learners can adjust this idea in work.",
-      "adverb": "Use it adjustably when talking about work."
+      "noun": "The onboarding is important in work.",
+      "adjective": "This is a onboardal case in work.",
+      "verb": "People often onboard when working with work topics.",
+      "adverb": "The speaker explained it onboardally in a work context."
     }
   },
   {
     "id": "work-004",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "train",
+    "meaningVi": "nhóm từ \"train\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "trainance",
+      "adjective": "trained",
+      "verb": "train",
+      "adverb": "trainedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trainance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"trained\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"train\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trainedly\"."
     },
     "examples": {
-      "noun": "The admiration is important in work.",
-      "adjective": "This is a admirable example for work.",
-      "verb": "Learners can admire this idea in work.",
-      "adverb": "Use it admirably when talking about work."
+      "noun": "The trainance is important in work.",
+      "adjective": "This is a trained case in work.",
+      "verb": "People often train when working with work topics.",
+      "adverb": "The speaker explained it trainedly in a work context."
     }
   },
   {
     "id": "work-005",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "delegate",
+    "meaningVi": "nhóm từ \"delegate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "delegatence",
+      "adjective": "delegating",
+      "verb": "delegate",
+      "adverb": "delegatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"delegatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"delegating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"delegate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"delegatingly\"."
     },
     "examples": {
-      "noun": "The advice is important in work.",
-      "adjective": "This is a advisable example for work.",
-      "verb": "Learners can advise this idea in work.",
-      "adverb": "Use it advisably when talking about work."
+      "noun": "The delegatence is important in work.",
+      "adjective": "This is a delegating case in work.",
+      "verb": "People often delegate when working with work topics.",
+      "adverb": "The speaker explained it delegatingly in a work context."
     }
   },
   {
     "id": "work-006",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "supervise",
+    "meaningVi": "nhóm từ \"supervise\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "supervisal",
+      "adjective": "supervisous",
+      "verb": "supervise",
+      "adverb": "supervisously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supervisal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supervisous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"supervise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supervisously\"."
     },
     "examples": {
-      "noun": "The analysis is important in work.",
-      "adjective": "This is a analytical example for work.",
-      "verb": "Learners can analyze this idea in work.",
-      "adverb": "Use it analytically when talking about work."
+      "noun": "The supervisal is important in work.",
+      "adjective": "This is a supervisous case in work.",
+      "verb": "People often supervise when working with work topics.",
+      "adverb": "The speaker explained it supervisously in a work context."
     }
   },
   {
     "id": "work-007",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "manage",
+    "meaningVi": "nhóm từ \"manage\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "managy",
+      "adjective": "managary",
+      "verb": "manage",
+      "adverb": "managarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"managy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"managary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"manage\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"managarily\"."
     },
     "examples": {
-      "noun": "The application is important in work.",
-      "adjective": "This is a applicable example for work.",
-      "verb": "Learners can apply this idea in work.",
-      "adverb": "Use it applicably when talking about work."
+      "noun": "The managy is important in work.",
+      "adjective": "This is a managary case in work.",
+      "verb": "People often manage when working with work topics.",
+      "adverb": "The speaker explained it managarily in a work context."
     }
   },
   {
     "id": "work-008",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "lead",
+    "meaningVi": "nhóm từ \"lead\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "leadure",
+      "adjective": "leadic",
+      "verb": "lead",
+      "adverb": "leadically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"leadure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"leadic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lead\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"leadically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in work.",
-      "adjective": "This is a arranged example for work.",
-      "verb": "Learners can arrange this idea in work.",
-      "adverb": "Use it arrangedly when talking about work."
+      "noun": "The leadure is important in work.",
+      "adjective": "This is a leadic case in work.",
+      "verb": "People often lead when working with work topics.",
+      "adverb": "The speaker explained it leadically in a work context."
     }
   },
   {
     "id": "work-009",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "coordinate",
+    "meaningVi": "nhóm từ \"coordinate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "coordinatage",
+      "adjective": "coordinatful",
+      "verb": "coordinate",
+      "adverb": "coordinatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coordinatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coordinatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"coordinate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coordinatfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in work.",
-      "adjective": "This is a assessable example for work.",
-      "verb": "Learners can assess this idea in work.",
-      "adverb": "Use it assessably when talking about work."
+      "noun": "The coordinatage is important in work.",
+      "adjective": "This is a coordinatful case in work.",
+      "verb": "People often coordinate when working with work topics.",
+      "adverb": "The speaker explained it coordinatfully in a work context."
     }
   },
   {
     "id": "work-010",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "schedule",
+    "meaningVi": "nhóm từ \"schedule\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "schedulity",
+      "adjective": "schedulant",
+      "verb": "schedule",
+      "adverb": "schedulantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"schedulity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"schedulant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"schedule\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"schedulantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in work.",
-      "adjective": "This is a assistant example for work.",
-      "verb": "Learners can assist this idea in work.",
-      "adverb": "Use it assistively when talking about work."
+      "noun": "The schedulity is important in work.",
+      "adjective": "This is a schedulant case in work.",
+      "verb": "People often schedule when working with work topics.",
+      "adverb": "The speaker explained it schedulantly in a work context."
     }
   },
   {
     "id": "work-011",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "report",
+    "meaningVi": "nhóm từ \"report\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "reporttion",
+      "adjective": "reportable",
+      "verb": "report",
+      "adverb": "reportably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reporttion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reportable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"report\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reportably\"."
     },
     "examples": {
-      "noun": "The attendance is important in work.",
-      "adjective": "This is a attentive example for work.",
-      "verb": "Learners can attend this idea in work.",
-      "adverb": "Use it attentively when talking about work."
+      "noun": "The reporttion is important in work.",
+      "adjective": "This is a reportable case in work.",
+      "verb": "People often report when working with work topics.",
+      "adverb": "The speaker explained it reportably in a work context."
     }
   },
   {
     "id": "work-012",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "brief",
+    "meaningVi": "nhóm từ \"brief\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "briefment",
+      "adjective": "briefive",
+      "verb": "brief",
+      "adverb": "briefively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"briefment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"briefive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"brief\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"briefively\"."
     },
     "examples": {
-      "noun": "The benefit is important in work.",
-      "adjective": "This is a beneficial example for work.",
-      "verb": "Learners can benefit this idea in work.",
-      "adverb": "Use it beneficially when talking about work."
+      "noun": "The briefment is important in work.",
+      "adjective": "This is a briefive case in work.",
+      "verb": "People often brief when working with work topics.",
+      "adverb": "The speaker explained it briefively in a work context."
     }
   },
   {
     "id": "work-013",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "present",
+    "meaningVi": "nhóm từ \"present\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "presenting",
+      "adjective": "presental",
+      "verb": "present",
+      "adverb": "presentally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"presenting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"presental\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"present\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"presentally\"."
     },
     "examples": {
-      "noun": "The calculation is important in work.",
-      "adjective": "This is a calculable example for work.",
-      "verb": "Learners can calculate this idea in work.",
-      "adverb": "Use it calculably when talking about work."
+      "noun": "The presenting is important in work.",
+      "adjective": "This is a presental case in work.",
+      "verb": "People often present when working with work topics.",
+      "adverb": "The speaker explained it presentally in a work context."
     }
   },
   {
     "id": "work-014",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "negotiate",
+    "meaningVi": "nhóm từ \"negotiate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "negotiatance",
+      "adjective": "negotiatd",
+      "verb": "negotiate",
+      "adverb": "negotiatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"negotiatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"negotiatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"negotiate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"negotiatdly\"."
     },
     "examples": {
-      "noun": "The care is important in work.",
-      "adjective": "This is a careful example for work.",
-      "verb": "Learners can care this idea in work.",
-      "adverb": "Use it carefully when talking about work."
+      "noun": "The negotiatance is important in work.",
+      "adjective": "This is a negotiatd case in work.",
+      "verb": "People often negotiate when working with work topics.",
+      "adverb": "The speaker explained it negotiatdly in a work context."
     }
   },
   {
     "id": "work-015",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "email",
+    "meaningVi": "nhóm từ \"email\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "emailence",
+      "adjective": "emailing",
+      "verb": "email",
+      "adverb": "emailingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"emailence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"emailing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"email\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"emailingly\"."
     },
     "examples": {
-      "noun": "The change is important in work.",
-      "adjective": "This is a changeable example for work.",
-      "verb": "Learners can change this idea in work.",
-      "adverb": "Use it changeably when talking about work."
+      "noun": "The emailence is important in work.",
+      "adjective": "This is a emailing case in work.",
+      "verb": "People often email when working with work topics.",
+      "adverb": "The speaker explained it emailingly in a work context."
     }
   },
   {
     "id": "work-016",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "message",
+    "meaningVi": "nhóm từ \"message\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "messagal",
+      "adjective": "messagous",
+      "verb": "message",
+      "adverb": "messagously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"messagal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"messagous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"message\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"messagously\"."
     },
     "examples": {
-      "noun": "The communication is important in work.",
-      "adjective": "This is a communicative example for work.",
-      "verb": "Learners can communicate this idea in work.",
-      "adverb": "Use it communicatively when talking about work."
+      "noun": "The messagal is important in work.",
+      "adjective": "This is a messagous case in work.",
+      "verb": "People often message when working with work topics.",
+      "adverb": "The speaker explained it messagously in a work context."
     }
   },
   {
     "id": "work-017",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "call",
+    "meaningVi": "nhóm từ \"call\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "cally",
+      "adjective": "callary",
+      "verb": "call",
+      "adverb": "callarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cally\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"callary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"call\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"callarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in work.",
-      "adjective": "This is a comparative example for work.",
-      "verb": "Learners can compare this idea in work.",
-      "adverb": "Use it comparatively when talking about work."
+      "noun": "The cally is important in work.",
+      "adjective": "This is a callary case in work.",
+      "verb": "People often call when working with work topics.",
+      "adverb": "The speaker explained it callarily in a work context."
     }
   },
   {
     "id": "work-018",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "meet",
+    "meaningVi": "nhóm từ \"meet\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "meeture",
+      "adjective": "meetic",
+      "verb": "meet",
+      "adverb": "meetically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"meeture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"meetic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"meet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"meetically\"."
     },
     "examples": {
-      "noun": "The competition is important in work.",
-      "adjective": "This is a competitive example for work.",
-      "verb": "Learners can compete this idea in work.",
-      "adverb": "Use it competitively when talking about work."
+      "noun": "The meeture is important in work.",
+      "adjective": "This is a meetic case in work.",
+      "verb": "People often meet when working with work topics.",
+      "adverb": "The speaker explained it meetically in a work context."
     }
   },
   {
     "id": "work-019",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "collaborate",
+    "meaningVi": "nhóm từ \"collaborate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "collaboratage",
+      "adjective": "collaboratful",
+      "verb": "collaborate",
+      "adverb": "collaboratfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"collaboratage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"collaboratful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"collaborate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"collaboratfully\"."
     },
     "examples": {
-      "noun": "The completion is important in work.",
-      "adjective": "This is a complete example for work.",
-      "verb": "Learners can complete this idea in work.",
-      "adverb": "Use it completely when talking about work."
+      "noun": "The collaboratage is important in work.",
+      "adjective": "This is a collaboratful case in work.",
+      "verb": "People often collaborate when working with work topics.",
+      "adverb": "The speaker explained it collaboratfully in a work context."
     }
   },
   {
     "id": "work-020",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "prioritize",
+    "meaningVi": "nhóm từ \"prioritize\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "prioritizity",
+      "adjective": "prioritizant",
+      "verb": "prioritize",
+      "adverb": "prioritizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prioritizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prioritizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prioritize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prioritizantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in work.",
-      "adjective": "This is a concentrated example for work.",
-      "verb": "Learners can concentrate this idea in work.",
-      "adverb": "Use it concentratedly when talking about work."
+      "noun": "The prioritizity is important in work.",
+      "adjective": "This is a prioritizant case in work.",
+      "verb": "People often prioritize when working with work topics.",
+      "adverb": "The speaker explained it prioritizantly in a work context."
     }
   },
   {
     "id": "work-021",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "troubleshoot",
+    "meaningVi": "nhóm từ \"troubleshoot\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "troubleshoottion",
+      "adjective": "troubleshootable",
+      "verb": "troubleshoot",
+      "adverb": "troubleshootably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"troubleshoottion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"troubleshootable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"troubleshoot\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"troubleshootably\"."
     },
     "examples": {
-      "noun": "The connection is important in work.",
-      "adjective": "This is a connected example for work.",
-      "verb": "Learners can connect this idea in work.",
-      "adverb": "Use it connectedly when talking about work."
+      "noun": "The troubleshoottion is important in work.",
+      "adjective": "This is a troubleshootable case in work.",
+      "verb": "People often troubleshoot when working with work topics.",
+      "adverb": "The speaker explained it troubleshootably in a work context."
     }
   },
   {
     "id": "work-022",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "document",
+    "meaningVi": "nhóm từ \"document\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "documentment",
+      "adjective": "documentive",
+      "verb": "document",
+      "adverb": "documentively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"documentment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"documentive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"document\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"documentively\"."
     },
     "examples": {
-      "noun": "The consideration is important in work.",
-      "adjective": "This is a considerate example for work.",
-      "verb": "Learners can consider this idea in work.",
-      "adverb": "Use it considerately when talking about work."
+      "noun": "The documentment is important in work.",
+      "adjective": "This is a documentive case in work.",
+      "verb": "People often document when working with work topics.",
+      "adverb": "The speaker explained it documentively in a work context."
     }
   },
   {
     "id": "work-023",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "automate",
+    "meaningVi": "nhóm từ \"automate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "automating",
+      "adjective": "automatal",
+      "verb": "automate",
+      "adverb": "automatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"automating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"automatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"automate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"automatally\"."
     },
     "examples": {
-      "noun": "The creation is important in work.",
-      "adjective": "This is a creative example for work.",
-      "verb": "Learners can create this idea in work.",
-      "adverb": "Use it creatively when talking about work."
+      "noun": "The automating is important in work.",
+      "adjective": "This is a automatal case in work.",
+      "verb": "People often automate when working with work topics.",
+      "adverb": "The speaker explained it automatally in a work context."
     }
   },
   {
     "id": "work-024",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "optimize",
+    "meaningVi": "nhóm từ \"optimize\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "optimizance",
+      "adjective": "optimizd",
+      "verb": "optimize",
+      "adverb": "optimizdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"optimizance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"optimizd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"optimize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"optimizdly\"."
     },
     "examples": {
-      "noun": "The decision is important in work.",
-      "adjective": "This is a decisive example for work.",
-      "verb": "Learners can decide this idea in work.",
-      "adverb": "Use it decisively when talking about work."
+      "noun": "The optimizance is important in work.",
+      "adjective": "This is a optimizd case in work.",
+      "verb": "People often optimize when working with work topics.",
+      "adverb": "The speaker explained it optimizdly in a work context."
     }
   },
   {
     "id": "work-025",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "review",
+    "meaningVi": "nhóm từ \"review\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "reviewence",
+      "adjective": "reviewing",
+      "verb": "review",
+      "adverb": "reviewingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reviewence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reviewing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"review\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reviewingly\"."
     },
     "examples": {
-      "noun": "The definition is important in work.",
-      "adjective": "This is a definite example for work.",
-      "verb": "Learners can define this idea in work.",
-      "adverb": "Use it definitely when talking about work."
+      "noun": "The reviewence is important in work.",
+      "adjective": "This is a reviewing case in work.",
+      "verb": "People often review when working with work topics.",
+      "adverb": "The speaker explained it reviewingly in a work context."
     }
   },
   {
     "id": "work-026",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "approve",
+    "meaningVi": "nhóm từ \"approve\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "approval",
+      "adjective": "approvous",
+      "verb": "approve",
+      "adverb": "approvously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"approval\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"approvous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"approve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"approvously\"."
     },
     "examples": {
-      "noun": "The delivery is important in work.",
-      "adjective": "This is a deliverable example for work.",
-      "verb": "Learners can deliver this idea in work.",
-      "adverb": "Use it deliverably when talking about work."
+      "noun": "The approval is important in work.",
+      "adjective": "This is a approvous case in work.",
+      "verb": "People often approve when working with work topics.",
+      "adverb": "The speaker explained it approvously in a work context."
     }
   },
   {
     "id": "work-027",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "reject",
+    "meaningVi": "nhóm từ \"reject\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "rejecty",
+      "adjective": "rejectary",
+      "verb": "reject",
+      "adverb": "rejectarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rejecty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rejectary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reject\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rejectarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in work.",
-      "adjective": "This is a dependent example for work.",
-      "verb": "Learners can depend this idea in work.",
-      "adverb": "Use it dependently when talking about work."
+      "noun": "The rejecty is important in work.",
+      "adjective": "This is a rejectary case in work.",
+      "verb": "People often reject when working with work topics.",
+      "adverb": "The speaker explained it rejectarily in a work context."
     }
   },
   {
     "id": "work-028",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "escalate",
+    "meaningVi": "nhóm từ \"escalate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "escalature",
+      "adjective": "escalatic",
+      "verb": "escalate",
+      "adverb": "escalatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"escalature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"escalatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"escalate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"escalatically\"."
     },
     "examples": {
-      "noun": "The description is important in work.",
-      "adjective": "This is a descriptive example for work.",
-      "verb": "Learners can describe this idea in work.",
-      "adverb": "Use it descriptively when talking about work."
+      "noun": "The escalature is important in work.",
+      "adjective": "This is a escalatic case in work.",
+      "verb": "People often escalate when working with work topics.",
+      "adverb": "The speaker explained it escalatically in a work context."
     }
   },
   {
     "id": "work-029",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "resolve",
+    "meaningVi": "nhóm từ \"resolve\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "resolvage",
+      "adjective": "resolvful",
+      "verb": "resolve",
+      "adverb": "resolvfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"resolvage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"resolvful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"resolve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"resolvfully\"."
     },
     "examples": {
-      "noun": "The design is important in work.",
-      "adjective": "This is a designed example for work.",
-      "verb": "Learners can design this idea in work.",
-      "adverb": "Use it designedly when talking about work."
+      "noun": "The resolvage is important in work.",
+      "adjective": "This is a resolvful case in work.",
+      "verb": "People often resolve when working with work topics.",
+      "adverb": "The speaker explained it resolvfully in a work context."
     }
   },
   {
     "id": "work-030",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "invoice",
+    "meaningVi": "nhóm từ \"invoice\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "invoicity",
+      "adjective": "invoicant",
+      "verb": "invoice",
+      "adverb": "invoicantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"invoicity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"invoicant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"invoice\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"invoicantly\"."
     },
     "examples": {
-      "noun": "The development is important in work.",
-      "adjective": "This is a developed example for work.",
-      "verb": "Learners can develop this idea in work.",
-      "adverb": "Use it developmentally when talking about work."
+      "noun": "The invoicity is important in work.",
+      "adjective": "This is a invoicant case in work.",
+      "verb": "People often invoice when working with work topics.",
+      "adverb": "The speaker explained it invoicantly in a work context."
     }
   },
   {
     "id": "work-031",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "reimburse",
+    "meaningVi": "nhóm từ \"reimburse\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "reimburstion",
+      "adjective": "reimbursable",
+      "verb": "reimburse",
+      "adverb": "reimbursably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reimburstion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reimbursable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reimburse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reimbursably\"."
     },
     "examples": {
-      "noun": "The difference is important in work.",
-      "adjective": "This is a different example for work.",
-      "verb": "Learners can differ this idea in work.",
-      "adverb": "Use it differently when talking about work."
+      "noun": "The reimburstion is important in work.",
+      "adjective": "This is a reimbursable case in work.",
+      "verb": "People often reimburse when working with work topics.",
+      "adverb": "The speaker explained it reimbursably in a work context."
     }
   },
   {
     "id": "work-032",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "budget",
+    "meaningVi": "nhóm từ \"budget\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "budgetment",
+      "adjective": "budgetive",
+      "verb": "budget",
+      "adverb": "budgetively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"budgetment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"budgetive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"budget\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"budgetively\"."
     },
     "examples": {
-      "noun": "The discussion is important in work.",
-      "adjective": "This is a discussable example for work.",
-      "verb": "Learners can discuss this idea in work.",
-      "adverb": "Use it discussably when talking about work."
+      "noun": "The budgetment is important in work.",
+      "adjective": "This is a budgetive case in work.",
+      "verb": "People often budget when working with work topics.",
+      "adverb": "The speaker explained it budgetively in a work context."
     }
   },
   {
     "id": "work-033",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "forecast",
+    "meaningVi": "nhóm từ \"forecast\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "forecasting",
+      "adjective": "forecastal",
+      "verb": "forecast",
+      "adverb": "forecastally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"forecasting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"forecastal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"forecast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"forecastally\"."
     },
     "examples": {
-      "noun": "The education is important in work.",
-      "adjective": "This is a educational example for work.",
-      "verb": "Learners can educate this idea in work.",
-      "adverb": "Use it educationally when talking about work."
+      "noun": "The forecasting is important in work.",
+      "adjective": "This is a forecastal case in work.",
+      "verb": "People often forecast when working with work topics.",
+      "adverb": "The speaker explained it forecastally in a work context."
     }
   },
   {
     "id": "work-034",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "audit",
+    "meaningVi": "nhóm từ \"audit\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "auditance",
+      "adjective": "audited",
+      "verb": "audit",
+      "adverb": "auditedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"auditance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"audited\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"audit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"auditedly\"."
     },
     "examples": {
-      "noun": "The effect is important in work.",
-      "adjective": "This is a effective example for work.",
-      "verb": "Learners can effect this idea in work.",
-      "adverb": "Use it effectively when talking about work."
+      "noun": "The auditance is important in work.",
+      "adjective": "This is a audited case in work.",
+      "verb": "People often audit when working with work topics.",
+      "adverb": "The speaker explained it auditedly in a work context."
     }
   },
   {
     "id": "work-035",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "comply",
+    "meaningVi": "nhóm từ \"comply\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "complyence",
+      "adjective": "complying",
+      "verb": "comply",
+      "adverb": "complyingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"complyence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"complying\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"comply\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"complyingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in work.",
-      "adjective": "This is a emphatic example for work.",
-      "verb": "Learners can emphasize this idea in work.",
-      "adverb": "Use it emphatically when talking about work."
+      "noun": "The complyence is important in work.",
+      "adjective": "This is a complying case in work.",
+      "verb": "People often comply when working with work topics.",
+      "adverb": "The speaker explained it complyingly in a work context."
     }
   },
   {
     "id": "work-036",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "file",
+    "meaningVi": "nhóm từ \"file\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "fileal",
+      "adjective": "fileous",
+      "verb": "file",
+      "adverb": "fileously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"fileal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"fileous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"file\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"fileously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in work.",
-      "adjective": "This is a encouraging example for work.",
-      "verb": "Learners can encourage this idea in work.",
-      "adverb": "Use it encouragingly when talking about work."
+      "noun": "The fileal is important in work.",
+      "adjective": "This is a fileous case in work.",
+      "verb": "People often file when working with work topics.",
+      "adverb": "The speaker explained it fileously in a work context."
     }
   },
   {
     "id": "work-037",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "archive",
+    "meaningVi": "nhóm từ \"archive\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "archivy",
+      "adjective": "archivary",
+      "verb": "archive",
+      "adverb": "archivarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"archivy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"archivary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"archive\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"archivarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in work.",
-      "adjective": "This is a enjoyable example for work.",
-      "verb": "Learners can enjoy this idea in work.",
-      "adverb": "Use it enjoyably when talking about work."
+      "noun": "The archivy is important in work.",
+      "adjective": "This is a archivary case in work.",
+      "verb": "People often archive when working with work topics.",
+      "adverb": "The speaker explained it archivarily in a work context."
     }
   },
   {
     "id": "work-038",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "benchmark",
+    "meaningVi": "nhóm từ \"benchmark\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "benchmarkure",
+      "adjective": "benchmarkic",
+      "verb": "benchmark",
+      "adverb": "benchmarkically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"benchmarkure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"benchmarkic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"benchmark\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"benchmarkically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in work.",
-      "adjective": "This is a evaluative example for work.",
-      "verb": "Learners can evaluate this idea in work.",
-      "adverb": "Use it evaluatively when talking about work."
+      "noun": "The benchmarkure is important in work.",
+      "adjective": "This is a benchmarkic case in work.",
+      "verb": "People often benchmark when working with work topics.",
+      "adverb": "The speaker explained it benchmarkically in a work context."
     }
   },
   {
     "id": "work-039",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "evaluate",
+    "meaningVi": "nhóm từ \"evaluate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "evaluatage",
+      "adjective": "evaluatful",
+      "verb": "evaluate",
+      "adverb": "evaluatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"evaluatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"evaluatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"evaluate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"evaluatfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in work.",
-      "adjective": "This is a explanatory example for work.",
-      "verb": "Learners can explain this idea in work.",
-      "adverb": "Use it explanatorily when talking about work."
+      "noun": "The evaluatage is important in work.",
+      "adjective": "This is a evaluatful case in work.",
+      "verb": "People often evaluate when working with work topics.",
+      "adverb": "The speaker explained it evaluatfully in a work context."
     }
   },
   {
     "id": "work-040",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "appraise",
+    "meaningVi": "nhóm từ \"appraise\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "appraisity",
+      "adjective": "appraisant",
+      "verb": "appraise",
+      "adverb": "appraisantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"appraisity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"appraisant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"appraise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"appraisantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in work.",
-      "adjective": "This is a exploratory example for work.",
-      "verb": "Learners can explore this idea in work.",
-      "adverb": "Use it exploratorily when talking about work."
+      "noun": "The appraisity is important in work.",
+      "adjective": "This is a appraisant case in work.",
+      "verb": "People often appraise when working with work topics.",
+      "adverb": "The speaker explained it appraisantly in a work context."
     }
   },
   {
     "id": "work-041",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "promote",
+    "meaningVi": "nhóm từ \"promote\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "promottion",
+      "adjective": "promotable",
+      "verb": "promote",
+      "adverb": "promotably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"promottion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"promotable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"promote\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"promotably\"."
     },
     "examples": {
-      "noun": "The expression is important in work.",
-      "adjective": "This is a expressive example for work.",
-      "verb": "Learners can express this idea in work.",
-      "adverb": "Use it expressively when talking about work."
+      "noun": "The promottion is important in work.",
+      "adjective": "This is a promotable case in work.",
+      "verb": "People often promote when working with work topics.",
+      "adverb": "The speaker explained it promotably in a work context."
     }
   },
   {
     "id": "work-042",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "resign",
+    "meaningVi": "nhóm từ \"resign\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "resignment",
+      "adjective": "resignive",
+      "verb": "resign",
+      "adverb": "resignively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"resignment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"resignive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"resign\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"resignively\"."
     },
     "examples": {
-      "noun": "The failure is important in work.",
-      "adjective": "This is a failed example for work.",
-      "verb": "Learners can fail this idea in work.",
-      "adverb": "Use it failingly when talking about work."
+      "noun": "The resignment is important in work.",
+      "adjective": "This is a resignive case in work.",
+      "verb": "People often resign when working with work topics.",
+      "adverb": "The speaker explained it resignively in a work context."
     }
   },
   {
     "id": "work-043",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "transfer",
+    "meaningVi": "nhóm từ \"transfer\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "transfering",
+      "adjective": "transferal",
+      "verb": "transfer",
+      "adverb": "transferally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transfering\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transferal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transfer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transferally\"."
     },
     "examples": {
-      "noun": "The focus is important in work.",
-      "adjective": "This is a focused example for work.",
-      "verb": "Learners can focus this idea in work.",
-      "adverb": "Use it focusedly when talking about work."
+      "noun": "The transfering is important in work.",
+      "adjective": "This is a transferal case in work.",
+      "verb": "People often transfer when working with work topics.",
+      "adverb": "The speaker explained it transferally in a work context."
     }
   },
   {
     "id": "work-044",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "relocate",
+    "meaningVi": "nhóm từ \"relocate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "relocatance",
+      "adjective": "relocatd",
+      "verb": "relocate",
+      "adverb": "relocatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"relocatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"relocatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"relocate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"relocatdly\"."
     },
     "examples": {
-      "noun": "The growth is important in work.",
-      "adjective": "This is a growing example for work.",
-      "verb": "Learners can grow this idea in work.",
-      "adverb": "Use it growingly when talking about work."
+      "noun": "The relocatance is important in work.",
+      "adjective": "This is a relocatd case in work.",
+      "verb": "People often relocate when working with work topics.",
+      "adverb": "The speaker explained it relocatdly in a work context."
     }
   },
   {
     "id": "work-045",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "outsource",
+    "meaningVi": "nhóm từ \"outsource\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "outsourcence",
+      "adjective": "outsourcing",
+      "verb": "outsource",
+      "adverb": "outsourcingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"outsourcence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"outsourcing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"outsource\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"outsourcingly\"."
     },
     "examples": {
-      "noun": "The help is important in work.",
-      "adjective": "This is a helpful example for work.",
-      "verb": "Learners can help this idea in work.",
-      "adverb": "Use it helpfully when talking about work."
+      "noun": "The outsourcence is important in work.",
+      "adjective": "This is a outsourcing case in work.",
+      "verb": "People often outsource when working with work topics.",
+      "adverb": "The speaker explained it outsourcingly in a work context."
     }
   },
   {
     "id": "work-046",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "contract",
+    "meaningVi": "nhóm từ \"contract\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "contractal",
+      "adjective": "contractous",
+      "verb": "contract",
+      "adverb": "contractously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"contractal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"contractous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"contract\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"contractously\"."
     },
     "examples": {
-      "noun": "The identification is important in work.",
-      "adjective": "This is a identifiable example for work.",
-      "verb": "Learners can identify this idea in work.",
-      "adverb": "Use it identifiably when talking about work."
+      "noun": "The contractal is important in work.",
+      "adjective": "This is a contractous case in work.",
+      "verb": "People often contract when working with work topics.",
+      "adverb": "The speaker explained it contractously in a work context."
     }
   },
   {
     "id": "work-047",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "consult",
+    "meaningVi": "nhóm từ \"consult\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "consulty",
+      "adjective": "consultary",
+      "verb": "consult",
+      "adverb": "consultarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"consulty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"consultary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"consult\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"consultarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in work.",
-      "adjective": "This is a imaginative example for work.",
-      "verb": "Learners can imagine this idea in work.",
-      "adverb": "Use it imaginatively when talking about work."
+      "noun": "The consulty is important in work.",
+      "adjective": "This is a consultary case in work.",
+      "verb": "People often consult when working with work topics.",
+      "adverb": "The speaker explained it consultarily in a work context."
     }
   },
   {
     "id": "work-048",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "prototype",
+    "meaningVi": "nhóm từ \"prototype\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "prototypure",
+      "adjective": "prototypic",
+      "verb": "prototype",
+      "adverb": "prototypically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prototypure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prototypic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prototype\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prototypically\"."
     },
     "examples": {
-      "noun": "The improvement is important in work.",
-      "adjective": "This is a improved example for work.",
-      "verb": "Learners can improve this idea in work.",
-      "adverb": "Use it improvingly when talking about work."
+      "noun": "The prototypure is important in work.",
+      "adjective": "This is a prototypic case in work.",
+      "verb": "People often prototype when working with work topics.",
+      "adverb": "The speaker explained it prototypically in a work context."
     }
   },
   {
     "id": "work-049",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "ship",
+    "meaningVi": "nhóm từ \"ship\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "shipage",
+      "adjective": "shipful",
+      "verb": "ship",
+      "adverb": "shipfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shipage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shipful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ship\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shipfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in work.",
-      "adjective": "This is a inclusive example for work.",
-      "verb": "Learners can include this idea in work.",
-      "adverb": "Use it inclusively when talking about work."
+      "noun": "The shipage is important in work.",
+      "adjective": "This is a shipful case in work.",
+      "verb": "People often ship when working with work topics.",
+      "adverb": "The speaker explained it shipfully in a work context."
     }
   },
   {
     "id": "work-050",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "deliver",
+    "meaningVi": "nhóm từ \"deliver\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "deliverity",
+      "adjective": "deliverant",
+      "verb": "deliver",
+      "adverb": "deliverantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deliverity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deliverant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deliver\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deliverantly\"."
     },
     "examples": {
-      "noun": "The information is important in work.",
-      "adjective": "This is a informative example for work.",
-      "verb": "Learners can inform this idea in work.",
-      "adverb": "Use it informatively when talking about work."
+      "noun": "The deliverity is important in work.",
+      "adjective": "This is a deliverant case in work.",
+      "verb": "People often deliver when working with work topics.",
+      "adverb": "The speaker explained it deliverantly in a work context."
     }
   },
   {
     "id": "work-051",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "maintain",
+    "meaningVi": "nhóm từ \"maintain\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "maintaintion",
+      "adjective": "maintainable",
+      "verb": "maintain",
+      "adverb": "maintainably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"maintaintion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"maintainable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"maintain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"maintainably\"."
     },
     "examples": {
-      "noun": "The innovation is important in work.",
-      "adjective": "This is a innovative example for work.",
-      "verb": "Learners can innovate this idea in work.",
-      "adverb": "Use it innovatively when talking about work."
+      "noun": "The maintaintion is important in work.",
+      "adjective": "This is a maintainable case in work.",
+      "verb": "People often maintain when working with work topics.",
+      "adverb": "The speaker explained it maintainably in a work context."
     }
   },
   {
     "id": "work-052",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "repair",
+    "meaningVi": "nhóm từ \"repair\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "repairment",
+      "adjective": "repairive",
+      "verb": "repair",
+      "adverb": "repairively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"repairment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"repairive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"repair\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"repairively\"."
     },
     "examples": {
-      "noun": "The instruction is important in work.",
-      "adjective": "This is a instructive example for work.",
-      "verb": "Learners can instruct this idea in work.",
-      "adverb": "Use it instructively when talking about work."
+      "noun": "The repairment is important in work.",
+      "adjective": "This is a repairive case in work.",
+      "verb": "People often repair when working with work topics.",
+      "adverb": "The speaker explained it repairively in a work context."
     }
   },
   {
     "id": "work-053",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "configure",
+    "meaningVi": "nhóm từ \"configure\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "configuring",
+      "adjective": "configural",
+      "verb": "configure",
+      "adverb": "configurally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"configuring\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"configural\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"configure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"configurally\"."
     },
     "examples": {
-      "noun": "The interaction is important in work.",
-      "adjective": "This is a interactive example for work.",
-      "verb": "Learners can interact this idea in work.",
-      "adverb": "Use it interactively when talking about work."
+      "noun": "The configuring is important in work.",
+      "adjective": "This is a configural case in work.",
+      "verb": "People often configure when working with work topics.",
+      "adverb": "The speaker explained it configurally in a work context."
     }
   },
   {
     "id": "work-054",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "deploy",
+    "meaningVi": "nhóm từ \"deploy\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "deployance",
+      "adjective": "deployed",
+      "verb": "deploy",
+      "adverb": "deployedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deployance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deployed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deploy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deployedly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in work.",
-      "adjective": "This is a interpretive example for work.",
-      "verb": "Learners can interpret this idea in work.",
-      "adverb": "Use it interpretively when talking about work."
+      "noun": "The deployance is important in work.",
+      "adjective": "This is a deployed case in work.",
+      "verb": "People often deploy when working with work topics.",
+      "adverb": "The speaker explained it deployedly in a work context."
     }
   },
   {
     "id": "work-055",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "monitor",
+    "meaningVi": "nhóm từ \"monitor\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "monitorence",
+      "adjective": "monitoring",
+      "verb": "monitor",
+      "adverb": "monitoringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monitorence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monitoring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monitor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monitoringly\"."
     },
     "examples": {
-      "noun": "The learning is important in work.",
-      "adjective": "This is a learned example for work.",
-      "verb": "Learners can learn this idea in work.",
-      "adverb": "Use it learnedly when talking about work."
+      "noun": "The monitorence is important in work.",
+      "adjective": "This is a monitoring case in work.",
+      "verb": "People often monitor when working with work topics.",
+      "adverb": "The speaker explained it monitoringly in a work context."
     }
   },
   {
     "id": "work-056",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "secure",
+    "meaningVi": "nhóm từ \"secure\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "secural",
+      "adjective": "securous",
+      "verb": "secure",
+      "adverb": "securously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"secural\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"securous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"secure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"securously\"."
     },
     "examples": {
-      "noun": "The management is important in work.",
-      "adjective": "This is a manageable example for work.",
-      "verb": "Learners can manage this idea in work.",
-      "adverb": "Use it manageably when talking about work."
+      "noun": "The secural is important in work.",
+      "adjective": "This is a securous case in work.",
+      "verb": "People often secure when working with work topics.",
+      "adverb": "The speaker explained it securously in a work context."
     }
   },
   {
     "id": "work-057",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "analyze",
+    "meaningVi": "nhóm từ \"analyze\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "analyzy",
+      "adjective": "analyzary",
+      "verb": "analyze",
+      "adverb": "analyzarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"analyzy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"analyzary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"analyze\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"analyzarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in work.",
-      "adjective": "This is a measurable example for work.",
-      "verb": "Learners can measure this idea in work.",
-      "adverb": "Use it measurably when talking about work."
+      "noun": "The analyzy is important in work.",
+      "adjective": "This is a analyzary case in work.",
+      "verb": "People often analyze when working with work topics.",
+      "adverb": "The speaker explained it analyzarily in a work context."
     }
   },
   {
     "id": "work-058",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "strategize",
+    "meaningVi": "nhóm từ \"strategize\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "strategizure",
+      "adjective": "strategizic",
+      "verb": "strategize",
+      "adverb": "strategizically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"strategizure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"strategizic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"strategize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"strategizically\"."
     },
     "examples": {
-      "noun": "The motivation is important in work.",
-      "adjective": "This is a motivated example for work.",
-      "verb": "Learners can motivate this idea in work.",
-      "adverb": "Use it motivationally when talking about work."
+      "noun": "The strategizure is important in work.",
+      "adjective": "This is a strategizic case in work.",
+      "verb": "People often strategize when working with work topics.",
+      "adverb": "The speaker explained it strategizically in a work context."
     }
   },
   {
     "id": "work-059",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "streamline",
+    "meaningVi": "nhóm từ \"streamline\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "streamlinage",
+      "adjective": "streamlinful",
+      "verb": "streamline",
+      "adverb": "streamlinfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"streamlinage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"streamlinful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"streamline\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"streamlinfully\"."
     },
     "examples": {
-      "noun": "The movement is important in work.",
-      "adjective": "This is a movable example for work.",
-      "verb": "Learners can move this idea in work.",
-      "adverb": "Use it movably when talking about work."
+      "noun": "The streamlinage is important in work.",
+      "adjective": "This is a streamlinful case in work.",
+      "verb": "People often streamline when working with work topics.",
+      "adverb": "The speaker explained it streamlinfully in a work context."
     }
   },
   {
     "id": "work-060",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "standardize",
+    "meaningVi": "nhóm từ \"standardize\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "standardizity",
+      "adjective": "standardizant",
+      "verb": "standardize",
+      "adverb": "standardizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"standardizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"standardizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"standardize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"standardizantly\"."
     },
     "examples": {
-      "noun": "The observation is important in work.",
-      "adjective": "This is a observant example for work.",
-      "verb": "Learners can observe this idea in work.",
-      "adverb": "Use it observantly when talking about work."
+      "noun": "The standardizity is important in work.",
+      "adjective": "This is a standardizant case in work.",
+      "verb": "People often standardize when working with work topics.",
+      "adverb": "The speaker explained it standardizantly in a work context."
     }
   },
   {
     "id": "work-061",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "mentor",
+    "meaningVi": "nhóm từ \"mentor\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "mentortion",
+      "adjective": "mentorable",
+      "verb": "mentor",
+      "adverb": "mentorably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mentortion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mentorable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mentor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mentorably\"."
     },
     "examples": {
-      "noun": "The organization is important in work.",
-      "adjective": "This is a organized example for work.",
-      "verb": "Learners can organize this idea in work.",
-      "adverb": "Use it organizationally when talking about work."
+      "noun": "The mentortion is important in work.",
+      "adjective": "This is a mentorable case in work.",
+      "verb": "People often mentor when working with work topics.",
+      "adverb": "The speaker explained it mentorably in a work context."
     }
   },
   {
     "id": "work-062",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "coach",
+    "meaningVi": "nhóm từ \"coach\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "coachment",
+      "adjective": "coachive",
+      "verb": "coach",
+      "adverb": "coachively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coachment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coachive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"coach\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coachively\"."
     },
     "examples": {
-      "noun": "The participation is important in work.",
-      "adjective": "This is a participatory example for work.",
-      "verb": "Learners can participate this idea in work.",
-      "adverb": "Use it participatively when talking about work."
+      "noun": "The coachment is important in work.",
+      "adjective": "This is a coachive case in work.",
+      "verb": "People often coach when working with work topics.",
+      "adverb": "The speaker explained it coachively in a work context."
     }
   },
   {
     "id": "work-063",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "debrief",
+    "meaningVi": "nhóm từ \"debrief\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "debriefing",
+      "adjective": "debriefal",
+      "verb": "debrief",
+      "adverb": "debriefally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"debriefing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"debriefal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"debrief\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"debriefally\"."
     },
     "examples": {
-      "noun": "The performance is important in work.",
-      "adjective": "This is a performative example for work.",
-      "verb": "Learners can perform this idea in work.",
-      "adverb": "Use it performatively when talking about work."
+      "noun": "The debriefing is important in work.",
+      "adjective": "This is a debriefal case in work.",
+      "verb": "People often debrief when working with work topics.",
+      "adverb": "The speaker explained it debriefally in a work context."
     }
   },
   {
     "id": "work-064",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "assign",
+    "meaningVi": "nhóm từ \"assign\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "assignance",
+      "adjective": "assigned",
+      "verb": "assign",
+      "adverb": "assignedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assignance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assigned\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assign\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assignedly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in work.",
-      "adjective": "This is a persuasive example for work.",
-      "verb": "Learners can persuade this idea in work.",
-      "adverb": "Use it persuasively when talking about work."
+      "noun": "The assignance is important in work.",
+      "adjective": "This is a assigned case in work.",
+      "verb": "People often assign when working with work topics.",
+      "adverb": "The speaker explained it assignedly in a work context."
     }
   },
   {
     "id": "work-065",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "track",
+    "meaningVi": "nhóm từ \"track\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "trackence",
+      "adjective": "tracking",
+      "verb": "track",
+      "adverb": "trackingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trackence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tracking\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"track\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trackingly\"."
     },
     "examples": {
-      "noun": "The plan is important in work.",
-      "adjective": "This is a planned example for work.",
-      "verb": "Learners can plan this idea in work.",
-      "adverb": "Use it plannedly when talking about work."
+      "noun": "The trackence is important in work.",
+      "adjective": "This is a tracking case in work.",
+      "verb": "People often track when working with work topics.",
+      "adverb": "The speaker explained it trackingly in a work context."
     }
   },
   {
     "id": "work-066",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "measure",
+    "meaningVi": "nhóm từ \"measure\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "measural",
+      "adjective": "measurous",
+      "verb": "measure",
+      "adverb": "measurously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"measural\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"measurous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"measure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"measurously\"."
     },
     "examples": {
-      "noun": "The prediction is important in work.",
-      "adjective": "This is a predictable example for work.",
-      "verb": "Learners can predict this idea in work.",
-      "adverb": "Use it predictably when talking about work."
+      "noun": "The measural is important in work.",
+      "adjective": "This is a measurous case in work.",
+      "verb": "People often measure when working with work topics.",
+      "adverb": "The speaker explained it measurously in a work context."
     }
   },
   {
     "id": "work-067",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "target",
+    "meaningVi": "nhóm từ \"target\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "targety",
+      "adjective": "targetary",
+      "verb": "target",
+      "adverb": "targetarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"targety\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"targetary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"target\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"targetarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in work.",
-      "adjective": "This is a prepared example for work.",
-      "verb": "Learners can prepare this idea in work.",
-      "adverb": "Use it preparedly when talking about work."
+      "noun": "The targety is important in work.",
+      "adjective": "This is a targetary case in work.",
+      "verb": "People often target when working with work topics.",
+      "adverb": "The speaker explained it targetarily in a work context."
     }
   },
   {
     "id": "work-068",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "launch",
+    "meaningVi": "nhóm từ \"launch\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "launchure",
+      "adjective": "launchic",
+      "verb": "launch",
+      "adverb": "launchically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"launchure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"launchic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"launch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"launchically\"."
     },
     "examples": {
-      "noun": "The presentation is important in work.",
-      "adjective": "This is a presentable example for work.",
-      "verb": "Learners can present this idea in work.",
-      "adverb": "Use it presentably when talking about work."
+      "noun": "The launchure is important in work.",
+      "adjective": "This is a launchic case in work.",
+      "verb": "People often launch when working with work topics.",
+      "adverb": "The speaker explained it launchically in a work context."
     }
   },
   {
     "id": "work-069",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "plan",
+    "meaningVi": "nhóm từ \"plan\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "planage",
+      "adjective": "planful",
+      "verb": "plan",
+      "adverb": "planfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"planage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"planful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"plan\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"planfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in work.",
-      "adjective": "This is a preventive example for work.",
-      "verb": "Learners can prevent this idea in work.",
-      "adverb": "Use it preventively when talking about work."
+      "noun": "The planage is important in work.",
+      "adjective": "This is a planful case in work.",
+      "verb": "People often plan when working with work topics.",
+      "adverb": "The speaker explained it planfully in a work context."
     }
   },
   {
     "id": "work-070",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "estimate",
+    "meaningVi": "nhóm từ \"estimate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "estimatity",
+      "adjective": "estimatant",
+      "verb": "estimate",
+      "adverb": "estimatantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"estimatity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"estimatant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"estimate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"estimatantly\"."
     },
     "examples": {
-      "noun": "The production is important in work.",
-      "adjective": "This is a productive example for work.",
-      "verb": "Learners can produce this idea in work.",
-      "adverb": "Use it productively when talking about work."
+      "noun": "The estimatity is important in work.",
+      "adjective": "This is a estimatant case in work.",
+      "verb": "People often estimate when working with work topics.",
+      "adverb": "The speaker explained it estimatantly in a work context."
     }
   },
   {
     "id": "work-071",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "roadmap",
+    "meaningVi": "nhóm từ \"roadmap\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "roadmaption",
+      "adjective": "roadmapable",
+      "verb": "roadmap",
+      "adverb": "roadmapably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"roadmaption\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"roadmapable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"roadmap\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"roadmapably\"."
     },
     "examples": {
-      "noun": "The protection is important in work.",
-      "adjective": "This is a protective example for work.",
-      "verb": "Learners can protect this idea in work.",
-      "adverb": "Use it protectively when talking about work."
+      "noun": "The roadmaption is important in work.",
+      "adjective": "This is a roadmapable case in work.",
+      "verb": "People often roadmap when working with work topics.",
+      "adverb": "The speaker explained it roadmapably in a work context."
     }
   },
   {
     "id": "work-072",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "sprint",
+    "meaningVi": "nhóm từ \"sprint\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "sprintment",
+      "adjective": "sprintive",
+      "verb": "sprint",
+      "adverb": "sprintively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sprintment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sprintive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sprint\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sprintively\"."
     },
     "examples": {
-      "noun": "The question is important in work.",
-      "adjective": "This is a questionable example for work.",
-      "verb": "Learners can question this idea in work.",
-      "adverb": "Use it questionably when talking about work."
+      "noun": "The sprintment is important in work.",
+      "adjective": "This is a sprintive case in work.",
+      "verb": "People often sprint when working with work topics.",
+      "adverb": "The speaker explained it sprintively in a work context."
     }
   },
   {
     "id": "work-073",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "iterate",
+    "meaningVi": "nhóm từ \"iterate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "iterating",
+      "adjective": "iteratal",
+      "verb": "iterate",
+      "adverb": "iteratally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"iterating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"iteratal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"iterate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"iteratally\"."
     },
     "examples": {
-      "noun": "The reaction is important in work.",
-      "adjective": "This is a reactive example for work.",
-      "verb": "Learners can react this idea in work.",
-      "adverb": "Use it reactively when talking about work."
+      "noun": "The iterating is important in work.",
+      "adjective": "This is a iteratal case in work.",
+      "verb": "People often iterate when working with work topics.",
+      "adverb": "The speaker explained it iteratally in a work context."
     }
   },
   {
     "id": "work-074",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "test",
+    "meaningVi": "nhóm từ \"test\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "testance",
+      "adjective": "tested",
+      "verb": "test",
+      "adverb": "testedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"testance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tested\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"test\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"testedly\"."
     },
     "examples": {
-      "noun": "The recognition is important in work.",
-      "adjective": "This is a recognizable example for work.",
-      "verb": "Learners can recognize this idea in work.",
-      "adverb": "Use it recognizably when talking about work."
+      "noun": "The testance is important in work.",
+      "adjective": "This is a tested case in work.",
+      "verb": "People often test when working with work topics.",
+      "adverb": "The speaker explained it testedly in a work context."
     }
   },
   {
     "id": "work-075",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "validate",
+    "meaningVi": "nhóm từ \"validate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "validatence",
+      "adjective": "validating",
+      "verb": "validate",
+      "adverb": "validatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"validatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"validating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"validate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"validatingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in work.",
-      "adjective": "This is a recommendable example for work.",
-      "verb": "Learners can recommend this idea in work.",
-      "adverb": "Use it recommendably when talking about work."
+      "noun": "The validatence is important in work.",
+      "adjective": "This is a validating case in work.",
+      "verb": "People often validate when working with work topics.",
+      "adverb": "The speaker explained it validatingly in a work context."
     }
   },
   {
     "id": "work-076",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "interview",
+    "meaningVi": "nhóm từ \"interview\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "interviewal",
+      "adjective": "interviewous",
+      "verb": "interview",
+      "adverb": "interviewously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"interviewal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"interviewous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"interview\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"interviewously\"."
     },
     "examples": {
-      "noun": "The reduction is important in work.",
-      "adjective": "This is a reduced example for work.",
-      "verb": "Learners can reduce this idea in work.",
-      "adverb": "Use it reductively when talking about work."
+      "noun": "The interviewal is important in work.",
+      "adjective": "This is a interviewous case in work.",
+      "verb": "People often interview when working with work topics.",
+      "adverb": "The speaker explained it interviewously in a work context."
     }
   },
   {
     "id": "work-077",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "screen",
+    "meaningVi": "nhóm từ \"screen\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "screeny",
+      "adjective": "screenary",
+      "verb": "screen",
+      "adverb": "screenarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"screeny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"screenary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"screen\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"screenarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in work.",
-      "adjective": "This is a reflective example for work.",
-      "verb": "Learners can reflect this idea in work.",
-      "adverb": "Use it reflectively when talking about work."
+      "noun": "The screeny is important in work.",
+      "adjective": "This is a screenary case in work.",
+      "verb": "People often screen when working with work topics.",
+      "adverb": "The speaker explained it screenarily in a work context."
     }
   },
   {
     "id": "work-078",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "compensate",
+    "meaningVi": "nhóm từ \"compensate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "compensature",
+      "adjective": "compensatic",
+      "verb": "compensate",
+      "adverb": "compensatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"compensature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compensatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compensate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compensatically\"."
     },
     "examples": {
-      "noun": "The relation is important in work.",
-      "adjective": "This is a related example for work.",
-      "verb": "Learners can relate this idea in work.",
-      "adverb": "Use it relatedly when talking about work."
+      "noun": "The compensature is important in work.",
+      "adjective": "This is a compensatic case in work.",
+      "verb": "People often compensate when working with work topics.",
+      "adverb": "The speaker explained it compensatically in a work context."
     }
   },
   {
     "id": "work-079",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "bonus",
+    "meaningVi": "nhóm từ \"bonus\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "bonusage",
+      "adjective": "bonusful",
+      "verb": "bonus",
+      "adverb": "bonusfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bonusage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bonusful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bonus\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bonusfully\"."
     },
     "examples": {
-      "noun": "The memory is important in work.",
-      "adjective": "This is a memorable example for work.",
-      "verb": "Learners can remember this idea in work.",
-      "adverb": "Use it memorably when talking about work."
+      "noun": "The bonusage is important in work.",
+      "adjective": "This is a bonusful case in work.",
+      "verb": "People often bonus when working with work topics.",
+      "adverb": "The speaker explained it bonusfully in a work context."
     }
   },
   {
     "id": "work-080",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "commission",
+    "meaningVi": "nhóm từ \"commission\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "commissionity",
+      "adjective": "commissionant",
+      "verb": "commission",
+      "adverb": "commissionantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"commissionity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"commissionant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"commission\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"commissionantly\"."
     },
     "examples": {
-      "noun": "The repair is important in work.",
-      "adjective": "This is a repairable example for work.",
-      "verb": "Learners can repair this idea in work.",
-      "adverb": "Use it repairably when talking about work."
+      "noun": "The commissionity is important in work.",
+      "adjective": "This is a commissionant case in work.",
+      "verb": "People often commission when working with work topics.",
+      "adverb": "The speaker explained it commissionantly in a work context."
     }
   },
   {
     "id": "work-081",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "license",
+    "meaningVi": "nhóm từ \"license\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "licenstion",
+      "adjective": "licensable",
+      "verb": "license",
+      "adverb": "licensably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"licenstion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"licensable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"license\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"licensably\"."
     },
     "examples": {
-      "noun": "The research is important in work.",
-      "adjective": "This is a researchable example for work.",
-      "verb": "Learners can research this idea in work.",
-      "adverb": "Use it researchably when talking about work."
+      "noun": "The licenstion is important in work.",
+      "adjective": "This is a licensable case in work.",
+      "verb": "People often license when working with work topics.",
+      "adverb": "The speaker explained it licensably in a work context."
     }
   },
   {
     "id": "work-082",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "certify",
+    "meaningVi": "nhóm từ \"certify\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "certifyment",
+      "adjective": "certifyive",
+      "verb": "certify",
+      "adverb": "certifyively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"certifyment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"certifyive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"certify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"certifyively\"."
     },
     "examples": {
-      "noun": "The response is important in work.",
-      "adjective": "This is a responsive example for work.",
-      "verb": "Learners can respond this idea in work.",
-      "adverb": "Use it responsively when talking about work."
+      "noun": "The certifyment is important in work.",
+      "adjective": "This is a certifyive case in work.",
+      "verb": "People often certify when working with work topics.",
+      "adverb": "The speaker explained it certifyively in a work context."
     }
   },
   {
     "id": "work-083",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "insure",
+    "meaningVi": "nhóm từ \"insure\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "insuring",
+      "adjective": "insural",
+      "verb": "insure",
+      "adverb": "insurally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"insuring\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"insural\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"insure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"insurally\"."
     },
     "examples": {
-      "noun": "The revision is important in work.",
-      "adjective": "This is a revised example for work.",
-      "verb": "Learners can revise this idea in work.",
-      "adverb": "Use it revisedly when talking about work."
+      "noun": "The insuring is important in work.",
+      "adjective": "This is a insural case in work.",
+      "verb": "People often insure when working with work topics.",
+      "adverb": "The speaker explained it insurally in a work context."
     }
   },
   {
     "id": "work-084",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "litigate",
+    "meaningVi": "nhóm từ \"litigate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "litigatance",
+      "adjective": "litigatd",
+      "verb": "litigate",
+      "adverb": "litigatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"litigatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"litigatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"litigate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"litigatdly\"."
     },
     "examples": {
-      "noun": "The selection is important in work.",
-      "adjective": "This is a selective example for work.",
-      "verb": "Learners can select this idea in work.",
-      "adverb": "Use it selectively when talking about work."
+      "noun": "The litigatance is important in work.",
+      "adjective": "This is a litigatd case in work.",
+      "verb": "People often litigate when working with work topics.",
+      "adverb": "The speaker explained it litigatdly in a work context."
     }
   },
   {
     "id": "work-085",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "mediate",
+    "meaningVi": "nhóm từ \"mediate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "mediatence",
+      "adjective": "mediating",
+      "verb": "mediate",
+      "adverb": "mediatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mediatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mediating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mediate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mediatingly\"."
     },
     "examples": {
-      "noun": "The solution is important in work.",
-      "adjective": "This is a solvable example for work.",
-      "verb": "Learners can solve this idea in work.",
-      "adverb": "Use it solvably when talking about work."
+      "noun": "The mediatence is important in work.",
+      "adjective": "This is a mediating case in work.",
+      "verb": "People often mediate when working with work topics.",
+      "adverb": "The speaker explained it mediatingly in a work context."
     }
   },
   {
     "id": "work-086",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "arbitrate",
+    "meaningVi": "nhóm từ \"arbitrate\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "arbitratal",
+      "adjective": "arbitratous",
+      "verb": "arbitrate",
+      "adverb": "arbitratously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"arbitratal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"arbitratous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"arbitrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"arbitratously\"."
     },
     "examples": {
-      "noun": "The specialization is important in work.",
-      "adjective": "This is a specialized example for work.",
-      "verb": "Learners can specialize this idea in work.",
-      "adverb": "Use it specially when talking about work."
+      "noun": "The arbitratal is important in work.",
+      "adjective": "This is a arbitratous case in work.",
+      "verb": "People often arbitrate when working with work topics.",
+      "adverb": "The speaker explained it arbitratously in a work context."
     }
   },
   {
     "id": "work-087",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "workflow",
+    "meaningVi": "nhóm từ \"workflow\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "workflowy",
+      "adjective": "workflowary",
+      "verb": "workflow",
+      "adverb": "workflowarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"workflowy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"workflowary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"workflow\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"workflowarily\"."
     },
     "examples": {
-      "noun": "The strength is important in work.",
-      "adjective": "This is a strong example for work.",
-      "verb": "Learners can strengthen this idea in work.",
-      "adverb": "Use it strongly when talking about work."
+      "noun": "The workflowy is important in work.",
+      "adjective": "This is a workflowary case in work.",
+      "verb": "People often workflow when working with work topics.",
+      "adverb": "The speaker explained it workflowarily in a work context."
     }
   },
   {
     "id": "work-088",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "workplace",
+    "meaningVi": "nhóm từ \"workplace\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "workplacure",
+      "adjective": "workplacic",
+      "verb": "workplace",
+      "adverb": "workplacically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"workplacure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"workplacic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"workplace\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"workplacically\"."
     },
     "examples": {
-      "noun": "The study is important in work.",
-      "adjective": "This is a studious example for work.",
-      "verb": "Learners can study this idea in work.",
-      "adverb": "Use it studiously when talking about work."
+      "noun": "The workplacure is important in work.",
+      "adjective": "This is a workplacic case in work.",
+      "verb": "People often workplace when working with work topics.",
+      "adverb": "The speaker explained it workplacically in a work context."
     }
   },
   {
     "id": "work-089",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "deadline",
+    "meaningVi": "nhóm từ \"deadline\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "deadlinage",
+      "adjective": "deadlinful",
+      "verb": "deadline",
+      "adverb": "deadlinfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deadlinage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deadlinful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deadline\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deadlinfully\"."
     },
     "examples": {
-      "noun": "The success is important in work.",
-      "adjective": "This is a successful example for work.",
-      "verb": "Learners can succeed this idea in work.",
-      "adverb": "Use it successfully when talking about work."
+      "noun": "The deadlinage is important in work.",
+      "adjective": "This is a deadlinful case in work.",
+      "verb": "People often deadline when working with work topics.",
+      "adverb": "The speaker explained it deadlinfully in a work context."
     }
   },
   {
     "id": "work-090",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "payroll",
+    "meaningVi": "nhóm từ \"payroll\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "payrollity",
+      "adjective": "payrollant",
+      "verb": "payroll",
+      "adverb": "payrollantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"payrollity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"payrollant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"payroll\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"payrollantly\"."
     },
     "examples": {
-      "noun": "The support is important in work.",
-      "adjective": "This is a supportive example for work.",
-      "verb": "Learners can support this idea in work.",
-      "adverb": "Use it supportively when talking about work."
+      "noun": "The payrollity is important in work.",
+      "adjective": "This is a payrollant case in work.",
+      "verb": "People often payroll when working with work topics.",
+      "adverb": "The speaker explained it payrollantly in a work context."
     }
   },
   {
     "id": "work-091",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "timesheet",
+    "meaningVi": "nhóm từ \"timesheet\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "timesheettion",
+      "adjective": "timesheetable",
+      "verb": "timesheet",
+      "adverb": "timesheetably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"timesheettion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"timesheetable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"timesheet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"timesheetably\"."
     },
     "examples": {
-      "noun": "The teaching is important in work.",
-      "adjective": "This is a teachable example for work.",
-      "verb": "Learners can teach this idea in work.",
-      "adverb": "Use it teachably when talking about work."
+      "noun": "The timesheettion is important in work.",
+      "adjective": "This is a timesheetable case in work.",
+      "verb": "People often timesheet when working with work topics.",
+      "adverb": "The speaker explained it timesheetably in a work context."
     }
   },
   {
     "id": "work-092",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "coworker",
+    "meaningVi": "nhóm từ \"coworker\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "coworkerment",
+      "adjective": "coworkerive",
+      "verb": "coworker",
+      "adverb": "coworkerively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coworkerment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coworkerive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"coworker\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coworkerively\"."
     },
     "examples": {
-      "noun": "The transformation is important in work.",
-      "adjective": "This is a transformative example for work.",
-      "verb": "Learners can transform this idea in work.",
-      "adverb": "Use it transformatively when talking about work."
+      "noun": "The coworkerment is important in work.",
+      "adjective": "This is a coworkerive case in work.",
+      "verb": "People often coworker when working with work topics.",
+      "adverb": "The speaker explained it coworkerively in a work context."
     }
   },
   {
     "id": "work-093",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "stakeholder",
+    "meaningVi": "nhóm từ \"stakeholder\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "stakeholdering",
+      "adjective": "stakeholderal",
+      "verb": "stakeholder",
+      "adverb": "stakeholderally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"stakeholdering\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stakeholderal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stakeholder\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stakeholderally\"."
     },
     "examples": {
-      "noun": "The translation is important in work.",
-      "adjective": "This is a translatable example for work.",
-      "verb": "Learners can translate this idea in work.",
-      "adverb": "Use it translatably when talking about work."
+      "noun": "The stakeholdering is important in work.",
+      "adjective": "This is a stakeholderal case in work.",
+      "verb": "People often stakeholder when working with work topics.",
+      "adverb": "The speaker explained it stakeholderally in a work context."
     }
   },
   {
     "id": "work-094",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "manager",
+    "meaningVi": "nhóm từ \"manager\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "managerance",
+      "adjective": "managered",
+      "verb": "manager",
+      "adverb": "manageredly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"managerance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"managered\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"manager\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"manageredly\"."
     },
     "examples": {
-      "noun": "The understanding is important in work.",
-      "adjective": "This is a understandable example for work.",
-      "verb": "Learners can understand this idea in work.",
-      "adverb": "Use it understandably when talking about work."
+      "noun": "The managerance is important in work.",
+      "adjective": "This is a managered case in work.",
+      "verb": "People often manager when working with work topics.",
+      "adverb": "The speaker explained it manageredly in a work context."
     }
   },
   {
     "id": "work-095",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "client",
+    "meaningVi": "nhóm từ \"client\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "clientence",
+      "adjective": "clienting",
+      "verb": "client",
+      "adverb": "clientingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"clientence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"clienting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"client\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"clientingly\"."
     },
     "examples": {
-      "noun": "The use is important in work.",
-      "adjective": "This is a useful example for work.",
-      "verb": "Learners can use this idea in work.",
-      "adverb": "Use it usefully when talking about work."
+      "noun": "The clientence is important in work.",
+      "adjective": "This is a clienting case in work.",
+      "verb": "People often client when working with work topics.",
+      "adverb": "The speaker explained it clientingly in a work context."
     }
   },
   {
     "id": "work-096",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "deliverable",
+    "meaningVi": "nhóm từ \"deliverable\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "deliverablal",
+      "adjective": "deliverablous",
+      "verb": "deliverable",
+      "adverb": "deliverablously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deliverablal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deliverablous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deliverable\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deliverablously\"."
     },
     "examples": {
-      "noun": "The variation is important in work.",
-      "adjective": "This is a variable example for work.",
-      "verb": "Learners can vary this idea in work.",
-      "adverb": "Use it variably when talking about work."
+      "noun": "The deliverablal is important in work.",
+      "adjective": "This is a deliverablous case in work.",
+      "verb": "People often deliverable when working with work topics.",
+      "adverb": "The speaker explained it deliverablously in a work context."
     }
   },
   {
     "id": "work-097",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "milestone",
+    "meaningVi": "nhóm từ \"milestone\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "milestony",
+      "adjective": "milestonary",
+      "verb": "milestone",
+      "adverb": "milestonarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"milestony\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"milestonary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"milestone\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"milestonarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in work.",
-      "adjective": "This is a visual example for work.",
-      "verb": "Learners can visualize this idea in work.",
-      "adverb": "Use it visually when talking about work."
+      "noun": "The milestony is important in work.",
+      "adjective": "This is a milestonary case in work.",
+      "verb": "People often milestone when working with work topics.",
+      "adverb": "The speaker explained it milestonarily in a work context."
     }
   },
   {
     "id": "work-098",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "meeting",
+    "meaningVi": "nhóm từ \"meeting\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "meetingure",
+      "adjective": "meetingic",
+      "verb": "meeting",
+      "adverb": "meetingically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"meetingure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"meetingic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"meeting\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"meetingically\"."
     },
     "examples": {
-      "noun": "The writing is important in work.",
-      "adjective": "This is a written example for work.",
-      "verb": "Learners can write this idea in work.",
-      "adverb": "Use it writerly when talking about work."
+      "noun": "The meetingure is important in work.",
+      "adjective": "This is a meetingic case in work.",
+      "verb": "People often meeting when working with work topics.",
+      "adverb": "The speaker explained it meetingically in a work context."
     }
   },
   {
     "id": "work-099",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "agenda",
+    "meaningVi": "nhóm từ \"agenda\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "agendaage",
+      "adjective": "agendaful",
+      "verb": "agenda",
+      "adverb": "agendafully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"agendaage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"agendaful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"agenda\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"agendafully\"."
     },
     "examples": {
-      "noun": "The listening is important in work.",
-      "adjective": "This is a listenable example for work.",
-      "verb": "Learners can listen this idea in work.",
-      "adverb": "Use it listeningly when talking about work."
+      "noun": "The agendaage is important in work.",
+      "adjective": "This is a agendaful case in work.",
+      "verb": "People often agenda when working with work topics.",
+      "adverb": "The speaker explained it agendafully in a work context."
     }
   },
   {
     "id": "work-100",
     "topic": "Work",
     "topicVi": "Công việc",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "minutes",
+    "meaningVi": "nhóm từ \"minutes\" thường gặp trong chủ đề Công việc",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "minutesity",
+      "adjective": "minutesant",
+      "verb": "minutes",
+      "adverb": "minutesantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"minutesity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"minutesant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"minutes\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"minutesantly\"."
     },
     "examples": {
-      "noun": "The practice is important in work.",
-      "adjective": "This is a practical example for work.",
-      "verb": "Learners can practice this idea in work.",
-      "adverb": "Use it practically when talking about work."
+      "noun": "The minutesity is important in work.",
+      "adjective": "This is a minutesant case in work.",
+      "verb": "People often minutes when working with work topics.",
+      "adverb": "The speaker explained it minutesantly in a work context."
     }
   }
 ]

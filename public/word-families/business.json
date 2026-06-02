@@ -3,2500 +3,2500 @@
     "id": "business-001",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "market",
+    "meaningVi": "nhóm từ \"market\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "markettion",
+      "adjective": "marketable",
+      "verb": "market",
+      "adverb": "marketably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"markettion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"marketable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"market\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"marketably\"."
     },
     "examples": {
-      "noun": "The action is important in business.",
-      "adjective": "This is a active example for business.",
-      "verb": "Learners can act this idea in business.",
-      "adverb": "Use it actively when talking about business."
+      "noun": "The markettion is important in business.",
+      "adjective": "This is a marketable case in business.",
+      "verb": "People often market when working with business topics.",
+      "adverb": "The speaker explained it marketably in a business context."
     }
   },
   {
     "id": "business-002",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "advertise",
+    "meaningVi": "nhóm từ \"advertise\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "advertisment",
+      "adjective": "advertisive",
+      "verb": "advertise",
+      "adverb": "advertisively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"advertisment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"advertisive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"advertise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"advertisively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in business.",
-      "adjective": "This is a adaptable example for business.",
-      "verb": "Learners can adapt this idea in business.",
-      "adverb": "Use it adaptably when talking about business."
+      "noun": "The advertisment is important in business.",
+      "adjective": "This is a advertisive case in business.",
+      "verb": "People often advertise when working with business topics.",
+      "adverb": "The speaker explained it advertisively in a business context."
     }
   },
   {
     "id": "business-003",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "brand",
+    "meaningVi": "nhóm từ \"brand\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "branding",
+      "adjective": "brandal",
+      "verb": "brand",
+      "adverb": "brandally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"branding\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"brandal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"brand\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"brandally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in business.",
-      "adjective": "This is a adjustable example for business.",
-      "verb": "Learners can adjust this idea in business.",
-      "adverb": "Use it adjustably when talking about business."
+      "noun": "The branding is important in business.",
+      "adjective": "This is a brandal case in business.",
+      "verb": "People often brand when working with business topics.",
+      "adverb": "The speaker explained it brandally in a business context."
     }
   },
   {
     "id": "business-004",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "price",
+    "meaningVi": "nhóm từ \"price\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "pricance",
+      "adjective": "pricd",
+      "verb": "price",
+      "adverb": "pricdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pricance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pricd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"price\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pricdly\"."
     },
     "examples": {
-      "noun": "The admiration is important in business.",
-      "adjective": "This is a admirable example for business.",
-      "verb": "Learners can admire this idea in business.",
-      "adverb": "Use it admirably when talking about business."
+      "noun": "The pricance is important in business.",
+      "adjective": "This is a pricd case in business.",
+      "verb": "People often price when working with business topics.",
+      "adverb": "The speaker explained it pricdly in a business context."
     }
   },
   {
     "id": "business-005",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "sell",
+    "meaningVi": "nhóm từ \"sell\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "sellence",
+      "adjective": "selling",
+      "verb": "sell",
+      "adverb": "sellingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sellence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"selling\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sell\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sellingly\"."
     },
     "examples": {
-      "noun": "The advice is important in business.",
-      "adjective": "This is a advisable example for business.",
-      "verb": "Learners can advise this idea in business.",
-      "adverb": "Use it advisably when talking about business."
+      "noun": "The sellence is important in business.",
+      "adjective": "This is a selling case in business.",
+      "verb": "People often sell when working with business topics.",
+      "adverb": "The speaker explained it sellingly in a business context."
     }
   },
   {
     "id": "business-006",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "purchase",
+    "meaningVi": "nhóm từ \"purchase\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "purchasal",
+      "adjective": "purchasous",
+      "verb": "purchase",
+      "adverb": "purchasously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"purchasal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"purchasous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"purchase\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"purchasously\"."
     },
     "examples": {
-      "noun": "The analysis is important in business.",
-      "adjective": "This is a analytical example for business.",
-      "verb": "Learners can analyze this idea in business.",
-      "adverb": "Use it analytically when talking about business."
+      "noun": "The purchasal is important in business.",
+      "adjective": "This is a purchasous case in business.",
+      "verb": "People often purchase when working with business topics.",
+      "adverb": "The speaker explained it purchasously in a business context."
     }
   },
   {
     "id": "business-007",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "procure",
+    "meaningVi": "nhóm từ \"procure\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "procury",
+      "adjective": "procurary",
+      "verb": "procure",
+      "adverb": "procurarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"procury\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"procurary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"procure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"procurarily\"."
     },
     "examples": {
-      "noun": "The application is important in business.",
-      "adjective": "This is a applicable example for business.",
-      "verb": "Learners can apply this idea in business.",
-      "adverb": "Use it applicably when talking about business."
+      "noun": "The procury is important in business.",
+      "adjective": "This is a procurary case in business.",
+      "verb": "People often procure when working with business topics.",
+      "adverb": "The speaker explained it procurarily in a business context."
     }
   },
   {
     "id": "business-008",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "invoice",
+    "meaningVi": "nhóm từ \"invoice\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "invoicure",
+      "adjective": "invoicic",
+      "verb": "invoice",
+      "adverb": "invoicically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"invoicure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"invoicic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"invoice\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"invoicically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in business.",
-      "adjective": "This is a arranged example for business.",
-      "verb": "Learners can arrange this idea in business.",
-      "adverb": "Use it arrangedly when talking about business."
+      "noun": "The invoicure is important in business.",
+      "adjective": "This is a invoicic case in business.",
+      "verb": "People often invoice when working with business topics.",
+      "adverb": "The speaker explained it invoicically in a business context."
     }
   },
   {
     "id": "business-009",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "bill",
+    "meaningVi": "nhóm từ \"bill\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "billage",
+      "adjective": "billful",
+      "verb": "bill",
+      "adverb": "billfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"billage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"billful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"billfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in business.",
-      "adjective": "This is a assessable example for business.",
-      "verb": "Learners can assess this idea in business.",
-      "adverb": "Use it assessably when talking about business."
+      "noun": "The billage is important in business.",
+      "adjective": "This is a billful case in business.",
+      "verb": "People often bill when working with business topics.",
+      "adverb": "The speaker explained it billfully in a business context."
     }
   },
   {
     "id": "business-010",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "quote",
+    "meaningVi": "nhóm từ \"quote\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "quotity",
+      "adjective": "quotant",
+      "verb": "quote",
+      "adverb": "quotantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"quotity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"quotant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"quote\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"quotantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in business.",
-      "adjective": "This is a assistant example for business.",
-      "verb": "Learners can assist this idea in business.",
-      "adverb": "Use it assistively when talking about business."
+      "noun": "The quotity is important in business.",
+      "adjective": "This is a quotant case in business.",
+      "verb": "People often quote when working with business topics.",
+      "adverb": "The speaker explained it quotantly in a business context."
     }
   },
   {
     "id": "business-011",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "tender",
+    "meaningVi": "nhóm từ \"tender\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "tendertion",
+      "adjective": "tenderable",
+      "verb": "tender",
+      "adverb": "tenderably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tendertion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tenderable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tender\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tenderably\"."
     },
     "examples": {
-      "noun": "The attendance is important in business.",
-      "adjective": "This is a attentive example for business.",
-      "verb": "Learners can attend this idea in business.",
-      "adverb": "Use it attentively when talking about business."
+      "noun": "The tendertion is important in business.",
+      "adjective": "This is a tenderable case in business.",
+      "verb": "People often tender when working with business topics.",
+      "adverb": "The speaker explained it tenderably in a business context."
     }
   },
   {
     "id": "business-012",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "negotiate",
+    "meaningVi": "nhóm từ \"negotiate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "negotiatment",
+      "adjective": "negotiative",
+      "verb": "negotiate",
+      "adverb": "negotiatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"negotiatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"negotiative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"negotiate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"negotiatively\"."
     },
     "examples": {
-      "noun": "The benefit is important in business.",
-      "adjective": "This is a beneficial example for business.",
-      "verb": "Learners can benefit this idea in business.",
-      "adverb": "Use it beneficially when talking about business."
+      "noun": "The negotiatment is important in business.",
+      "adjective": "This is a negotiative case in business.",
+      "verb": "People often negotiate when working with business topics.",
+      "adverb": "The speaker explained it negotiatively in a business context."
     }
   },
   {
     "id": "business-013",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "contract",
+    "meaningVi": "nhóm từ \"contract\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "contracting",
+      "adjective": "contractal",
+      "verb": "contract",
+      "adverb": "contractally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"contracting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"contractal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"contract\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"contractally\"."
     },
     "examples": {
-      "noun": "The calculation is important in business.",
-      "adjective": "This is a calculable example for business.",
-      "verb": "Learners can calculate this idea in business.",
-      "adverb": "Use it calculably when talking about business."
+      "noun": "The contracting is important in business.",
+      "adjective": "This is a contractal case in business.",
+      "verb": "People often contract when working with business topics.",
+      "adverb": "The speaker explained it contractally in a business context."
     }
   },
   {
     "id": "business-014",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "partner",
+    "meaningVi": "nhóm từ \"partner\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "partnerance",
+      "adjective": "partnered",
+      "verb": "partner",
+      "adverb": "partneredly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"partnerance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"partnered\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"partner\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"partneredly\"."
     },
     "examples": {
-      "noun": "The care is important in business.",
-      "adjective": "This is a careful example for business.",
-      "verb": "Learners can care this idea in business.",
-      "adverb": "Use it carefully when talking about business."
+      "noun": "The partnerance is important in business.",
+      "adjective": "This is a partnered case in business.",
+      "verb": "People often partner when working with business topics.",
+      "adverb": "The speaker explained it partneredly in a business context."
     }
   },
   {
     "id": "business-015",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "compete",
+    "meaningVi": "nhóm từ \"compete\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "competence",
+      "adjective": "competing",
+      "verb": "compete",
+      "adverb": "competingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"competence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"competing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compete\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"competingly\"."
     },
     "examples": {
-      "noun": "The change is important in business.",
-      "adjective": "This is a changeable example for business.",
-      "verb": "Learners can change this idea in business.",
-      "adverb": "Use it changeably when talking about business."
+      "noun": "The competence is important in business.",
+      "adjective": "This is a competing case in business.",
+      "verb": "People often compete when working with business topics.",
+      "adverb": "The speaker explained it competingly in a business context."
     }
   },
   {
     "id": "business-016",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "benchmark",
+    "meaningVi": "nhóm từ \"benchmark\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "benchmarkal",
+      "adjective": "benchmarkous",
+      "verb": "benchmark",
+      "adverb": "benchmarkously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"benchmarkal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"benchmarkous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"benchmark\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"benchmarkously\"."
     },
     "examples": {
-      "noun": "The communication is important in business.",
-      "adjective": "This is a communicative example for business.",
-      "verb": "Learners can communicate this idea in business.",
-      "adverb": "Use it communicatively when talking about business."
+      "noun": "The benchmarkal is important in business.",
+      "adjective": "This is a benchmarkous case in business.",
+      "verb": "People often benchmark when working with business topics.",
+      "adverb": "The speaker explained it benchmarkously in a business context."
     }
   },
   {
     "id": "business-017",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "position",
+    "meaningVi": "nhóm từ \"position\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "positiony",
+      "adjective": "positionary",
+      "verb": "position",
+      "adverb": "positionarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"positiony\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"positionary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"position\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"positionarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in business.",
-      "adjective": "This is a comparative example for business.",
-      "verb": "Learners can compare this idea in business.",
-      "adverb": "Use it comparatively when talking about business."
+      "noun": "The positiony is important in business.",
+      "adjective": "This is a positionary case in business.",
+      "verb": "People often position when working with business topics.",
+      "adverb": "The speaker explained it positionarily in a business context."
     }
   },
   {
     "id": "business-018",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "differentiate",
+    "meaningVi": "nhóm từ \"differentiate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "differentiature",
+      "adjective": "differentiatic",
+      "verb": "differentiate",
+      "adverb": "differentiatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"differentiature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"differentiatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"differentiate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"differentiatically\"."
     },
     "examples": {
-      "noun": "The competition is important in business.",
-      "adjective": "This is a competitive example for business.",
-      "verb": "Learners can compete this idea in business.",
-      "adverb": "Use it competitively when talking about business."
+      "noun": "The differentiature is important in business.",
+      "adjective": "This is a differentiatic case in business.",
+      "verb": "People often differentiate when working with business topics.",
+      "adverb": "The speaker explained it differentiatically in a business context."
     }
   },
   {
     "id": "business-019",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "segment",
+    "meaningVi": "nhóm từ \"segment\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "segmentage",
+      "adjective": "segmentful",
+      "verb": "segment",
+      "adverb": "segmentfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"segmentage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"segmentful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"segment\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"segmentfully\"."
     },
     "examples": {
-      "noun": "The completion is important in business.",
-      "adjective": "This is a complete example for business.",
-      "verb": "Learners can complete this idea in business.",
-      "adverb": "Use it completely when talking about business."
+      "noun": "The segmentage is important in business.",
+      "adjective": "This is a segmentful case in business.",
+      "verb": "People often segment when working with business topics.",
+      "adverb": "The speaker explained it segmentfully in a business context."
     }
   },
   {
     "id": "business-020",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "target",
+    "meaningVi": "nhóm từ \"target\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "targetity",
+      "adjective": "targetant",
+      "verb": "target",
+      "adverb": "targetantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"targetity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"targetant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"target\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"targetantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in business.",
-      "adjective": "This is a concentrated example for business.",
-      "verb": "Learners can concentrate this idea in business.",
-      "adverb": "Use it concentratedly when talking about business."
+      "noun": "The targetity is important in business.",
+      "adjective": "This is a targetant case in business.",
+      "verb": "People often target when working with business topics.",
+      "adverb": "The speaker explained it targetantly in a business context."
     }
   },
   {
     "id": "business-021",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "survey",
+    "meaningVi": "nhóm từ \"survey\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "surveytion",
+      "adjective": "surveyable",
+      "verb": "survey",
+      "adverb": "surveyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"surveytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"surveyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"survey\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"surveyably\"."
     },
     "examples": {
-      "noun": "The connection is important in business.",
-      "adjective": "This is a connected example for business.",
-      "verb": "Learners can connect this idea in business.",
-      "adverb": "Use it connectedly when talking about business."
+      "noun": "The surveytion is important in business.",
+      "adjective": "This is a surveyable case in business.",
+      "verb": "People often survey when working with business topics.",
+      "adverb": "The speaker explained it surveyably in a business context."
     }
   },
   {
     "id": "business-022",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "pitch",
+    "meaningVi": "nhóm từ \"pitch\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "pitchment",
+      "adjective": "pitchive",
+      "verb": "pitch",
+      "adverb": "pitchively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pitchment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pitchive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pitch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pitchively\"."
     },
     "examples": {
-      "noun": "The consideration is important in business.",
-      "adjective": "This is a considerate example for business.",
-      "verb": "Learners can consider this idea in business.",
-      "adverb": "Use it considerately when talking about business."
+      "noun": "The pitchment is important in business.",
+      "adjective": "This is a pitchive case in business.",
+      "verb": "People often pitch when working with business topics.",
+      "adverb": "The speaker explained it pitchively in a business context."
     }
   },
   {
     "id": "business-023",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "launch",
+    "meaningVi": "nhóm từ \"launch\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "launching",
+      "adjective": "launchal",
+      "verb": "launch",
+      "adverb": "launchally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"launching\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"launchal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"launch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"launchally\"."
     },
     "examples": {
-      "noun": "The creation is important in business.",
-      "adjective": "This is a creative example for business.",
-      "verb": "Learners can create this idea in business.",
-      "adverb": "Use it creatively when talking about business."
+      "noun": "The launching is important in business.",
+      "adjective": "This is a launchal case in business.",
+      "verb": "People often launch when working with business topics.",
+      "adverb": "The speaker explained it launchally in a business context."
     }
   },
   {
     "id": "business-024",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "promote",
+    "meaningVi": "nhóm từ \"promote\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "promotance",
+      "adjective": "promotd",
+      "verb": "promote",
+      "adverb": "promotdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"promotance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"promotd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"promote\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"promotdly\"."
     },
     "examples": {
-      "noun": "The decision is important in business.",
-      "adjective": "This is a decisive example for business.",
-      "verb": "Learners can decide this idea in business.",
-      "adverb": "Use it decisively when talking about business."
+      "noun": "The promotance is important in business.",
+      "adjective": "This is a promotd case in business.",
+      "verb": "People often promote when working with business topics.",
+      "adverb": "The speaker explained it promotdly in a business context."
     }
   },
   {
     "id": "business-025",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "distribute",
+    "meaningVi": "nhóm từ \"distribute\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "distributence",
+      "adjective": "distributing",
+      "verb": "distribute",
+      "adverb": "distributingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"distributence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"distributing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"distribute\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"distributingly\"."
     },
     "examples": {
-      "noun": "The definition is important in business.",
-      "adjective": "This is a definite example for business.",
-      "verb": "Learners can define this idea in business.",
-      "adverb": "Use it definitely when talking about business."
+      "noun": "The distributence is important in business.",
+      "adjective": "This is a distributing case in business.",
+      "verb": "People often distribute when working with business topics.",
+      "adverb": "The speaker explained it distributingly in a business context."
     }
   },
   {
     "id": "business-026",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "retail",
+    "meaningVi": "nhóm từ \"retail\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "retailal",
+      "adjective": "retailous",
+      "verb": "retail",
+      "adverb": "retailously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"retailal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"retailous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"retail\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"retailously\"."
     },
     "examples": {
-      "noun": "The delivery is important in business.",
-      "adjective": "This is a deliverable example for business.",
-      "verb": "Learners can deliver this idea in business.",
-      "adverb": "Use it deliverably when talking about business."
+      "noun": "The retailal is important in business.",
+      "adjective": "This is a retailous case in business.",
+      "verb": "People often retail when working with business topics.",
+      "adverb": "The speaker explained it retailously in a business context."
     }
   },
   {
     "id": "business-027",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "wholesale",
+    "meaningVi": "nhóm từ \"wholesale\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "wholesaly",
+      "adjective": "wholesalary",
+      "verb": "wholesale",
+      "adverb": "wholesalarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"wholesaly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"wholesalary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"wholesale\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"wholesalarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in business.",
-      "adjective": "This is a dependent example for business.",
-      "verb": "Learners can depend this idea in business.",
-      "adverb": "Use it dependently when talking about business."
+      "noun": "The wholesaly is important in business.",
+      "adjective": "This is a wholesalary case in business.",
+      "verb": "People often wholesale when working with business topics.",
+      "adverb": "The speaker explained it wholesalarily in a business context."
     }
   },
   {
     "id": "business-028",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "franchise",
+    "meaningVi": "nhóm từ \"franchise\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "franchisure",
+      "adjective": "franchisic",
+      "verb": "franchise",
+      "adverb": "franchisically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"franchisure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"franchisic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"franchise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"franchisically\"."
     },
     "examples": {
-      "noun": "The description is important in business.",
-      "adjective": "This is a descriptive example for business.",
-      "verb": "Learners can describe this idea in business.",
-      "adverb": "Use it descriptively when talking about business."
+      "noun": "The franchisure is important in business.",
+      "adjective": "This is a franchisic case in business.",
+      "verb": "People often franchise when working with business topics.",
+      "adverb": "The speaker explained it franchisically in a business context."
     }
   },
   {
     "id": "business-029",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "license",
+    "meaningVi": "nhóm từ \"license\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "licensage",
+      "adjective": "licensful",
+      "verb": "license",
+      "adverb": "licensfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"licensage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"licensful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"license\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"licensfully\"."
     },
     "examples": {
-      "noun": "The design is important in business.",
-      "adjective": "This is a designed example for business.",
-      "verb": "Learners can design this idea in business.",
-      "adverb": "Use it designedly when talking about business."
+      "noun": "The licensage is important in business.",
+      "adjective": "This is a licensful case in business.",
+      "verb": "People often license when working with business topics.",
+      "adverb": "The speaker explained it licensfully in a business context."
     }
   },
   {
     "id": "business-030",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "monetize",
+    "meaningVi": "nhóm từ \"monetize\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "monetizity",
+      "adjective": "monetizant",
+      "verb": "monetize",
+      "adverb": "monetizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monetizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monetizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monetize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monetizantly\"."
     },
     "examples": {
-      "noun": "The development is important in business.",
-      "adjective": "This is a developed example for business.",
-      "verb": "Learners can develop this idea in business.",
-      "adverb": "Use it developmentally when talking about business."
+      "noun": "The monetizity is important in business.",
+      "adjective": "This is a monetizant case in business.",
+      "verb": "People often monetize when working with business topics.",
+      "adverb": "The speaker explained it monetizantly in a business context."
     }
   },
   {
     "id": "business-031",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "invest",
+    "meaningVi": "nhóm từ \"invest\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "investtion",
+      "adjective": "investable",
+      "verb": "invest",
+      "adverb": "investably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"investtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"investable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"invest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"investably\"."
     },
     "examples": {
-      "noun": "The difference is important in business.",
-      "adjective": "This is a different example for business.",
-      "verb": "Learners can differ this idea in business.",
-      "adverb": "Use it differently when talking about business."
+      "noun": "The investtion is important in business.",
+      "adjective": "This is a investable case in business.",
+      "verb": "People often invest when working with business topics.",
+      "adverb": "The speaker explained it investably in a business context."
     }
   },
   {
     "id": "business-032",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "fundraise",
+    "meaningVi": "nhóm từ \"fundraise\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "fundraisment",
+      "adjective": "fundraisive",
+      "verb": "fundraise",
+      "adverb": "fundraisively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"fundraisment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"fundraisive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"fundraise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"fundraisively\"."
     },
     "examples": {
-      "noun": "The discussion is important in business.",
-      "adjective": "This is a discussable example for business.",
-      "verb": "Learners can discuss this idea in business.",
-      "adverb": "Use it discussably when talking about business."
+      "noun": "The fundraisment is important in business.",
+      "adjective": "This is a fundraisive case in business.",
+      "verb": "People often fundraise when working with business topics.",
+      "adverb": "The speaker explained it fundraisively in a business context."
     }
   },
   {
     "id": "business-033",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "budget",
+    "meaningVi": "nhóm từ \"budget\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "budgeting",
+      "adjective": "budgetal",
+      "verb": "budget",
+      "adverb": "budgetally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"budgeting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"budgetal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"budget\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"budgetally\"."
     },
     "examples": {
-      "noun": "The education is important in business.",
-      "adjective": "This is a educational example for business.",
-      "verb": "Learners can educate this idea in business.",
-      "adverb": "Use it educationally when talking about business."
+      "noun": "The budgeting is important in business.",
+      "adjective": "This is a budgetal case in business.",
+      "verb": "People often budget when working with business topics.",
+      "adverb": "The speaker explained it budgetally in a business context."
     }
   },
   {
     "id": "business-034",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "allocate",
+    "meaningVi": "nhóm từ \"allocate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "allocatance",
+      "adjective": "allocatd",
+      "verb": "allocate",
+      "adverb": "allocatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"allocatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"allocatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"allocate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"allocatdly\"."
     },
     "examples": {
-      "noun": "The effect is important in business.",
-      "adjective": "This is a effective example for business.",
-      "verb": "Learners can effect this idea in business.",
-      "adverb": "Use it effectively when talking about business."
+      "noun": "The allocatance is important in business.",
+      "adjective": "This is a allocatd case in business.",
+      "verb": "People often allocate when working with business topics.",
+      "adverb": "The speaker explained it allocatdly in a business context."
     }
   },
   {
     "id": "business-035",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "forecast",
+    "meaningVi": "nhóm từ \"forecast\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "forecastence",
+      "adjective": "forecasting",
+      "verb": "forecast",
+      "adverb": "forecastingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"forecastence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"forecasting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"forecast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"forecastingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in business.",
-      "adjective": "This is a emphatic example for business.",
-      "verb": "Learners can emphasize this idea in business.",
-      "adverb": "Use it emphatically when talking about business."
+      "noun": "The forecastence is important in business.",
+      "adjective": "This is a forecasting case in business.",
+      "verb": "People often forecast when working with business topics.",
+      "adverb": "The speaker explained it forecastingly in a business context."
     }
   },
   {
     "id": "business-036",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "audit",
+    "meaningVi": "nhóm từ \"audit\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "audital",
+      "adjective": "auditous",
+      "verb": "audit",
+      "adverb": "auditously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"audital\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"auditous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"audit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"auditously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in business.",
-      "adjective": "This is a encouraging example for business.",
-      "verb": "Learners can encourage this idea in business.",
-      "adverb": "Use it encouragingly when talking about business."
+      "noun": "The audital is important in business.",
+      "adjective": "This is a auditous case in business.",
+      "verb": "People often audit when working with business topics.",
+      "adverb": "The speaker explained it auditously in a business context."
     }
   },
   {
     "id": "business-037",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "account",
+    "meaningVi": "nhóm từ \"account\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "accounty",
+      "adjective": "accountary",
+      "verb": "account",
+      "adverb": "accountarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"accounty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"accountary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"account\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"accountarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in business.",
-      "adjective": "This is a enjoyable example for business.",
-      "verb": "Learners can enjoy this idea in business.",
-      "adverb": "Use it enjoyably when talking about business."
+      "noun": "The accounty is important in business.",
+      "adjective": "This is a accountary case in business.",
+      "verb": "People often account when working with business topics.",
+      "adverb": "The speaker explained it accountarily in a business context."
     }
   },
   {
     "id": "business-038",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "transact",
+    "meaningVi": "nhóm từ \"transact\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "transacture",
+      "adjective": "transactic",
+      "verb": "transact",
+      "adverb": "transactically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transacture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transactic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transact\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transactically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in business.",
-      "adjective": "This is a evaluative example for business.",
-      "verb": "Learners can evaluate this idea in business.",
-      "adverb": "Use it evaluatively when talking about business."
+      "noun": "The transacture is important in business.",
+      "adjective": "This is a transactic case in business.",
+      "verb": "People often transact when working with business topics.",
+      "adverb": "The speaker explained it transactically in a business context."
     }
   },
   {
     "id": "business-039",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "insure",
+    "meaningVi": "nhóm từ \"insure\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "insurage",
+      "adjective": "insurful",
+      "verb": "insure",
+      "adverb": "insurfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"insurage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"insurful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"insure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"insurfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in business.",
-      "adjective": "This is a explanatory example for business.",
-      "verb": "Learners can explain this idea in business.",
-      "adverb": "Use it explanatorily when talking about business."
+      "noun": "The insurage is important in business.",
+      "adjective": "This is a insurful case in business.",
+      "verb": "People often insure when working with business topics.",
+      "adverb": "The speaker explained it insurfully in a business context."
     }
   },
   {
     "id": "business-040",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "bank",
+    "meaningVi": "nhóm từ \"bank\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "bankity",
+      "adjective": "bankant",
+      "verb": "bank",
+      "adverb": "bankantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bankity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bankant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bank\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bankantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in business.",
-      "adjective": "This is a exploratory example for business.",
-      "verb": "Learners can explore this idea in business.",
-      "adverb": "Use it exploratorily when talking about business."
+      "noun": "The bankity is important in business.",
+      "adjective": "This is a bankant case in business.",
+      "verb": "People often bank when working with business topics.",
+      "adverb": "The speaker explained it bankantly in a business context."
     }
   },
   {
     "id": "business-041",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "trade",
+    "meaningVi": "nhóm từ \"trade\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "tradtion",
+      "adjective": "tradable",
+      "verb": "trade",
+      "adverb": "tradably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tradtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tradable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"trade\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tradably\"."
     },
     "examples": {
-      "noun": "The expression is important in business.",
-      "adjective": "This is a expressive example for business.",
-      "verb": "Learners can express this idea in business.",
-      "adverb": "Use it expressively when talking about business."
+      "noun": "The tradtion is important in business.",
+      "adjective": "This is a tradable case in business.",
+      "verb": "People often trade when working with business topics.",
+      "adverb": "The speaker explained it tradably in a business context."
     }
   },
   {
     "id": "business-042",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "export",
+    "meaningVi": "nhóm từ \"export\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "exportment",
+      "adjective": "exportive",
+      "verb": "export",
+      "adverb": "exportively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"exportment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"exportive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"export\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"exportively\"."
     },
     "examples": {
-      "noun": "The failure is important in business.",
-      "adjective": "This is a failed example for business.",
-      "verb": "Learners can fail this idea in business.",
-      "adverb": "Use it failingly when talking about business."
+      "noun": "The exportment is important in business.",
+      "adjective": "This is a exportive case in business.",
+      "verb": "People often export when working with business topics.",
+      "adverb": "The speaker explained it exportively in a business context."
     }
   },
   {
     "id": "business-043",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "import",
+    "meaningVi": "nhóm từ \"import\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "importing",
+      "adjective": "importal",
+      "verb": "import",
+      "adverb": "importally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"importing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"importal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"import\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"importally\"."
     },
     "examples": {
-      "noun": "The focus is important in business.",
-      "adjective": "This is a focused example for business.",
-      "verb": "Learners can focus this idea in business.",
-      "adverb": "Use it focusedly when talking about business."
+      "noun": "The importing is important in business.",
+      "adjective": "This is a importal case in business.",
+      "verb": "People often import when working with business topics.",
+      "adverb": "The speaker explained it importally in a business context."
     }
   },
   {
     "id": "business-044",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "outsource",
+    "meaningVi": "nhóm từ \"outsource\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "outsourcance",
+      "adjective": "outsourcd",
+      "verb": "outsource",
+      "adverb": "outsourcdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"outsourcance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"outsourcd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"outsource\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"outsourcdly\"."
     },
     "examples": {
-      "noun": "The growth is important in business.",
-      "adjective": "This is a growing example for business.",
-      "verb": "Learners can grow this idea in business.",
-      "adverb": "Use it growingly when talking about business."
+      "noun": "The outsourcance is important in business.",
+      "adjective": "This is a outsourcd case in business.",
+      "verb": "People often outsource when working with business topics.",
+      "adverb": "The speaker explained it outsourcdly in a business context."
     }
   },
   {
     "id": "business-045",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "consult",
+    "meaningVi": "nhóm từ \"consult\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "consultence",
+      "adjective": "consulting",
+      "verb": "consult",
+      "adverb": "consultingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"consultence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"consulting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"consult\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"consultingly\"."
     },
     "examples": {
-      "noun": "The help is important in business.",
-      "adjective": "This is a helpful example for business.",
-      "verb": "Learners can help this idea in business.",
-      "adverb": "Use it helpfully when talking about business."
+      "noun": "The consultence is important in business.",
+      "adjective": "This is a consulting case in business.",
+      "verb": "People often consult when working with business topics.",
+      "adverb": "The speaker explained it consultingly in a business context."
     }
   },
   {
     "id": "business-046",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "analyze",
+    "meaningVi": "nhóm từ \"analyze\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "analyzal",
+      "adjective": "analyzous",
+      "verb": "analyze",
+      "adverb": "analyzously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"analyzal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"analyzous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"analyze\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"analyzously\"."
     },
     "examples": {
-      "noun": "The identification is important in business.",
-      "adjective": "This is a identifiable example for business.",
-      "verb": "Learners can identify this idea in business.",
-      "adverb": "Use it identifiably when talking about business."
+      "noun": "The analyzal is important in business.",
+      "adjective": "This is a analyzous case in business.",
+      "verb": "People often analyze when working with business topics.",
+      "adverb": "The speaker explained it analyzously in a business context."
     }
   },
   {
     "id": "business-047",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "optimize",
+    "meaningVi": "nhóm từ \"optimize\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "optimizy",
+      "adjective": "optimizary",
+      "verb": "optimize",
+      "adverb": "optimizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"optimizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"optimizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"optimize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"optimizarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in business.",
-      "adjective": "This is a imaginative example for business.",
-      "verb": "Learners can imagine this idea in business.",
-      "adverb": "Use it imaginatively when talking about business."
+      "noun": "The optimizy is important in business.",
+      "adjective": "This is a optimizary case in business.",
+      "verb": "People often optimize when working with business topics.",
+      "adverb": "The speaker explained it optimizarily in a business context."
     }
   },
   {
     "id": "business-048",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "strategize",
+    "meaningVi": "nhóm từ \"strategize\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "strategizure",
+      "adjective": "strategizic",
+      "verb": "strategize",
+      "adverb": "strategizically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"strategizure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"strategizic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"strategize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"strategizically\"."
     },
     "examples": {
-      "noun": "The improvement is important in business.",
-      "adjective": "This is a improved example for business.",
-      "verb": "Learners can improve this idea in business.",
-      "adverb": "Use it improvingly when talking about business."
+      "noun": "The strategizure is important in business.",
+      "adjective": "This is a strategizic case in business.",
+      "verb": "People often strategize when working with business topics.",
+      "adverb": "The speaker explained it strategizically in a business context."
     }
   },
   {
     "id": "business-049",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "innovate",
+    "meaningVi": "nhóm từ \"innovate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "innovatage",
+      "adjective": "innovatful",
+      "verb": "innovate",
+      "adverb": "innovatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"innovatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"innovatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"innovate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"innovatfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in business.",
-      "adjective": "This is a inclusive example for business.",
-      "verb": "Learners can include this idea in business.",
-      "adverb": "Use it inclusively when talking about business."
+      "noun": "The innovatage is important in business.",
+      "adjective": "This is a innovatful case in business.",
+      "verb": "People often innovate when working with business topics.",
+      "adverb": "The speaker explained it innovatfully in a business context."
     }
   },
   {
     "id": "business-050",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "scale",
+    "meaningVi": "nhóm từ \"scale\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "scality",
+      "adjective": "scalant",
+      "verb": "scale",
+      "adverb": "scalantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scality\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scalant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scale\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scalantly\"."
     },
     "examples": {
-      "noun": "The information is important in business.",
-      "adjective": "This is a informative example for business.",
-      "verb": "Learners can inform this idea in business.",
-      "adverb": "Use it informatively when talking about business."
+      "noun": "The scality is important in business.",
+      "adjective": "This is a scalant case in business.",
+      "verb": "People often scale when working with business topics.",
+      "adverb": "The speaker explained it scalantly in a business context."
     }
   },
   {
     "id": "business-051",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "expand",
+    "meaningVi": "nhóm từ \"expand\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "expandtion",
+      "adjective": "expandable",
+      "verb": "expand",
+      "adverb": "expandably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"expandtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"expandable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"expand\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"expandably\"."
     },
     "examples": {
-      "noun": "The innovation is important in business.",
-      "adjective": "This is a innovative example for business.",
-      "verb": "Learners can innovate this idea in business.",
-      "adverb": "Use it innovatively when talking about business."
+      "noun": "The expandtion is important in business.",
+      "adjective": "This is a expandable case in business.",
+      "verb": "People often expand when working with business topics.",
+      "adverb": "The speaker explained it expandably in a business context."
     }
   },
   {
     "id": "business-052",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "merge",
+    "meaningVi": "nhóm từ \"merge\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "mergment",
+      "adjective": "mergive",
+      "verb": "merge",
+      "adverb": "mergively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mergment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mergive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"merge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mergively\"."
     },
     "examples": {
-      "noun": "The instruction is important in business.",
-      "adjective": "This is a instructive example for business.",
-      "verb": "Learners can instruct this idea in business.",
-      "adverb": "Use it instructively when talking about business."
+      "noun": "The mergment is important in business.",
+      "adjective": "This is a mergive case in business.",
+      "verb": "People often merge when working with business topics.",
+      "adverb": "The speaker explained it mergively in a business context."
     }
   },
   {
     "id": "business-053",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "acquire",
+    "meaningVi": "nhóm từ \"acquire\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "acquiring",
+      "adjective": "acquiral",
+      "verb": "acquire",
+      "adverb": "acquirally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"acquiring\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"acquiral\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"acquire\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"acquirally\"."
     },
     "examples": {
-      "noun": "The interaction is important in business.",
-      "adjective": "This is a interactive example for business.",
-      "verb": "Learners can interact this idea in business.",
-      "adverb": "Use it interactively when talking about business."
+      "noun": "The acquiring is important in business.",
+      "adjective": "This is a acquiral case in business.",
+      "verb": "People often acquire when working with business topics.",
+      "adverb": "The speaker explained it acquirally in a business context."
     }
   },
   {
     "id": "business-054",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "retain",
+    "meaningVi": "nhóm từ \"retain\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "retainance",
+      "adjective": "retained",
+      "verb": "retain",
+      "adverb": "retainedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"retainance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"retained\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"retain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"retainedly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in business.",
-      "adjective": "This is a interpretive example for business.",
-      "verb": "Learners can interpret this idea in business.",
-      "adverb": "Use it interpretively when talking about business."
+      "noun": "The retainance is important in business.",
+      "adjective": "This is a retained case in business.",
+      "verb": "People often retain when working with business topics.",
+      "adverb": "The speaker explained it retainedly in a business context."
     }
   },
   {
     "id": "business-055",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "convert",
+    "meaningVi": "nhóm từ \"convert\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "convertence",
+      "adjective": "converting",
+      "verb": "convert",
+      "adverb": "convertingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"convertence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"converting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"convert\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"convertingly\"."
     },
     "examples": {
-      "noun": "The learning is important in business.",
-      "adjective": "This is a learned example for business.",
-      "verb": "Learners can learn this idea in business.",
-      "adverb": "Use it learnedly when talking about business."
+      "noun": "The convertence is important in business.",
+      "adjective": "This is a converting case in business.",
+      "verb": "People often convert when working with business topics.",
+      "adverb": "The speaker explained it convertingly in a business context."
     }
   },
   {
     "id": "business-056",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "prospect",
+    "meaningVi": "nhóm từ \"prospect\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "prospectal",
+      "adjective": "prospectous",
+      "verb": "prospect",
+      "adverb": "prospectously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prospectal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prospectous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prospect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prospectously\"."
     },
     "examples": {
-      "noun": "The management is important in business.",
-      "adjective": "This is a manageable example for business.",
-      "verb": "Learners can manage this idea in business.",
-      "adverb": "Use it manageably when talking about business."
+      "noun": "The prospectal is important in business.",
+      "adjective": "This is a prospectous case in business.",
+      "verb": "People often prospect when working with business topics.",
+      "adverb": "The speaker explained it prospectously in a business context."
     }
   },
   {
     "id": "business-057",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "subscribe",
+    "meaningVi": "nhóm từ \"subscribe\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "subscriby",
+      "adjective": "subscribary",
+      "verb": "subscribe",
+      "adverb": "subscribarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"subscriby\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"subscribary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"subscribe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"subscribarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in business.",
-      "adjective": "This is a measurable example for business.",
-      "verb": "Learners can measure this idea in business.",
-      "adverb": "Use it measurably when talking about business."
+      "noun": "The subscriby is important in business.",
+      "adjective": "This is a subscribary case in business.",
+      "verb": "People often subscribe when working with business topics.",
+      "adverb": "The speaker explained it subscribarily in a business context."
     }
   },
   {
     "id": "business-058",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "renew",
+    "meaningVi": "nhóm từ \"renew\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "renewure",
+      "adjective": "renewic",
+      "verb": "renew",
+      "adverb": "renewically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"renewure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"renewic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"renew\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"renewically\"."
     },
     "examples": {
-      "noun": "The motivation is important in business.",
-      "adjective": "This is a motivated example for business.",
-      "verb": "Learners can motivate this idea in business.",
-      "adverb": "Use it motivationally when talking about business."
+      "noun": "The renewure is important in business.",
+      "adjective": "This is a renewic case in business.",
+      "verb": "People often renew when working with business topics.",
+      "adverb": "The speaker explained it renewically in a business context."
     }
   },
   {
     "id": "business-059",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "cancel",
+    "meaningVi": "nhóm từ \"cancel\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "cancelage",
+      "adjective": "cancelful",
+      "verb": "cancel",
+      "adverb": "cancelfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cancelage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cancelful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cancel\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cancelfully\"."
     },
     "examples": {
-      "noun": "The movement is important in business.",
-      "adjective": "This is a movable example for business.",
-      "verb": "Learners can move this idea in business.",
-      "adverb": "Use it movably when talking about business."
+      "noun": "The cancelage is important in business.",
+      "adjective": "This is a cancelful case in business.",
+      "verb": "People often cancel when working with business topics.",
+      "adverb": "The speaker explained it cancelfully in a business context."
     }
   },
   {
     "id": "business-060",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "refund",
+    "meaningVi": "nhóm từ \"refund\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "refundity",
+      "adjective": "refundant",
+      "verb": "refund",
+      "adverb": "refundantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refundity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"refundant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refund\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"refundantly\"."
     },
     "examples": {
-      "noun": "The observation is important in business.",
-      "adjective": "This is a observant example for business.",
-      "verb": "Learners can observe this idea in business.",
-      "adverb": "Use it observantly when talking about business."
+      "noun": "The refundity is important in business.",
+      "adjective": "This is a refundant case in business.",
+      "verb": "People often refund when working with business topics.",
+      "adverb": "The speaker explained it refundantly in a business context."
     }
   },
   {
     "id": "business-061",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "reimburse",
+    "meaningVi": "nhóm từ \"reimburse\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "reimburstion",
+      "adjective": "reimbursable",
+      "verb": "reimburse",
+      "adverb": "reimbursably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reimburstion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reimbursable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reimburse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reimbursably\"."
     },
     "examples": {
-      "noun": "The organization is important in business.",
-      "adjective": "This is a organized example for business.",
-      "verb": "Learners can organize this idea in business.",
-      "adverb": "Use it organizationally when talking about business."
+      "noun": "The reimburstion is important in business.",
+      "adjective": "This is a reimbursable case in business.",
+      "verb": "People often reimburse when working with business topics.",
+      "adverb": "The speaker explained it reimbursably in a business context."
     }
   },
   {
     "id": "business-062",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "expense",
+    "meaningVi": "nhóm từ \"expense\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "expensment",
+      "adjective": "expensive",
+      "verb": "expense",
+      "adverb": "expensively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"expensment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"expensive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"expense\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"expensively\"."
     },
     "examples": {
-      "noun": "The participation is important in business.",
-      "adjective": "This is a participatory example for business.",
-      "verb": "Learners can participate this idea in business.",
-      "adverb": "Use it participatively when talking about business."
+      "noun": "The expensment is important in business.",
+      "adjective": "This is a expensive case in business.",
+      "verb": "People often expense when working with business topics.",
+      "adverb": "The speaker explained it expensively in a business context."
     }
   },
   {
     "id": "business-063",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "tax",
+    "meaningVi": "nhóm từ \"tax\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "taxing",
+      "adjective": "taxal",
+      "verb": "tax",
+      "adverb": "taxally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"taxing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"taxal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tax\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"taxally\"."
     },
     "examples": {
-      "noun": "The performance is important in business.",
-      "adjective": "This is a performative example for business.",
-      "verb": "Learners can perform this idea in business.",
-      "adverb": "Use it performatively when talking about business."
+      "noun": "The taxing is important in business.",
+      "adjective": "This is a taxal case in business.",
+      "verb": "People often tax when working with business topics.",
+      "adverb": "The speaker explained it taxally in a business context."
     }
   },
   {
     "id": "business-064",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "comply",
+    "meaningVi": "nhóm từ \"comply\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "complyance",
+      "adjective": "complyed",
+      "verb": "comply",
+      "adverb": "complyedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"complyance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"complyed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"comply\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"complyedly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in business.",
-      "adjective": "This is a persuasive example for business.",
-      "verb": "Learners can persuade this idea in business.",
-      "adverb": "Use it persuasively when talking about business."
+      "noun": "The complyance is important in business.",
+      "adjective": "This is a complyed case in business.",
+      "verb": "People often comply when working with business topics.",
+      "adverb": "The speaker explained it complyedly in a business context."
     }
   },
   {
     "id": "business-065",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "regulate",
+    "meaningVi": "nhóm từ \"regulate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "regulatence",
+      "adjective": "regulating",
+      "verb": "regulate",
+      "adverb": "regulatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"regulatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"regulating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"regulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"regulatingly\"."
     },
     "examples": {
-      "noun": "The plan is important in business.",
-      "adjective": "This is a planned example for business.",
-      "verb": "Learners can plan this idea in business.",
-      "adverb": "Use it plannedly when talking about business."
+      "noun": "The regulatence is important in business.",
+      "adjective": "This is a regulating case in business.",
+      "verb": "People often regulate when working with business topics.",
+      "adverb": "The speaker explained it regulatingly in a business context."
     }
   },
   {
     "id": "business-066",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "patent",
+    "meaningVi": "nhóm từ \"patent\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "patental",
+      "adjective": "patentous",
+      "verb": "patent",
+      "adverb": "patentously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"patental\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"patentous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"patent\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"patentously\"."
     },
     "examples": {
-      "noun": "The prediction is important in business.",
-      "adjective": "This is a predictable example for business.",
-      "verb": "Learners can predict this idea in business.",
-      "adverb": "Use it predictably when talking about business."
+      "noun": "The patental is important in business.",
+      "adjective": "This is a patentous case in business.",
+      "verb": "People often patent when working with business topics.",
+      "adverb": "The speaker explained it patentously in a business context."
     }
   },
   {
     "id": "business-067",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "trademark",
+    "meaningVi": "nhóm từ \"trademark\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "trademarky",
+      "adjective": "trademarkary",
+      "verb": "trademark",
+      "adverb": "trademarkarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trademarky\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"trademarkary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"trademark\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trademarkarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in business.",
-      "adjective": "This is a prepared example for business.",
-      "verb": "Learners can prepare this idea in business.",
-      "adverb": "Use it preparedly when talking about business."
+      "noun": "The trademarky is important in business.",
+      "adjective": "This is a trademarkary case in business.",
+      "verb": "People often trademark when working with business topics.",
+      "adverb": "The speaker explained it trademarkarily in a business context."
     }
   },
   {
     "id": "business-068",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "warehouse",
+    "meaningVi": "nhóm từ \"warehouse\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "warehousure",
+      "adjective": "warehousic",
+      "verb": "warehouse",
+      "adverb": "warehousically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"warehousure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"warehousic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"warehouse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"warehousically\"."
     },
     "examples": {
-      "noun": "The presentation is important in business.",
-      "adjective": "This is a presentable example for business.",
-      "verb": "Learners can present this idea in business.",
-      "adverb": "Use it presentably when talking about business."
+      "noun": "The warehousure is important in business.",
+      "adjective": "This is a warehousic case in business.",
+      "verb": "People often warehouse when working with business topics.",
+      "adverb": "The speaker explained it warehousically in a business context."
     }
   },
   {
     "id": "business-069",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "package",
+    "meaningVi": "nhóm từ \"package\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "packagage",
+      "adjective": "packagful",
+      "verb": "package",
+      "adverb": "packagfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"packagage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"packagful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"package\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"packagfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in business.",
-      "adjective": "This is a preventive example for business.",
-      "verb": "Learners can prevent this idea in business.",
-      "adverb": "Use it preventively when talking about business."
+      "noun": "The packagage is important in business.",
+      "adjective": "This is a packagful case in business.",
+      "verb": "People often package when working with business topics.",
+      "adverb": "The speaker explained it packagfully in a business context."
     }
   },
   {
     "id": "business-070",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "ship",
+    "meaningVi": "nhóm từ \"ship\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "shipity",
+      "adjective": "shipant",
+      "verb": "ship",
+      "adverb": "shipantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shipity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shipant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ship\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shipantly\"."
     },
     "examples": {
-      "noun": "The production is important in business.",
-      "adjective": "This is a productive example for business.",
-      "verb": "Learners can produce this idea in business.",
-      "adverb": "Use it productively when talking about business."
+      "noun": "The shipity is important in business.",
+      "adjective": "This is a shipant case in business.",
+      "verb": "People often ship when working with business topics.",
+      "adverb": "The speaker explained it shipantly in a business context."
     }
   },
   {
     "id": "business-071",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "deliver",
+    "meaningVi": "nhóm từ \"deliver\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "delivertion",
+      "adjective": "deliverable",
+      "verb": "deliver",
+      "adverb": "deliverably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"delivertion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deliverable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deliver\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deliverably\"."
     },
     "examples": {
-      "noun": "The protection is important in business.",
-      "adjective": "This is a protective example for business.",
-      "verb": "Learners can protect this idea in business.",
-      "adverb": "Use it protectively when talking about business."
+      "noun": "The delivertion is important in business.",
+      "adjective": "This is a deliverable case in business.",
+      "verb": "People often deliver when working with business topics.",
+      "adverb": "The speaker explained it deliverably in a business context."
     }
   },
   {
     "id": "business-072",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "manufacture",
+    "meaningVi": "nhóm từ \"manufacture\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "manufacturment",
+      "adjective": "manufacturive",
+      "verb": "manufacture",
+      "adverb": "manufacturively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"manufacturment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"manufacturive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"manufacture\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"manufacturively\"."
     },
     "examples": {
-      "noun": "The question is important in business.",
-      "adjective": "This is a questionable example for business.",
-      "verb": "Learners can question this idea in business.",
-      "adverb": "Use it questionably when talking about business."
+      "noun": "The manufacturment is important in business.",
+      "adjective": "This is a manufacturive case in business.",
+      "verb": "People often manufacture when working with business topics.",
+      "adverb": "The speaker explained it manufacturively in a business context."
     }
   },
   {
     "id": "business-073",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "prototype",
+    "meaningVi": "nhóm từ \"prototype\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "prototyping",
+      "adjective": "prototypal",
+      "verb": "prototype",
+      "adverb": "prototypally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prototyping\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prototypal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prototype\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prototypally\"."
     },
     "examples": {
-      "noun": "The reaction is important in business.",
-      "adjective": "This is a reactive example for business.",
-      "verb": "Learners can react this idea in business.",
-      "adverb": "Use it reactively when talking about business."
+      "noun": "The prototyping is important in business.",
+      "adjective": "This is a prototypal case in business.",
+      "verb": "People often prototype when working with business topics.",
+      "adverb": "The speaker explained it prototypally in a business context."
     }
   },
   {
     "id": "business-074",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "onboard",
+    "meaningVi": "nhóm từ \"onboard\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "onboardance",
+      "adjective": "onboarded",
+      "verb": "onboard",
+      "adverb": "onboardedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"onboardance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"onboarded\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"onboard\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"onboardedly\"."
     },
     "examples": {
-      "noun": "The recognition is important in business.",
-      "adjective": "This is a recognizable example for business.",
-      "verb": "Learners can recognize this idea in business.",
-      "adverb": "Use it recognizably when talking about business."
+      "noun": "The onboardance is important in business.",
+      "adjective": "This is a onboarded case in business.",
+      "verb": "People often onboard when working with business topics.",
+      "adverb": "The speaker explained it onboardedly in a business context."
     }
   },
   {
     "id": "business-075",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "train",
+    "meaningVi": "nhóm từ \"train\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "trainence",
+      "adjective": "training",
+      "verb": "train",
+      "adverb": "trainingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trainence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"training\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"train\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trainingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in business.",
-      "adjective": "This is a recommendable example for business.",
-      "verb": "Learners can recommend this idea in business.",
-      "adverb": "Use it recommendably when talking about business."
+      "noun": "The trainence is important in business.",
+      "adjective": "This is a training case in business.",
+      "verb": "People often train when working with business topics.",
+      "adverb": "The speaker explained it trainingly in a business context."
     }
   },
   {
     "id": "business-076",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "delegate",
+    "meaningVi": "nhóm từ \"delegate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "delegatal",
+      "adjective": "delegatous",
+      "verb": "delegate",
+      "adverb": "delegatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"delegatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"delegatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"delegate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"delegatously\"."
     },
     "examples": {
-      "noun": "The reduction is important in business.",
-      "adjective": "This is a reduced example for business.",
-      "verb": "Learners can reduce this idea in business.",
-      "adverb": "Use it reductively when talking about business."
+      "noun": "The delegatal is important in business.",
+      "adjective": "This is a delegatous case in business.",
+      "verb": "People often delegate when working with business topics.",
+      "adverb": "The speaker explained it delegatously in a business context."
     }
   },
   {
     "id": "business-077",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "supervise",
+    "meaningVi": "nhóm từ \"supervise\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "supervisy",
+      "adjective": "supervisary",
+      "verb": "supervise",
+      "adverb": "supervisarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supervisy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supervisary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"supervise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supervisarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in business.",
-      "adjective": "This is a reflective example for business.",
-      "verb": "Learners can reflect this idea in business.",
-      "adverb": "Use it reflectively when talking about business."
+      "noun": "The supervisy is important in business.",
+      "adjective": "This is a supervisary case in business.",
+      "verb": "People often supervise when working with business topics.",
+      "adverb": "The speaker explained it supervisarily in a business context."
     }
   },
   {
     "id": "business-078",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "evaluate",
+    "meaningVi": "nhóm từ \"evaluate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "evaluature",
+      "adjective": "evaluatic",
+      "verb": "evaluate",
+      "adverb": "evaluatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"evaluature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"evaluatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"evaluate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"evaluatically\"."
     },
     "examples": {
-      "noun": "The relation is important in business.",
-      "adjective": "This is a related example for business.",
-      "verb": "Learners can relate this idea in business.",
-      "adverb": "Use it relatedly when talking about business."
+      "noun": "The evaluature is important in business.",
+      "adjective": "This is a evaluatic case in business.",
+      "verb": "People often evaluate when working with business topics.",
+      "adverb": "The speaker explained it evaluatically in a business context."
     }
   },
   {
     "id": "business-079",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "appraise",
+    "meaningVi": "nhóm từ \"appraise\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "appraisage",
+      "adjective": "appraisful",
+      "verb": "appraise",
+      "adverb": "appraisfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"appraisage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"appraisful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"appraise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"appraisfully\"."
     },
     "examples": {
-      "noun": "The memory is important in business.",
-      "adjective": "This is a memorable example for business.",
-      "verb": "Learners can remember this idea in business.",
-      "adverb": "Use it memorably when talking about business."
+      "noun": "The appraisage is important in business.",
+      "adjective": "This is a appraisful case in business.",
+      "verb": "People often appraise when working with business topics.",
+      "adverb": "The speaker explained it appraisfully in a business context."
     }
   },
   {
     "id": "business-080",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "compensate",
+    "meaningVi": "nhóm từ \"compensate\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "compensatity",
+      "adjective": "compensatant",
+      "verb": "compensate",
+      "adverb": "compensatantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"compensatity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compensatant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compensate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compensatantly\"."
     },
     "examples": {
-      "noun": "The repair is important in business.",
-      "adjective": "This is a repairable example for business.",
-      "verb": "Learners can repair this idea in business.",
-      "adverb": "Use it repairably when talking about business."
+      "noun": "The compensatity is important in business.",
+      "adjective": "This is a compensatant case in business.",
+      "verb": "People often compensate when working with business topics.",
+      "adverb": "The speaker explained it compensatantly in a business context."
     }
   },
   {
     "id": "business-081",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "commission",
+    "meaningVi": "nhóm từ \"commission\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "commissiontion",
+      "adjective": "commissionable",
+      "verb": "commission",
+      "adverb": "commissionably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"commissiontion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"commissionable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"commission\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"commissionably\"."
     },
     "examples": {
-      "noun": "The research is important in business.",
-      "adjective": "This is a researchable example for business.",
-      "verb": "Learners can research this idea in business.",
-      "adverb": "Use it researchably when talking about business."
+      "noun": "The commissiontion is important in business.",
+      "adjective": "This is a commissionable case in business.",
+      "verb": "People often commission when working with business topics.",
+      "adverb": "The speaker explained it commissionably in a business context."
     }
   },
   {
     "id": "business-082",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "bonus",
+    "meaningVi": "nhóm từ \"bonus\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "bonusment",
+      "adjective": "bonusive",
+      "verb": "bonus",
+      "adverb": "bonusively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bonusment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bonusive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bonus\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bonusively\"."
     },
     "examples": {
-      "noun": "The response is important in business.",
-      "adjective": "This is a responsive example for business.",
-      "verb": "Learners can respond this idea in business.",
-      "adverb": "Use it responsively when talking about business."
+      "noun": "The bonusment is important in business.",
+      "adjective": "This is a bonusive case in business.",
+      "verb": "People often bonus when working with business topics.",
+      "adverb": "The speaker explained it bonusively in a business context."
     }
   },
   {
     "id": "business-083",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "report",
+    "meaningVi": "nhóm từ \"report\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "reporting",
+      "adjective": "reportal",
+      "verb": "report",
+      "adverb": "reportally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reporting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reportal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"report\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reportally\"."
     },
     "examples": {
-      "noun": "The revision is important in business.",
-      "adjective": "This is a revised example for business.",
-      "verb": "Learners can revise this idea in business.",
-      "adverb": "Use it revisedly when talking about business."
+      "noun": "The reporting is important in business.",
+      "adjective": "This is a reportal case in business.",
+      "verb": "People often report when working with business topics.",
+      "adverb": "The speaker explained it reportally in a business context."
     }
   },
   {
     "id": "business-084",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "brief",
+    "meaningVi": "nhóm từ \"brief\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "briefance",
+      "adjective": "briefed",
+      "verb": "brief",
+      "adverb": "briefedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"briefance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"briefed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"brief\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"briefedly\"."
     },
     "examples": {
-      "noun": "The selection is important in business.",
-      "adjective": "This is a selective example for business.",
-      "verb": "Learners can select this idea in business.",
-      "adverb": "Use it selectively when talking about business."
+      "noun": "The briefance is important in business.",
+      "adjective": "This is a briefed case in business.",
+      "verb": "People often brief when working with business topics.",
+      "adverb": "The speaker explained it briefedly in a business context."
     }
   },
   {
     "id": "business-085",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "present",
+    "meaningVi": "nhóm từ \"present\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "presentence",
+      "adjective": "presenting",
+      "verb": "present",
+      "adverb": "presentingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"presentence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"presenting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"present\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"presentingly\"."
     },
     "examples": {
-      "noun": "The solution is important in business.",
-      "adjective": "This is a solvable example for business.",
-      "verb": "Learners can solve this idea in business.",
-      "adverb": "Use it solvably when talking about business."
+      "noun": "The presentence is important in business.",
+      "adjective": "This is a presenting case in business.",
+      "verb": "People often present when working with business topics.",
+      "adverb": "The speaker explained it presentingly in a business context."
     }
   },
   {
     "id": "business-086",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "network",
+    "meaningVi": "nhóm từ \"network\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "networkal",
+      "adjective": "networkous",
+      "verb": "network",
+      "adverb": "networkously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"networkal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"networkous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"network\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"networkously\"."
     },
     "examples": {
-      "noun": "The specialization is important in business.",
-      "adjective": "This is a specialized example for business.",
-      "verb": "Learners can specialize this idea in business.",
-      "adverb": "Use it specially when talking about business."
+      "noun": "The networkal is important in business.",
+      "adjective": "This is a networkous case in business.",
+      "verb": "People often network when working with business topics.",
+      "adverb": "The speaker explained it networkously in a business context."
     }
   },
   {
     "id": "business-087",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "upsell",
+    "meaningVi": "nhóm từ \"upsell\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "upselly",
+      "adjective": "upsellary",
+      "verb": "upsell",
+      "adverb": "upsellarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"upselly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"upsellary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"upsell\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"upsellarily\"."
     },
     "examples": {
-      "noun": "The strength is important in business.",
-      "adjective": "This is a strong example for business.",
-      "verb": "Learners can strengthen this idea in business.",
-      "adverb": "Use it strongly when talking about business."
+      "noun": "The upselly is important in business.",
+      "adjective": "This is a upsellary case in business.",
+      "verb": "People often upsell when working with business topics.",
+      "adverb": "The speaker explained it upsellarily in a business context."
     }
   },
   {
     "id": "business-088",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "cross-sell",
+    "meaningVi": "nhóm từ \"cross-sell\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "cross-sellure",
+      "adjective": "cross-sellic",
+      "verb": "cross-sell",
+      "adverb": "cross-sellically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cross-sellure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cross-sellic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cross-sell\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cross-sellically\"."
     },
     "examples": {
-      "noun": "The study is important in business.",
-      "adjective": "This is a studious example for business.",
-      "verb": "Learners can study this idea in business.",
-      "adverb": "Use it studiously when talking about business."
+      "noun": "The cross-sellure is important in business.",
+      "adjective": "This is a cross-sellic case in business.",
+      "verb": "People often cross-sell when working with business topics.",
+      "adverb": "The speaker explained it cross-sellically in a business context."
     }
   },
   {
     "id": "business-089",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "discount",
+    "meaningVi": "nhóm từ \"discount\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "discountage",
+      "adjective": "discountful",
+      "verb": "discount",
+      "adverb": "discountfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"discountage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"discountful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"discount\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"discountfully\"."
     },
     "examples": {
-      "noun": "The success is important in business.",
-      "adjective": "This is a successful example for business.",
-      "verb": "Learners can succeed this idea in business.",
-      "adverb": "Use it successfully when talking about business."
+      "noun": "The discountage is important in business.",
+      "adjective": "This is a discountful case in business.",
+      "verb": "People often discount when working with business topics.",
+      "adverb": "The speaker explained it discountfully in a business context."
     }
   },
   {
     "id": "business-090",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "markup",
+    "meaningVi": "nhóm từ \"markup\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "markupity",
+      "adjective": "markupant",
+      "verb": "markup",
+      "adverb": "markupantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"markupity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"markupant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"markup\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"markupantly\"."
     },
     "examples": {
-      "noun": "The support is important in business.",
-      "adjective": "This is a supportive example for business.",
-      "verb": "Learners can support this idea in business.",
-      "adverb": "Use it supportively when talking about business."
+      "noun": "The markupity is important in business.",
+      "adjective": "This is a markupant case in business.",
+      "verb": "People often markup when working with business topics.",
+      "adverb": "The speaker explained it markupantly in a business context."
     }
   },
   {
     "id": "business-091",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "profit",
+    "meaningVi": "nhóm từ \"profit\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "profittion",
+      "adjective": "profitable",
+      "verb": "profit",
+      "adverb": "profitably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"profittion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"profitable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"profit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"profitably\"."
     },
     "examples": {
-      "noun": "The teaching is important in business.",
-      "adjective": "This is a teachable example for business.",
-      "verb": "Learners can teach this idea in business.",
-      "adverb": "Use it teachably when talking about business."
+      "noun": "The profittion is important in business.",
+      "adjective": "This is a profitable case in business.",
+      "verb": "People often profit when working with business topics.",
+      "adverb": "The speaker explained it profitably in a business context."
     }
   },
   {
     "id": "business-092",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "revenue",
+    "meaningVi": "nhóm từ \"revenue\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "revenument",
+      "adjective": "revenuive",
+      "verb": "revenue",
+      "adverb": "revenuively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"revenument\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"revenuive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"revenue\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"revenuively\"."
     },
     "examples": {
-      "noun": "The transformation is important in business.",
-      "adjective": "This is a transformative example for business.",
-      "verb": "Learners can transform this idea in business.",
-      "adverb": "Use it transformatively when talking about business."
+      "noun": "The revenument is important in business.",
+      "adjective": "This is a revenuive case in business.",
+      "verb": "People often revenue when working with business topics.",
+      "adverb": "The speaker explained it revenuively in a business context."
     }
   },
   {
     "id": "business-093",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "margin",
+    "meaningVi": "nhóm từ \"margin\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "margining",
+      "adjective": "marginal",
+      "verb": "margin",
+      "adverb": "marginally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"margining\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"marginal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"margin\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"marginally\"."
     },
     "examples": {
-      "noun": "The translation is important in business.",
-      "adjective": "This is a translatable example for business.",
-      "verb": "Learners can translate this idea in business.",
-      "adverb": "Use it translatably when talking about business."
+      "noun": "The margining is important in business.",
+      "adjective": "This is a marginal case in business.",
+      "verb": "People often margin when working with business topics.",
+      "adverb": "The speaker explained it marginally in a business context."
     }
   },
   {
     "id": "business-094",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "asset",
+    "meaningVi": "nhóm từ \"asset\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "assetance",
+      "adjective": "asseted",
+      "verb": "asset",
+      "adverb": "assetedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assetance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"asseted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"asset\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assetedly\"."
     },
     "examples": {
-      "noun": "The understanding is important in business.",
-      "adjective": "This is a understandable example for business.",
-      "verb": "Learners can understand this idea in business.",
-      "adverb": "Use it understandably when talking about business."
+      "noun": "The assetance is important in business.",
+      "adjective": "This is a asseted case in business.",
+      "verb": "People often asset when working with business topics.",
+      "adverb": "The speaker explained it assetedly in a business context."
     }
   },
   {
     "id": "business-095",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "liability",
+    "meaningVi": "nhóm từ \"liability\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "liabilityence",
+      "adjective": "liabilitying",
+      "verb": "liability",
+      "adverb": "liabilityingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"liabilityence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"liabilitying\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"liability\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"liabilityingly\"."
     },
     "examples": {
-      "noun": "The use is important in business.",
-      "adjective": "This is a useful example for business.",
-      "verb": "Learners can use this idea in business.",
-      "adverb": "Use it usefully when talking about business."
+      "noun": "The liabilityence is important in business.",
+      "adjective": "This is a liabilitying case in business.",
+      "verb": "People often liability when working with business topics.",
+      "adverb": "The speaker explained it liabilityingly in a business context."
     }
   },
   {
     "id": "business-096",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "equity",
+    "meaningVi": "nhóm từ \"equity\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "equityal",
+      "adjective": "equityous",
+      "verb": "equity",
+      "adverb": "equityously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"equityal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"equityous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"equity\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"equityously\"."
     },
     "examples": {
-      "noun": "The variation is important in business.",
-      "adjective": "This is a variable example for business.",
-      "verb": "Learners can vary this idea in business.",
-      "adverb": "Use it variably when talking about business."
+      "noun": "The equityal is important in business.",
+      "adjective": "This is a equityous case in business.",
+      "verb": "People often equity when working with business topics.",
+      "adverb": "The speaker explained it equityously in a business context."
     }
   },
   {
     "id": "business-097",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "capital",
+    "meaningVi": "nhóm từ \"capital\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "capitaly",
+      "adjective": "capitalary",
+      "verb": "capital",
+      "adverb": "capitalarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"capitaly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"capitalary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"capital\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"capitalarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in business.",
-      "adjective": "This is a visual example for business.",
-      "verb": "Learners can visualize this idea in business.",
-      "adverb": "Use it visually when talking about business."
+      "noun": "The capitaly is important in business.",
+      "adjective": "This is a capitalary case in business.",
+      "verb": "People often capital when working with business topics.",
+      "adverb": "The speaker explained it capitalarily in a business context."
     }
   },
   {
     "id": "business-098",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "shareholder",
+    "meaningVi": "nhóm từ \"shareholder\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "shareholderure",
+      "adjective": "shareholderic",
+      "verb": "shareholder",
+      "adverb": "shareholderically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shareholderure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shareholderic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shareholder\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shareholderically\"."
     },
     "examples": {
-      "noun": "The writing is important in business.",
-      "adjective": "This is a written example for business.",
-      "verb": "Learners can write this idea in business.",
-      "adverb": "Use it writerly when talking about business."
+      "noun": "The shareholderure is important in business.",
+      "adjective": "This is a shareholderic case in business.",
+      "verb": "People often shareholder when working with business topics.",
+      "adverb": "The speaker explained it shareholderically in a business context."
     }
   },
   {
     "id": "business-099",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "customer",
+    "meaningVi": "nhóm từ \"customer\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "customerage",
+      "adjective": "customerful",
+      "verb": "customer",
+      "adverb": "customerfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"customerage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"customerful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"customer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"customerfully\"."
     },
     "examples": {
-      "noun": "The listening is important in business.",
-      "adjective": "This is a listenable example for business.",
-      "verb": "Learners can listen this idea in business.",
-      "adverb": "Use it listeningly when talking about business."
+      "noun": "The customerage is important in business.",
+      "adjective": "This is a customerful case in business.",
+      "verb": "People often customer when working with business topics.",
+      "adverb": "The speaker explained it customerfully in a business context."
     }
   },
   {
     "id": "business-100",
     "topic": "Business",
     "topicVi": "Kinh doanh",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "vendor",
+    "meaningVi": "nhóm từ \"vendor\" thường gặp trong chủ đề Kinh doanh",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "vendority",
+      "adjective": "vendorant",
+      "verb": "vendor",
+      "adverb": "vendorantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"vendority\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"vendorant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"vendor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"vendorantly\"."
     },
     "examples": {
-      "noun": "The practice is important in business.",
-      "adjective": "This is a practical example for business.",
-      "verb": "Learners can practice this idea in business.",
-      "adverb": "Use it practically when talking about business."
+      "noun": "The vendority is important in business.",
+      "adjective": "This is a vendorant case in business.",
+      "verb": "People often vendor when working with business topics.",
+      "adverb": "The speaker explained it vendorantly in a business context."
     }
   }
 ]

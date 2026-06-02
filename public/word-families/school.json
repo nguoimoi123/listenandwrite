@@ -3,2500 +3,2500 @@
     "id": "school-001",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "study",
+    "meaningVi": "nhóm từ \"study\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "studytion",
+      "adjective": "studyable",
+      "verb": "study",
+      "adverb": "studyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"studytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"studyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"study\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"studyably\"."
     },
     "examples": {
-      "noun": "The action is important in school.",
-      "adjective": "This is a active example for school.",
-      "verb": "Learners can act this idea in school.",
-      "adverb": "Use it actively when talking about school."
+      "noun": "The studytion is important in school.",
+      "adjective": "This is a studyable case in school.",
+      "verb": "People often study when working with school topics.",
+      "adverb": "The speaker explained it studyably in a school context."
     }
   },
   {
     "id": "school-002",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "revise",
+    "meaningVi": "nhóm từ \"revise\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "revisment",
+      "adjective": "revisive",
+      "verb": "revise",
+      "adverb": "revisively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"revisment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"revisive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"revise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"revisively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in school.",
-      "adjective": "This is a adaptable example for school.",
-      "verb": "Learners can adapt this idea in school.",
-      "adverb": "Use it adaptably when talking about school."
+      "noun": "The revisment is important in school.",
+      "adjective": "This is a revisive case in school.",
+      "verb": "People often revise when working with school topics.",
+      "adverb": "The speaker explained it revisively in a school context."
     }
   },
   {
     "id": "school-003",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "memorize",
+    "meaningVi": "nhóm từ \"memorize\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "memorizing",
+      "adjective": "memorizal",
+      "verb": "memorize",
+      "adverb": "memorizally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"memorizing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"memorizal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"memorize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"memorizally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in school.",
-      "adjective": "This is a adjustable example for school.",
-      "verb": "Learners can adjust this idea in school.",
-      "adverb": "Use it adjustably when talking about school."
+      "noun": "The memorizing is important in school.",
+      "adjective": "This is a memorizal case in school.",
+      "verb": "People often memorize when working with school topics.",
+      "adverb": "The speaker explained it memorizally in a school context."
     }
   },
   {
     "id": "school-004",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "quiz",
+    "meaningVi": "nhóm từ \"quiz\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "quizance",
+      "adjective": "quized",
+      "verb": "quiz",
+      "adverb": "quizedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"quizance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"quized\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"quiz\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"quizedly\"."
     },
     "examples": {
-      "noun": "The admiration is important in school.",
-      "adjective": "This is a admirable example for school.",
-      "verb": "Learners can admire this idea in school.",
-      "adverb": "Use it admirably when talking about school."
+      "noun": "The quizance is important in school.",
+      "adjective": "This is a quized case in school.",
+      "verb": "People often quiz when working with school topics.",
+      "adverb": "The speaker explained it quizedly in a school context."
     }
   },
   {
     "id": "school-005",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "test",
+    "meaningVi": "nhóm từ \"test\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "testence",
+      "adjective": "testing",
+      "verb": "test",
+      "adverb": "testingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"testence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"testing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"test\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"testingly\"."
     },
     "examples": {
-      "noun": "The advice is important in school.",
-      "adjective": "This is a advisable example for school.",
-      "verb": "Learners can advise this idea in school.",
-      "adverb": "Use it advisably when talking about school."
+      "noun": "The testence is important in school.",
+      "adjective": "This is a testing case in school.",
+      "verb": "People often test when working with school topics.",
+      "adverb": "The speaker explained it testingly in a school context."
     }
   },
   {
     "id": "school-006",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "examine",
+    "meaningVi": "nhóm từ \"examine\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "examinal",
+      "adjective": "examinous",
+      "verb": "examine",
+      "adverb": "examinously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"examinal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"examinous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"examine\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"examinously\"."
     },
     "examples": {
-      "noun": "The analysis is important in school.",
-      "adjective": "This is a analytical example for school.",
-      "verb": "Learners can analyze this idea in school.",
-      "adverb": "Use it analytically when talking about school."
+      "noun": "The examinal is important in school.",
+      "adjective": "This is a examinous case in school.",
+      "verb": "People often examine when working with school topics.",
+      "adverb": "The speaker explained it examinously in a school context."
     }
   },
   {
     "id": "school-007",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "grade",
+    "meaningVi": "nhóm từ \"grade\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "grady",
+      "adjective": "gradary",
+      "verb": "grade",
+      "adverb": "gradarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"grady\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"gradary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"grade\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"gradarily\"."
     },
     "examples": {
-      "noun": "The application is important in school.",
-      "adjective": "This is a applicable example for school.",
-      "verb": "Learners can apply this idea in school.",
-      "adverb": "Use it applicably when talking about school."
+      "noun": "The grady is important in school.",
+      "adjective": "This is a gradary case in school.",
+      "verb": "People often grade when working with school topics.",
+      "adverb": "The speaker explained it gradarily in a school context."
     }
   },
   {
     "id": "school-008",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "tutor",
+    "meaningVi": "nhóm từ \"tutor\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "tutorure",
+      "adjective": "tutoric",
+      "verb": "tutor",
+      "adverb": "tutorically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tutorure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tutoric\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tutor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tutorically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in school.",
-      "adjective": "This is a arranged example for school.",
-      "verb": "Learners can arrange this idea in school.",
-      "adverb": "Use it arrangedly when talking about school."
+      "noun": "The tutorure is important in school.",
+      "adjective": "This is a tutoric case in school.",
+      "verb": "People often tutor when working with school topics.",
+      "adverb": "The speaker explained it tutorically in a school context."
     }
   },
   {
     "id": "school-009",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "lecture",
+    "meaningVi": "nhóm từ \"lecture\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "lecturage",
+      "adjective": "lecturful",
+      "verb": "lecture",
+      "adverb": "lecturfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lecturage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lecturful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lecture\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lecturfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in school.",
-      "adjective": "This is a assessable example for school.",
-      "verb": "Learners can assess this idea in school.",
-      "adverb": "Use it assessably when talking about school."
+      "noun": "The lecturage is important in school.",
+      "adjective": "This is a lecturful case in school.",
+      "verb": "People often lecture when working with school topics.",
+      "adverb": "The speaker explained it lecturfully in a school context."
     }
   },
   {
     "id": "school-010",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "research",
+    "meaningVi": "nhóm từ \"research\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "researchity",
+      "adjective": "researchant",
+      "verb": "research",
+      "adverb": "researchantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"researchity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"researchant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"research\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"researchantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in school.",
-      "adjective": "This is a assistant example for school.",
-      "verb": "Learners can assist this idea in school.",
-      "adverb": "Use it assistively when talking about school."
+      "noun": "The researchity is important in school.",
+      "adjective": "This is a researchant case in school.",
+      "verb": "People often research when working with school topics.",
+      "adverb": "The speaker explained it researchantly in a school context."
     }
   },
   {
     "id": "school-011",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "outline",
+    "meaningVi": "nhóm từ \"outline\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "outlintion",
+      "adjective": "outlinable",
+      "verb": "outline",
+      "adverb": "outlinably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"outlintion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"outlinable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"outline\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"outlinably\"."
     },
     "examples": {
-      "noun": "The attendance is important in school.",
-      "adjective": "This is a attentive example for school.",
-      "verb": "Learners can attend this idea in school.",
-      "adverb": "Use it attentively when talking about school."
+      "noun": "The outlintion is important in school.",
+      "adjective": "This is a outlinable case in school.",
+      "verb": "People often outline when working with school topics.",
+      "adverb": "The speaker explained it outlinably in a school context."
     }
   },
   {
     "id": "school-012",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "draft",
+    "meaningVi": "nhóm từ \"draft\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "draftment",
+      "adjective": "draftive",
+      "verb": "draft",
+      "adverb": "draftively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"draftment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"draftive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"draft\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"draftively\"."
     },
     "examples": {
-      "noun": "The benefit is important in school.",
-      "adjective": "This is a beneficial example for school.",
-      "verb": "Learners can benefit this idea in school.",
-      "adverb": "Use it beneficially when talking about school."
+      "noun": "The draftment is important in school.",
+      "adjective": "This is a draftive case in school.",
+      "verb": "People often draft when working with school topics.",
+      "adverb": "The speaker explained it draftively in a school context."
     }
   },
   {
     "id": "school-013",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "cite",
+    "meaningVi": "nhóm từ \"cite\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "citeing",
+      "adjective": "citeal",
+      "verb": "cite",
+      "adverb": "citeally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"citeing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"citeal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cite\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"citeally\"."
     },
     "examples": {
-      "noun": "The calculation is important in school.",
-      "adjective": "This is a calculable example for school.",
-      "verb": "Learners can calculate this idea in school.",
-      "adverb": "Use it calculably when talking about school."
+      "noun": "The citeing is important in school.",
+      "adjective": "This is a citeal case in school.",
+      "verb": "People often cite when working with school topics.",
+      "adverb": "The speaker explained it citeally in a school context."
     }
   },
   {
     "id": "school-014",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "submit",
+    "meaningVi": "nhóm từ \"submit\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "submitance",
+      "adjective": "submited",
+      "verb": "submit",
+      "adverb": "submitedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"submitance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"submited\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"submit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"submitedly\"."
     },
     "examples": {
-      "noun": "The care is important in school.",
-      "adjective": "This is a careful example for school.",
-      "verb": "Learners can care this idea in school.",
-      "adverb": "Use it carefully when talking about school."
+      "noun": "The submitance is important in school.",
+      "adjective": "This is a submited case in school.",
+      "verb": "People often submit when working with school topics.",
+      "adverb": "The speaker explained it submitedly in a school context."
     }
   },
   {
     "id": "school-015",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "enroll",
+    "meaningVi": "nhóm từ \"enroll\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "enrollence",
+      "adjective": "enrolling",
+      "verb": "enroll",
+      "adverb": "enrollingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"enrollence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"enrolling\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"enroll\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"enrollingly\"."
     },
     "examples": {
-      "noun": "The change is important in school.",
-      "adjective": "This is a changeable example for school.",
-      "verb": "Learners can change this idea in school.",
-      "adverb": "Use it changeably when talking about school."
+      "noun": "The enrollence is important in school.",
+      "adjective": "This is a enrolling case in school.",
+      "verb": "People often enroll when working with school topics.",
+      "adverb": "The speaker explained it enrollingly in a school context."
     }
   },
   {
     "id": "school-016",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "register",
+    "meaningVi": "nhóm từ \"register\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "registeral",
+      "adjective": "registerous",
+      "verb": "register",
+      "adverb": "registerously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"registeral\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"registerous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"register\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"registerously\"."
     },
     "examples": {
-      "noun": "The communication is important in school.",
-      "adjective": "This is a communicative example for school.",
-      "verb": "Learners can communicate this idea in school.",
-      "adverb": "Use it communicatively when talking about school."
+      "noun": "The registeral is important in school.",
+      "adjective": "This is a registerous case in school.",
+      "verb": "People often register when working with school topics.",
+      "adverb": "The speaker explained it registerously in a school context."
     }
   },
   {
     "id": "school-017",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "attend",
+    "meaningVi": "nhóm từ \"attend\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "attendy",
+      "adjective": "attendary",
+      "verb": "attend",
+      "adverb": "attendarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"attendy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"attendary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"attend\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"attendarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in school.",
-      "adjective": "This is a comparative example for school.",
-      "verb": "Learners can compare this idea in school.",
-      "adverb": "Use it comparatively when talking about school."
+      "noun": "The attendy is important in school.",
+      "adjective": "This is a attendary case in school.",
+      "verb": "People often attend when working with school topics.",
+      "adverb": "The speaker explained it attendarily in a school context."
     }
   },
   {
     "id": "school-018",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "participate",
+    "meaningVi": "nhóm từ \"participate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "participature",
+      "adjective": "participatic",
+      "verb": "participate",
+      "adverb": "participatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"participature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"participatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"participate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"participatically\"."
     },
     "examples": {
-      "noun": "The competition is important in school.",
-      "adjective": "This is a competitive example for school.",
-      "verb": "Learners can compete this idea in school.",
-      "adverb": "Use it competitively when talking about school."
+      "noun": "The participature is important in school.",
+      "adjective": "This is a participatic case in school.",
+      "verb": "People often participate when working with school topics.",
+      "adverb": "The speaker explained it participatically in a school context."
     }
   },
   {
     "id": "school-019",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "debate",
+    "meaningVi": "nhóm từ \"debate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "debatage",
+      "adjective": "debatful",
+      "verb": "debate",
+      "adverb": "debatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"debatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"debatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"debate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"debatfully\"."
     },
     "examples": {
-      "noun": "The completion is important in school.",
-      "adjective": "This is a complete example for school.",
-      "verb": "Learners can complete this idea in school.",
-      "adverb": "Use it completely when talking about school."
+      "noun": "The debatage is important in school.",
+      "adjective": "This is a debatful case in school.",
+      "verb": "People often debate when working with school topics.",
+      "adverb": "The speaker explained it debatfully in a school context."
     }
   },
   {
     "id": "school-020",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "present",
+    "meaningVi": "nhóm từ \"present\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "presentity",
+      "adjective": "presentant",
+      "verb": "present",
+      "adverb": "presentantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"presentity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"presentant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"present\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"presentantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in school.",
-      "adjective": "This is a concentrated example for school.",
-      "verb": "Learners can concentrate this idea in school.",
-      "adverb": "Use it concentratedly when talking about school."
+      "noun": "The presentity is important in school.",
+      "adjective": "This is a presentant case in school.",
+      "verb": "People often present when working with school topics.",
+      "adverb": "The speaker explained it presentantly in a school context."
     }
   },
   {
     "id": "school-021",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "calculate",
+    "meaningVi": "nhóm từ \"calculate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "calculattion",
+      "adjective": "calculatable",
+      "verb": "calculate",
+      "adverb": "calculatably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"calculattion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"calculatable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"calculate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"calculatably\"."
     },
     "examples": {
-      "noun": "The connection is important in school.",
-      "adjective": "This is a connected example for school.",
-      "verb": "Learners can connect this idea in school.",
-      "adverb": "Use it connectedly when talking about school."
+      "noun": "The calculattion is important in school.",
+      "adjective": "This is a calculatable case in school.",
+      "verb": "People often calculate when working with school topics.",
+      "adverb": "The speaker explained it calculatably in a school context."
     }
   },
   {
     "id": "school-022",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "experiment",
+    "meaningVi": "nhóm từ \"experiment\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "experimentment",
+      "adjective": "experimentive",
+      "verb": "experiment",
+      "adverb": "experimentively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"experimentment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"experimentive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"experiment\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"experimentively\"."
     },
     "examples": {
-      "noun": "The consideration is important in school.",
-      "adjective": "This is a considerate example for school.",
-      "verb": "Learners can consider this idea in school.",
-      "adverb": "Use it considerately when talking about school."
+      "noun": "The experimentment is important in school.",
+      "adjective": "This is a experimentive case in school.",
+      "verb": "People often experiment when working with school topics.",
+      "adverb": "The speaker explained it experimentively in a school context."
     }
   },
   {
     "id": "school-023",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "observe",
+    "meaningVi": "nhóm từ \"observe\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "observing",
+      "adjective": "observal",
+      "verb": "observe",
+      "adverb": "observally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"observing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"observal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"observe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"observally\"."
     },
     "examples": {
-      "noun": "The creation is important in school.",
-      "adjective": "This is a creative example for school.",
-      "verb": "Learners can create this idea in school.",
-      "adverb": "Use it creatively when talking about school."
+      "noun": "The observing is important in school.",
+      "adjective": "This is a observal case in school.",
+      "verb": "People often observe when working with school topics.",
+      "adverb": "The speaker explained it observally in a school context."
     }
   },
   {
     "id": "school-024",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "measure",
+    "meaningVi": "nhóm từ \"measure\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "measurance",
+      "adjective": "measurd",
+      "verb": "measure",
+      "adverb": "measurdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"measurance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"measurd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"measure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"measurdly\"."
     },
     "examples": {
-      "noun": "The decision is important in school.",
-      "adjective": "This is a decisive example for school.",
-      "verb": "Learners can decide this idea in school.",
-      "adverb": "Use it decisively when talking about school."
+      "noun": "The measurance is important in school.",
+      "adjective": "This is a measurd case in school.",
+      "verb": "People often measure when working with school topics.",
+      "adverb": "The speaker explained it measurdly in a school context."
     }
   },
   {
     "id": "school-025",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "diagram",
+    "meaningVi": "nhóm từ \"diagram\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "diagramence",
+      "adjective": "diagraming",
+      "verb": "diagram",
+      "adverb": "diagramingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"diagramence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"diagraming\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"diagram\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"diagramingly\"."
     },
     "examples": {
-      "noun": "The definition is important in school.",
-      "adjective": "This is a definite example for school.",
-      "verb": "Learners can define this idea in school.",
-      "adverb": "Use it definitely when talking about school."
+      "noun": "The diagramence is important in school.",
+      "adjective": "This is a diagraming case in school.",
+      "verb": "People often diagram when working with school topics.",
+      "adverb": "The speaker explained it diagramingly in a school context."
     }
   },
   {
     "id": "school-026",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "summarize",
+    "meaningVi": "nhóm từ \"summarize\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "summarizal",
+      "adjective": "summarizous",
+      "verb": "summarize",
+      "adverb": "summarizously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"summarizal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"summarizous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"summarize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"summarizously\"."
     },
     "examples": {
-      "noun": "The delivery is important in school.",
-      "adjective": "This is a deliverable example for school.",
-      "verb": "Learners can deliver this idea in school.",
-      "adverb": "Use it deliverably when talking about school."
+      "noun": "The summarizal is important in school.",
+      "adjective": "This is a summarizous case in school.",
+      "verb": "People often summarize when working with school topics.",
+      "adverb": "The speaker explained it summarizously in a school context."
     }
   },
   {
     "id": "school-027",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "annotate",
+    "meaningVi": "nhóm từ \"annotate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "annotaty",
+      "adjective": "annotatary",
+      "verb": "annotate",
+      "adverb": "annotatarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"annotaty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"annotatary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"annotate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"annotatarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in school.",
-      "adjective": "This is a dependent example for school.",
-      "verb": "Learners can depend this idea in school.",
-      "adverb": "Use it dependently when talking about school."
+      "noun": "The annotaty is important in school.",
+      "adjective": "This is a annotatary case in school.",
+      "verb": "People often annotate when working with school topics.",
+      "adverb": "The speaker explained it annotatarily in a school context."
     }
   },
   {
     "id": "school-028",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "highlight",
+    "meaningVi": "nhóm từ \"highlight\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "highlighture",
+      "adjective": "highlightic",
+      "verb": "highlight",
+      "adverb": "highlightically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"highlighture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"highlightic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"highlight\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"highlightically\"."
     },
     "examples": {
-      "noun": "The description is important in school.",
-      "adjective": "This is a descriptive example for school.",
-      "verb": "Learners can describe this idea in school.",
-      "adverb": "Use it descriptively when talking about school."
+      "noun": "The highlighture is important in school.",
+      "adjective": "This is a highlightic case in school.",
+      "verb": "People often highlight when working with school topics.",
+      "adverb": "The speaker explained it highlightically in a school context."
     }
   },
   {
     "id": "school-029",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "underline",
+    "meaningVi": "nhóm từ \"underline\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "underlinage",
+      "adjective": "underlinful",
+      "verb": "underline",
+      "adverb": "underlinfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"underlinage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"underlinful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"underline\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"underlinfully\"."
     },
     "examples": {
-      "noun": "The design is important in school.",
-      "adjective": "This is a designed example for school.",
-      "verb": "Learners can design this idea in school.",
-      "adverb": "Use it designedly when talking about school."
+      "noun": "The underlinage is important in school.",
+      "adjective": "This is a underlinful case in school.",
+      "verb": "People often underline when working with school topics.",
+      "adverb": "The speaker explained it underlinfully in a school context."
     }
   },
   {
     "id": "school-030",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "proofread",
+    "meaningVi": "nhóm từ \"proofread\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "proofreadity",
+      "adjective": "proofreadant",
+      "verb": "proofread",
+      "adverb": "proofreadantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"proofreadity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"proofreadant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"proofread\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"proofreadantly\"."
     },
     "examples": {
-      "noun": "The development is important in school.",
-      "adjective": "This is a developed example for school.",
-      "verb": "Learners can develop this idea in school.",
-      "adverb": "Use it developmentally when talking about school."
+      "noun": "The proofreadity is important in school.",
+      "adjective": "This is a proofreadant case in school.",
+      "verb": "People often proofread when working with school topics.",
+      "adverb": "The speaker explained it proofreadantly in a school context."
     }
   },
   {
     "id": "school-031",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "edit",
+    "meaningVi": "nhóm từ \"edit\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "edittion",
+      "adjective": "editable",
+      "verb": "edit",
+      "adverb": "editably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"edittion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"editable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"edit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"editably\"."
     },
     "examples": {
-      "noun": "The difference is important in school.",
-      "adjective": "This is a different example for school.",
-      "verb": "Learners can differ this idea in school.",
-      "adverb": "Use it differently when talking about school."
+      "noun": "The edittion is important in school.",
+      "adjective": "This is a editable case in school.",
+      "verb": "People often edit when working with school topics.",
+      "adverb": "The speaker explained it editably in a school context."
     }
   },
   {
     "id": "school-032",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "translate",
+    "meaningVi": "nhóm từ \"translate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "translatment",
+      "adjective": "translative",
+      "verb": "translate",
+      "adverb": "translatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"translatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"translative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"translate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"translatively\"."
     },
     "examples": {
-      "noun": "The discussion is important in school.",
-      "adjective": "This is a discussable example for school.",
-      "verb": "Learners can discuss this idea in school.",
-      "adverb": "Use it discussably when talking about school."
+      "noun": "The translatment is important in school.",
+      "adjective": "This is a translative case in school.",
+      "verb": "People often translate when working with school topics.",
+      "adverb": "The speaker explained it translatively in a school context."
     }
   },
   {
     "id": "school-033",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "interpret",
+    "meaningVi": "nhóm từ \"interpret\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "interpreting",
+      "adjective": "interpretal",
+      "verb": "interpret",
+      "adverb": "interpretally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"interpreting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"interpretal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"interpret\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"interpretally\"."
     },
     "examples": {
-      "noun": "The education is important in school.",
-      "adjective": "This is a educational example for school.",
-      "verb": "Learners can educate this idea in school.",
-      "adverb": "Use it educationally when talking about school."
+      "noun": "The interpreting is important in school.",
+      "adjective": "This is a interpretal case in school.",
+      "verb": "People often interpret when working with school topics.",
+      "adverb": "The speaker explained it interpretally in a school context."
     }
   },
   {
     "id": "school-034",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "practice",
+    "meaningVi": "nhóm từ \"practice\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "practicance",
+      "adjective": "practicd",
+      "verb": "practice",
+      "adverb": "practicdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"practicance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"practicd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"practice\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"practicdly\"."
     },
     "examples": {
-      "noun": "The effect is important in school.",
-      "adjective": "This is a effective example for school.",
-      "verb": "Learners can effect this idea in school.",
-      "adverb": "Use it effectively when talking about school."
+      "noun": "The practicance is important in school.",
+      "adjective": "This is a practicd case in school.",
+      "verb": "People often practice when working with school topics.",
+      "adverb": "The speaker explained it practicdly in a school context."
     }
   },
   {
     "id": "school-035",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "recite",
+    "meaningVi": "nhóm từ \"recite\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "recitence",
+      "adjective": "reciting",
+      "verb": "recite",
+      "adverb": "recitingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recitence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reciting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recite\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recitingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in school.",
-      "adjective": "This is a emphatic example for school.",
-      "verb": "Learners can emphasize this idea in school.",
-      "adverb": "Use it emphatically when talking about school."
+      "noun": "The recitence is important in school.",
+      "adjective": "This is a reciting case in school.",
+      "verb": "People often recite when working with school topics.",
+      "adverb": "The speaker explained it recitingly in a school context."
     }
   },
   {
     "id": "school-036",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "spell",
+    "meaningVi": "nhóm từ \"spell\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "spellal",
+      "adjective": "spellous",
+      "verb": "spell",
+      "adverb": "spellously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"spellal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"spellous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"spell\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"spellously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in school.",
-      "adjective": "This is a encouraging example for school.",
-      "verb": "Learners can encourage this idea in school.",
-      "adverb": "Use it encouragingly when talking about school."
+      "noun": "The spellal is important in school.",
+      "adjective": "This is a spellous case in school.",
+      "verb": "People often spell when working with school topics.",
+      "adverb": "The speaker explained it spellously in a school context."
     }
   },
   {
     "id": "school-037",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "pronounce",
+    "meaningVi": "nhóm từ \"pronounce\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "pronouncy",
+      "adjective": "pronouncary",
+      "verb": "pronounce",
+      "adverb": "pronouncarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pronouncy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pronouncary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pronounce\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pronouncarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in school.",
-      "adjective": "This is a enjoyable example for school.",
-      "verb": "Learners can enjoy this idea in school.",
-      "adverb": "Use it enjoyably when talking about school."
+      "noun": "The pronouncy is important in school.",
+      "adjective": "This is a pronouncary case in school.",
+      "verb": "People often pronounce when working with school topics.",
+      "adverb": "The speaker explained it pronouncarily in a school context."
     }
   },
   {
     "id": "school-038",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "discuss",
+    "meaningVi": "nhóm từ \"discuss\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "discussure",
+      "adjective": "discussic",
+      "verb": "discuss",
+      "adverb": "discussically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"discussure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"discussic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"discuss\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"discussically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in school.",
-      "adjective": "This is a evaluative example for school.",
-      "verb": "Learners can evaluate this idea in school.",
-      "adverb": "Use it evaluatively when talking about school."
+      "noun": "The discussure is important in school.",
+      "adjective": "This is a discussic case in school.",
+      "verb": "People often discuss when working with school topics.",
+      "adverb": "The speaker explained it discussically in a school context."
     }
   },
   {
     "id": "school-039",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "collaborate",
+    "meaningVi": "nhóm từ \"collaborate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "collaboratage",
+      "adjective": "collaboratful",
+      "verb": "collaborate",
+      "adverb": "collaboratfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"collaboratage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"collaboratful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"collaborate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"collaboratfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in school.",
-      "adjective": "This is a explanatory example for school.",
-      "verb": "Learners can explain this idea in school.",
-      "adverb": "Use it explanatorily when talking about school."
+      "noun": "The collaboratage is important in school.",
+      "adjective": "This is a collaboratful case in school.",
+      "verb": "People often collaborate when working with school topics.",
+      "adverb": "The speaker explained it collaboratfully in a school context."
     }
   },
   {
     "id": "school-040",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "brainstorm",
+    "meaningVi": "nhóm từ \"brainstorm\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "brainstormity",
+      "adjective": "brainstormant",
+      "verb": "brainstorm",
+      "adverb": "brainstormantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"brainstormity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"brainstormant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"brainstorm\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"brainstormantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in school.",
-      "adjective": "This is a exploratory example for school.",
-      "verb": "Learners can explore this idea in school.",
-      "adverb": "Use it exploratorily when talking about school."
+      "noun": "The brainstormity is important in school.",
+      "adjective": "This is a brainstormant case in school.",
+      "verb": "People often brainstorm when working with school topics.",
+      "adverb": "The speaker explained it brainstormantly in a school context."
     }
   },
   {
     "id": "school-041",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "classify",
+    "meaningVi": "nhóm từ \"classify\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "classifytion",
+      "adjective": "classifyable",
+      "verb": "classify",
+      "adverb": "classifyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"classifytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"classifyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"classify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"classifyably\"."
     },
     "examples": {
-      "noun": "The expression is important in school.",
-      "adjective": "This is a expressive example for school.",
-      "verb": "Learners can express this idea in school.",
-      "adverb": "Use it expressively when talking about school."
+      "noun": "The classifytion is important in school.",
+      "adjective": "This is a classifyable case in school.",
+      "verb": "People often classify when working with school topics.",
+      "adverb": "The speaker explained it classifyably in a school context."
     }
   },
   {
     "id": "school-042",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "compare",
+    "meaningVi": "nhóm từ \"compare\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "comparment",
+      "adjective": "comparive",
+      "verb": "compare",
+      "adverb": "comparively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"comparment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"comparive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compare\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"comparively\"."
     },
     "examples": {
-      "noun": "The failure is important in school.",
-      "adjective": "This is a failed example for school.",
-      "verb": "Learners can fail this idea in school.",
-      "adverb": "Use it failingly when talking about school."
+      "noun": "The comparment is important in school.",
+      "adjective": "This is a comparive case in school.",
+      "verb": "People often compare when working with school topics.",
+      "adverb": "The speaker explained it comparively in a school context."
     }
   },
   {
     "id": "school-043",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "contrast",
+    "meaningVi": "nhóm từ \"contrast\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "contrasting",
+      "adjective": "contrastal",
+      "verb": "contrast",
+      "adverb": "contrastally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"contrasting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"contrastal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"contrast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"contrastally\"."
     },
     "examples": {
-      "noun": "The focus is important in school.",
-      "adjective": "This is a focused example for school.",
-      "verb": "Learners can focus this idea in school.",
-      "adverb": "Use it focusedly when talking about school."
+      "noun": "The contrasting is important in school.",
+      "adjective": "This is a contrastal case in school.",
+      "verb": "People often contrast when working with school topics.",
+      "adverb": "The speaker explained it contrastally in a school context."
     }
   },
   {
     "id": "school-044",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "infer",
+    "meaningVi": "nhóm từ \"infer\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "inferance",
+      "adjective": "infered",
+      "verb": "infer",
+      "adverb": "inferedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"inferance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"infered\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"infer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"inferedly\"."
     },
     "examples": {
-      "noun": "The growth is important in school.",
-      "adjective": "This is a growing example for school.",
-      "verb": "Learners can grow this idea in school.",
-      "adverb": "Use it growingly when talking about school."
+      "noun": "The inferance is important in school.",
+      "adjective": "This is a infered case in school.",
+      "verb": "People often infer when working with school topics.",
+      "adverb": "The speaker explained it inferedly in a school context."
     }
   },
   {
     "id": "school-045",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "predict",
+    "meaningVi": "nhóm từ \"predict\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "predictence",
+      "adjective": "predicting",
+      "verb": "predict",
+      "adverb": "predictingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"predictence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"predicting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"predict\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"predictingly\"."
     },
     "examples": {
-      "noun": "The help is important in school.",
-      "adjective": "This is a helpful example for school.",
-      "verb": "Learners can help this idea in school.",
-      "adverb": "Use it helpfully when talking about school."
+      "noun": "The predictence is important in school.",
+      "adjective": "This is a predicting case in school.",
+      "verb": "People often predict when working with school topics.",
+      "adverb": "The speaker explained it predictingly in a school context."
     }
   },
   {
     "id": "school-046",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "solve",
+    "meaningVi": "nhóm từ \"solve\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "solval",
+      "adjective": "solvous",
+      "verb": "solve",
+      "adverb": "solvously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"solval\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"solvous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"solve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"solvously\"."
     },
     "examples": {
-      "noun": "The identification is important in school.",
-      "adjective": "This is a identifiable example for school.",
-      "verb": "Learners can identify this idea in school.",
-      "adverb": "Use it identifiably when talking about school."
+      "noun": "The solval is important in school.",
+      "adjective": "This is a solvous case in school.",
+      "verb": "People often solve when working with school topics.",
+      "adverb": "The speaker explained it solvously in a school context."
     }
   },
   {
     "id": "school-047",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "demonstrate",
+    "meaningVi": "nhóm từ \"demonstrate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "demonstraty",
+      "adjective": "demonstratary",
+      "verb": "demonstrate",
+      "adverb": "demonstratarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"demonstraty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"demonstratary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"demonstrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"demonstratarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in school.",
-      "adjective": "This is a imaginative example for school.",
-      "verb": "Learners can imagine this idea in school.",
-      "adverb": "Use it imaginatively when talking about school."
+      "noun": "The demonstraty is important in school.",
+      "adjective": "This is a demonstratary case in school.",
+      "verb": "People often demonstrate when working with school topics.",
+      "adverb": "The speaker explained it demonstratarily in a school context."
     }
   },
   {
     "id": "school-048",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "formulate",
+    "meaningVi": "nhóm từ \"formulate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "formulature",
+      "adjective": "formulatic",
+      "verb": "formulate",
+      "adverb": "formulatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"formulature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"formulatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"formulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"formulatically\"."
     },
     "examples": {
-      "noun": "The improvement is important in school.",
-      "adjective": "This is a improved example for school.",
-      "verb": "Learners can improve this idea in school.",
-      "adverb": "Use it improvingly when talking about school."
+      "noun": "The formulature is important in school.",
+      "adjective": "This is a formulatic case in school.",
+      "verb": "People often formulate when working with school topics.",
+      "adverb": "The speaker explained it formulatically in a school context."
     }
   },
   {
     "id": "school-049",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "evaluate",
+    "meaningVi": "nhóm từ \"evaluate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "evaluatage",
+      "adjective": "evaluatful",
+      "verb": "evaluate",
+      "adverb": "evaluatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"evaluatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"evaluatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"evaluate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"evaluatfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in school.",
-      "adjective": "This is a inclusive example for school.",
-      "verb": "Learners can include this idea in school.",
-      "adverb": "Use it inclusively when talking about school."
+      "noun": "The evaluatage is important in school.",
+      "adjective": "This is a evaluatful case in school.",
+      "verb": "People often evaluate when working with school topics.",
+      "adverb": "The speaker explained it evaluatfully in a school context."
     }
   },
   {
     "id": "school-050",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "reflect",
+    "meaningVi": "nhóm từ \"reflect\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "reflectity",
+      "adjective": "reflectant",
+      "verb": "reflect",
+      "adverb": "reflectantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reflectity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reflectant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reflect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reflectantly\"."
     },
     "examples": {
-      "noun": "The information is important in school.",
-      "adjective": "This is a informative example for school.",
-      "verb": "Learners can inform this idea in school.",
-      "adverb": "Use it informatively when talking about school."
+      "noun": "The reflectity is important in school.",
+      "adjective": "This is a reflectant case in school.",
+      "verb": "People often reflect when working with school topics.",
+      "adverb": "The speaker explained it reflectantly in a school context."
     }
   },
   {
     "id": "school-051",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "journal",
+    "meaningVi": "nhóm từ \"journal\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "journaltion",
+      "adjective": "journalable",
+      "verb": "journal",
+      "adverb": "journalably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"journaltion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"journalable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"journal\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"journalably\"."
     },
     "examples": {
-      "noun": "The innovation is important in school.",
-      "adjective": "This is a innovative example for school.",
-      "verb": "Learners can innovate this idea in school.",
-      "adverb": "Use it innovatively when talking about school."
+      "noun": "The journaltion is important in school.",
+      "adjective": "This is a journalable case in school.",
+      "verb": "People often journal when working with school topics.",
+      "adverb": "The speaker explained it journalably in a school context."
     }
   },
   {
     "id": "school-052",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "question",
+    "meaningVi": "nhóm từ \"question\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "questionment",
+      "adjective": "questionive",
+      "verb": "question",
+      "adverb": "questionively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"questionment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"questionive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"question\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"questionively\"."
     },
     "examples": {
-      "noun": "The instruction is important in school.",
-      "adjective": "This is a instructive example for school.",
-      "verb": "Learners can instruct this idea in school.",
-      "adverb": "Use it instructively when talking about school."
+      "noun": "The questionment is important in school.",
+      "adjective": "This is a questionive case in school.",
+      "verb": "People often question when working with school topics.",
+      "adverb": "The speaker explained it questionively in a school context."
     }
   },
   {
     "id": "school-053",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "answer",
+    "meaningVi": "nhóm từ \"answer\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "answering",
+      "adjective": "answeral",
+      "verb": "answer",
+      "adverb": "answerally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"answering\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"answeral\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"answer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"answerally\"."
     },
     "examples": {
-      "noun": "The interaction is important in school.",
-      "adjective": "This is a interactive example for school.",
-      "verb": "Learners can interact this idea in school.",
-      "adverb": "Use it interactively when talking about school."
+      "noun": "The answering is important in school.",
+      "adjective": "This is a answeral case in school.",
+      "verb": "People often answer when working with school topics.",
+      "adverb": "The speaker explained it answerally in a school context."
     }
   },
   {
     "id": "school-054",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "schedule",
+    "meaningVi": "nhóm từ \"schedule\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "schedulance",
+      "adjective": "scheduld",
+      "verb": "schedule",
+      "adverb": "scheduldly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"schedulance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scheduld\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"schedule\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scheduldly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in school.",
-      "adjective": "This is a interpretive example for school.",
-      "verb": "Learners can interpret this idea in school.",
-      "adverb": "Use it interpretively when talking about school."
+      "noun": "The schedulance is important in school.",
+      "adjective": "This is a scheduld case in school.",
+      "verb": "People often schedule when working with school topics.",
+      "adverb": "The speaker explained it scheduldly in a school context."
     }
   },
   {
     "id": "school-055",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "major",
+    "meaningVi": "nhóm từ \"major\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "majorence",
+      "adjective": "majoring",
+      "verb": "major",
+      "adverb": "majoringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"majorence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"majoring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"major\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"majoringly\"."
     },
     "examples": {
-      "noun": "The learning is important in school.",
-      "adjective": "This is a learned example for school.",
-      "verb": "Learners can learn this idea in school.",
-      "adverb": "Use it learnedly when talking about school."
+      "noun": "The majorence is important in school.",
+      "adjective": "This is a majoring case in school.",
+      "verb": "People often major when working with school topics.",
+      "adverb": "The speaker explained it majoringly in a school context."
     }
   },
   {
     "id": "school-056",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "minor",
+    "meaningVi": "nhóm từ \"minor\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "minoral",
+      "adjective": "minorous",
+      "verb": "minor",
+      "adverb": "minorously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"minoral\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"minorous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"minor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"minorously\"."
     },
     "examples": {
-      "noun": "The management is important in school.",
-      "adjective": "This is a manageable example for school.",
-      "verb": "Learners can manage this idea in school.",
-      "adverb": "Use it manageably when talking about school."
+      "noun": "The minoral is important in school.",
+      "adjective": "This is a minorous case in school.",
+      "verb": "People often minor when working with school topics.",
+      "adverb": "The speaker explained it minorously in a school context."
     }
   },
   {
     "id": "school-057",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "graduate",
+    "meaningVi": "nhóm từ \"graduate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "graduaty",
+      "adjective": "graduatary",
+      "verb": "graduate",
+      "adverb": "graduatarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"graduaty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"graduatary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"graduate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"graduatarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in school.",
-      "adjective": "This is a measurable example for school.",
-      "verb": "Learners can measure this idea in school.",
-      "adverb": "Use it measurably when talking about school."
+      "noun": "The graduaty is important in school.",
+      "adjective": "This is a graduatary case in school.",
+      "verb": "People often graduate when working with school topics.",
+      "adverb": "The speaker explained it graduatarily in a school context."
     }
   },
   {
     "id": "school-058",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "specialize",
+    "meaningVi": "nhóm từ \"specialize\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "specializure",
+      "adjective": "specializic",
+      "verb": "specialize",
+      "adverb": "specializically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"specializure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"specializic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"specialize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"specializically\"."
     },
     "examples": {
-      "noun": "The motivation is important in school.",
-      "adjective": "This is a motivated example for school.",
-      "verb": "Learners can motivate this idea in school.",
-      "adverb": "Use it motivationally when talking about school."
+      "noun": "The specializure is important in school.",
+      "adjective": "This is a specializic case in school.",
+      "verb": "People often specialize when working with school topics.",
+      "adverb": "The speaker explained it specializically in a school context."
     }
   },
   {
     "id": "school-059",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "intern",
+    "meaningVi": "nhóm từ \"intern\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "internage",
+      "adjective": "internful",
+      "verb": "intern",
+      "adverb": "internfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"internage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"internful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"intern\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"internfully\"."
     },
     "examples": {
-      "noun": "The movement is important in school.",
-      "adjective": "This is a movable example for school.",
-      "verb": "Learners can move this idea in school.",
-      "adverb": "Use it movably when talking about school."
+      "noun": "The internage is important in school.",
+      "adjective": "This is a internful case in school.",
+      "verb": "People often intern when working with school topics.",
+      "adverb": "The speaker explained it internfully in a school context."
     }
   },
   {
     "id": "school-060",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "scholarship",
+    "meaningVi": "nhóm từ \"scholarship\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "scholarshipity",
+      "adjective": "scholarshipant",
+      "verb": "scholarship",
+      "adverb": "scholarshipantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scholarshipity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scholarshipant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scholarship\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scholarshipantly\"."
     },
     "examples": {
-      "noun": "The observation is important in school.",
-      "adjective": "This is a observant example for school.",
-      "verb": "Learners can observe this idea in school.",
-      "adverb": "Use it observantly when talking about school."
+      "noun": "The scholarshipity is important in school.",
+      "adjective": "This is a scholarshipant case in school.",
+      "verb": "People often scholarship when working with school topics.",
+      "adverb": "The speaker explained it scholarshipantly in a school context."
     }
   },
   {
     "id": "school-061",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "counsel",
+    "meaningVi": "nhóm từ \"counsel\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "counseltion",
+      "adjective": "counselable",
+      "verb": "counsel",
+      "adverb": "counselably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"counseltion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"counselable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"counsel\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"counselably\"."
     },
     "examples": {
-      "noun": "The organization is important in school.",
-      "adjective": "This is a organized example for school.",
-      "verb": "Learners can organize this idea in school.",
-      "adverb": "Use it organizationally when talking about school."
+      "noun": "The counseltion is important in school.",
+      "adjective": "This is a counselable case in school.",
+      "verb": "People often counsel when working with school topics.",
+      "adverb": "The speaker explained it counselably in a school context."
     }
   },
   {
     "id": "school-062",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "discipline",
+    "meaningVi": "nhóm từ \"discipline\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "disciplinment",
+      "adjective": "disciplinive",
+      "verb": "discipline",
+      "adverb": "disciplinively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"disciplinment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"disciplinive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"discipline\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"disciplinively\"."
     },
     "examples": {
-      "noun": "The participation is important in school.",
-      "adjective": "This is a participatory example for school.",
-      "verb": "Learners can participate this idea in school.",
-      "adverb": "Use it participatively when talking about school."
+      "noun": "The disciplinment is important in school.",
+      "adjective": "This is a disciplinive case in school.",
+      "verb": "People often discipline when working with school topics.",
+      "adverb": "The speaker explained it disciplinively in a school context."
     }
   },
   {
     "id": "school-063",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "monitor",
+    "meaningVi": "nhóm từ \"monitor\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "monitoring",
+      "adjective": "monitoral",
+      "verb": "monitor",
+      "adverb": "monitorally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monitoring\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monitoral\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monitor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monitorally\"."
     },
     "examples": {
-      "noun": "The performance is important in school.",
-      "adjective": "This is a performative example for school.",
-      "verb": "Learners can perform this idea in school.",
-      "adverb": "Use it performatively when talking about school."
+      "noun": "The monitoring is important in school.",
+      "adjective": "This is a monitoral case in school.",
+      "verb": "People often monitor when working with school topics.",
+      "adverb": "The speaker explained it monitorally in a school context."
     }
   },
   {
     "id": "school-064",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "supervise",
+    "meaningVi": "nhóm từ \"supervise\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "supervisance",
+      "adjective": "supervisd",
+      "verb": "supervise",
+      "adverb": "supervisdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supervisance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supervisd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"supervise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supervisdly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in school.",
-      "adjective": "This is a persuasive example for school.",
-      "verb": "Learners can persuade this idea in school.",
-      "adverb": "Use it persuasively when talking about school."
+      "noun": "The supervisance is important in school.",
+      "adjective": "This is a supervisd case in school.",
+      "verb": "People often supervise when working with school topics.",
+      "adverb": "The speaker explained it supervisdly in a school context."
     }
   },
   {
     "id": "school-065",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "accredit",
+    "meaningVi": "nhóm từ \"accredit\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "accreditence",
+      "adjective": "accrediting",
+      "verb": "accredit",
+      "adverb": "accreditingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"accreditence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"accrediting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"accredit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"accreditingly\"."
     },
     "examples": {
-      "noun": "The plan is important in school.",
-      "adjective": "This is a planned example for school.",
-      "verb": "Learners can plan this idea in school.",
-      "adverb": "Use it plannedly when talking about school."
+      "noun": "The accreditence is important in school.",
+      "adjective": "This is a accrediting case in school.",
+      "verb": "People often accredit when working with school topics.",
+      "adverb": "The speaker explained it accreditingly in a school context."
     }
   },
   {
     "id": "school-066",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "remediate",
+    "meaningVi": "nhóm từ \"remediate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "remediatal",
+      "adjective": "remediatous",
+      "verb": "remediate",
+      "adverb": "remediatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"remediatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"remediatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"remediate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"remediatously\"."
     },
     "examples": {
-      "noun": "The prediction is important in school.",
-      "adjective": "This is a predictable example for school.",
-      "verb": "Learners can predict this idea in school.",
-      "adverb": "Use it predictably when talking about school."
+      "noun": "The remediatal is important in school.",
+      "adjective": "This is a remediatous case in school.",
+      "verb": "People often remediate when working with school topics.",
+      "adverb": "The speaker explained it remediatously in a school context."
     }
   },
   {
     "id": "school-067",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "mentor",
+    "meaningVi": "nhóm từ \"mentor\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "mentory",
+      "adjective": "mentorary",
+      "verb": "mentor",
+      "adverb": "mentorarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mentory\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mentorary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mentor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mentorarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in school.",
-      "adjective": "This is a prepared example for school.",
-      "verb": "Learners can prepare this idea in school.",
-      "adverb": "Use it preparedly when talking about school."
+      "noun": "The mentory is important in school.",
+      "adjective": "This is a mentorary case in school.",
+      "verb": "People often mentor when working with school topics.",
+      "adverb": "The speaker explained it mentorarily in a school context."
     }
   },
   {
     "id": "school-068",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "coach",
+    "meaningVi": "nhóm từ \"coach\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "coachure",
+      "adjective": "coachic",
+      "verb": "coach",
+      "adverb": "coachically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coachure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coachic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"coach\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coachically\"."
     },
     "examples": {
-      "noun": "The presentation is important in school.",
-      "adjective": "This is a presentable example for school.",
-      "verb": "Learners can present this idea in school.",
-      "adverb": "Use it presentably when talking about school."
+      "noun": "The coachure is important in school.",
+      "adjective": "This is a coachic case in school.",
+      "verb": "People often coach when working with school topics.",
+      "adverb": "The speaker explained it coachically in a school context."
     }
   },
   {
     "id": "school-069",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "assess",
+    "meaningVi": "nhóm từ \"assess\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "assessage",
+      "adjective": "assessful",
+      "verb": "assess",
+      "adverb": "assessfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assessage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assessful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assess\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assessfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in school.",
-      "adjective": "This is a preventive example for school.",
-      "verb": "Learners can prevent this idea in school.",
-      "adverb": "Use it preventively when talking about school."
+      "noun": "The assessage is important in school.",
+      "adjective": "This is a assessful case in school.",
+      "verb": "People often assess when working with school topics.",
+      "adverb": "The speaker explained it assessfully in a school context."
     }
   },
   {
     "id": "school-070",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "benchmark",
+    "meaningVi": "nhóm từ \"benchmark\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "benchmarkity",
+      "adjective": "benchmarkant",
+      "verb": "benchmark",
+      "adverb": "benchmarkantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"benchmarkity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"benchmarkant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"benchmark\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"benchmarkantly\"."
     },
     "examples": {
-      "noun": "The production is important in school.",
-      "adjective": "This is a productive example for school.",
-      "verb": "Learners can produce this idea in school.",
-      "adverb": "Use it productively when talking about school."
+      "noun": "The benchmarkity is important in school.",
+      "adjective": "This is a benchmarkant case in school.",
+      "verb": "People often benchmark when working with school topics.",
+      "adverb": "The speaker explained it benchmarkantly in a school context."
     }
   },
   {
     "id": "school-071",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "review",
+    "meaningVi": "nhóm từ \"review\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "reviewtion",
+      "adjective": "reviewable",
+      "verb": "review",
+      "adverb": "reviewably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reviewtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reviewable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"review\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reviewably\"."
     },
     "examples": {
-      "noun": "The protection is important in school.",
-      "adjective": "This is a protective example for school.",
-      "verb": "Learners can protect this idea in school.",
-      "adverb": "Use it protectively when talking about school."
+      "noun": "The reviewtion is important in school.",
+      "adjective": "This is a reviewable case in school.",
+      "verb": "People often review when working with school topics.",
+      "adverb": "The speaker explained it reviewably in a school context."
     }
   },
   {
     "id": "school-072",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "compile",
+    "meaningVi": "nhóm từ \"compile\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "compilment",
+      "adjective": "compilive",
+      "verb": "compile",
+      "adverb": "compilively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"compilment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compilive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compile\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compilively\"."
     },
     "examples": {
-      "noun": "The question is important in school.",
-      "adjective": "This is a questionable example for school.",
-      "verb": "Learners can question this idea in school.",
-      "adverb": "Use it questionably when talking about school."
+      "noun": "The compilment is important in school.",
+      "adjective": "This is a compilive case in school.",
+      "verb": "People often compile when working with school topics.",
+      "adverb": "The speaker explained it compilively in a school context."
     }
   },
   {
     "id": "school-073",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "publish",
+    "meaningVi": "nhóm từ \"publish\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "publishing",
+      "adjective": "publishal",
+      "verb": "publish",
+      "adverb": "publishally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"publishing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"publishal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"publish\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"publishally\"."
     },
     "examples": {
-      "noun": "The reaction is important in school.",
-      "adjective": "This is a reactive example for school.",
-      "verb": "Learners can react this idea in school.",
-      "adverb": "Use it reactively when talking about school."
+      "noun": "The publishing is important in school.",
+      "adjective": "This is a publishal case in school.",
+      "verb": "People often publish when working with school topics.",
+      "adverb": "The speaker explained it publishally in a school context."
     }
   },
   {
     "id": "school-074",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "exhibit",
+    "meaningVi": "nhóm từ \"exhibit\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "exhibitance",
+      "adjective": "exhibited",
+      "verb": "exhibit",
+      "adverb": "exhibitedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"exhibitance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"exhibited\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"exhibit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"exhibitedly\"."
     },
     "examples": {
-      "noun": "The recognition is important in school.",
-      "adjective": "This is a recognizable example for school.",
-      "verb": "Learners can recognize this idea in school.",
-      "adverb": "Use it recognizably when talking about school."
+      "noun": "The exhibitance is important in school.",
+      "adjective": "This is a exhibited case in school.",
+      "verb": "People often exhibit when working with school topics.",
+      "adverb": "The speaker explained it exhibitedly in a school context."
     }
   },
   {
     "id": "school-075",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "compete",
+    "meaningVi": "nhóm từ \"compete\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "competence",
+      "adjective": "competing",
+      "verb": "compete",
+      "adverb": "competingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"competence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"competing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compete\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"competingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in school.",
-      "adjective": "This is a recommendable example for school.",
-      "verb": "Learners can recommend this idea in school.",
-      "adverb": "Use it recommendably when talking about school."
+      "noun": "The competence is important in school.",
+      "adjective": "This is a competing case in school.",
+      "verb": "People often compete when working with school topics.",
+      "adverb": "The speaker explained it competingly in a school context."
     }
   },
   {
     "id": "school-076",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "rehearse",
+    "meaningVi": "nhóm từ \"rehearse\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "rehearsal",
+      "adjective": "rehearsous",
+      "verb": "rehearse",
+      "adverb": "rehearsously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rehearsal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rehearsous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rehearse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rehearsously\"."
     },
     "examples": {
-      "noun": "The reduction is important in school.",
-      "adjective": "This is a reduced example for school.",
-      "verb": "Learners can reduce this idea in school.",
-      "adverb": "Use it reductively when talking about school."
+      "noun": "The rehearsal is important in school.",
+      "adjective": "This is a rehearsous case in school.",
+      "verb": "People often rehearse when working with school topics.",
+      "adverb": "The speaker explained it rehearsously in a school context."
     }
   },
   {
     "id": "school-077",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "perform",
+    "meaningVi": "nhóm từ \"perform\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "performy",
+      "adjective": "performary",
+      "verb": "perform",
+      "adverb": "performarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"performy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"performary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"perform\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"performarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in school.",
-      "adjective": "This is a reflective example for school.",
-      "verb": "Learners can reflect this idea in school.",
-      "adverb": "Use it reflectively when talking about school."
+      "noun": "The performy is important in school.",
+      "adjective": "This is a performary case in school.",
+      "verb": "People often perform when working with school topics.",
+      "adverb": "The speaker explained it performarily in a school context."
     }
   },
   {
     "id": "school-078",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "survey",
+    "meaningVi": "nhóm từ \"survey\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "surveyure",
+      "adjective": "surveyic",
+      "verb": "survey",
+      "adverb": "surveyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"surveyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"surveyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"survey\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"surveyically\"."
     },
     "examples": {
-      "noun": "The relation is important in school.",
-      "adjective": "This is a related example for school.",
-      "verb": "Learners can relate this idea in school.",
-      "adverb": "Use it relatedly when talking about school."
+      "noun": "The surveyure is important in school.",
+      "adjective": "This is a surveyic case in school.",
+      "verb": "People often survey when working with school topics.",
+      "adverb": "The speaker explained it surveyically in a school context."
     }
   },
   {
     "id": "school-079",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "map",
+    "meaningVi": "nhóm từ \"map\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "mapage",
+      "adjective": "mapful",
+      "verb": "map",
+      "adverb": "mapfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mapage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mapful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"map\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mapfully\"."
     },
     "examples": {
-      "noun": "The memory is important in school.",
-      "adjective": "This is a memorable example for school.",
-      "verb": "Learners can remember this idea in school.",
-      "adverb": "Use it memorably when talking about school."
+      "noun": "The mapage is important in school.",
+      "adjective": "This is a mapful case in school.",
+      "verb": "People often map when working with school topics.",
+      "adverb": "The speaker explained it mapfully in a school context."
     }
   },
   {
     "id": "school-080",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "chart",
+    "meaningVi": "nhóm từ \"chart\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "chartity",
+      "adjective": "chartant",
+      "verb": "chart",
+      "adverb": "chartantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"chartity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"chartant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"chart\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"chartantly\"."
     },
     "examples": {
-      "noun": "The repair is important in school.",
-      "adjective": "This is a repairable example for school.",
-      "verb": "Learners can repair this idea in school.",
-      "adverb": "Use it repairably when talking about school."
+      "noun": "The chartity is important in school.",
+      "adjective": "This is a chartant case in school.",
+      "verb": "People often chart when working with school topics.",
+      "adverb": "The speaker explained it chartantly in a school context."
     }
   },
   {
     "id": "school-081",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "graph",
+    "meaningVi": "nhóm từ \"graph\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "graphtion",
+      "adjective": "graphable",
+      "verb": "graph",
+      "adverb": "graphably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"graphtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"graphable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"graph\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"graphably\"."
     },
     "examples": {
-      "noun": "The research is important in school.",
-      "adjective": "This is a researchable example for school.",
-      "verb": "Learners can research this idea in school.",
-      "adverb": "Use it researchably when talking about school."
+      "noun": "The graphtion is important in school.",
+      "adjective": "This is a graphable case in school.",
+      "verb": "People often graph when working with school topics.",
+      "adverb": "The speaker explained it graphably in a school context."
     }
   },
   {
     "id": "school-082",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "code",
+    "meaningVi": "nhóm từ \"code\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "codement",
+      "adjective": "codeive",
+      "verb": "code",
+      "adverb": "codeively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"codement\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"codeive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"code\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"codeively\"."
     },
     "examples": {
-      "noun": "The response is important in school.",
-      "adjective": "This is a responsive example for school.",
-      "verb": "Learners can respond this idea in school.",
-      "adverb": "Use it responsively when talking about school."
+      "noun": "The codement is important in school.",
+      "adjective": "This is a codeive case in school.",
+      "verb": "People often code when working with school topics.",
+      "adverb": "The speaker explained it codeively in a school context."
     }
   },
   {
     "id": "school-083",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "simulate",
+    "meaningVi": "nhóm từ \"simulate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "simulating",
+      "adjective": "simulatal",
+      "verb": "simulate",
+      "adverb": "simulatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"simulating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"simulatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"simulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"simulatally\"."
     },
     "examples": {
-      "noun": "The revision is important in school.",
-      "adjective": "This is a revised example for school.",
-      "verb": "Learners can revise this idea in school.",
-      "adverb": "Use it revisedly when talking about school."
+      "noun": "The simulating is important in school.",
+      "adjective": "This is a simulatal case in school.",
+      "verb": "People often simulate when working with school topics.",
+      "adverb": "The speaker explained it simulatally in a school context."
     }
   },
   {
     "id": "school-084",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "model",
+    "meaningVi": "nhóm từ \"model\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "modelance",
+      "adjective": "modeled",
+      "verb": "model",
+      "adverb": "modeledly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"modelance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"modeled\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"model\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"modeledly\"."
     },
     "examples": {
-      "noun": "The selection is important in school.",
-      "adjective": "This is a selective example for school.",
-      "verb": "Learners can select this idea in school.",
-      "adverb": "Use it selectively when talking about school."
+      "noun": "The modelance is important in school.",
+      "adjective": "This is a modeled case in school.",
+      "verb": "People often model when working with school topics.",
+      "adverb": "The speaker explained it modeledly in a school context."
     }
   },
   {
     "id": "school-085",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "prototype",
+    "meaningVi": "nhóm từ \"prototype\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "prototypence",
+      "adjective": "prototyping",
+      "verb": "prototype",
+      "adverb": "prototypingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prototypence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prototyping\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prototype\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prototypingly\"."
     },
     "examples": {
-      "noun": "The solution is important in school.",
-      "adjective": "This is a solvable example for school.",
-      "verb": "Learners can solve this idea in school.",
-      "adverb": "Use it solvably when talking about school."
+      "noun": "The prototypence is important in school.",
+      "adjective": "This is a prototyping case in school.",
+      "verb": "People often prototype when working with school topics.",
+      "adverb": "The speaker explained it prototypingly in a school context."
     }
   },
   {
     "id": "school-086",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "archive",
+    "meaningVi": "nhóm từ \"archive\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "archival",
+      "adjective": "archivous",
+      "verb": "archive",
+      "adverb": "archivously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"archival\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"archivous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"archive\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"archivously\"."
     },
     "examples": {
-      "noun": "The specialization is important in school.",
-      "adjective": "This is a specialized example for school.",
-      "verb": "Learners can specialize this idea in school.",
-      "adverb": "Use it specially when talking about school."
+      "noun": "The archival is important in school.",
+      "adjective": "This is a archivous case in school.",
+      "verb": "People often archive when working with school topics.",
+      "adverb": "The speaker explained it archivously in a school context."
     }
   },
   {
     "id": "school-087",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "borrow",
+    "meaningVi": "nhóm từ \"borrow\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "borrowy",
+      "adjective": "borrowary",
+      "verb": "borrow",
+      "adverb": "borrowarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"borrowy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"borrowary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"borrow\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"borrowarily\"."
     },
     "examples": {
-      "noun": "The strength is important in school.",
-      "adjective": "This is a strong example for school.",
-      "verb": "Learners can strengthen this idea in school.",
-      "adverb": "Use it strongly when talking about school."
+      "noun": "The borrowy is important in school.",
+      "adjective": "This is a borrowary case in school.",
+      "verb": "People often borrow when working with school topics.",
+      "adverb": "The speaker explained it borrowarily in a school context."
     }
   },
   {
     "id": "school-088",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "shelve",
+    "meaningVi": "nhóm từ \"shelve\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "shelvure",
+      "adjective": "shelvic",
+      "verb": "shelve",
+      "adverb": "shelvically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shelvure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"shelvic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shelve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shelvically\"."
     },
     "examples": {
-      "noun": "The study is important in school.",
-      "adjective": "This is a studious example for school.",
-      "verb": "Learners can study this idea in school.",
-      "adverb": "Use it studiously when talking about school."
+      "noun": "The shelvure is important in school.",
+      "adjective": "This is a shelvic case in school.",
+      "verb": "People often shelve when working with school topics.",
+      "adverb": "The speaker explained it shelvically in a school context."
     }
   },
   {
     "id": "school-089",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "index",
+    "meaningVi": "nhóm từ \"index\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "indexage",
+      "adjective": "indexful",
+      "verb": "index",
+      "adverb": "indexfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"indexage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"indexful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"index\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"indexfully\"."
     },
     "examples": {
-      "noun": "The success is important in school.",
-      "adjective": "This is a successful example for school.",
-      "verb": "Learners can succeed this idea in school.",
-      "adverb": "Use it successfully when talking about school."
+      "noun": "The indexage is important in school.",
+      "adjective": "This is a indexful case in school.",
+      "verb": "People often index when working with school topics.",
+      "adverb": "The speaker explained it indexfully in a school context."
     }
   },
   {
     "id": "school-090",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "catalog",
+    "meaningVi": "nhóm từ \"catalog\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "catalogity",
+      "adjective": "catalogant",
+      "verb": "catalog",
+      "adverb": "catalogantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"catalogity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"catalogant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"catalog\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"catalogantly\"."
     },
     "examples": {
-      "noun": "The support is important in school.",
-      "adjective": "This is a supportive example for school.",
-      "verb": "Learners can support this idea in school.",
-      "adverb": "Use it supportively when talking about school."
+      "noun": "The catalogity is important in school.",
+      "adjective": "This is a catalogant case in school.",
+      "verb": "People often catalog when working with school topics.",
+      "adverb": "The speaker explained it catalogantly in a school context."
     }
   },
   {
     "id": "school-091",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "photocopy",
+    "meaningVi": "nhóm từ \"photocopy\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "photocopytion",
+      "adjective": "photocopyable",
+      "verb": "photocopy",
+      "adverb": "photocopyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"photocopytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"photocopyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"photocopy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"photocopyably\"."
     },
     "examples": {
-      "noun": "The teaching is important in school.",
-      "adjective": "This is a teachable example for school.",
-      "verb": "Learners can teach this idea in school.",
-      "adverb": "Use it teachably when talking about school."
+      "noun": "The photocopytion is important in school.",
+      "adjective": "This is a photocopyable case in school.",
+      "verb": "People often photocopy when working with school topics.",
+      "adverb": "The speaker explained it photocopyably in a school context."
     }
   },
   {
     "id": "school-092",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "laminate",
+    "meaningVi": "nhóm từ \"laminate\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "laminatment",
+      "adjective": "laminative",
+      "verb": "laminate",
+      "adverb": "laminatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"laminatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"laminative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"laminate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"laminatively\"."
     },
     "examples": {
-      "noun": "The transformation is important in school.",
-      "adjective": "This is a transformative example for school.",
-      "verb": "Learners can transform this idea in school.",
-      "adverb": "Use it transformatively when talking about school."
+      "noun": "The laminatment is important in school.",
+      "adjective": "This is a laminative case in school.",
+      "verb": "People often laminate when working with school topics.",
+      "adverb": "The speaker explained it laminatively in a school context."
     }
   },
   {
     "id": "school-093",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "print",
+    "meaningVi": "nhóm từ \"print\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "printing",
+      "adjective": "printal",
+      "verb": "print",
+      "adverb": "printally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"printing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"printal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"print\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"printally\"."
     },
     "examples": {
-      "noun": "The translation is important in school.",
-      "adjective": "This is a translatable example for school.",
-      "verb": "Learners can translate this idea in school.",
-      "adverb": "Use it translatably when talking about school."
+      "noun": "The printing is important in school.",
+      "adjective": "This is a printal case in school.",
+      "verb": "People often print when working with school topics.",
+      "adverb": "The speaker explained it printally in a school context."
     }
   },
   {
     "id": "school-094",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "staple",
+    "meaningVi": "nhóm từ \"staple\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "staplance",
+      "adjective": "stapld",
+      "verb": "staple",
+      "adverb": "stapldly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"staplance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stapld\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"staple\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stapldly\"."
     },
     "examples": {
-      "noun": "The understanding is important in school.",
-      "adjective": "This is a understandable example for school.",
-      "verb": "Learners can understand this idea in school.",
-      "adverb": "Use it understandably when talking about school."
+      "noun": "The staplance is important in school.",
+      "adjective": "This is a stapld case in school.",
+      "verb": "People often staple when working with school topics.",
+      "adverb": "The speaker explained it stapldly in a school context."
     }
   },
   {
     "id": "school-095",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "bind",
+    "meaningVi": "nhóm từ \"bind\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "bindence",
+      "adjective": "binding",
+      "verb": "bind",
+      "adverb": "bindingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bindence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"binding\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bind\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bindingly\"."
     },
     "examples": {
-      "noun": "The use is important in school.",
-      "adjective": "This is a useful example for school.",
-      "verb": "Learners can use this idea in school.",
-      "adverb": "Use it usefully when talking about school."
+      "noun": "The bindence is important in school.",
+      "adjective": "This is a binding case in school.",
+      "verb": "People often bind when working with school topics.",
+      "adverb": "The speaker explained it bindingly in a school context."
     }
   },
   {
     "id": "school-096",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "homework",
+    "meaningVi": "nhóm từ \"homework\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "homeworkal",
+      "adjective": "homeworkous",
+      "verb": "homework",
+      "adverb": "homeworkously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"homeworkal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"homeworkous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"homework\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"homeworkously\"."
     },
     "examples": {
-      "noun": "The variation is important in school.",
-      "adjective": "This is a variable example for school.",
-      "verb": "Learners can vary this idea in school.",
-      "adverb": "Use it variably when talking about school."
+      "noun": "The homeworkal is important in school.",
+      "adjective": "This is a homeworkous case in school.",
+      "verb": "People often homework when working with school topics.",
+      "adverb": "The speaker explained it homeworkously in a school context."
     }
   },
   {
     "id": "school-097",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "classroom",
+    "meaningVi": "nhóm từ \"classroom\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "classroomy",
+      "adjective": "classroomary",
+      "verb": "classroom",
+      "adverb": "classroomarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"classroomy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"classroomary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"classroom\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"classroomarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in school.",
-      "adjective": "This is a visual example for school.",
-      "verb": "Learners can visualize this idea in school.",
-      "adverb": "Use it visually when talking about school."
+      "noun": "The classroomy is important in school.",
+      "adjective": "This is a classroomary case in school.",
+      "verb": "People often classroom when working with school topics.",
+      "adverb": "The speaker explained it classroomarily in a school context."
     }
   },
   {
     "id": "school-098",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "textbook",
+    "meaningVi": "nhóm từ \"textbook\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "textbookure",
+      "adjective": "textbookic",
+      "verb": "textbook",
+      "adverb": "textbookically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"textbookure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"textbookic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"textbook\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"textbookically\"."
     },
     "examples": {
-      "noun": "The writing is important in school.",
-      "adjective": "This is a written example for school.",
-      "verb": "Learners can write this idea in school.",
-      "adverb": "Use it writerly when talking about school."
+      "noun": "The textbookure is important in school.",
+      "adjective": "This is a textbookic case in school.",
+      "verb": "People often textbook when working with school topics.",
+      "adverb": "The speaker explained it textbookically in a school context."
     }
   },
   {
     "id": "school-099",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "notebook",
+    "meaningVi": "nhóm từ \"notebook\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "notebookage",
+      "adjective": "notebookful",
+      "verb": "notebook",
+      "adverb": "notebookfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"notebookage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"notebookful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"notebook\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"notebookfully\"."
     },
     "examples": {
-      "noun": "The listening is important in school.",
-      "adjective": "This is a listenable example for school.",
-      "verb": "Learners can listen this idea in school.",
-      "adverb": "Use it listeningly when talking about school."
+      "noun": "The notebookage is important in school.",
+      "adjective": "This is a notebookful case in school.",
+      "verb": "People often notebook when working with school topics.",
+      "adverb": "The speaker explained it notebookfully in a school context."
     }
   },
   {
     "id": "school-100",
     "topic": "School",
     "topicVi": "Trường học",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "worksheet",
+    "meaningVi": "nhóm từ \"worksheet\" thường gặp trong chủ đề Trường học",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "worksheetity",
+      "adjective": "worksheetant",
+      "verb": "worksheet",
+      "adverb": "worksheetantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"worksheetity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"worksheetant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"worksheet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"worksheetantly\"."
     },
     "examples": {
-      "noun": "The practice is important in school.",
-      "adjective": "This is a practical example for school.",
-      "verb": "Learners can practice this idea in school.",
-      "adverb": "Use it practically when talking about school."
+      "noun": "The worksheetity is important in school.",
+      "adjective": "This is a worksheetant case in school.",
+      "verb": "People often worksheet when working with school topics.",
+      "adverb": "The speaker explained it worksheetantly in a school context."
     }
   }
 ]

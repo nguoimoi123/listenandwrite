@@ -3,2500 +3,2500 @@
     "id": "health-001",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "diagnose",
+    "meaningVi": "nhóm từ \"diagnose\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "diagnostion",
+      "adjective": "diagnosable",
+      "verb": "diagnose",
+      "adverb": "diagnosably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"diagnostion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"diagnosable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"diagnose\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"diagnosably\"."
     },
     "examples": {
-      "noun": "The action is important in health.",
-      "adjective": "This is a active example for health.",
-      "verb": "Learners can act this idea in health.",
-      "adverb": "Use it actively when talking about health."
+      "noun": "The diagnostion is important in health.",
+      "adjective": "This is a diagnosable case in health.",
+      "verb": "People often diagnose when working with health topics.",
+      "adverb": "The speaker explained it diagnosably in a health context."
     }
   },
   {
     "id": "health-002",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "treat",
+    "meaningVi": "nhóm từ \"treat\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "treatment",
+      "adjective": "treative",
+      "verb": "treat",
+      "adverb": "treatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"treatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"treative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"treat\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"treatively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in health.",
-      "adjective": "This is a adaptable example for health.",
-      "verb": "Learners can adapt this idea in health.",
-      "adverb": "Use it adaptably when talking about health."
+      "noun": "The treatment is important in health.",
+      "adjective": "This is a treative case in health.",
+      "verb": "People often treat when working with health topics.",
+      "adverb": "The speaker explained it treatively in a health context."
     }
   },
   {
     "id": "health-003",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "heal",
+    "meaningVi": "nhóm từ \"heal\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "healing",
+      "adjective": "healal",
+      "verb": "heal",
+      "adverb": "healally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"healing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"healal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"heal\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"healally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in health.",
-      "adjective": "This is a adjustable example for health.",
-      "verb": "Learners can adjust this idea in health.",
-      "adverb": "Use it adjustably when talking about health."
+      "noun": "The healing is important in health.",
+      "adjective": "This is a healal case in health.",
+      "verb": "People often heal when working with health topics.",
+      "adverb": "The speaker explained it healally in a health context."
     }
   },
   {
     "id": "health-004",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "recover",
+    "meaningVi": "nhóm từ \"recover\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "recoverance",
+      "adjective": "recovered",
+      "verb": "recover",
+      "adverb": "recoveredly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recoverance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"recovered\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recover\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recoveredly\"."
     },
     "examples": {
-      "noun": "The admiration is important in health.",
-      "adjective": "This is a admirable example for health.",
-      "verb": "Learners can admire this idea in health.",
-      "adverb": "Use it admirably when talking about health."
+      "noun": "The recoverance is important in health.",
+      "adjective": "This is a recovered case in health.",
+      "verb": "People often recover when working with health topics.",
+      "adverb": "The speaker explained it recoveredly in a health context."
     }
   },
   {
     "id": "health-005",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "prevent",
+    "meaningVi": "nhóm từ \"prevent\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "preventence",
+      "adjective": "preventing",
+      "verb": "prevent",
+      "adverb": "preventingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"preventence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"preventing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prevent\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"preventingly\"."
     },
     "examples": {
-      "noun": "The advice is important in health.",
-      "adjective": "This is a advisable example for health.",
-      "verb": "Learners can advise this idea in health.",
-      "adverb": "Use it advisably when talking about health."
+      "noun": "The preventence is important in health.",
+      "adjective": "This is a preventing case in health.",
+      "verb": "People often prevent when working with health topics.",
+      "adverb": "The speaker explained it preventingly in a health context."
     }
   },
   {
     "id": "health-006",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "vaccinate",
+    "meaningVi": "nhóm từ \"vaccinate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "vaccinatal",
+      "adjective": "vaccinatous",
+      "verb": "vaccinate",
+      "adverb": "vaccinatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"vaccinatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"vaccinatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"vaccinate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"vaccinatously\"."
     },
     "examples": {
-      "noun": "The analysis is important in health.",
-      "adjective": "This is a analytical example for health.",
-      "verb": "Learners can analyze this idea in health.",
-      "adverb": "Use it analytically when talking about health."
+      "noun": "The vaccinatal is important in health.",
+      "adjective": "This is a vaccinatous case in health.",
+      "verb": "People often vaccinate when working with health topics.",
+      "adverb": "The speaker explained it vaccinatously in a health context."
     }
   },
   {
     "id": "health-007",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "screen",
+    "meaningVi": "nhóm từ \"screen\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "screeny",
+      "adjective": "screenary",
+      "verb": "screen",
+      "adverb": "screenarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"screeny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"screenary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"screen\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"screenarily\"."
     },
     "examples": {
-      "noun": "The application is important in health.",
-      "adjective": "This is a applicable example for health.",
-      "verb": "Learners can apply this idea in health.",
-      "adverb": "Use it applicably when talking about health."
+      "noun": "The screeny is important in health.",
+      "adjective": "This is a screenary case in health.",
+      "verb": "People often screen when working with health topics.",
+      "adverb": "The speaker explained it screenarily in a health context."
     }
   },
   {
     "id": "health-008",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "scan",
+    "meaningVi": "nhóm từ \"scan\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "scanure",
+      "adjective": "scanic",
+      "verb": "scan",
+      "adverb": "scanically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scanure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scanic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scan\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scanically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in health.",
-      "adjective": "This is a arranged example for health.",
-      "verb": "Learners can arrange this idea in health.",
-      "adverb": "Use it arrangedly when talking about health."
+      "noun": "The scanure is important in health.",
+      "adjective": "This is a scanic case in health.",
+      "verb": "People often scan when working with health topics.",
+      "adverb": "The speaker explained it scanically in a health context."
     }
   },
   {
     "id": "health-009",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "test",
+    "meaningVi": "nhóm từ \"test\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "testage",
+      "adjective": "testful",
+      "verb": "test",
+      "adverb": "testfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"testage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"testful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"test\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"testfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in health.",
-      "adjective": "This is a assessable example for health.",
-      "verb": "Learners can assess this idea in health.",
-      "adverb": "Use it assessably when talking about health."
+      "noun": "The testage is important in health.",
+      "adjective": "This is a testful case in health.",
+      "verb": "People often test when working with health topics.",
+      "adverb": "The speaker explained it testfully in a health context."
     }
   },
   {
     "id": "health-010",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "prescribe",
+    "meaningVi": "nhóm từ \"prescribe\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "prescribity",
+      "adjective": "prescribant",
+      "verb": "prescribe",
+      "adverb": "prescribantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prescribity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prescribant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prescribe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prescribantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in health.",
-      "adjective": "This is a assistant example for health.",
-      "verb": "Learners can assist this idea in health.",
-      "adverb": "Use it assistively when talking about health."
+      "noun": "The prescribity is important in health.",
+      "adjective": "This is a prescribant case in health.",
+      "verb": "People often prescribe when working with health topics.",
+      "adverb": "The speaker explained it prescribantly in a health context."
     }
   },
   {
     "id": "health-011",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "medicate",
+    "meaningVi": "nhóm từ \"medicate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "medicattion",
+      "adjective": "medicatable",
+      "verb": "medicate",
+      "adverb": "medicatably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"medicattion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"medicatable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"medicate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"medicatably\"."
     },
     "examples": {
-      "noun": "The attendance is important in health.",
-      "adjective": "This is a attentive example for health.",
-      "verb": "Learners can attend this idea in health.",
-      "adverb": "Use it attentively when talking about health."
+      "noun": "The medicattion is important in health.",
+      "adjective": "This is a medicatable case in health.",
+      "verb": "People often medicate when working with health topics.",
+      "adverb": "The speaker explained it medicatably in a health context."
     }
   },
   {
     "id": "health-012",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "hydrate",
+    "meaningVi": "nhóm từ \"hydrate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "hydratment",
+      "adjective": "hydrative",
+      "verb": "hydrate",
+      "adverb": "hydratively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hydratment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hydrative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"hydrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hydratively\"."
     },
     "examples": {
-      "noun": "The benefit is important in health.",
-      "adjective": "This is a beneficial example for health.",
-      "verb": "Learners can benefit this idea in health.",
-      "adverb": "Use it beneficially when talking about health."
+      "noun": "The hydratment is important in health.",
+      "adjective": "This is a hydrative case in health.",
+      "verb": "People often hydrate when working with health topics.",
+      "adverb": "The speaker explained it hydratively in a health context."
     }
   },
   {
     "id": "health-013",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "nourish",
+    "meaningVi": "nhóm từ \"nourish\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "nourishing",
+      "adjective": "nourishal",
+      "verb": "nourish",
+      "adverb": "nourishally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"nourishing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"nourishal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"nourish\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"nourishally\"."
     },
     "examples": {
-      "noun": "The calculation is important in health.",
-      "adjective": "This is a calculable example for health.",
-      "verb": "Learners can calculate this idea in health.",
-      "adverb": "Use it calculably when talking about health."
+      "noun": "The nourishing is important in health.",
+      "adjective": "This is a nourishal case in health.",
+      "verb": "People often nourish when working with health topics.",
+      "adverb": "The speaker explained it nourishally in a health context."
     }
   },
   {
     "id": "health-014",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "diet",
+    "meaningVi": "nhóm từ \"diet\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "dietance",
+      "adjective": "dieted",
+      "verb": "diet",
+      "adverb": "dietedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dietance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dieted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"diet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dietedly\"."
     },
     "examples": {
-      "noun": "The care is important in health.",
-      "adjective": "This is a careful example for health.",
-      "verb": "Learners can care this idea in health.",
-      "adverb": "Use it carefully when talking about health."
+      "noun": "The dietance is important in health.",
+      "adjective": "This is a dieted case in health.",
+      "verb": "People often diet when working with health topics.",
+      "adverb": "The speaker explained it dietedly in a health context."
     }
   },
   {
     "id": "health-015",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "exercise",
+    "meaningVi": "nhóm từ \"exercise\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "exercisence",
+      "adjective": "exercising",
+      "verb": "exercise",
+      "adverb": "exercisingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"exercisence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"exercising\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"exercise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"exercisingly\"."
     },
     "examples": {
-      "noun": "The change is important in health.",
-      "adjective": "This is a changeable example for health.",
-      "verb": "Learners can change this idea in health.",
-      "adverb": "Use it changeably when talking about health."
+      "noun": "The exercisence is important in health.",
+      "adjective": "This is a exercising case in health.",
+      "verb": "People often exercise when working with health topics.",
+      "adverb": "The speaker explained it exercisingly in a health context."
     }
   },
   {
     "id": "health-016",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "stretch",
+    "meaningVi": "nhóm từ \"stretch\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "stretchal",
+      "adjective": "stretchous",
+      "verb": "stretch",
+      "adverb": "stretchously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"stretchal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stretchous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stretch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stretchously\"."
     },
     "examples": {
-      "noun": "The communication is important in health.",
-      "adjective": "This is a communicative example for health.",
-      "verb": "Learners can communicate this idea in health.",
-      "adverb": "Use it communicatively when talking about health."
+      "noun": "The stretchal is important in health.",
+      "adjective": "This is a stretchous case in health.",
+      "verb": "People often stretch when working with health topics.",
+      "adverb": "The speaker explained it stretchously in a health context."
     }
   },
   {
     "id": "health-017",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "strengthen",
+    "meaningVi": "nhóm từ \"strengthen\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "strengtheny",
+      "adjective": "strengthenary",
+      "verb": "strengthen",
+      "adverb": "strengthenarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"strengtheny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"strengthenary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"strengthen\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"strengthenarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in health.",
-      "adjective": "This is a comparative example for health.",
-      "verb": "Learners can compare this idea in health.",
-      "adverb": "Use it comparatively when talking about health."
+      "noun": "The strengtheny is important in health.",
+      "adjective": "This is a strengthenary case in health.",
+      "verb": "People often strengthen when working with health topics.",
+      "adverb": "The speaker explained it strengthenarily in a health context."
     }
   },
   {
     "id": "health-018",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "rehabilitate",
+    "meaningVi": "nhóm từ \"rehabilitate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "rehabilitature",
+      "adjective": "rehabilitatic",
+      "verb": "rehabilitate",
+      "adverb": "rehabilitatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rehabilitature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rehabilitatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rehabilitate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rehabilitatically\"."
     },
     "examples": {
-      "noun": "The competition is important in health.",
-      "adjective": "This is a competitive example for health.",
-      "verb": "Learners can compete this idea in health.",
-      "adverb": "Use it competitively when talking about health."
+      "noun": "The rehabilitature is important in health.",
+      "adjective": "This is a rehabilitatic case in health.",
+      "verb": "People often rehabilitate when working with health topics.",
+      "adverb": "The speaker explained it rehabilitatically in a health context."
     }
   },
   {
     "id": "health-019",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "rest",
+    "meaningVi": "nhóm từ \"rest\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "restage",
+      "adjective": "restful",
+      "verb": "rest",
+      "adverb": "restfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"restage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"restful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"restfully\"."
     },
     "examples": {
-      "noun": "The completion is important in health.",
-      "adjective": "This is a complete example for health.",
-      "verb": "Learners can complete this idea in health.",
-      "adverb": "Use it completely when talking about health."
+      "noun": "The restage is important in health.",
+      "adjective": "This is a restful case in health.",
+      "verb": "People often rest when working with health topics.",
+      "adverb": "The speaker explained it restfully in a health context."
     }
   },
   {
     "id": "health-020",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "sleep",
+    "meaningVi": "nhóm từ \"sleep\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "sleepity",
+      "adjective": "sleepant",
+      "verb": "sleep",
+      "adverb": "sleepantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sleepity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sleepant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sleep\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sleepantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in health.",
-      "adjective": "This is a concentrated example for health.",
-      "verb": "Learners can concentrate this idea in health.",
-      "adverb": "Use it concentratedly when talking about health."
+      "noun": "The sleepity is important in health.",
+      "adjective": "This is a sleepant case in health.",
+      "verb": "People often sleep when working with health topics.",
+      "adverb": "The speaker explained it sleepantly in a health context."
     }
   },
   {
     "id": "health-021",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "breathe",
+    "meaningVi": "nhóm từ \"breathe\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "breathtion",
+      "adjective": "breathable",
+      "verb": "breathe",
+      "adverb": "breathably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"breathtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"breathable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"breathe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"breathably\"."
     },
     "examples": {
-      "noun": "The connection is important in health.",
-      "adjective": "This is a connected example for health.",
-      "verb": "Learners can connect this idea in health.",
-      "adverb": "Use it connectedly when talking about health."
+      "noun": "The breathtion is important in health.",
+      "adjective": "This is a breathable case in health.",
+      "verb": "People often breathe when working with health topics.",
+      "adverb": "The speaker explained it breathably in a health context."
     }
   },
   {
     "id": "health-022",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "monitor",
+    "meaningVi": "nhóm từ \"monitor\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "monitorment",
+      "adjective": "monitorive",
+      "verb": "monitor",
+      "adverb": "monitorively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monitorment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monitorive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monitor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monitorively\"."
     },
     "examples": {
-      "noun": "The consideration is important in health.",
-      "adjective": "This is a considerate example for health.",
-      "verb": "Learners can consider this idea in health.",
-      "adverb": "Use it considerately when talking about health."
+      "noun": "The monitorment is important in health.",
+      "adjective": "This is a monitorive case in health.",
+      "verb": "People often monitor when working with health topics.",
+      "adverb": "The speaker explained it monitorively in a health context."
     }
   },
   {
     "id": "health-023",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "measure",
+    "meaningVi": "nhóm từ \"measure\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "measuring",
+      "adjective": "measural",
+      "verb": "measure",
+      "adverb": "measurally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"measuring\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"measural\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"measure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"measurally\"."
     },
     "examples": {
-      "noun": "The creation is important in health.",
-      "adjective": "This is a creative example for health.",
-      "verb": "Learners can create this idea in health.",
-      "adverb": "Use it creatively when talking about health."
+      "noun": "The measuring is important in health.",
+      "adjective": "This is a measural case in health.",
+      "verb": "People often measure when working with health topics.",
+      "adverb": "The speaker explained it measurally in a health context."
     }
   },
   {
     "id": "health-024",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "weigh",
+    "meaningVi": "nhóm từ \"weigh\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "weighance",
+      "adjective": "weighed",
+      "verb": "weigh",
+      "adverb": "weighedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"weighance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"weighed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"weigh\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"weighedly\"."
     },
     "examples": {
-      "noun": "The decision is important in health.",
-      "adjective": "This is a decisive example for health.",
-      "verb": "Learners can decide this idea in health.",
-      "adverb": "Use it decisively when talking about health."
+      "noun": "The weighance is important in health.",
+      "adjective": "This is a weighed case in health.",
+      "verb": "People often weigh when working with health topics.",
+      "adverb": "The speaker explained it weighedly in a health context."
     }
   },
   {
     "id": "health-025",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "assess",
+    "meaningVi": "nhóm từ \"assess\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "assessence",
+      "adjective": "assessing",
+      "verb": "assess",
+      "adverb": "assessingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assessence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assessing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assess\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assessingly\"."
     },
     "examples": {
-      "noun": "The definition is important in health.",
-      "adjective": "This is a definite example for health.",
-      "verb": "Learners can define this idea in health.",
-      "adverb": "Use it definitely when talking about health."
+      "noun": "The assessence is important in health.",
+      "adjective": "This is a assessing case in health.",
+      "verb": "People often assess when working with health topics.",
+      "adverb": "The speaker explained it assessingly in a health context."
     }
   },
   {
     "id": "health-026",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "consult",
+    "meaningVi": "nhóm từ \"consult\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "consultal",
+      "adjective": "consultous",
+      "verb": "consult",
+      "adverb": "consultously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"consultal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"consultous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"consult\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"consultously\"."
     },
     "examples": {
-      "noun": "The delivery is important in health.",
-      "adjective": "This is a deliverable example for health.",
-      "verb": "Learners can deliver this idea in health.",
-      "adverb": "Use it deliverably when talking about health."
+      "noun": "The consultal is important in health.",
+      "adjective": "This is a consultous case in health.",
+      "verb": "People often consult when working with health topics.",
+      "adverb": "The speaker explained it consultously in a health context."
     }
   },
   {
     "id": "health-027",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "refer",
+    "meaningVi": "nhóm từ \"refer\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "refery",
+      "adjective": "referary",
+      "verb": "refer",
+      "adverb": "referarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refery\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"referary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"referarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in health.",
-      "adjective": "This is a dependent example for health.",
-      "verb": "Learners can depend this idea in health.",
-      "adverb": "Use it dependently when talking about health."
+      "noun": "The refery is important in health.",
+      "adjective": "This is a referary case in health.",
+      "verb": "People often refer when working with health topics.",
+      "adverb": "The speaker explained it referarily in a health context."
     }
   },
   {
     "id": "health-028",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "admit",
+    "meaningVi": "nhóm từ \"admit\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "admiture",
+      "adjective": "admitic",
+      "verb": "admit",
+      "adverb": "admitically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"admiture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"admitic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"admit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"admitically\"."
     },
     "examples": {
-      "noun": "The description is important in health.",
-      "adjective": "This is a descriptive example for health.",
-      "verb": "Learners can describe this idea in health.",
-      "adverb": "Use it descriptively when talking about health."
+      "noun": "The admiture is important in health.",
+      "adjective": "This is a admitic case in health.",
+      "verb": "People often admit when working with health topics.",
+      "adverb": "The speaker explained it admitically in a health context."
     }
   },
   {
     "id": "health-029",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "discharge",
+    "meaningVi": "nhóm từ \"discharge\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "dischargage",
+      "adjective": "dischargful",
+      "verb": "discharge",
+      "adverb": "dischargfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dischargage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dischargful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"discharge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dischargfully\"."
     },
     "examples": {
-      "noun": "The design is important in health.",
-      "adjective": "This is a designed example for health.",
-      "verb": "Learners can design this idea in health.",
-      "adverb": "Use it designedly when talking about health."
+      "noun": "The dischargage is important in health.",
+      "adjective": "This is a dischargful case in health.",
+      "verb": "People often discharge when working with health topics.",
+      "adverb": "The speaker explained it dischargfully in a health context."
     }
   },
   {
     "id": "health-030",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "operate",
+    "meaningVi": "nhóm từ \"operate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "operatity",
+      "adjective": "operatant",
+      "verb": "operate",
+      "adverb": "operatantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"operatity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"operatant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"operate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"operatantly\"."
     },
     "examples": {
-      "noun": "The development is important in health.",
-      "adjective": "This is a developed example for health.",
-      "verb": "Learners can develop this idea in health.",
-      "adverb": "Use it developmentally when talking about health."
+      "noun": "The operatity is important in health.",
+      "adjective": "This is a operatant case in health.",
+      "verb": "People often operate when working with health topics.",
+      "adverb": "The speaker explained it operatantly in a health context."
     }
   },
   {
     "id": "health-031",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "anesthetize",
+    "meaningVi": "nhóm từ \"anesthetize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "anesthetiztion",
+      "adjective": "anesthetizable",
+      "verb": "anesthetize",
+      "adverb": "anesthetizably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"anesthetiztion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"anesthetizable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"anesthetize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"anesthetizably\"."
     },
     "examples": {
-      "noun": "The difference is important in health.",
-      "adjective": "This is a different example for health.",
-      "verb": "Learners can differ this idea in health.",
-      "adverb": "Use it differently when talking about health."
+      "noun": "The anesthetiztion is important in health.",
+      "adjective": "This is a anesthetizable case in health.",
+      "verb": "People often anesthetize when working with health topics.",
+      "adverb": "The speaker explained it anesthetizably in a health context."
     }
   },
   {
     "id": "health-032",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "stitch",
+    "meaningVi": "nhóm từ \"stitch\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "stitchment",
+      "adjective": "stitchive",
+      "verb": "stitch",
+      "adverb": "stitchively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"stitchment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stitchive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stitch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stitchively\"."
     },
     "examples": {
-      "noun": "The discussion is important in health.",
-      "adjective": "This is a discussable example for health.",
-      "verb": "Learners can discuss this idea in health.",
-      "adverb": "Use it discussably when talking about health."
+      "noun": "The stitchment is important in health.",
+      "adjective": "This is a stitchive case in health.",
+      "verb": "People often stitch when working with health topics.",
+      "adverb": "The speaker explained it stitchively in a health context."
     }
   },
   {
     "id": "health-033",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "bandage",
+    "meaningVi": "nhóm từ \"bandage\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "bandaging",
+      "adjective": "bandagal",
+      "verb": "bandage",
+      "adverb": "bandagally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bandaging\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bandagal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bandage\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bandagally\"."
     },
     "examples": {
-      "noun": "The education is important in health.",
-      "adjective": "This is a educational example for health.",
-      "verb": "Learners can educate this idea in health.",
-      "adverb": "Use it educationally when talking about health."
+      "noun": "The bandaging is important in health.",
+      "adjective": "This is a bandagal case in health.",
+      "verb": "People often bandage when working with health topics.",
+      "adverb": "The speaker explained it bandagally in a health context."
     }
   },
   {
     "id": "health-034",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "disinfect",
+    "meaningVi": "nhóm từ \"disinfect\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "disinfectance",
+      "adjective": "disinfected",
+      "verb": "disinfect",
+      "adverb": "disinfectedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"disinfectance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"disinfected\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"disinfect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"disinfectedly\"."
     },
     "examples": {
-      "noun": "The effect is important in health.",
-      "adjective": "This is a effective example for health.",
-      "verb": "Learners can effect this idea in health.",
-      "adverb": "Use it effectively when talking about health."
+      "noun": "The disinfectance is important in health.",
+      "adjective": "This is a disinfected case in health.",
+      "verb": "People often disinfect when working with health topics.",
+      "adverb": "The speaker explained it disinfectedly in a health context."
     }
   },
   {
     "id": "health-035",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "sanitize",
+    "meaningVi": "nhóm từ \"sanitize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "sanitizence",
+      "adjective": "sanitizing",
+      "verb": "sanitize",
+      "adverb": "sanitizingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sanitizence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sanitizing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sanitize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sanitizingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in health.",
-      "adjective": "This is a emphatic example for health.",
-      "verb": "Learners can emphasize this idea in health.",
-      "adverb": "Use it emphatically when talking about health."
+      "noun": "The sanitizence is important in health.",
+      "adjective": "This is a sanitizing case in health.",
+      "verb": "People often sanitize when working with health topics.",
+      "adverb": "The speaker explained it sanitizingly in a health context."
     }
   },
   {
     "id": "health-036",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "sterilize",
+    "meaningVi": "nhóm từ \"sterilize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "sterilizal",
+      "adjective": "sterilizous",
+      "verb": "sterilize",
+      "adverb": "sterilizously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sterilizal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sterilizous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sterilize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sterilizously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in health.",
-      "adjective": "This is a encouraging example for health.",
-      "verb": "Learners can encourage this idea in health.",
-      "adverb": "Use it encouragingly when talking about health."
+      "noun": "The sterilizal is important in health.",
+      "adjective": "This is a sterilizous case in health.",
+      "verb": "People often sterilize when working with health topics.",
+      "adverb": "The speaker explained it sterilizously in a health context."
     }
   },
   {
     "id": "health-037",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "quarantine",
+    "meaningVi": "nhóm từ \"quarantine\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "quarantiny",
+      "adjective": "quarantinary",
+      "verb": "quarantine",
+      "adverb": "quarantinarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"quarantiny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"quarantinary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"quarantine\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"quarantinarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in health.",
-      "adjective": "This is a enjoyable example for health.",
-      "verb": "Learners can enjoy this idea in health.",
-      "adverb": "Use it enjoyably when talking about health."
+      "noun": "The quarantiny is important in health.",
+      "adjective": "This is a quarantinary case in health.",
+      "verb": "People often quarantine when working with health topics.",
+      "adverb": "The speaker explained it quarantinarily in a health context."
     }
   },
   {
     "id": "health-038",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "isolate",
+    "meaningVi": "nhóm từ \"isolate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "isolature",
+      "adjective": "isolatic",
+      "verb": "isolate",
+      "adverb": "isolatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"isolature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"isolatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"isolate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"isolatically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in health.",
-      "adjective": "This is a evaluative example for health.",
-      "verb": "Learners can evaluate this idea in health.",
-      "adverb": "Use it evaluatively when talking about health."
+      "noun": "The isolature is important in health.",
+      "adjective": "This is a isolatic case in health.",
+      "verb": "People often isolate when working with health topics.",
+      "adverb": "The speaker explained it isolatically in a health context."
     }
   },
   {
     "id": "health-039",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "infect",
+    "meaningVi": "nhóm từ \"infect\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "infectage",
+      "adjective": "infectful",
+      "verb": "infect",
+      "adverb": "infectfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"infectage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"infectful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"infect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"infectfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in health.",
-      "adjective": "This is a explanatory example for health.",
-      "verb": "Learners can explain this idea in health.",
-      "adverb": "Use it explanatorily when talking about health."
+      "noun": "The infectage is important in health.",
+      "adjective": "This is a infectful case in health.",
+      "verb": "People often infect when working with health topics.",
+      "adverb": "The speaker explained it infectfully in a health context."
     }
   },
   {
     "id": "health-040",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "transmit",
+    "meaningVi": "nhóm từ \"transmit\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "transmitity",
+      "adjective": "transmitant",
+      "verb": "transmit",
+      "adverb": "transmitantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transmitity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transmitant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transmit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transmitantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in health.",
-      "adjective": "This is a exploratory example for health.",
-      "verb": "Learners can explore this idea in health.",
-      "adverb": "Use it exploratorily when talking about health."
+      "noun": "The transmitity is important in health.",
+      "adjective": "This is a transmitant case in health.",
+      "verb": "People often transmit when working with health topics.",
+      "adverb": "The speaker explained it transmitantly in a health context."
     }
   },
   {
     "id": "health-041",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "protect",
+    "meaningVi": "nhóm từ \"protect\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "protecttion",
+      "adjective": "protectable",
+      "verb": "protect",
+      "adverb": "protectably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"protecttion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"protectable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"protect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"protectably\"."
     },
     "examples": {
-      "noun": "The expression is important in health.",
-      "adjective": "This is a expressive example for health.",
-      "verb": "Learners can express this idea in health.",
-      "adverb": "Use it expressively when talking about health."
+      "noun": "The protecttion is important in health.",
+      "adjective": "This is a protectable case in health.",
+      "verb": "People often protect when working with health topics.",
+      "adverb": "The speaker explained it protectably in a health context."
     }
   },
   {
     "id": "health-042",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "counsel",
+    "meaningVi": "nhóm từ \"counsel\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "counselment",
+      "adjective": "counselive",
+      "verb": "counsel",
+      "adverb": "counselively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"counselment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"counselive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"counsel\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"counselively\"."
     },
     "examples": {
-      "noun": "The failure is important in health.",
-      "adjective": "This is a failed example for health.",
-      "verb": "Learners can fail this idea in health.",
-      "adverb": "Use it failingly when talking about health."
+      "noun": "The counselment is important in health.",
+      "adjective": "This is a counselive case in health.",
+      "verb": "People often counsel when working with health topics.",
+      "adverb": "The speaker explained it counselively in a health context."
     }
   },
   {
     "id": "health-043",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "support",
+    "meaningVi": "nhóm từ \"support\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "supporting",
+      "adjective": "supportal",
+      "verb": "support",
+      "adverb": "supportally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supporting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supportal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"support\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supportally\"."
     },
     "examples": {
-      "noun": "The focus is important in health.",
-      "adjective": "This is a focused example for health.",
-      "verb": "Learners can focus this idea in health.",
-      "adverb": "Use it focusedly when talking about health."
+      "noun": "The supporting is important in health.",
+      "adjective": "This is a supportal case in health.",
+      "verb": "People often support when working with health topics.",
+      "adverb": "The speaker explained it supportally in a health context."
     }
   },
   {
     "id": "health-044",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "meditate",
+    "meaningVi": "nhóm từ \"meditate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "meditatance",
+      "adjective": "meditatd",
+      "verb": "meditate",
+      "adverb": "meditatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"meditatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"meditatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"meditate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"meditatdly\"."
     },
     "examples": {
-      "noun": "The growth is important in health.",
-      "adjective": "This is a growing example for health.",
-      "verb": "Learners can grow this idea in health.",
-      "adverb": "Use it growingly when talking about health."
+      "noun": "The meditatance is important in health.",
+      "adjective": "This is a meditatd case in health.",
+      "verb": "People often meditate when working with health topics.",
+      "adverb": "The speaker explained it meditatdly in a health context."
     }
   },
   {
     "id": "health-045",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "relax",
+    "meaningVi": "nhóm từ \"relax\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "relaxence",
+      "adjective": "relaxing",
+      "verb": "relax",
+      "adverb": "relaxingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"relaxence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"relaxing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"relax\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"relaxingly\"."
     },
     "examples": {
-      "noun": "The help is important in health.",
-      "adjective": "This is a helpful example for health.",
-      "verb": "Learners can help this idea in health.",
-      "adverb": "Use it helpfully when talking about health."
+      "noun": "The relaxence is important in health.",
+      "adjective": "This is a relaxing case in health.",
+      "verb": "People often relax when working with health topics.",
+      "adverb": "The speaker explained it relaxingly in a health context."
     }
   },
   {
     "id": "health-046",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "detox",
+    "meaningVi": "nhóm từ \"detox\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "detoxal",
+      "adjective": "detoxous",
+      "verb": "detox",
+      "adverb": "detoxously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"detoxal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"detoxous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"detox\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"detoxously\"."
     },
     "examples": {
-      "noun": "The identification is important in health.",
-      "adjective": "This is a identifiable example for health.",
-      "verb": "Learners can identify this idea in health.",
-      "adverb": "Use it identifiably when talking about health."
+      "noun": "The detoxal is important in health.",
+      "adjective": "This is a detoxous case in health.",
+      "verb": "People often detox when working with health topics.",
+      "adverb": "The speaker explained it detoxously in a health context."
     }
   },
   {
     "id": "health-047",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "supplement",
+    "meaningVi": "nhóm từ \"supplement\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "supplementy",
+      "adjective": "supplementary",
+      "verb": "supplement",
+      "adverb": "supplementarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supplementy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supplementary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"supplement\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supplementarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in health.",
-      "adjective": "This is a imaginative example for health.",
-      "verb": "Learners can imagine this idea in health.",
-      "adverb": "Use it imaginatively when talking about health."
+      "noun": "The supplementy is important in health.",
+      "adjective": "This is a supplementary case in health.",
+      "verb": "People often supplement when working with health topics.",
+      "adverb": "The speaker explained it supplementarily in a health context."
     }
   },
   {
     "id": "health-048",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "digest",
+    "meaningVi": "nhóm từ \"digest\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "digesture",
+      "adjective": "digestic",
+      "verb": "digest",
+      "adverb": "digestically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"digesture\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"digestic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"digest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"digestically\"."
     },
     "examples": {
-      "noun": "The improvement is important in health.",
-      "adjective": "This is a improved example for health.",
-      "verb": "Learners can improve this idea in health.",
-      "adverb": "Use it improvingly when talking about health."
+      "noun": "The digesture is important in health.",
+      "adjective": "This is a digestic case in health.",
+      "verb": "People often digest when working with health topics.",
+      "adverb": "The speaker explained it digestically in a health context."
     }
   },
   {
     "id": "health-049",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "absorb",
+    "meaningVi": "nhóm từ \"absorb\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "absorbage",
+      "adjective": "absorbful",
+      "verb": "absorb",
+      "adverb": "absorbfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"absorbage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"absorbful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"absorb\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"absorbfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in health.",
-      "adjective": "This is a inclusive example for health.",
-      "verb": "Learners can include this idea in health.",
-      "adverb": "Use it inclusively when talking about health."
+      "noun": "The absorbage is important in health.",
+      "adjective": "This is a absorbful case in health.",
+      "verb": "People often absorb when working with health topics.",
+      "adverb": "The speaker explained it absorbfully in a health context."
     }
   },
   {
     "id": "health-050",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "metabolize",
+    "meaningVi": "nhóm từ \"metabolize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "metabolizity",
+      "adjective": "metabolizant",
+      "verb": "metabolize",
+      "adverb": "metabolizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"metabolizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"metabolizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"metabolize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"metabolizantly\"."
     },
     "examples": {
-      "noun": "The information is important in health.",
-      "adjective": "This is a informative example for health.",
-      "verb": "Learners can inform this idea in health.",
-      "adverb": "Use it informatively when talking about health."
+      "noun": "The metabolizity is important in health.",
+      "adjective": "This is a metabolizant case in health.",
+      "verb": "People often metabolize when working with health topics.",
+      "adverb": "The speaker explained it metabolizantly in a health context."
     }
   },
   {
     "id": "health-051",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "circulate",
+    "meaningVi": "nhóm từ \"circulate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "circulattion",
+      "adjective": "circulatable",
+      "verb": "circulate",
+      "adverb": "circulatably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"circulattion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"circulatable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"circulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"circulatably\"."
     },
     "examples": {
-      "noun": "The innovation is important in health.",
-      "adjective": "This is a innovative example for health.",
-      "verb": "Learners can innovate this idea in health.",
-      "adverb": "Use it innovatively when talking about health."
+      "noun": "The circulattion is important in health.",
+      "adjective": "This is a circulatable case in health.",
+      "verb": "People often circulate when working with health topics.",
+      "adverb": "The speaker explained it circulatably in a health context."
     }
   },
   {
     "id": "health-052",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "respirate",
+    "meaningVi": "nhóm từ \"respirate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "respiratment",
+      "adjective": "respirative",
+      "verb": "respirate",
+      "adverb": "respiratively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"respiratment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"respirative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"respirate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"respiratively\"."
     },
     "examples": {
-      "noun": "The instruction is important in health.",
-      "adjective": "This is a instructive example for health.",
-      "verb": "Learners can instruct this idea in health.",
-      "adverb": "Use it instructively when talking about health."
+      "noun": "The respiratment is important in health.",
+      "adjective": "This is a respirative case in health.",
+      "verb": "People often respirate when working with health topics.",
+      "adverb": "The speaker explained it respiratively in a health context."
     }
   },
   {
     "id": "health-053",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "cough",
+    "meaningVi": "nhóm từ \"cough\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "coughing",
+      "adjective": "coughal",
+      "verb": "cough",
+      "adverb": "coughally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coughing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coughal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cough\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coughally\"."
     },
     "examples": {
-      "noun": "The interaction is important in health.",
-      "adjective": "This is a interactive example for health.",
-      "verb": "Learners can interact this idea in health.",
-      "adverb": "Use it interactively when talking about health."
+      "noun": "The coughing is important in health.",
+      "adjective": "This is a coughal case in health.",
+      "verb": "People often cough when working with health topics.",
+      "adverb": "The speaker explained it coughally in a health context."
     }
   },
   {
     "id": "health-054",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "sneeze",
+    "meaningVi": "nhóm từ \"sneeze\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "sneezance",
+      "adjective": "sneezd",
+      "verb": "sneeze",
+      "adverb": "sneezdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sneezance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sneezd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sneeze\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sneezdly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in health.",
-      "adjective": "This is a interpretive example for health.",
-      "verb": "Learners can interpret this idea in health.",
-      "adverb": "Use it interpretively when talking about health."
+      "noun": "The sneezance is important in health.",
+      "adjective": "This is a sneezd case in health.",
+      "verb": "People often sneeze when working with health topics.",
+      "adverb": "The speaker explained it sneezdly in a health context."
     }
   },
   {
     "id": "health-055",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "bleed",
+    "meaningVi": "nhóm từ \"bleed\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "bleedence",
+      "adjective": "bleeding",
+      "verb": "bleed",
+      "adverb": "bleedingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bleedence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bleeding\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bleed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bleedingly\"."
     },
     "examples": {
-      "noun": "The learning is important in health.",
-      "adjective": "This is a learned example for health.",
-      "verb": "Learners can learn this idea in health.",
-      "adverb": "Use it learnedly when talking about health."
+      "noun": "The bleedence is important in health.",
+      "adjective": "This is a bleeding case in health.",
+      "verb": "People often bleed when working with health topics.",
+      "adverb": "The speaker explained it bleedingly in a health context."
     }
   },
   {
     "id": "health-056",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "bruise",
+    "meaningVi": "nhóm từ \"bruise\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "bruisal",
+      "adjective": "bruisous",
+      "verb": "bruise",
+      "adverb": "bruisously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bruisal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bruisous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bruise\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bruisously\"."
     },
     "examples": {
-      "noun": "The management is important in health.",
-      "adjective": "This is a manageable example for health.",
-      "verb": "Learners can manage this idea in health.",
-      "adverb": "Use it manageably when talking about health."
+      "noun": "The bruisal is important in health.",
+      "adjective": "This is a bruisous case in health.",
+      "verb": "People often bruise when working with health topics.",
+      "adverb": "The speaker explained it bruisously in a health context."
     }
   },
   {
     "id": "health-057",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "swell",
+    "meaningVi": "nhóm từ \"swell\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "swelly",
+      "adjective": "swellary",
+      "verb": "swell",
+      "adverb": "swellarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"swelly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"swellary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"swell\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"swellarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in health.",
-      "adjective": "This is a measurable example for health.",
-      "verb": "Learners can measure this idea in health.",
-      "adverb": "Use it measurably when talking about health."
+      "noun": "The swelly is important in health.",
+      "adjective": "This is a swellary case in health.",
+      "verb": "People often swell when working with health topics.",
+      "adverb": "The speaker explained it swellarily in a health context."
     }
   },
   {
     "id": "health-058",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "ache",
+    "meaningVi": "nhóm từ \"ache\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "acheure",
+      "adjective": "acheic",
+      "verb": "ache",
+      "adverb": "acheically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"acheure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"acheic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ache\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"acheically\"."
     },
     "examples": {
-      "noun": "The motivation is important in health.",
-      "adjective": "This is a motivated example for health.",
-      "verb": "Learners can motivate this idea in health.",
-      "adverb": "Use it motivationally when talking about health."
+      "noun": "The acheure is important in health.",
+      "adjective": "This is a acheic case in health.",
+      "verb": "People often ache when working with health topics.",
+      "adverb": "The speaker explained it acheically in a health context."
     }
   },
   {
     "id": "health-059",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "pain",
+    "meaningVi": "nhóm từ \"pain\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "painage",
+      "adjective": "painful",
+      "verb": "pain",
+      "adverb": "painfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"painage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"painful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"painfully\"."
     },
     "examples": {
-      "noun": "The movement is important in health.",
-      "adjective": "This is a movable example for health.",
-      "verb": "Learners can move this idea in health.",
-      "adverb": "Use it movably when talking about health."
+      "noun": "The painage is important in health.",
+      "adjective": "This is a painful case in health.",
+      "verb": "People often pain when working with health topics.",
+      "adverb": "The speaker explained it painfully in a health context."
     }
   },
   {
     "id": "health-060",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "cramp",
+    "meaningVi": "nhóm từ \"cramp\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "crampity",
+      "adjective": "crampant",
+      "verb": "cramp",
+      "adverb": "crampantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"crampity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"crampant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cramp\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"crampantly\"."
     },
     "examples": {
-      "noun": "The observation is important in health.",
-      "adjective": "This is a observant example for health.",
-      "verb": "Learners can observe this idea in health.",
-      "adverb": "Use it observantly when talking about health."
+      "noun": "The crampity is important in health.",
+      "adjective": "This is a crampant case in health.",
+      "verb": "People often cramp when working with health topics.",
+      "adverb": "The speaker explained it crampantly in a health context."
     }
   },
   {
     "id": "health-061",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "fracture",
+    "meaningVi": "nhóm từ \"fracture\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "fracturtion",
+      "adjective": "fracturable",
+      "verb": "fracture",
+      "adverb": "fracturably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"fracturtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"fracturable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"fracture\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"fracturably\"."
     },
     "examples": {
-      "noun": "The organization is important in health.",
-      "adjective": "This is a organized example for health.",
-      "verb": "Learners can organize this idea in health.",
-      "adverb": "Use it organizationally when talking about health."
+      "noun": "The fracturtion is important in health.",
+      "adjective": "This is a fracturable case in health.",
+      "verb": "People often fracture when working with health topics.",
+      "adverb": "The speaker explained it fracturably in a health context."
     }
   },
   {
     "id": "health-062",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "sprain",
+    "meaningVi": "nhóm từ \"sprain\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "sprainment",
+      "adjective": "sprainive",
+      "verb": "sprain",
+      "adverb": "sprainively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sprainment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sprainive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sprain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sprainively\"."
     },
     "examples": {
-      "noun": "The participation is important in health.",
-      "adjective": "This is a participatory example for health.",
-      "verb": "Learners can participate this idea in health.",
-      "adverb": "Use it participatively when talking about health."
+      "noun": "The sprainment is important in health.",
+      "adjective": "This is a sprainive case in health.",
+      "verb": "People often sprain when working with health topics.",
+      "adverb": "The speaker explained it sprainively in a health context."
     }
   },
   {
     "id": "health-063",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "strain",
+    "meaningVi": "nhóm từ \"strain\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "straining",
+      "adjective": "strainal",
+      "verb": "strain",
+      "adverb": "strainally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"straining\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"strainal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"strain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"strainally\"."
     },
     "examples": {
-      "noun": "The performance is important in health.",
-      "adjective": "This is a performative example for health.",
-      "verb": "Learners can perform this idea in health.",
-      "adverb": "Use it performatively when talking about health."
+      "noun": "The straining is important in health.",
+      "adjective": "This is a strainal case in health.",
+      "verb": "People often strain when working with health topics.",
+      "adverb": "The speaker explained it strainally in a health context."
     }
   },
   {
     "id": "health-064",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "burn",
+    "meaningVi": "nhóm từ \"burn\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "burnance",
+      "adjective": "burned",
+      "verb": "burn",
+      "adverb": "burnedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"burnance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"burned\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"burn\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"burnedly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in health.",
-      "adjective": "This is a persuasive example for health.",
-      "verb": "Learners can persuade this idea in health.",
-      "adverb": "Use it persuasively when talking about health."
+      "noun": "The burnance is important in health.",
+      "adjective": "This is a burned case in health.",
+      "verb": "People often burn when working with health topics.",
+      "adverb": "The speaker explained it burnedly in a health context."
     }
   },
   {
     "id": "health-065",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "itch",
+    "meaningVi": "nhóm từ \"itch\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "itchence",
+      "adjective": "itching",
+      "verb": "itch",
+      "adverb": "itchingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"itchence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"itching\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"itch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"itchingly\"."
     },
     "examples": {
-      "noun": "The plan is important in health.",
-      "adjective": "This is a planned example for health.",
-      "verb": "Learners can plan this idea in health.",
-      "adverb": "Use it plannedly when talking about health."
+      "noun": "The itchence is important in health.",
+      "adjective": "This is a itching case in health.",
+      "verb": "People often itch when working with health topics.",
+      "adverb": "The speaker explained it itchingly in a health context."
     }
   },
   {
     "id": "health-066",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "inflame",
+    "meaningVi": "nhóm từ \"inflame\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "inflamal",
+      "adjective": "inflamous",
+      "verb": "inflame",
+      "adverb": "inflamously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"inflamal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"inflamous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"inflame\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"inflamously\"."
     },
     "examples": {
-      "noun": "The prediction is important in health.",
-      "adjective": "This is a predictable example for health.",
-      "verb": "Learners can predict this idea in health.",
-      "adverb": "Use it predictably when talking about health."
+      "noun": "The inflamal is important in health.",
+      "adjective": "This is a inflamous case in health.",
+      "verb": "People often inflame when working with health topics.",
+      "adverb": "The speaker explained it inflamously in a health context."
     }
   },
   {
     "id": "health-067",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "immunize",
+    "meaningVi": "nhóm từ \"immunize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "immunizy",
+      "adjective": "immunizary",
+      "verb": "immunize",
+      "adverb": "immunizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"immunizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"immunizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"immunize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"immunizarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in health.",
-      "adjective": "This is a prepared example for health.",
-      "verb": "Learners can prepare this idea in health.",
-      "adverb": "Use it preparedly when talking about health."
+      "noun": "The immunizy is important in health.",
+      "adjective": "This is a immunizary case in health.",
+      "verb": "People often immunize when working with health topics.",
+      "adverb": "The speaker explained it immunizarily in a health context."
     }
   },
   {
     "id": "health-068",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "donate",
+    "meaningVi": "nhóm từ \"donate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "donature",
+      "adjective": "donatic",
+      "verb": "donate",
+      "adverb": "donatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"donature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"donatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"donate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"donatically\"."
     },
     "examples": {
-      "noun": "The presentation is important in health.",
-      "adjective": "This is a presentable example for health.",
-      "verb": "Learners can present this idea in health.",
-      "adverb": "Use it presentably when talking about health."
+      "noun": "The donature is important in health.",
+      "adjective": "This is a donatic case in health.",
+      "verb": "People often donate when working with health topics.",
+      "adverb": "The speaker explained it donatically in a health context."
     }
   },
   {
     "id": "health-069",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "transfuse",
+    "meaningVi": "nhóm từ \"transfuse\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "transfusage",
+      "adjective": "transfusful",
+      "verb": "transfuse",
+      "adverb": "transfusfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transfusage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transfusful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transfuse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transfusfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in health.",
-      "adjective": "This is a preventive example for health.",
-      "verb": "Learners can prevent this idea in health.",
-      "adverb": "Use it preventively when talking about health."
+      "noun": "The transfusage is important in health.",
+      "adjective": "This is a transfusful case in health.",
+      "verb": "People often transfuse when working with health topics.",
+      "adverb": "The speaker explained it transfusfully in a health context."
     }
   },
   {
     "id": "health-070",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "transplant",
+    "meaningVi": "nhóm từ \"transplant\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "transplantity",
+      "adjective": "transplantant",
+      "verb": "transplant",
+      "adverb": "transplantantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transplantity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transplantant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transplant\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transplantantly\"."
     },
     "examples": {
-      "noun": "The production is important in health.",
-      "adjective": "This is a productive example for health.",
-      "verb": "Learners can produce this idea in health.",
-      "adverb": "Use it productively when talking about health."
+      "noun": "The transplantity is important in health.",
+      "adjective": "This is a transplantant case in health.",
+      "verb": "People often transplant when working with health topics.",
+      "adverb": "The speaker explained it transplantantly in a health context."
     }
   },
   {
     "id": "health-071",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "biopsy",
+    "meaningVi": "nhóm từ \"biopsy\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "biopsytion",
+      "adjective": "biopsyable",
+      "verb": "biopsy",
+      "adverb": "biopsyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"biopsytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"biopsyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"biopsy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"biopsyably\"."
     },
     "examples": {
-      "noun": "The protection is important in health.",
-      "adjective": "This is a protective example for health.",
-      "verb": "Learners can protect this idea in health.",
-      "adverb": "Use it protectively when talking about health."
+      "noun": "The biopsytion is important in health.",
+      "adjective": "This is a biopsyable case in health.",
+      "verb": "People often biopsy when working with health topics.",
+      "adverb": "The speaker explained it biopsyably in a health context."
     }
   },
   {
     "id": "health-072",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "x-ray",
+    "meaningVi": "nhóm từ \"x-ray\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "x-rayment",
+      "adjective": "x-rayive",
+      "verb": "x-ray",
+      "adverb": "x-rayively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"x-rayment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"x-rayive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"x-ray\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"x-rayively\"."
     },
     "examples": {
-      "noun": "The question is important in health.",
-      "adjective": "This is a questionable example for health.",
-      "verb": "Learners can question this idea in health.",
-      "adverb": "Use it questionably when talking about health."
+      "noun": "The x-rayment is important in health.",
+      "adjective": "This is a x-rayive case in health.",
+      "verb": "People often x-ray when working with health topics.",
+      "adverb": "The speaker explained it x-rayively in a health context."
     }
   },
   {
     "id": "health-073",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "ultrasound",
+    "meaningVi": "nhóm từ \"ultrasound\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "ultrasounding",
+      "adjective": "ultrasoundal",
+      "verb": "ultrasound",
+      "adverb": "ultrasoundally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"ultrasounding\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"ultrasoundal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"ultrasound\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"ultrasoundally\"."
     },
     "examples": {
-      "noun": "The reaction is important in health.",
-      "adjective": "This is a reactive example for health.",
-      "verb": "Learners can react this idea in health.",
-      "adverb": "Use it reactively when talking about health."
+      "noun": "The ultrasounding is important in health.",
+      "adjective": "This is a ultrasoundal case in health.",
+      "verb": "People often ultrasound when working with health topics.",
+      "adverb": "The speaker explained it ultrasoundally in a health context."
     }
   },
   {
     "id": "health-074",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "resuscitate",
+    "meaningVi": "nhóm từ \"resuscitate\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "resuscitatance",
+      "adjective": "resuscitatd",
+      "verb": "resuscitate",
+      "adverb": "resuscitatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"resuscitatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"resuscitatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"resuscitate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"resuscitatdly\"."
     },
     "examples": {
-      "noun": "The recognition is important in health.",
-      "adjective": "This is a recognizable example for health.",
-      "verb": "Learners can recognize this idea in health.",
-      "adverb": "Use it recognizably when talking about health."
+      "noun": "The resuscitatance is important in health.",
+      "adjective": "This is a resuscitatd case in health.",
+      "verb": "People often resuscitate when working with health topics.",
+      "adverb": "The speaker explained it resuscitatdly in a health context."
     }
   },
   {
     "id": "health-075",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "triage",
+    "meaningVi": "nhóm từ \"triage\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "triagence",
+      "adjective": "triaging",
+      "verb": "triage",
+      "adverb": "triagingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"triagence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"triaging\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"triage\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"triagingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in health.",
-      "adjective": "This is a recommendable example for health.",
-      "verb": "Learners can recommend this idea in health.",
-      "adverb": "Use it recommendably when talking about health."
+      "noun": "The triagence is important in health.",
+      "adjective": "This is a triaging case in health.",
+      "verb": "People often triage when working with health topics.",
+      "adverb": "The speaker explained it triagingly in a health context."
     }
   },
   {
     "id": "health-076",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "nurse",
+    "meaningVi": "nhóm từ \"nurse\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "nursal",
+      "adjective": "nursous",
+      "verb": "nurse",
+      "adverb": "nursously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"nursal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"nursous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"nurse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"nursously\"."
     },
     "examples": {
-      "noun": "The reduction is important in health.",
-      "adjective": "This is a reduced example for health.",
-      "verb": "Learners can reduce this idea in health.",
-      "adverb": "Use it reductively when talking about health."
+      "noun": "The nursal is important in health.",
+      "adjective": "This is a nursous case in health.",
+      "verb": "People often nurse when working with health topics.",
+      "adverb": "The speaker explained it nursously in a health context."
     }
   },
   {
     "id": "health-077",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "care",
+    "meaningVi": "nhóm từ \"care\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "carey",
+      "adjective": "careary",
+      "verb": "care",
+      "adverb": "carearily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"carey\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"careary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"care\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"carearily\"."
     },
     "examples": {
-      "noun": "The reflection is important in health.",
-      "adjective": "This is a reflective example for health.",
-      "verb": "Learners can reflect this idea in health.",
-      "adverb": "Use it reflectively when talking about health."
+      "noun": "The carey is important in health.",
+      "adjective": "This is a careary case in health.",
+      "verb": "People often care when working with health topics.",
+      "adverb": "The speaker explained it carearily in a health context."
     }
   },
   {
     "id": "health-078",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "bathe",
+    "meaningVi": "nhóm từ \"bathe\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "bathure",
+      "adjective": "bathic",
+      "verb": "bathe",
+      "adverb": "bathically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bathure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bathic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bathe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bathically\"."
     },
     "examples": {
-      "noun": "The relation is important in health.",
-      "adjective": "This is a related example for health.",
-      "verb": "Learners can relate this idea in health.",
-      "adverb": "Use it relatedly when talking about health."
+      "noun": "The bathure is important in health.",
+      "adjective": "This is a bathic case in health.",
+      "verb": "People often bathe when working with health topics.",
+      "adverb": "The speaker explained it bathically in a health context."
     }
   },
   {
     "id": "health-079",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "feed",
+    "meaningVi": "nhóm từ \"feed\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "feedage",
+      "adjective": "feedful",
+      "verb": "feed",
+      "adverb": "feedfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"feedage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"feedful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"feed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"feedfully\"."
     },
     "examples": {
-      "noun": "The memory is important in health.",
-      "adjective": "This is a memorable example for health.",
-      "verb": "Learners can remember this idea in health.",
-      "adverb": "Use it memorably when talking about health."
+      "noun": "The feedage is important in health.",
+      "adjective": "This is a feedful case in health.",
+      "verb": "People often feed when working with health topics.",
+      "adverb": "The speaker explained it feedfully in a health context."
     }
   },
   {
     "id": "health-080",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "mobilize",
+    "meaningVi": "nhóm từ \"mobilize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "mobilizity",
+      "adjective": "mobilizant",
+      "verb": "mobilize",
+      "adverb": "mobilizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mobilizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mobilizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mobilize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mobilizantly\"."
     },
     "examples": {
-      "noun": "The repair is important in health.",
-      "adjective": "This is a repairable example for health.",
-      "verb": "Learners can repair this idea in health.",
-      "adverb": "Use it repairably when talking about health."
+      "noun": "The mobilizity is important in health.",
+      "adjective": "This is a mobilizant case in health.",
+      "verb": "People often mobilize when working with health topics.",
+      "adverb": "The speaker explained it mobilizantly in a health context."
     }
   },
   {
     "id": "health-081",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "detoxify",
+    "meaningVi": "nhóm từ \"detoxify\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "detoxifytion",
+      "adjective": "detoxifyable",
+      "verb": "detoxify",
+      "adverb": "detoxifyably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"detoxifytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"detoxifyable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"detoxify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"detoxifyably\"."
     },
     "examples": {
-      "noun": "The research is important in health.",
-      "adjective": "This is a researchable example for health.",
-      "verb": "Learners can research this idea in health.",
-      "adverb": "Use it researchably when talking about health."
+      "noun": "The detoxifytion is important in health.",
+      "adjective": "This is a detoxifyable case in health.",
+      "verb": "People often detoxify when working with health topics.",
+      "adverb": "The speaker explained it detoxifyably in a health context."
     }
   },
   {
     "id": "health-082",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "stabilize",
+    "meaningVi": "nhóm từ \"stabilize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "stabilizment",
+      "adjective": "stabilizive",
+      "verb": "stabilize",
+      "adverb": "stabilizively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"stabilizment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"stabilizive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stabilize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"stabilizively\"."
     },
     "examples": {
-      "noun": "The response is important in health.",
-      "adjective": "This is a responsive example for health.",
-      "verb": "Learners can respond this idea in health.",
-      "adverb": "Use it responsively when talking about health."
+      "noun": "The stabilizment is important in health.",
+      "adjective": "This is a stabilizive case in health.",
+      "verb": "People often stabilize when working with health topics.",
+      "adverb": "The speaker explained it stabilizively in a health context."
     }
   },
   {
     "id": "health-083",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "cleanse",
+    "meaningVi": "nhóm từ \"cleanse\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "cleansing",
+      "adjective": "cleansal",
+      "verb": "cleanse",
+      "adverb": "cleansally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cleansing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cleansal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cleanse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cleansally\"."
     },
     "examples": {
-      "noun": "The revision is important in health.",
-      "adjective": "This is a revised example for health.",
-      "verb": "Learners can revise this idea in health.",
-      "adverb": "Use it revisedly when talking about health."
+      "noun": "The cleansing is important in health.",
+      "adjective": "This is a cleansal case in health.",
+      "verb": "People often cleanse when working with health topics.",
+      "adverb": "The speaker explained it cleansally in a health context."
     }
   },
   {
     "id": "health-084",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "moisturize",
+    "meaningVi": "nhóm từ \"moisturize\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "moisturizance",
+      "adjective": "moisturizd",
+      "verb": "moisturize",
+      "adverb": "moisturizdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"moisturizance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"moisturizd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"moisturize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"moisturizdly\"."
     },
     "examples": {
-      "noun": "The selection is important in health.",
-      "adjective": "This is a selective example for health.",
-      "verb": "Learners can select this idea in health.",
-      "adverb": "Use it selectively when talking about health."
+      "noun": "The moisturizance is important in health.",
+      "adjective": "This is a moisturizd case in health.",
+      "verb": "People often moisturize when working with health topics.",
+      "adverb": "The speaker explained it moisturizdly in a health context."
     }
   },
   {
     "id": "health-085",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "symptom",
+    "meaningVi": "nhóm từ \"symptom\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "symptomence",
+      "adjective": "symptoming",
+      "verb": "symptom",
+      "adverb": "symptomingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"symptomence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"symptoming\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"symptom\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"symptomingly\"."
     },
     "examples": {
-      "noun": "The solution is important in health.",
-      "adjective": "This is a solvable example for health.",
-      "verb": "Learners can solve this idea in health.",
-      "adverb": "Use it solvably when talking about health."
+      "noun": "The symptomence is important in health.",
+      "adjective": "This is a symptoming case in health.",
+      "verb": "People often symptom when working with health topics.",
+      "adverb": "The speaker explained it symptomingly in a health context."
     }
   },
   {
     "id": "health-086",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "clinic",
+    "meaningVi": "nhóm từ \"clinic\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "clinical",
+      "adjective": "clinicous",
+      "verb": "clinic",
+      "adverb": "clinicously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"clinical\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"clinicous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"clinic\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"clinicously\"."
     },
     "examples": {
-      "noun": "The specialization is important in health.",
-      "adjective": "This is a specialized example for health.",
-      "verb": "Learners can specialize this idea in health.",
-      "adverb": "Use it specially when talking about health."
+      "noun": "The clinical is important in health.",
+      "adjective": "This is a clinicous case in health.",
+      "verb": "People often clinic when working with health topics.",
+      "adverb": "The speaker explained it clinicously in a health context."
     }
   },
   {
     "id": "health-087",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "hospital",
+    "meaningVi": "nhóm từ \"hospital\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "hospitaly",
+      "adjective": "hospitalary",
+      "verb": "hospital",
+      "adverb": "hospitalarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hospitaly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hospitalary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"hospital\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hospitalarily\"."
     },
     "examples": {
-      "noun": "The strength is important in health.",
-      "adjective": "This is a strong example for health.",
-      "verb": "Learners can strengthen this idea in health.",
-      "adverb": "Use it strongly when talking about health."
+      "noun": "The hospitaly is important in health.",
+      "adjective": "This is a hospitalary case in health.",
+      "verb": "People often hospital when working with health topics.",
+      "adverb": "The speaker explained it hospitalarily in a health context."
     }
   },
   {
     "id": "health-088",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "pharmacy",
+    "meaningVi": "nhóm từ \"pharmacy\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "pharmacyure",
+      "adjective": "pharmacyic",
+      "verb": "pharmacy",
+      "adverb": "pharmacyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pharmacyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pharmacyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pharmacy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pharmacyically\"."
     },
     "examples": {
-      "noun": "The study is important in health.",
-      "adjective": "This is a studious example for health.",
-      "verb": "Learners can study this idea in health.",
-      "adverb": "Use it studiously when talking about health."
+      "noun": "The pharmacyure is important in health.",
+      "adjective": "This is a pharmacyic case in health.",
+      "verb": "People often pharmacy when working with health topics.",
+      "adverb": "The speaker explained it pharmacyically in a health context."
     }
   },
   {
     "id": "health-089",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "dosage",
+    "meaningVi": "nhóm từ \"dosage\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "dosagage",
+      "adjective": "dosagful",
+      "verb": "dosage",
+      "adverb": "dosagfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"dosagage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"dosagful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"dosage\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"dosagfully\"."
     },
     "examples": {
-      "noun": "The success is important in health.",
-      "adjective": "This is a successful example for health.",
-      "verb": "Learners can succeed this idea in health.",
-      "adverb": "Use it successfully when talking about health."
+      "noun": "The dosagage is important in health.",
+      "adjective": "This is a dosagful case in health.",
+      "verb": "People often dosage when working with health topics.",
+      "adverb": "The speaker explained it dosagfully in a health context."
     }
   },
   {
     "id": "health-090",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "tablet",
+    "meaningVi": "nhóm từ \"tablet\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "tabletity",
+      "adjective": "tabletant",
+      "verb": "tablet",
+      "adverb": "tabletantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tabletity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tabletant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tablet\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tabletantly\"."
     },
     "examples": {
-      "noun": "The support is important in health.",
-      "adjective": "This is a supportive example for health.",
-      "verb": "Learners can support this idea in health.",
-      "adverb": "Use it supportively when talking about health."
+      "noun": "The tabletity is important in health.",
+      "adjective": "This is a tabletant case in health.",
+      "verb": "People often tablet when working with health topics.",
+      "adverb": "The speaker explained it tabletantly in a health context."
     }
   },
   {
     "id": "health-091",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "capsule",
+    "meaningVi": "nhóm từ \"capsule\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "capsultion",
+      "adjective": "capsulable",
+      "verb": "capsule",
+      "adverb": "capsulably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"capsultion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"capsulable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"capsule\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"capsulably\"."
     },
     "examples": {
-      "noun": "The teaching is important in health.",
-      "adjective": "This is a teachable example for health.",
-      "verb": "Learners can teach this idea in health.",
-      "adverb": "Use it teachably when talking about health."
+      "noun": "The capsultion is important in health.",
+      "adjective": "This is a capsulable case in health.",
+      "verb": "People often capsule when working with health topics.",
+      "adverb": "The speaker explained it capsulably in a health context."
     }
   },
   {
     "id": "health-092",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "therapy",
+    "meaningVi": "nhóm từ \"therapy\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "therapyment",
+      "adjective": "therapyive",
+      "verb": "therapy",
+      "adverb": "therapyively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"therapyment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"therapyive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"therapy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"therapyively\"."
     },
     "examples": {
-      "noun": "The transformation is important in health.",
-      "adjective": "This is a transformative example for health.",
-      "verb": "Learners can transform this idea in health.",
-      "adverb": "Use it transformatively when talking about health."
+      "noun": "The therapyment is important in health.",
+      "adjective": "This is a therapyive case in health.",
+      "verb": "People often therapy when working with health topics.",
+      "adverb": "The speaker explained it therapyively in a health context."
     }
   },
   {
     "id": "health-093",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "pulse",
+    "meaningVi": "nhóm từ \"pulse\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "pulsing",
+      "adjective": "pulsal",
+      "verb": "pulse",
+      "adverb": "pulsally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pulsing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pulsal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pulse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pulsally\"."
     },
     "examples": {
-      "noun": "The translation is important in health.",
-      "adjective": "This is a translatable example for health.",
-      "verb": "Learners can translate this idea in health.",
-      "adverb": "Use it translatably when talking about health."
+      "noun": "The pulsing is important in health.",
+      "adjective": "This is a pulsal case in health.",
+      "verb": "People often pulse when working with health topics.",
+      "adverb": "The speaker explained it pulsally in a health context."
     }
   },
   {
     "id": "health-094",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "heartbeat",
+    "meaningVi": "nhóm từ \"heartbeat\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "heartbeatance",
+      "adjective": "heartbeated",
+      "verb": "heartbeat",
+      "adverb": "heartbeatedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"heartbeatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"heartbeated\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"heartbeat\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"heartbeatedly\"."
     },
     "examples": {
-      "noun": "The understanding is important in health.",
-      "adjective": "This is a understandable example for health.",
-      "verb": "Learners can understand this idea in health.",
-      "adverb": "Use it understandably when talking about health."
+      "noun": "The heartbeatance is important in health.",
+      "adjective": "This is a heartbeated case in health.",
+      "verb": "People often heartbeat when working with health topics.",
+      "adverb": "The speaker explained it heartbeatedly in a health context."
     }
   },
   {
     "id": "health-095",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "pressure",
+    "meaningVi": "nhóm từ \"pressure\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "pressurence",
+      "adjective": "pressuring",
+      "verb": "pressure",
+      "adverb": "pressuringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pressurence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pressuring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pressure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pressuringly\"."
     },
     "examples": {
-      "noun": "The use is important in health.",
-      "adjective": "This is a useful example for health.",
-      "verb": "Learners can use this idea in health.",
-      "adverb": "Use it usefully when talking about health."
+      "noun": "The pressurence is important in health.",
+      "adjective": "This is a pressuring case in health.",
+      "verb": "People often pressure when working with health topics.",
+      "adverb": "The speaker explained it pressuringly in a health context."
     }
   },
   {
     "id": "health-096",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "glucose",
+    "meaningVi": "nhóm từ \"glucose\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "glucosal",
+      "adjective": "glucosous",
+      "verb": "glucose",
+      "adverb": "glucosously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"glucosal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"glucosous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"glucose\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"glucosously\"."
     },
     "examples": {
-      "noun": "The variation is important in health.",
-      "adjective": "This is a variable example for health.",
-      "verb": "Learners can vary this idea in health.",
-      "adverb": "Use it variably when talking about health."
+      "noun": "The glucosal is important in health.",
+      "adjective": "This is a glucosous case in health.",
+      "verb": "People often glucose when working with health topics.",
+      "adverb": "The speaker explained it glucosously in a health context."
     }
   },
   {
     "id": "health-097",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "cholesterol",
+    "meaningVi": "nhóm từ \"cholesterol\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "cholesteroly",
+      "adjective": "cholesterolary",
+      "verb": "cholesterol",
+      "adverb": "cholesterolarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cholesteroly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cholesterolary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cholesterol\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cholesterolarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in health.",
-      "adjective": "This is a visual example for health.",
-      "verb": "Learners can visualize this idea in health.",
-      "adverb": "Use it visually when talking about health."
+      "noun": "The cholesteroly is important in health.",
+      "adjective": "This is a cholesterolary case in health.",
+      "verb": "People often cholesterol when working with health topics.",
+      "adverb": "The speaker explained it cholesterolarily in a health context."
     }
   },
   {
     "id": "health-098",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "allergy",
+    "meaningVi": "nhóm từ \"allergy\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "allergyure",
+      "adjective": "allergyic",
+      "verb": "allergy",
+      "adverb": "allergyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"allergyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"allergyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"allergy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"allergyically\"."
     },
     "examples": {
-      "noun": "The writing is important in health.",
-      "adjective": "This is a written example for health.",
-      "verb": "Learners can write this idea in health.",
-      "adverb": "Use it writerly when talking about health."
+      "noun": "The allergyure is important in health.",
+      "adjective": "This is a allergyic case in health.",
+      "verb": "People often allergy when working with health topics.",
+      "adverb": "The speaker explained it allergyically in a health context."
     }
   },
   {
     "id": "health-099",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "infection",
+    "meaningVi": "nhóm từ \"infection\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "infectionage",
+      "adjective": "infectionful",
+      "verb": "infection",
+      "adverb": "infectionfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"infectionage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"infectionful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"infection\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"infectionfully\"."
     },
     "examples": {
-      "noun": "The listening is important in health.",
-      "adjective": "This is a listenable example for health.",
-      "verb": "Learners can listen this idea in health.",
-      "adverb": "Use it listeningly when talking about health."
+      "noun": "The infectionage is important in health.",
+      "adjective": "This is a infectionful case in health.",
+      "verb": "People often infection when working with health topics.",
+      "adverb": "The speaker explained it infectionfully in a health context."
     }
   },
   {
     "id": "health-100",
     "topic": "Health",
     "topicVi": "Sức khỏe",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "injury",
+    "meaningVi": "nhóm từ \"injury\" thường gặp trong chủ đề Sức khỏe",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "injuryity",
+      "adjective": "injuryant",
+      "verb": "injury",
+      "adverb": "injuryantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"injuryity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"injuryant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"injury\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"injuryantly\"."
     },
     "examples": {
-      "noun": "The practice is important in health.",
-      "adjective": "This is a practical example for health.",
-      "verb": "Learners can practice this idea in health.",
-      "adverb": "Use it practically when talking about health."
+      "noun": "The injuryity is important in health.",
+      "adjective": "This is a injuryant case in health.",
+      "verb": "People often injury when working with health topics.",
+      "adverb": "The speaker explained it injuryantly in a health context."
     }
   }
 ]

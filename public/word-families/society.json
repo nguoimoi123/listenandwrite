@@ -3,2500 +3,2500 @@
     "id": "society-001",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "vote",
+    "meaningVi": "nhóm từ \"vote\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "votetion",
+      "adjective": "voteable",
+      "verb": "vote",
+      "adverb": "voteably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"votetion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"voteable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"vote\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"voteably\"."
     },
     "examples": {
-      "noun": "The action is important in society.",
-      "adjective": "This is a active example for society.",
-      "verb": "Learners can act this idea in society.",
-      "adverb": "Use it actively when talking about society."
+      "noun": "The votetion is important in society.",
+      "adjective": "This is a voteable case in society.",
+      "verb": "People often vote when working with society topics.",
+      "adverb": "The speaker explained it voteably in a society context."
     }
   },
   {
     "id": "society-002",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "elect",
+    "meaningVi": "nhóm từ \"elect\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "electment",
+      "adjective": "elective",
+      "verb": "elect",
+      "adverb": "electively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"electment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"elective\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"elect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"electively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in society.",
-      "adjective": "This is a adaptable example for society.",
-      "verb": "Learners can adapt this idea in society.",
-      "adverb": "Use it adaptably when talking about society."
+      "noun": "The electment is important in society.",
+      "adjective": "This is a elective case in society.",
+      "verb": "People often elect when working with society topics.",
+      "adverb": "The speaker explained it electively in a society context."
     }
   },
   {
     "id": "society-003",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "govern",
+    "meaningVi": "nhóm từ \"govern\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "governing",
+      "adjective": "governal",
+      "verb": "govern",
+      "adverb": "governally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"governing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"governal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"govern\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"governally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in society.",
-      "adjective": "This is a adjustable example for society.",
-      "verb": "Learners can adjust this idea in society.",
-      "adverb": "Use it adjustably when talking about society."
+      "noun": "The governing is important in society.",
+      "adjective": "This is a governal case in society.",
+      "verb": "People often govern when working with society topics.",
+      "adverb": "The speaker explained it governally in a society context."
     }
   },
   {
     "id": "society-004",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "legislate",
+    "meaningVi": "nhóm từ \"legislate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "legislatance",
+      "adjective": "legislatd",
+      "verb": "legislate",
+      "adverb": "legislatdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"legislatance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"legislatd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"legislate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"legislatdly\"."
     },
     "examples": {
-      "noun": "The admiration is important in society.",
-      "adjective": "This is a admirable example for society.",
-      "verb": "Learners can admire this idea in society.",
-      "adverb": "Use it admirably when talking about society."
+      "noun": "The legislatance is important in society.",
+      "adjective": "This is a legislatd case in society.",
+      "verb": "People often legislate when working with society topics.",
+      "adverb": "The speaker explained it legislatdly in a society context."
     }
   },
   {
     "id": "society-005",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "regulate",
+    "meaningVi": "nhóm từ \"regulate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "regulatence",
+      "adjective": "regulating",
+      "verb": "regulate",
+      "adverb": "regulatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"regulatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"regulating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"regulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"regulatingly\"."
     },
     "examples": {
-      "noun": "The advice is important in society.",
-      "adjective": "This is a advisable example for society.",
-      "verb": "Learners can advise this idea in society.",
-      "adverb": "Use it advisably when talking about society."
+      "noun": "The regulatence is important in society.",
+      "adjective": "This is a regulating case in society.",
+      "verb": "People often regulate when working with society topics.",
+      "adverb": "The speaker explained it regulatingly in a society context."
     }
   },
   {
     "id": "society-006",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "protest",
+    "meaningVi": "nhóm từ \"protest\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "protestal",
+      "adjective": "protestous",
+      "verb": "protest",
+      "adverb": "protestously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"protestal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"protestous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"protest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"protestously\"."
     },
     "examples": {
-      "noun": "The analysis is important in society.",
-      "adjective": "This is a analytical example for society.",
-      "verb": "Learners can analyze this idea in society.",
-      "adverb": "Use it analytically when talking about society."
+      "noun": "The protestal is important in society.",
+      "adjective": "This is a protestous case in society.",
+      "verb": "People often protest when working with society topics.",
+      "adverb": "The speaker explained it protestously in a society context."
     }
   },
   {
     "id": "society-007",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "campaign",
+    "meaningVi": "nhóm từ \"campaign\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "campaigny",
+      "adjective": "campaignary",
+      "verb": "campaign",
+      "adverb": "campaignarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"campaigny\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"campaignary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"campaign\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"campaignarily\"."
     },
     "examples": {
-      "noun": "The application is important in society.",
-      "adjective": "This is a applicable example for society.",
-      "verb": "Learners can apply this idea in society.",
-      "adverb": "Use it applicably when talking about society."
+      "noun": "The campaigny is important in society.",
+      "adjective": "This is a campaignary case in society.",
+      "verb": "People often campaign when working with society topics.",
+      "adverb": "The speaker explained it campaignarily in a society context."
     }
   },
   {
     "id": "society-008",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "advocate",
+    "meaningVi": "nhóm từ \"advocate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "advocature",
+      "adjective": "advocatic",
+      "verb": "advocate",
+      "adverb": "advocatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"advocature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"advocatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"advocate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"advocatically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in society.",
-      "adjective": "This is a arranged example for society.",
-      "verb": "Learners can arrange this idea in society.",
-      "adverb": "Use it arrangedly when talking about society."
+      "noun": "The advocature is important in society.",
+      "adjective": "This is a advocatic case in society.",
+      "verb": "People often advocate when working with society topics.",
+      "adverb": "The speaker explained it advocatically in a society context."
     }
   },
   {
     "id": "society-009",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "lobby",
+    "meaningVi": "nhóm từ \"lobby\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "lobbyage",
+      "adjective": "lobbyful",
+      "verb": "lobby",
+      "adverb": "lobbyfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lobbyage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lobbyful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lobby\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lobbyfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in society.",
-      "adjective": "This is a assessable example for society.",
-      "verb": "Learners can assess this idea in society.",
-      "adverb": "Use it assessably when talking about society."
+      "noun": "The lobbyage is important in society.",
+      "adjective": "This is a lobbyful case in society.",
+      "verb": "People often lobby when working with society topics.",
+      "adverb": "The speaker explained it lobbyfully in a society context."
     }
   },
   {
     "id": "society-010",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "represent",
+    "meaningVi": "nhóm từ \"represent\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "representity",
+      "adjective": "representant",
+      "verb": "represent",
+      "adverb": "representantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"representity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"representant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"represent\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"representantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in society.",
-      "adjective": "This is a assistant example for society.",
-      "verb": "Learners can assist this idea in society.",
-      "adverb": "Use it assistively when talking about society."
+      "noun": "The representity is important in society.",
+      "adjective": "This is a representant case in society.",
+      "verb": "People often represent when working with society topics.",
+      "adverb": "The speaker explained it representantly in a society context."
     }
   },
   {
     "id": "society-011",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "organize",
+    "meaningVi": "nhóm từ \"organize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "organiztion",
+      "adjective": "organizable",
+      "verb": "organize",
+      "adverb": "organizably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"organiztion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"organizable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"organize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"organizably\"."
     },
     "examples": {
-      "noun": "The attendance is important in society.",
-      "adjective": "This is a attentive example for society.",
-      "verb": "Learners can attend this idea in society.",
-      "adverb": "Use it attentively when talking about society."
+      "noun": "The organiztion is important in society.",
+      "adjective": "This is a organizable case in society.",
+      "verb": "People often organize when working with society topics.",
+      "adverb": "The speaker explained it organizably in a society context."
     }
   },
   {
     "id": "society-012",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "volunteer",
+    "meaningVi": "nhóm từ \"volunteer\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "volunteerment",
+      "adjective": "volunteerive",
+      "verb": "volunteer",
+      "adverb": "volunteerively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"volunteerment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"volunteerive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"volunteer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"volunteerively\"."
     },
     "examples": {
-      "noun": "The benefit is important in society.",
-      "adjective": "This is a beneficial example for society.",
-      "verb": "Learners can benefit this idea in society.",
-      "adverb": "Use it beneficially when talking about society."
+      "noun": "The volunteerment is important in society.",
+      "adjective": "This is a volunteerive case in society.",
+      "verb": "People often volunteer when working with society topics.",
+      "adverb": "The speaker explained it volunteerively in a society context."
     }
   },
   {
     "id": "society-013",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "donate",
+    "meaningVi": "nhóm từ \"donate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "donating",
+      "adjective": "donatal",
+      "verb": "donate",
+      "adverb": "donatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"donating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"donatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"donate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"donatally\"."
     },
     "examples": {
-      "noun": "The calculation is important in society.",
-      "adjective": "This is a calculable example for society.",
-      "verb": "Learners can calculate this idea in society.",
-      "adverb": "Use it calculably when talking about society."
+      "noun": "The donating is important in society.",
+      "adjective": "This is a donatal case in society.",
+      "verb": "People often donate when working with society topics.",
+      "adverb": "The speaker explained it donatally in a society context."
     }
   },
   {
     "id": "society-014",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "support",
+    "meaningVi": "nhóm từ \"support\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "supportance",
+      "adjective": "supported",
+      "verb": "support",
+      "adverb": "supportedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"supportance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"supported\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"support\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"supportedly\"."
     },
     "examples": {
-      "noun": "The care is important in society.",
-      "adjective": "This is a careful example for society.",
-      "verb": "Learners can care this idea in society.",
-      "adverb": "Use it carefully when talking about society."
+      "noun": "The supportance is important in society.",
+      "adjective": "This is a supported case in society.",
+      "verb": "People often support when working with society topics.",
+      "adverb": "The speaker explained it supportedly in a society context."
     }
   },
   {
     "id": "society-015",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "shelter",
+    "meaningVi": "nhóm từ \"shelter\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "shelterence",
+      "adjective": "sheltering",
+      "verb": "shelter",
+      "adverb": "shelteringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shelterence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sheltering\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shelter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shelteringly\"."
     },
     "examples": {
-      "noun": "The change is important in society.",
-      "adjective": "This is a changeable example for society.",
-      "verb": "Learners can change this idea in society.",
-      "adverb": "Use it changeably when talking about society."
+      "noun": "The shelterence is important in society.",
+      "adjective": "This is a sheltering case in society.",
+      "verb": "People often shelter when working with society topics.",
+      "adverb": "The speaker explained it shelteringly in a society context."
     }
   },
   {
     "id": "society-016",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "educate",
+    "meaningVi": "nhóm từ \"educate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "educatal",
+      "adjective": "educatous",
+      "verb": "educate",
+      "adverb": "educatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"educatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"educatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"educate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"educatously\"."
     },
     "examples": {
-      "noun": "The communication is important in society.",
-      "adjective": "This is a communicative example for society.",
-      "verb": "Learners can communicate this idea in society.",
-      "adverb": "Use it communicatively when talking about society."
+      "noun": "The educatal is important in society.",
+      "adjective": "This is a educatous case in society.",
+      "verb": "People often educate when working with society topics.",
+      "adverb": "The speaker explained it educatously in a society context."
     }
   },
   {
     "id": "society-017",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "employ",
+    "meaningVi": "nhóm từ \"employ\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "employy",
+      "adjective": "employary",
+      "verb": "employ",
+      "adverb": "employarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"employy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"employary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"employ\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"employarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in society.",
-      "adjective": "This is a comparative example for society.",
-      "verb": "Learners can compare this idea in society.",
-      "adverb": "Use it comparatively when talking about society."
+      "noun": "The employy is important in society.",
+      "adjective": "This is a employary case in society.",
+      "verb": "People often employ when working with society topics.",
+      "adverb": "The speaker explained it employarily in a society context."
     }
   },
   {
     "id": "society-018",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "train",
+    "meaningVi": "nhóm từ \"train\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "trainure",
+      "adjective": "trainic",
+      "verb": "train",
+      "adverb": "trainically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trainure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"trainic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"train\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trainically\"."
     },
     "examples": {
-      "noun": "The competition is important in society.",
-      "adjective": "This is a competitive example for society.",
-      "verb": "Learners can compete this idea in society.",
-      "adverb": "Use it competitively when talking about society."
+      "noun": "The trainure is important in society.",
+      "adjective": "This is a trainic case in society.",
+      "verb": "People often train when working with society topics.",
+      "adverb": "The speaker explained it trainically in a society context."
     }
   },
   {
     "id": "society-019",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "house",
+    "meaningVi": "nhóm từ \"house\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "housage",
+      "adjective": "housful",
+      "verb": "house",
+      "adverb": "housfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"housage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"housful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"house\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"housfully\"."
     },
     "examples": {
-      "noun": "The completion is important in society.",
-      "adjective": "This is a complete example for society.",
-      "verb": "Learners can complete this idea in society.",
-      "adverb": "Use it completely when talking about society."
+      "noun": "The housage is important in society.",
+      "adjective": "This is a housful case in society.",
+      "verb": "People often house when working with society topics.",
+      "adverb": "The speaker explained it housfully in a society context."
     }
   },
   {
     "id": "society-020",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "feed",
+    "meaningVi": "nhóm từ \"feed\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "feedity",
+      "adjective": "feedant",
+      "verb": "feed",
+      "adverb": "feedantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"feedity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"feedant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"feed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"feedantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in society.",
-      "adjective": "This is a concentrated example for society.",
-      "verb": "Learners can concentrate this idea in society.",
-      "adverb": "Use it concentratedly when talking about society."
+      "noun": "The feedity is important in society.",
+      "adjective": "This is a feedant case in society.",
+      "verb": "People often feed when working with society topics.",
+      "adverb": "The speaker explained it feedantly in a society context."
     }
   },
   {
     "id": "society-021",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "include",
+    "meaningVi": "nhóm từ \"include\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "includtion",
+      "adjective": "includable",
+      "verb": "include",
+      "adverb": "includably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"includtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"includable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"include\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"includably\"."
     },
     "examples": {
-      "noun": "The connection is important in society.",
-      "adjective": "This is a connected example for society.",
-      "verb": "Learners can connect this idea in society.",
-      "adverb": "Use it connectedly when talking about society."
+      "noun": "The includtion is important in society.",
+      "adjective": "This is a includable case in society.",
+      "verb": "People often include when working with society topics.",
+      "adverb": "The speaker explained it includably in a society context."
     }
   },
   {
     "id": "society-022",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "exclude",
+    "meaningVi": "nhóm từ \"exclude\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "excludment",
+      "adjective": "excludive",
+      "verb": "exclude",
+      "adverb": "excludively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"excludment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"excludive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"exclude\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"excludively\"."
     },
     "examples": {
-      "noun": "The consideration is important in society.",
-      "adjective": "This is a considerate example for society.",
-      "verb": "Learners can consider this idea in society.",
-      "adverb": "Use it considerately when talking about society."
+      "noun": "The excludment is important in society.",
+      "adjective": "This is a excludive case in society.",
+      "verb": "People often exclude when working with society topics.",
+      "adverb": "The speaker explained it excludively in a society context."
     }
   },
   {
     "id": "society-023",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "integrate",
+    "meaningVi": "nhóm từ \"integrate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "integrating",
+      "adjective": "integratal",
+      "verb": "integrate",
+      "adverb": "integratally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"integrating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"integratal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"integrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"integratally\"."
     },
     "examples": {
-      "noun": "The creation is important in society.",
-      "adjective": "This is a creative example for society.",
-      "verb": "Learners can create this idea in society.",
-      "adverb": "Use it creatively when talking about society."
+      "noun": "The integrating is important in society.",
+      "adjective": "This is a integratal case in society.",
+      "verb": "People often integrate when working with society topics.",
+      "adverb": "The speaker explained it integratally in a society context."
     }
   },
   {
     "id": "society-024",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "migrate",
+    "meaningVi": "nhóm từ \"migrate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "migratance",
+      "adjective": "migratd",
+      "verb": "migrate",
+      "adverb": "migratdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"migratance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"migratd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"migrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"migratdly\"."
     },
     "examples": {
-      "noun": "The decision is important in society.",
-      "adjective": "This is a decisive example for society.",
-      "verb": "Learners can decide this idea in society.",
-      "adverb": "Use it decisively when talking about society."
+      "noun": "The migratance is important in society.",
+      "adjective": "This is a migratd case in society.",
+      "verb": "People often migrate when working with society topics.",
+      "adverb": "The speaker explained it migratdly in a society context."
     }
   },
   {
     "id": "society-025",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "immigrate",
+    "meaningVi": "nhóm từ \"immigrate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "immigratence",
+      "adjective": "immigrating",
+      "verb": "immigrate",
+      "adverb": "immigratingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"immigratence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"immigrating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"immigrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"immigratingly\"."
     },
     "examples": {
-      "noun": "The definition is important in society.",
-      "adjective": "This is a definite example for society.",
-      "verb": "Learners can define this idea in society.",
-      "adverb": "Use it definitely when talking about society."
+      "noun": "The immigratence is important in society.",
+      "adjective": "This is a immigrating case in society.",
+      "verb": "People often immigrate when working with society topics.",
+      "adverb": "The speaker explained it immigratingly in a society context."
     }
   },
   {
     "id": "society-026",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "settle",
+    "meaningVi": "nhóm từ \"settle\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "settlal",
+      "adjective": "settlous",
+      "verb": "settle",
+      "adverb": "settlously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"settlal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"settlous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"settle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"settlously\"."
     },
     "examples": {
-      "noun": "The delivery is important in society.",
-      "adjective": "This is a deliverable example for society.",
-      "verb": "Learners can deliver this idea in society.",
-      "adverb": "Use it deliverably when talking about society."
+      "noun": "The settlal is important in society.",
+      "adjective": "This is a settlous case in society.",
+      "verb": "People often settle when working with society topics.",
+      "adverb": "The speaker explained it settlously in a society context."
     }
   },
   {
     "id": "society-027",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "police",
+    "meaningVi": "nhóm từ \"police\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "policy",
+      "adjective": "policary",
+      "verb": "police",
+      "adverb": "policarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"policy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"policary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"police\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"policarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in society.",
-      "adjective": "This is a dependent example for society.",
-      "verb": "Learners can depend this idea in society.",
-      "adverb": "Use it dependently when talking about society."
+      "noun": "The policy is important in society.",
+      "adjective": "This is a policary case in society.",
+      "verb": "People often police when working with society topics.",
+      "adverb": "The speaker explained it policarily in a society context."
     }
   },
   {
     "id": "society-028",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "patrol",
+    "meaningVi": "nhóm từ \"patrol\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "patrolure",
+      "adjective": "patrolic",
+      "verb": "patrol",
+      "adverb": "patrolically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"patrolure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"patrolic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"patrol\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"patrolically\"."
     },
     "examples": {
-      "noun": "The description is important in society.",
-      "adjective": "This is a descriptive example for society.",
-      "verb": "Learners can describe this idea in society.",
-      "adverb": "Use it descriptively when talking about society."
+      "noun": "The patrolure is important in society.",
+      "adjective": "This is a patrolic case in society.",
+      "verb": "People often patrol when working with society topics.",
+      "adverb": "The speaker explained it patrolically in a society context."
     }
   },
   {
     "id": "society-029",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "investigate",
+    "meaningVi": "nhóm từ \"investigate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "investigatage",
+      "adjective": "investigatful",
+      "verb": "investigate",
+      "adverb": "investigatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"investigatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"investigatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"investigate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"investigatfully\"."
     },
     "examples": {
-      "noun": "The design is important in society.",
-      "adjective": "This is a designed example for society.",
-      "verb": "Learners can design this idea in society.",
-      "adverb": "Use it designedly when talking about society."
+      "noun": "The investigatage is important in society.",
+      "adjective": "This is a investigatful case in society.",
+      "verb": "People often investigate when working with society topics.",
+      "adverb": "The speaker explained it investigatfully in a society context."
     }
   },
   {
     "id": "society-030",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "arrest",
+    "meaningVi": "nhóm từ \"arrest\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "arrestity",
+      "adjective": "arrestant",
+      "verb": "arrest",
+      "adverb": "arrestantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"arrestity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"arrestant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"arrest\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"arrestantly\"."
     },
     "examples": {
-      "noun": "The development is important in society.",
-      "adjective": "This is a developed example for society.",
-      "verb": "Learners can develop this idea in society.",
-      "adverb": "Use it developmentally when talking about society."
+      "noun": "The arrestity is important in society.",
+      "adjective": "This is a arrestant case in society.",
+      "verb": "People often arrest when working with society topics.",
+      "adverb": "The speaker explained it arrestantly in a society context."
     }
   },
   {
     "id": "society-031",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "prosecute",
+    "meaningVi": "nhóm từ \"prosecute\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "prosecuttion",
+      "adjective": "prosecutable",
+      "verb": "prosecute",
+      "adverb": "prosecutably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prosecuttion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prosecutable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prosecute\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prosecutably\"."
     },
     "examples": {
-      "noun": "The difference is important in society.",
-      "adjective": "This is a different example for society.",
-      "verb": "Learners can differ this idea in society.",
-      "adverb": "Use it differently when talking about society."
+      "noun": "The prosecuttion is important in society.",
+      "adjective": "This is a prosecutable case in society.",
+      "verb": "People often prosecute when working with society topics.",
+      "adverb": "The speaker explained it prosecutably in a society context."
     }
   },
   {
     "id": "society-032",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "defend",
+    "meaningVi": "nhóm từ \"defend\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "defendment",
+      "adjective": "defendive",
+      "verb": "defend",
+      "adverb": "defendively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"defendment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"defendive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"defend\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"defendively\"."
     },
     "examples": {
-      "noun": "The discussion is important in society.",
-      "adjective": "This is a discussable example for society.",
-      "verb": "Learners can discuss this idea in society.",
-      "adverb": "Use it discussably when talking about society."
+      "noun": "The defendment is important in society.",
+      "adjective": "This is a defendive case in society.",
+      "verb": "People often defend when working with society topics.",
+      "adverb": "The speaker explained it defendively in a society context."
     }
   },
   {
     "id": "society-033",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "sentence",
+    "meaningVi": "nhóm từ \"sentence\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "sentencing",
+      "adjective": "sentencal",
+      "verb": "sentence",
+      "adverb": "sentencally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sentencing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sentencal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sentence\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sentencally\"."
     },
     "examples": {
-      "noun": "The education is important in society.",
-      "adjective": "This is a educational example for society.",
-      "verb": "Learners can educate this idea in society.",
-      "adverb": "Use it educationally when talking about society."
+      "noun": "The sentencing is important in society.",
+      "adjective": "This is a sentencal case in society.",
+      "verb": "People often sentence when working with society topics.",
+      "adverb": "The speaker explained it sentencally in a society context."
     }
   },
   {
     "id": "society-034",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "pardon",
+    "meaningVi": "nhóm từ \"pardon\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "pardonance",
+      "adjective": "pardoned",
+      "verb": "pardon",
+      "adverb": "pardonedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pardonance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pardoned\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pardon\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pardonedly\"."
     },
     "examples": {
-      "noun": "The effect is important in society.",
-      "adjective": "This is a effective example for society.",
-      "verb": "Learners can effect this idea in society.",
-      "adverb": "Use it effectively when talking about society."
+      "noun": "The pardonance is important in society.",
+      "adjective": "This is a pardoned case in society.",
+      "verb": "People often pardon when working with society topics.",
+      "adverb": "The speaker explained it pardonedly in a society context."
     }
   },
   {
     "id": "society-035",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "mediate",
+    "meaningVi": "nhóm từ \"mediate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "mediatence",
+      "adjective": "mediating",
+      "verb": "mediate",
+      "adverb": "mediatingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mediatence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mediating\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mediate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mediatingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in society.",
-      "adjective": "This is a emphatic example for society.",
-      "verb": "Learners can emphasize this idea in society.",
-      "adverb": "Use it emphatically when talking about society."
+      "noun": "The mediatence is important in society.",
+      "adjective": "This is a mediating case in society.",
+      "verb": "People often mediate when working with society topics.",
+      "adverb": "The speaker explained it mediatingly in a society context."
     }
   },
   {
     "id": "society-036",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "reconcile",
+    "meaningVi": "nhóm từ \"reconcile\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "reconcilal",
+      "adjective": "reconcilous",
+      "verb": "reconcile",
+      "adverb": "reconcilously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reconcilal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reconcilous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reconcile\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reconcilously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in society.",
-      "adjective": "This is a encouraging example for society.",
-      "verb": "Learners can encourage this idea in society.",
-      "adverb": "Use it encouragingly when talking about society."
+      "noun": "The reconcilal is important in society.",
+      "adjective": "This is a reconcilous case in society.",
+      "verb": "People often reconcile when working with society topics.",
+      "adverb": "The speaker explained it reconcilously in a society context."
     }
   },
   {
     "id": "society-037",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "negotiate",
+    "meaningVi": "nhóm từ \"negotiate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "negotiaty",
+      "adjective": "negotiatary",
+      "verb": "negotiate",
+      "adverb": "negotiatarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"negotiaty\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"negotiatary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"negotiate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"negotiatarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in society.",
-      "adjective": "This is a enjoyable example for society.",
-      "verb": "Learners can enjoy this idea in society.",
-      "adverb": "Use it enjoyably when talking about society."
+      "noun": "The negotiaty is important in society.",
+      "adjective": "This is a negotiatary case in society.",
+      "verb": "People often negotiate when working with society topics.",
+      "adverb": "The speaker explained it negotiatarily in a society context."
     }
   },
   {
     "id": "society-038",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "celebrate",
+    "meaningVi": "nhóm từ \"celebrate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "celebrature",
+      "adjective": "celebratic",
+      "verb": "celebrate",
+      "adverb": "celebratically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"celebrature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"celebratic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"celebrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"celebratically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in society.",
-      "adjective": "This is a evaluative example for society.",
-      "verb": "Learners can evaluate this idea in society.",
-      "adverb": "Use it evaluatively when talking about society."
+      "noun": "The celebrature is important in society.",
+      "adjective": "This is a celebratic case in society.",
+      "verb": "People often celebrate when working with society topics.",
+      "adverb": "The speaker explained it celebratically in a society context."
     }
   },
   {
     "id": "society-039",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "worship",
+    "meaningVi": "nhóm từ \"worship\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "worshipage",
+      "adjective": "worshipful",
+      "verb": "worship",
+      "adverb": "worshipfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"worshipage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"worshipful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"worship\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"worshipfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in society.",
-      "adjective": "This is a explanatory example for society.",
-      "verb": "Learners can explain this idea in society.",
-      "adverb": "Use it explanatorily when talking about society."
+      "noun": "The worshipage is important in society.",
+      "adjective": "This is a worshipful case in society.",
+      "verb": "People often worship when working with society topics.",
+      "adverb": "The speaker explained it worshipfully in a society context."
     }
   },
   {
     "id": "society-040",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "mourn",
+    "meaningVi": "nhóm từ \"mourn\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "mournity",
+      "adjective": "mournant",
+      "verb": "mourn",
+      "adverb": "mournantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mournity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mournant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mourn\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mournantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in society.",
-      "adjective": "This is a exploratory example for society.",
-      "verb": "Learners can explore this idea in society.",
-      "adverb": "Use it exploratorily when talking about society."
+      "noun": "The mournity is important in society.",
+      "adjective": "This is a mournant case in society.",
+      "verb": "People often mourn when working with society topics.",
+      "adverb": "The speaker explained it mournantly in a society context."
     }
   },
   {
     "id": "society-041",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "marry",
+    "meaningVi": "nhóm từ \"marry\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "marrytion",
+      "adjective": "marryable",
+      "verb": "marry",
+      "adverb": "marryably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"marrytion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"marryable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"marry\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"marryably\"."
     },
     "examples": {
-      "noun": "The expression is important in society.",
-      "adjective": "This is a expressive example for society.",
-      "verb": "Learners can express this idea in society.",
-      "adverb": "Use it expressively when talking about society."
+      "noun": "The marrytion is important in society.",
+      "adjective": "This is a marryable case in society.",
+      "verb": "People often marry when working with society topics.",
+      "adverb": "The speaker explained it marryably in a society context."
     }
   },
   {
     "id": "society-042",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "divorce",
+    "meaningVi": "nhóm từ \"divorce\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "divorcment",
+      "adjective": "divorcive",
+      "verb": "divorce",
+      "adverb": "divorcively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"divorcment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"divorcive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"divorce\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"divorcively\"."
     },
     "examples": {
-      "noun": "The failure is important in society.",
-      "adjective": "This is a failed example for society.",
-      "verb": "Learners can fail this idea in society.",
-      "adverb": "Use it failingly when talking about society."
+      "noun": "The divorcment is important in society.",
+      "adjective": "This is a divorcive case in society.",
+      "verb": "People often divorce when working with society topics.",
+      "adverb": "The speaker explained it divorcively in a society context."
     }
   },
   {
     "id": "society-043",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "adopt",
+    "meaningVi": "nhóm từ \"adopt\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "adopting",
+      "adjective": "adoptal",
+      "verb": "adopt",
+      "adverb": "adoptally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"adopting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"adoptal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"adopt\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"adoptally\"."
     },
     "examples": {
-      "noun": "The focus is important in society.",
-      "adjective": "This is a focused example for society.",
-      "verb": "Learners can focus this idea in society.",
-      "adverb": "Use it focusedly when talking about society."
+      "noun": "The adopting is important in society.",
+      "adjective": "This is a adoptal case in society.",
+      "verb": "People often adopt when working with society topics.",
+      "adverb": "The speaker explained it adoptally in a society context."
     }
   },
   {
     "id": "society-044",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "parent",
+    "meaningVi": "nhóm từ \"parent\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "parentance",
+      "adjective": "parented",
+      "verb": "parent",
+      "adverb": "parentedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"parentance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"parented\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"parent\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"parentedly\"."
     },
     "examples": {
-      "noun": "The growth is important in society.",
-      "adjective": "This is a growing example for society.",
-      "verb": "Learners can grow this idea in society.",
-      "adverb": "Use it growingly when talking about society."
+      "noun": "The parentance is important in society.",
+      "adjective": "This is a parented case in society.",
+      "verb": "People often parent when working with society topics.",
+      "adverb": "The speaker explained it parentedly in a society context."
     }
   },
   {
     "id": "society-045",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "socialize",
+    "meaningVi": "nhóm từ \"socialize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "socializence",
+      "adjective": "socializing",
+      "verb": "socialize",
+      "adverb": "socializingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"socializence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"socializing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"socialize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"socializingly\"."
     },
     "examples": {
-      "noun": "The help is important in society.",
-      "adjective": "This is a helpful example for society.",
-      "verb": "Learners can help this idea in society.",
-      "adverb": "Use it helpfully when talking about society."
+      "noun": "The socializence is important in society.",
+      "adjective": "This is a socializing case in society.",
+      "verb": "People often socialize when working with society topics.",
+      "adverb": "The speaker explained it socializingly in a society context."
     }
   },
   {
     "id": "society-046",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "communicate",
+    "meaningVi": "nhóm từ \"communicate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "communicatal",
+      "adjective": "communicatous",
+      "verb": "communicate",
+      "adverb": "communicatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"communicatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"communicatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"communicate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"communicatously\"."
     },
     "examples": {
-      "noun": "The identification is important in society.",
-      "adjective": "This is a identifiable example for society.",
-      "verb": "Learners can identify this idea in society.",
-      "adverb": "Use it identifiably when talking about society."
+      "noun": "The communicatal is important in society.",
+      "adjective": "This is a communicatous case in society.",
+      "verb": "People often communicate when working with society topics.",
+      "adverb": "The speaker explained it communicatously in a society context."
     }
   },
   {
     "id": "society-047",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "network",
+    "meaningVi": "nhóm từ \"network\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "networky",
+      "adjective": "networkary",
+      "verb": "network",
+      "adverb": "networkarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"networky\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"networkary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"network\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"networkarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in society.",
-      "adjective": "This is a imaginative example for society.",
-      "verb": "Learners can imagine this idea in society.",
-      "adverb": "Use it imaginatively when talking about society."
+      "noun": "The networky is important in society.",
+      "adjective": "This is a networkary case in society.",
+      "verb": "People often network when working with society topics.",
+      "adverb": "The speaker explained it networkarily in a society context."
     }
   },
   {
     "id": "society-048",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "publish",
+    "meaningVi": "nhóm từ \"publish\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "publishure",
+      "adjective": "publishic",
+      "verb": "publish",
+      "adverb": "publishically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"publishure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"publishic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"publish\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"publishically\"."
     },
     "examples": {
-      "noun": "The improvement is important in society.",
-      "adjective": "This is a improved example for society.",
-      "verb": "Learners can improve this idea in society.",
-      "adverb": "Use it improvingly when talking about society."
+      "noun": "The publishure is important in society.",
+      "adjective": "This is a publishic case in society.",
+      "verb": "People often publish when working with society topics.",
+      "adverb": "The speaker explained it publishically in a society context."
     }
   },
   {
     "id": "society-049",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "broadcast",
+    "meaningVi": "nhóm từ \"broadcast\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "broadcastage",
+      "adjective": "broadcastful",
+      "verb": "broadcast",
+      "adverb": "broadcastfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"broadcastage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"broadcastful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"broadcast\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"broadcastfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in society.",
-      "adjective": "This is a inclusive example for society.",
-      "verb": "Learners can include this idea in society.",
-      "adverb": "Use it inclusively when talking about society."
+      "noun": "The broadcastage is important in society.",
+      "adjective": "This is a broadcastful case in society.",
+      "verb": "People often broadcast when working with society topics.",
+      "adverb": "The speaker explained it broadcastfully in a society context."
     }
   },
   {
     "id": "society-050",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "report",
+    "meaningVi": "nhóm từ \"report\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "reportity",
+      "adjective": "reportant",
+      "verb": "report",
+      "adverb": "reportantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reportity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reportant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"report\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reportantly\"."
     },
     "examples": {
-      "noun": "The information is important in society.",
-      "adjective": "This is a informative example for society.",
-      "verb": "Learners can inform this idea in society.",
-      "adverb": "Use it informatively when talking about society."
+      "noun": "The reportity is important in society.",
+      "adjective": "This is a reportant case in society.",
+      "verb": "People often report when working with society topics.",
+      "adverb": "The speaker explained it reportantly in a society context."
     }
   },
   {
     "id": "society-051",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "censor",
+    "meaningVi": "nhóm từ \"censor\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "censortion",
+      "adjective": "censorable",
+      "verb": "censor",
+      "adverb": "censorably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"censortion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"censorable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"censor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"censorably\"."
     },
     "examples": {
-      "noun": "The innovation is important in society.",
-      "adjective": "This is a innovative example for society.",
-      "verb": "Learners can innovate this idea in society.",
-      "adverb": "Use it innovatively when talking about society."
+      "noun": "The censortion is important in society.",
+      "adjective": "This is a censorable case in society.",
+      "verb": "People often censor when working with society topics.",
+      "adverb": "The speaker explained it censorably in a society context."
     }
   },
   {
     "id": "society-052",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "debate",
+    "meaningVi": "nhóm từ \"debate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "debatment",
+      "adjective": "debative",
+      "verb": "debate",
+      "adverb": "debatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"debatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"debative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"debate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"debatively\"."
     },
     "examples": {
-      "noun": "The instruction is important in society.",
-      "adjective": "This is a instructive example for society.",
-      "verb": "Learners can instruct this idea in society.",
-      "adverb": "Use it instructively when talking about society."
+      "noun": "The debatment is important in society.",
+      "adjective": "This is a debative case in society.",
+      "verb": "People often debate when working with society topics.",
+      "adverb": "The speaker explained it debatively in a society context."
     }
   },
   {
     "id": "society-053",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "discriminate",
+    "meaningVi": "nhóm từ \"discriminate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "discriminating",
+      "adjective": "discriminatal",
+      "verb": "discriminate",
+      "adverb": "discriminatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"discriminating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"discriminatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"discriminate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"discriminatally\"."
     },
     "examples": {
-      "noun": "The interaction is important in society.",
-      "adjective": "This is a interactive example for society.",
-      "verb": "Learners can interact this idea in society.",
-      "adverb": "Use it interactively when talking about society."
+      "noun": "The discriminating is important in society.",
+      "adjective": "This is a discriminatal case in society.",
+      "verb": "People often discriminate when working with society topics.",
+      "adverb": "The speaker explained it discriminatally in a society context."
     }
   },
   {
     "id": "society-054",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "tolerate",
+    "meaningVi": "nhóm từ \"tolerate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "toleratance",
+      "adjective": "toleratd",
+      "verb": "tolerate",
+      "adverb": "toleratdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"toleratance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"toleratd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tolerate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"toleratdly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in society.",
-      "adjective": "This is a interpretive example for society.",
-      "verb": "Learners can interpret this idea in society.",
-      "adverb": "Use it interpretively when talking about society."
+      "noun": "The toleratance is important in society.",
+      "adjective": "This is a toleratd case in society.",
+      "verb": "People often tolerate when working with society topics.",
+      "adverb": "The speaker explained it toleratdly in a society context."
     }
   },
   {
     "id": "society-055",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "empower",
+    "meaningVi": "nhóm từ \"empower\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "empowerence",
+      "adjective": "empowering",
+      "verb": "empower",
+      "adverb": "empoweringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"empowerence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"empowering\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"empower\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"empoweringly\"."
     },
     "examples": {
-      "noun": "The learning is important in society.",
-      "adjective": "This is a learned example for society.",
-      "verb": "Learners can learn this idea in society.",
-      "adverb": "Use it learnedly when talking about society."
+      "noun": "The empowerence is important in society.",
+      "adjective": "This is a empowering case in society.",
+      "verb": "People often empower when working with society topics.",
+      "adverb": "The speaker explained it empoweringly in a society context."
     }
   },
   {
     "id": "society-056",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "marginalize",
+    "meaningVi": "nhóm từ \"marginalize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "marginalizal",
+      "adjective": "marginalizous",
+      "verb": "marginalize",
+      "adverb": "marginalizously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"marginalizal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"marginalizous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"marginalize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"marginalizously\"."
     },
     "examples": {
-      "noun": "The management is important in society.",
-      "adjective": "This is a manageable example for society.",
-      "verb": "Learners can manage this idea in society.",
-      "adverb": "Use it manageably when talking about society."
+      "noun": "The marginalizal is important in society.",
+      "adjective": "This is a marginalizous case in society.",
+      "verb": "People often marginalize when working with society topics.",
+      "adverb": "The speaker explained it marginalizously in a society context."
     }
   },
   {
     "id": "society-057",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "urbanize",
+    "meaningVi": "nhóm từ \"urbanize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "urbanizy",
+      "adjective": "urbanizary",
+      "verb": "urbanize",
+      "adverb": "urbanizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"urbanizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"urbanizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"urbanize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"urbanizarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in society.",
-      "adjective": "This is a measurable example for society.",
-      "verb": "Learners can measure this idea in society.",
-      "adverb": "Use it measurably when talking about society."
+      "noun": "The urbanizy is important in society.",
+      "adjective": "This is a urbanizary case in society.",
+      "verb": "People often urbanize when working with society topics.",
+      "adverb": "The speaker explained it urbanizarily in a society context."
     }
   },
   {
     "id": "society-058",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "gentrify",
+    "meaningVi": "nhóm từ \"gentrify\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "gentrifyure",
+      "adjective": "gentrifyic",
+      "verb": "gentrify",
+      "adverb": "gentrifyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"gentrifyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"gentrifyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"gentrify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"gentrifyically\"."
     },
     "examples": {
-      "noun": "The motivation is important in society.",
-      "adjective": "This is a motivated example for society.",
-      "verb": "Learners can motivate this idea in society.",
-      "adverb": "Use it motivationally when talking about society."
+      "noun": "The gentrifyure is important in society.",
+      "adjective": "This is a gentrifyic case in society.",
+      "verb": "People often gentrify when working with society topics.",
+      "adverb": "The speaker explained it gentrifyically in a society context."
     }
   },
   {
     "id": "society-059",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "relocate",
+    "meaningVi": "nhóm từ \"relocate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "relocatage",
+      "adjective": "relocatful",
+      "verb": "relocate",
+      "adverb": "relocatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"relocatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"relocatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"relocate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"relocatfully\"."
     },
     "examples": {
-      "noun": "The movement is important in society.",
-      "adjective": "This is a movable example for society.",
-      "verb": "Learners can move this idea in society.",
-      "adverb": "Use it movably when talking about society."
+      "noun": "The relocatage is important in society.",
+      "adjective": "This is a relocatful case in society.",
+      "verb": "People often relocate when working with society topics.",
+      "adverb": "The speaker explained it relocatfully in a society context."
     }
   },
   {
     "id": "society-060",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "survey",
+    "meaningVi": "nhóm từ \"survey\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "surveyity",
+      "adjective": "surveyant",
+      "verb": "survey",
+      "adverb": "surveyantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"surveyity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"surveyant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"survey\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"surveyantly\"."
     },
     "examples": {
-      "noun": "The observation is important in society.",
-      "adjective": "This is a observant example for society.",
-      "verb": "Learners can observe this idea in society.",
-      "adverb": "Use it observantly when talking about society."
+      "noun": "The surveyity is important in society.",
+      "adjective": "This is a surveyant case in society.",
+      "verb": "People often survey when working with society topics.",
+      "adverb": "The speaker explained it surveyantly in a society context."
     }
   },
   {
     "id": "society-061",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "census",
+    "meaningVi": "nhóm từ \"census\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "censustion",
+      "adjective": "censusable",
+      "verb": "census",
+      "adverb": "censusably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"censustion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"censusable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"census\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"censusably\"."
     },
     "examples": {
-      "noun": "The organization is important in society.",
-      "adjective": "This is a organized example for society.",
-      "verb": "Learners can organize this idea in society.",
-      "adverb": "Use it organizationally when talking about society."
+      "noun": "The censustion is important in society.",
+      "adjective": "This is a censusable case in society.",
+      "verb": "People often census when working with society topics.",
+      "adverb": "The speaker explained it censusably in a society context."
     }
   },
   {
     "id": "society-062",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "register",
+    "meaningVi": "nhóm từ \"register\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "registerment",
+      "adjective": "registerive",
+      "verb": "register",
+      "adverb": "registerively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"registerment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"registerive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"register\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"registerively\"."
     },
     "examples": {
-      "noun": "The participation is important in society.",
-      "adjective": "This is a participatory example for society.",
-      "verb": "Learners can participate this idea in society.",
-      "adverb": "Use it participatively when talking about society."
+      "noun": "The registerment is important in society.",
+      "adjective": "This is a registerive case in society.",
+      "verb": "People often register when working with society topics.",
+      "adverb": "The speaker explained it registerively in a society context."
     }
   },
   {
     "id": "society-063",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "tax",
+    "meaningVi": "nhóm từ \"tax\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "taxing",
+      "adjective": "taxal",
+      "verb": "tax",
+      "adverb": "taxally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"taxing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"taxal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tax\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"taxally\"."
     },
     "examples": {
-      "noun": "The performance is important in society.",
-      "adjective": "This is a performative example for society.",
-      "verb": "Learners can perform this idea in society.",
-      "adverb": "Use it performatively when talking about society."
+      "noun": "The taxing is important in society.",
+      "adjective": "This is a taxal case in society.",
+      "verb": "People often tax when working with society topics.",
+      "adverb": "The speaker explained it taxally in a society context."
     }
   },
   {
     "id": "society-064",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "subsidize",
+    "meaningVi": "nhóm từ \"subsidize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "subsidizance",
+      "adjective": "subsidizd",
+      "verb": "subsidize",
+      "adverb": "subsidizdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"subsidizance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"subsidizd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"subsidize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"subsidizdly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in society.",
-      "adjective": "This is a persuasive example for society.",
-      "verb": "Learners can persuade this idea in society.",
-      "adverb": "Use it persuasively when talking about society."
+      "noun": "The subsidizance is important in society.",
+      "adjective": "This is a subsidizd case in society.",
+      "verb": "People often subsidize when working with society topics.",
+      "adverb": "The speaker explained it subsidizdly in a society context."
     }
   },
   {
     "id": "society-065",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "insure",
+    "meaningVi": "nhóm từ \"insure\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "insurence",
+      "adjective": "insuring",
+      "verb": "insure",
+      "adverb": "insuringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"insurence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"insuring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"insure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"insuringly\"."
     },
     "examples": {
-      "noun": "The plan is important in society.",
-      "adjective": "This is a planned example for society.",
-      "verb": "Learners can plan this idea in society.",
-      "adverb": "Use it plannedly when talking about society."
+      "noun": "The insurence is important in society.",
+      "adjective": "This is a insuring case in society.",
+      "verb": "People often insure when working with society topics.",
+      "adverb": "The speaker explained it insuringly in a society context."
     }
   },
   {
     "id": "society-066",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "assist",
+    "meaningVi": "nhóm từ \"assist\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "assistal",
+      "adjective": "assistous",
+      "verb": "assist",
+      "adverb": "assistously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"assistal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"assistous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"assist\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"assistously\"."
     },
     "examples": {
-      "noun": "The prediction is important in society.",
-      "adjective": "This is a predictable example for society.",
-      "verb": "Learners can predict this idea in society.",
-      "adverb": "Use it predictably when talking about society."
+      "noun": "The assistal is important in society.",
+      "adjective": "This is a assistous case in society.",
+      "verb": "People often assist when working with society topics.",
+      "adverb": "The speaker explained it assistously in a society context."
     }
   },
   {
     "id": "society-067",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "counsel",
+    "meaningVi": "nhóm từ \"counsel\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "counsely",
+      "adjective": "counselary",
+      "verb": "counsel",
+      "adverb": "counselarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"counsely\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"counselary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"counsel\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"counselarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in society.",
-      "adjective": "This is a prepared example for society.",
-      "verb": "Learners can prepare this idea in society.",
-      "adverb": "Use it preparedly when talking about society."
+      "noun": "The counsely is important in society.",
+      "adjective": "This is a counselary case in society.",
+      "verb": "People often counsel when working with society topics.",
+      "adverb": "The speaker explained it counselarily in a society context."
     }
   },
   {
     "id": "society-068",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "rehabilitate",
+    "meaningVi": "nhóm từ \"rehabilitate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "rehabilitature",
+      "adjective": "rehabilitatic",
+      "verb": "rehabilitate",
+      "adverb": "rehabilitatically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rehabilitature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rehabilitatic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rehabilitate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rehabilitatically\"."
     },
     "examples": {
-      "noun": "The presentation is important in society.",
-      "adjective": "This is a presentable example for society.",
-      "verb": "Learners can present this idea in society.",
-      "adverb": "Use it presentably when talking about society."
+      "noun": "The rehabilitature is important in society.",
+      "adjective": "This is a rehabilitatic case in society.",
+      "verb": "People often rehabilitate when working with society topics.",
+      "adverb": "The speaker explained it rehabilitatically in a society context."
     }
   },
   {
     "id": "society-069",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "resettle",
+    "meaningVi": "nhóm từ \"resettle\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "resettlage",
+      "adjective": "resettlful",
+      "verb": "resettle",
+      "adverb": "resettlfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"resettlage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"resettlful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"resettle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"resettlfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in society.",
-      "adjective": "This is a preventive example for society.",
-      "verb": "Learners can prevent this idea in society.",
-      "adverb": "Use it preventively when talking about society."
+      "noun": "The resettlage is important in society.",
+      "adjective": "This is a resettlful case in society.",
+      "verb": "People often resettle when working with society topics.",
+      "adverb": "The speaker explained it resettlfully in a society context."
     }
   },
   {
     "id": "society-070",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "unionize",
+    "meaningVi": "nhóm từ \"unionize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "unionizity",
+      "adjective": "unionizant",
+      "verb": "unionize",
+      "adverb": "unionizantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"unionizity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"unionizant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"unionize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"unionizantly\"."
     },
     "examples": {
-      "noun": "The production is important in society.",
-      "adjective": "This is a productive example for society.",
-      "verb": "Learners can produce this idea in society.",
-      "adverb": "Use it productively when talking about society."
+      "noun": "The unionizity is important in society.",
+      "adjective": "This is a unionizant case in society.",
+      "verb": "People often unionize when working with society topics.",
+      "adverb": "The speaker explained it unionizantly in a society context."
     }
   },
   {
     "id": "society-071",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "strike",
+    "meaningVi": "nhóm từ \"strike\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "striktion",
+      "adjective": "strikable",
+      "verb": "strike",
+      "adverb": "strikably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"striktion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"strikable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"strike\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"strikably\"."
     },
     "examples": {
-      "noun": "The protection is important in society.",
-      "adjective": "This is a protective example for society.",
-      "verb": "Learners can protect this idea in society.",
-      "adverb": "Use it protectively when talking about society."
+      "noun": "The striktion is important in society.",
+      "adjective": "This is a strikable case in society.",
+      "verb": "People often strike when working with society topics.",
+      "adverb": "The speaker explained it strikably in a society context."
     }
   },
   {
     "id": "society-072",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "bargain",
+    "meaningVi": "nhóm từ \"bargain\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "bargainment",
+      "adjective": "bargainive",
+      "verb": "bargain",
+      "adverb": "bargainively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bargainment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bargainive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bargain\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bargainively\"."
     },
     "examples": {
-      "noun": "The question is important in society.",
-      "adjective": "This is a questionable example for society.",
-      "verb": "Learners can question this idea in society.",
-      "adverb": "Use it questionably when talking about society."
+      "noun": "The bargainment is important in society.",
+      "adjective": "This is a bargainive case in society.",
+      "verb": "People often bargain when working with society topics.",
+      "adverb": "The speaker explained it bargainively in a society context."
     }
   },
   {
     "id": "society-073",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "petition",
+    "meaningVi": "nhóm từ \"petition\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "petitioning",
+      "adjective": "petitional",
+      "verb": "petition",
+      "adverb": "petitionally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"petitioning\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"petitional\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"petition\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"petitionally\"."
     },
     "examples": {
-      "noun": "The reaction is important in society.",
-      "adjective": "This is a reactive example for society.",
-      "verb": "Learners can react this idea in society.",
-      "adverb": "Use it reactively when talking about society."
+      "noun": "The petitioning is important in society.",
+      "adjective": "This is a petitional case in society.",
+      "verb": "People often petition when working with society topics.",
+      "adverb": "The speaker explained it petitionally in a society context."
     }
   },
   {
     "id": "society-074",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "reform",
+    "meaningVi": "nhóm từ \"reform\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "reformance",
+      "adjective": "reformed",
+      "verb": "reform",
+      "adverb": "reformedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"reformance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"reformed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"reform\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"reformedly\"."
     },
     "examples": {
-      "noun": "The recognition is important in society.",
-      "adjective": "This is a recognizable example for society.",
-      "verb": "Learners can recognize this idea in society.",
-      "adverb": "Use it recognizably when talking about society."
+      "noun": "The reformance is important in society.",
+      "adjective": "This is a reformed case in society.",
+      "verb": "People often reform when working with society topics.",
+      "adverb": "The speaker explained it reformedly in a society context."
     }
   },
   {
     "id": "society-075",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "democratize",
+    "meaningVi": "nhóm từ \"democratize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "democratizence",
+      "adjective": "democratizing",
+      "verb": "democratize",
+      "adverb": "democratizingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"democratizence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"democratizing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"democratize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"democratizingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in society.",
-      "adjective": "This is a recommendable example for society.",
-      "verb": "Learners can recommend this idea in society.",
-      "adverb": "Use it recommendably when talking about society."
+      "noun": "The democratizence is important in society.",
+      "adjective": "This is a democratizing case in society.",
+      "verb": "People often democratize when working with society topics.",
+      "adverb": "The speaker explained it democratizingly in a society context."
     }
   },
   {
     "id": "society-076",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "centralize",
+    "meaningVi": "nhóm từ \"centralize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "centralizal",
+      "adjective": "centralizous",
+      "verb": "centralize",
+      "adverb": "centralizously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"centralizal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"centralizous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"centralize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"centralizously\"."
     },
     "examples": {
-      "noun": "The reduction is important in society.",
-      "adjective": "This is a reduced example for society.",
-      "verb": "Learners can reduce this idea in society.",
-      "adverb": "Use it reductively when talking about society."
+      "noun": "The centralizal is important in society.",
+      "adjective": "This is a centralizous case in society.",
+      "verb": "People often centralize when working with society topics.",
+      "adverb": "The speaker explained it centralizously in a society context."
     }
   },
   {
     "id": "society-077",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "decentralize",
+    "meaningVi": "nhóm từ \"decentralize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "decentralizy",
+      "adjective": "decentralizary",
+      "verb": "decentralize",
+      "adverb": "decentralizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decentralizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decentralizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decentralize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decentralizarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in society.",
-      "adjective": "This is a reflective example for society.",
-      "verb": "Learners can reflect this idea in society.",
-      "adverb": "Use it reflectively when talking about society."
+      "noun": "The decentralizy is important in society.",
+      "adjective": "This is a decentralizary case in society.",
+      "verb": "People often decentralize when working with society topics.",
+      "adverb": "The speaker explained it decentralizarily in a society context."
     }
   },
   {
     "id": "society-078",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "mobilize",
+    "meaningVi": "nhóm từ \"mobilize\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "mobilizure",
+      "adjective": "mobilizic",
+      "verb": "mobilize",
+      "adverb": "mobilizically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mobilizure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mobilizic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"mobilize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mobilizically\"."
     },
     "examples": {
-      "noun": "The relation is important in society.",
-      "adjective": "This is a related example for society.",
-      "verb": "Learners can relate this idea in society.",
-      "adverb": "Use it relatedly when talking about society."
+      "noun": "The mobilizure is important in society.",
+      "adjective": "This is a mobilizic case in society.",
+      "verb": "People often mobilize when working with society topics.",
+      "adverb": "The speaker explained it mobilizically in a society context."
     }
   },
   {
     "id": "society-079",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "coordinate",
+    "meaningVi": "nhóm từ \"coordinate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "coordinatage",
+      "adjective": "coordinatful",
+      "verb": "coordinate",
+      "adverb": "coordinatfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"coordinatage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"coordinatful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"coordinate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"coordinatfully\"."
     },
     "examples": {
-      "noun": "The memory is important in society.",
-      "adjective": "This is a memorable example for society.",
-      "verb": "Learners can remember this idea in society.",
-      "adverb": "Use it memorably when talking about society."
+      "noun": "The coordinatage is important in society.",
+      "adjective": "This is a coordinatful case in society.",
+      "verb": "People often coordinate when working with society topics.",
+      "adverb": "The speaker explained it coordinatfully in a society context."
     }
   },
   {
     "id": "society-080",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "collaborate",
+    "meaningVi": "nhóm từ \"collaborate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "collaboratity",
+      "adjective": "collaboratant",
+      "verb": "collaborate",
+      "adverb": "collaboratantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"collaboratity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"collaboratant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"collaborate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"collaboratantly\"."
     },
     "examples": {
-      "noun": "The repair is important in society.",
-      "adjective": "This is a repairable example for society.",
-      "verb": "Learners can repair this idea in society.",
-      "adverb": "Use it repairably when talking about society."
+      "noun": "The collaboratity is important in society.",
+      "adjective": "This is a collaboratant case in society.",
+      "verb": "People often collaborate when working with society topics.",
+      "adverb": "The speaker explained it collaboratantly in a society context."
     }
   },
   {
     "id": "society-081",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "commemorate",
+    "meaningVi": "nhóm từ \"commemorate\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "commemorattion",
+      "adjective": "commemoratable",
+      "verb": "commemorate",
+      "adverb": "commemoratably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"commemorattion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"commemoratable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"commemorate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"commemoratably\"."
     },
     "examples": {
-      "noun": "The research is important in society.",
-      "adjective": "This is a researchable example for society.",
-      "verb": "Learners can research this idea in society.",
-      "adverb": "Use it researchably when talking about society."
+      "noun": "The commemorattion is important in society.",
+      "adjective": "This is a commemoratable case in society.",
+      "verb": "People often commemorate when working with society topics.",
+      "adverb": "The speaker explained it commemoratably in a society context."
     }
   },
   {
     "id": "society-082",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "preserve",
+    "meaningVi": "nhóm từ \"preserve\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "preservment",
+      "adjective": "preservive",
+      "verb": "preserve",
+      "adverb": "preservively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"preservment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"preservive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"preserve\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"preservively\"."
     },
     "examples": {
-      "noun": "The response is important in society.",
-      "adjective": "This is a responsive example for society.",
-      "verb": "Learners can respond this idea in society.",
-      "adverb": "Use it responsively when talking about society."
+      "noun": "The preservment is important in society.",
+      "adjective": "This is a preservive case in society.",
+      "verb": "People often preserve when working with society topics.",
+      "adverb": "The speaker explained it preservively in a society context."
     }
   },
   {
     "id": "society-083",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "document",
+    "meaningVi": "nhóm từ \"document\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "documenting",
+      "adjective": "documental",
+      "verb": "document",
+      "adverb": "documentally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"documenting\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"documental\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"document\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"documentally\"."
     },
     "examples": {
-      "noun": "The revision is important in society.",
-      "adjective": "This is a revised example for society.",
-      "verb": "Learners can revise this idea in society.",
-      "adverb": "Use it revisedly when talking about society."
+      "noun": "The documenting is important in society.",
+      "adjective": "This is a documental case in society.",
+      "verb": "People often document when working with society topics.",
+      "adverb": "The speaker explained it documentally in a society context."
     }
   },
   {
     "id": "society-084",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "archive",
+    "meaningVi": "nhóm từ \"archive\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "archivance",
+      "adjective": "archivd",
+      "verb": "archive",
+      "adverb": "archivdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"archivance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"archivd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"archive\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"archivdly\"."
     },
     "examples": {
-      "noun": "The selection is important in society.",
-      "adjective": "This is a selective example for society.",
-      "verb": "Learners can select this idea in society.",
-      "adverb": "Use it selectively when talking about society."
+      "noun": "The archivance is important in society.",
+      "adjective": "This is a archivd case in society.",
+      "verb": "People often archive when working with society topics.",
+      "adverb": "The speaker explained it archivdly in a society context."
     }
   },
   {
     "id": "society-085",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "community",
+    "meaningVi": "nhóm từ \"community\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "communityence",
+      "adjective": "communitying",
+      "verb": "community",
+      "adverb": "communityingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"communityence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"communitying\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"community\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"communityingly\"."
     },
     "examples": {
-      "noun": "The solution is important in society.",
-      "adjective": "This is a solvable example for society.",
-      "verb": "Learners can solve this idea in society.",
-      "adverb": "Use it solvably when talking about society."
+      "noun": "The communityence is important in society.",
+      "adjective": "This is a communitying case in society.",
+      "verb": "People often community when working with society topics.",
+      "adverb": "The speaker explained it communityingly in a society context."
     }
   },
   {
     "id": "society-086",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "citizen",
+    "meaningVi": "nhóm từ \"citizen\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "citizenal",
+      "adjective": "citizenous",
+      "verb": "citizen",
+      "adverb": "citizenously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"citizenal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"citizenous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"citizen\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"citizenously\"."
     },
     "examples": {
-      "noun": "The specialization is important in society.",
-      "adjective": "This is a specialized example for society.",
-      "verb": "Learners can specialize this idea in society.",
-      "adverb": "Use it specially when talking about society."
+      "noun": "The citizenal is important in society.",
+      "adjective": "This is a citizenous case in society.",
+      "verb": "People often citizen when working with society topics.",
+      "adverb": "The speaker explained it citizenously in a society context."
     }
   },
   {
     "id": "society-087",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "household",
+    "meaningVi": "nhóm từ \"household\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "householdy",
+      "adjective": "householdary",
+      "verb": "household",
+      "adverb": "householdarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"householdy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"householdary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"household\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"householdarily\"."
     },
     "examples": {
-      "noun": "The strength is important in society.",
-      "adjective": "This is a strong example for society.",
-      "verb": "Learners can strengthen this idea in society.",
-      "adverb": "Use it strongly when talking about society."
+      "noun": "The householdy is important in society.",
+      "adjective": "This is a householdary case in society.",
+      "verb": "People often household when working with society topics.",
+      "adverb": "The speaker explained it householdarily in a society context."
     }
   },
   {
     "id": "society-088",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "family",
+    "meaningVi": "nhóm từ \"family\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "familyure",
+      "adjective": "familyic",
+      "verb": "family",
+      "adverb": "familyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"familyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"familyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"family\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"familyically\"."
     },
     "examples": {
-      "noun": "The study is important in society.",
-      "adjective": "This is a studious example for society.",
-      "verb": "Learners can study this idea in society.",
-      "adverb": "Use it studiously when talking about society."
+      "noun": "The familyure is important in society.",
+      "adjective": "This is a familyic case in society.",
+      "verb": "People often family when working with society topics.",
+      "adverb": "The speaker explained it familyically in a society context."
     }
   },
   {
     "id": "society-089",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "neighborhood",
+    "meaningVi": "nhóm từ \"neighborhood\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "neighborhoodage",
+      "adjective": "neighborhoodful",
+      "verb": "neighborhood",
+      "adverb": "neighborhoodfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"neighborhoodage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"neighborhoodful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"neighborhood\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"neighborhoodfully\"."
     },
     "examples": {
-      "noun": "The success is important in society.",
-      "adjective": "This is a successful example for society.",
-      "verb": "Learners can succeed this idea in society.",
-      "adverb": "Use it successfully when talking about society."
+      "noun": "The neighborhoodage is important in society.",
+      "adjective": "This is a neighborhoodful case in society.",
+      "verb": "People often neighborhood when working with society topics.",
+      "adverb": "The speaker explained it neighborhoodfully in a society context."
     }
   },
   {
     "id": "society-090",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "culture",
+    "meaningVi": "nhóm từ \"culture\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "culturity",
+      "adjective": "culturant",
+      "verb": "culture",
+      "adverb": "culturantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"culturity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"culturant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"culture\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"culturantly\"."
     },
     "examples": {
-      "noun": "The support is important in society.",
-      "adjective": "This is a supportive example for society.",
-      "verb": "Learners can support this idea in society.",
-      "adverb": "Use it supportively when talking about society."
+      "noun": "The culturity is important in society.",
+      "adjective": "This is a culturant case in society.",
+      "verb": "People often culture when working with society topics.",
+      "adverb": "The speaker explained it culturantly in a society context."
     }
   },
   {
     "id": "society-091",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "tradition",
+    "meaningVi": "nhóm từ \"tradition\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "traditiontion",
+      "adjective": "traditionable",
+      "verb": "tradition",
+      "adverb": "traditionably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"traditiontion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"traditionable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tradition\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"traditionably\"."
     },
     "examples": {
-      "noun": "The teaching is important in society.",
-      "adjective": "This is a teachable example for society.",
-      "verb": "Learners can teach this idea in society.",
-      "adverb": "Use it teachably when talking about society."
+      "noun": "The traditiontion is important in society.",
+      "adjective": "This is a traditionable case in society.",
+      "verb": "People often tradition when working with society topics.",
+      "adverb": "The speaker explained it traditionably in a society context."
     }
   },
   {
     "id": "society-092",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "identity",
+    "meaningVi": "nhóm từ \"identity\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "identityment",
+      "adjective": "identityive",
+      "verb": "identity",
+      "adverb": "identityively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"identityment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"identityive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"identity\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"identityively\"."
     },
     "examples": {
-      "noun": "The transformation is important in society.",
-      "adjective": "This is a transformative example for society.",
-      "verb": "Learners can transform this idea in society.",
-      "adverb": "Use it transformatively when talking about society."
+      "noun": "The identityment is important in society.",
+      "adjective": "This is a identityive case in society.",
+      "verb": "People often identity when working with society topics.",
+      "adverb": "The speaker explained it identityively in a society context."
     }
   },
   {
     "id": "society-093",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "inequality",
+    "meaningVi": "nhóm từ \"inequality\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "inequalitying",
+      "adjective": "inequalityal",
+      "verb": "inequality",
+      "adverb": "inequalityally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"inequalitying\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"inequalityal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"inequality\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"inequalityally\"."
     },
     "examples": {
-      "noun": "The translation is important in society.",
-      "adjective": "This is a translatable example for society.",
-      "verb": "Learners can translate this idea in society.",
-      "adverb": "Use it translatably when talking about society."
+      "noun": "The inequalitying is important in society.",
+      "adjective": "This is a inequalityal case in society.",
+      "verb": "People often inequality when working with society topics.",
+      "adverb": "The speaker explained it inequalityally in a society context."
     }
   },
   {
     "id": "society-094",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "poverty",
+    "meaningVi": "nhóm từ \"poverty\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "povertyance",
+      "adjective": "povertyed",
+      "verb": "poverty",
+      "adverb": "povertyedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"povertyance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"povertyed\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"poverty\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"povertyedly\"."
     },
     "examples": {
-      "noun": "The understanding is important in society.",
-      "adjective": "This is a understandable example for society.",
-      "verb": "Learners can understand this idea in society.",
-      "adverb": "Use it understandably when talking about society."
+      "noun": "The povertyance is important in society.",
+      "adjective": "This is a povertyed case in society.",
+      "verb": "People often poverty when working with society topics.",
+      "adverb": "The speaker explained it povertyedly in a society context."
     }
   },
   {
     "id": "society-095",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "welfare",
+    "meaningVi": "nhóm từ \"welfare\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "welfarence",
+      "adjective": "welfaring",
+      "verb": "welfare",
+      "adverb": "welfaringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"welfarence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"welfaring\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"welfare\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"welfaringly\"."
     },
     "examples": {
-      "noun": "The use is important in society.",
-      "adjective": "This is a useful example for society.",
-      "verb": "Learners can use this idea in society.",
-      "adverb": "Use it usefully when talking about society."
+      "noun": "The welfarence is important in society.",
+      "adjective": "This is a welfaring case in society.",
+      "verb": "People often welfare when working with society topics.",
+      "adverb": "The speaker explained it welfaringly in a society context."
     }
   },
   {
     "id": "society-096",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "justice",
+    "meaningVi": "nhóm từ \"justice\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "justical",
+      "adjective": "justicous",
+      "verb": "justice",
+      "adverb": "justicously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"justical\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"justicous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"justice\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"justicously\"."
     },
     "examples": {
-      "noun": "The variation is important in society.",
-      "adjective": "This is a variable example for society.",
-      "verb": "Learners can vary this idea in society.",
-      "adverb": "Use it variably when talking about society."
+      "noun": "The justical is important in society.",
+      "adjective": "This is a justicous case in society.",
+      "verb": "People often justice when working with society topics.",
+      "adverb": "The speaker explained it justicously in a society context."
     }
   },
   {
     "id": "society-097",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "policy",
+    "meaningVi": "nhóm từ \"policy\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "policyy",
+      "adjective": "policyary",
+      "verb": "policy",
+      "adverb": "policyarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"policyy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"policyary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"policy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"policyarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in society.",
-      "adjective": "This is a visual example for society.",
-      "verb": "Learners can visualize this idea in society.",
-      "adverb": "Use it visually when talking about society."
+      "noun": "The policyy is important in society.",
+      "adjective": "This is a policyary case in society.",
+      "verb": "People often policy when working with society topics.",
+      "adverb": "The speaker explained it policyarily in a society context."
     }
   },
   {
     "id": "society-098",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "election",
+    "meaningVi": "nhóm từ \"election\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "electionure",
+      "adjective": "electionic",
+      "verb": "election",
+      "adverb": "electionically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"electionure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"electionic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"election\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"electionically\"."
     },
     "examples": {
-      "noun": "The writing is important in society.",
-      "adjective": "This is a written example for society.",
-      "verb": "Learners can write this idea in society.",
-      "adverb": "Use it writerly when talking about society."
+      "noun": "The electionure is important in society.",
+      "adjective": "This is a electionic case in society.",
+      "verb": "People often election when working with society topics.",
+      "adverb": "The speaker explained it electionically in a society context."
     }
   },
   {
     "id": "society-099",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "parliament",
+    "meaningVi": "nhóm từ \"parliament\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "parliamentage",
+      "adjective": "parliamentful",
+      "verb": "parliament",
+      "adverb": "parliamentfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"parliamentage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"parliamentful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"parliament\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"parliamentfully\"."
     },
     "examples": {
-      "noun": "The listening is important in society.",
-      "adjective": "This is a listenable example for society.",
-      "verb": "Learners can listen this idea in society.",
-      "adverb": "Use it listeningly when talking about society."
+      "noun": "The parliamentage is important in society.",
+      "adjective": "This is a parliamentful case in society.",
+      "verb": "People often parliament when working with society topics.",
+      "adverb": "The speaker explained it parliamentfully in a society context."
     }
   },
   {
     "id": "society-100",
     "topic": "Society",
     "topicVi": "Xã hội",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "council",
+    "meaningVi": "nhóm từ \"council\" thường gặp trong chủ đề Xã hội",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "councility",
+      "adjective": "councilant",
+      "verb": "council",
+      "adverb": "councilantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"councility\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"councilant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"council\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"councilantly\"."
     },
     "examples": {
-      "noun": "The practice is important in society.",
-      "adjective": "This is a practical example for society.",
-      "verb": "Learners can practice this idea in society.",
-      "adverb": "Use it practically when talking about society."
+      "noun": "The councility is important in society.",
+      "adjective": "This is a councilant case in society.",
+      "verb": "People often council when working with society topics.",
+      "adverb": "The speaker explained it councilantly in a society context."
     }
   }
 ]

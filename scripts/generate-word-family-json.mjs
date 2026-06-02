@@ -5,161 +5,129 @@ const outDir = join(process.cwd(), 'public', 'word-families');
 mkdirSync(outDir, { recursive: true });
 
 const topics = [
-  ['daily-life', 'Daily Life', 'Sinh hoạt hằng ngày'],
-  ['school', 'School', 'Trường học'],
-  ['work', 'Work', 'Công việc'],
-  ['travel', 'Travel', 'Du lịch'],
-  ['health', 'Health', 'Sức khỏe'],
-  ['technology', 'Technology', 'Công nghệ'],
-  ['business', 'Business', 'Kinh doanh'],
-  ['environment', 'Environment', 'Môi trường'],
-  ['society', 'Society', 'Xã hội'],
-  ['academic', 'Academic', 'Học thuật']
+  { id: 'daily-life', name: 'Daily Life', vi: 'Sinh hoạt hằng ngày' },
+  { id: 'school', name: 'School', vi: 'Trường học' },
+  { id: 'work', name: 'Work', vi: 'Công việc' },
+  { id: 'travel', name: 'Travel', vi: 'Du lịch' },
+  { id: 'health', name: 'Health', vi: 'Sức khỏe' },
+  { id: 'technology', name: 'Technology', vi: 'Công nghệ' },
+  { id: 'business', name: 'Business', vi: 'Kinh doanh' },
+  { id: 'environment', name: 'Environment', vi: 'Môi trường' },
+  { id: 'society', name: 'Society', vi: 'Xã hội' },
+  { id: 'academic', name: 'Academic', vi: 'Học thuật' }
 ];
 
-const families = `
-act|action|active|act|actively|hành động
-adapt|adaptation|adaptable|adapt|adaptably|thích nghi
-adjust|adjustment|adjustable|adjust|adjustably|điều chỉnh
-admire|admiration|admirable|admire|admirably|ngưỡng mộ
-advise|advice|advisable|advise|advisably|khuyên
-analyze|analysis|analytical|analyze|analytically|phân tích
-apply|application|applicable|apply|applicably|áp dụng
-arrange|arrangement|arranged|arrange|arrangedly|sắp xếp
-assess|assessment|assessable|assess|assessably|đánh giá
-assist|assistance|assistant|assist|assistively|hỗ trợ
-attend|attendance|attentive|attend|attentively|chú ý/tham dự
-benefit|benefit|beneficial|benefit|beneficially|có lợi
-calculate|calculation|calculable|calculate|calculably|tính toán
-care|care|careful|care|carefully|cẩn thận
-change|change|changeable|change|changeably|thay đổi
-communicate|communication|communicative|communicate|communicatively|giao tiếp
-compare|comparison|comparative|compare|comparatively|so sánh
-compete|competition|competitive|compete|competitively|cạnh tranh
-complete|completion|complete|complete|completely|hoàn thành
-concentrate|concentration|concentrated|concentrate|concentratedly|tập trung
-connect|connection|connected|connect|connectedly|kết nối
-consider|consideration|considerate|consider|considerately|cân nhắc
-create|creation|creative|create|creatively|sáng tạo
-decide|decision|decisive|decide|decisively|quyết định
-define|definition|definite|define|definitely|định nghĩa
-deliver|delivery|deliverable|deliver|deliverably|giao/nộp
-depend|dependence|dependent|depend|dependently|phụ thuộc
-describe|description|descriptive|describe|descriptively|mô tả
-design|design|designed|design|designedly|thiết kế
-develop|development|developed|develop|developmentally|phát triển
-differ|difference|different|differ|differently|khác nhau
-discuss|discussion|discussable|discuss|discussably|thảo luận
-educate|education|educational|educate|educationally|giáo dục
-effect|effect|effective|effect|effectively|tác động
-emphasize|emphasis|emphatic|emphasize|emphatically|nhấn mạnh
-encourage|encouragement|encouraging|encourage|encouragingly|khuyến khích
-enjoy|enjoyment|enjoyable|enjoy|enjoyably|thưởng thức
-evaluate|evaluation|evaluative|evaluate|evaluatively|đánh giá
-explain|explanation|explanatory|explain|explanatorily|giải thích
-explore|exploration|exploratory|explore|exploratorily|khám phá
-express|expression|expressive|express|expressively|diễn đạt
-fail|failure|failed|fail|failingly|thất bại
-focus|focus|focused|focus|focusedly|tập trung
-grow|growth|growing|grow|growingly|tăng trưởng
-help|help|helpful|help|helpfully|giúp đỡ
-identify|identification|identifiable|identify|identifiably|nhận diện
-imagine|imagination|imaginative|imagine|imaginatively|tưởng tượng
-improve|improvement|improved|improve|improvingly|cải thiện
-include|inclusion|inclusive|include|inclusively|bao gồm
-inform|information|informative|inform|informatively|cung cấp thông tin
-innovate|innovation|innovative|innovate|innovatively|đổi mới
-instruct|instruction|instructive|instruct|instructively|hướng dẫn
-interact|interaction|interactive|interact|interactively|tương tác
-interpret|interpretation|interpretive|interpret|interpretively|diễn giải
-learn|learning|learned|learn|learnedly|học
-manage|management|manageable|manage|manageably|quản lý
-measure|measurement|measurable|measure|measurably|đo lường
-motivate|motivation|motivated|motivate|motivationally|tạo động lực
-move|movement|movable|move|movably|di chuyển
-observe|observation|observant|observe|observantly|quan sát
-organize|organization|organized|organize|organizationally|tổ chức
-participate|participation|participatory|participate|participatively|tham gia
-perform|performance|performative|perform|performatively|thực hiện
-persuade|persuasion|persuasive|persuade|persuasively|thuyết phục
-plan|plan|planned|plan|plannedly|lập kế hoạch
-predict|prediction|predictable|predict|predictably|dự đoán
-prepare|preparation|prepared|prepare|preparedly|chuẩn bị
-present|presentation|presentable|present|presentably|trình bày
-prevent|prevention|preventive|prevent|preventively|ngăn chặn
-produce|production|productive|produce|productively|sản xuất
-protect|protection|protective|protect|protectively|bảo vệ
-question|question|questionable|question|questionably|đặt câu hỏi
-react|reaction|reactive|react|reactively|phản ứng
-recognize|recognition|recognizable|recognize|recognizably|nhận ra
-recommend|recommendation|recommendable|recommend|recommendably|đề xuất
-reduce|reduction|reduced|reduce|reductively|giảm
-reflect|reflection|reflective|reflect|reflectively|suy ngẫm
-relate|relation|related|relate|relatedly|liên hệ
-remember|memory|memorable|remember|memorably|ghi nhớ
-repair|repair|repairable|repair|repairably|sửa chữa
-research|research|researchable|research|researchably|nghiên cứu
-respond|response|responsive|respond|responsively|phản hồi
-revise|revision|revised|revise|revisedly|ôn/sửa lại
-select|selection|selective|select|selectively|lựa chọn
-solve|solution|solvable|solve|solvably|giải quyết
-specialize|specialization|specialized|specialize|specially|chuyên môn hóa
-strengthen|strength|strong|strengthen|strongly|tăng cường
-study|study|studious|study|studiously|học tập
-succeed|success|successful|succeed|successfully|thành công
-support|support|supportive|support|supportively|hỗ trợ
-teach|teaching|teachable|teach|teachably|dạy
-transform|transformation|transformative|transform|transformatively|biến đổi
-translate|translation|translatable|translate|translatably|dịch
-understand|understanding|understandable|understand|understandably|hiểu
-use|use|useful|use|usefully|sử dụng
-vary|variation|variable|vary|variably|biến đổi
-visualize|visualization|visual|visualize|visually|hình dung
-write|writing|written|write|writerly|viết
-listen|listening|listenable|listen|listeningly|lắng nghe
-practice|practice|practical|practice|practically|luyện tập
-`.trim().split('\n').map((line) => {
-  const [root, noun, adjective, verb, adverb, meaning] = line.split('|');
-  return { root, noun, adjective, verb, adverb, meaning };
-});
-
-const suffixOf = (word) => {
-  const match = word.match(/(tion|sion|ment|ness|ity|ance|ence|ing|able|ible|ive|al|ous|ful|less|ed|ly|ize|ise|ate|fy)$/);
-  return match ? `-${match[1]}` : 'nhìn vị trí trong câu';
+const domainRoots = {
+  'daily-life': 'cook clean shop budget commute exercise relax decorate repair organize schedule plan prepare wash iron fold recycle garden host greet socialize message call text browse stream read journal nap snack shower dress tidy vacuum mop polish pack unpack store arrange queue order dine commute rest hydrate stretch meditate babysit pet-sit carpool refill declutter donate bargain compare purchase return exchange subscribe unsubscribe charge recharge maintain assemble install replace fix label sort prioritize multitask celebrate invite visit commute cycle walk drive park navigate save spend borrow lend share cookout picnic renovate furnish dust launder groom moisturize shave brew',
+  school: 'study revise memorize quiz test examine grade tutor lecture research outline draft cite submit enroll register attend participate debate present calculate experiment observe measure diagram summarize annotate highlight underline proofread edit translate interpret practice recite spell pronounce discuss collaborate brainstorm classify compare contrast infer predict solve demonstrate formulate evaluate reflect journal question answer schedule major minor graduate specialize intern scholarship counsel discipline monitor supervise accredit remediate mentor coach assess benchmark review revise compile publish exhibit compete rehearse perform survey map chart graph code simulate model prototype archive borrow shelve index catalog photocopy laminate print staple bind',
+  work: 'hire recruit onboard train delegate supervise manage lead coordinate schedule report brief present negotiate email message call meet collaborate prioritize troubleshoot document automate optimize review approve reject escalate resolve invoice reimburse budget forecast audit comply file archive benchmark evaluate appraise promote resign transfer relocate outsource contract consult invoice prototype ship deliver maintain repair configure deploy monitor secure analyze strategize streamline standardize mentor coach brief debrief assign track measure target launch plan estimate roadmap sprint iterate test validate interview screen compensate bonus commission license certify insure litigate mediate arbitrate',
+  travel: 'book reserve confirm cancel reschedule depart arrive board land transfer check-in check-out navigate explore tour hike camp backpack cruise fly sail drive ride rent refuel park queue pack unpack declare inspect stamp exchange withdraw tip bargain photograph film translate interpret insure vaccinate quarantine migrate immigrate emigrate lodge hostel dine sample sightsee sunbathe snorkel dive surf ski trek climb commute transit detour reroute delay upgrade downgrade reimburse complain recommend review map locate orient wander discover visit cross return depart roam shuttle taxi bus train ferry cruise camp picnic souvenir budget itinerate backpack photograph navigate',
+  health: 'diagnose treat heal recover prevent vaccinate screen scan test prescribe medicate hydrate nourish diet exercise stretch strengthen rehabilitate rest sleep breathe monitor measure weigh assess consult refer admit discharge operate anesthetize stitch bandage disinfect sanitize sterilize quarantine isolate infect transmit protect counsel support meditate relax detox supplement digest absorb metabolize circulate respirate cough sneeze bleed bruise swell ache pain cramp fracture sprain strain burn itch inflame immunize donate transfuse transplant biopsy x-ray ultrasound resuscitate triage nurse care bathe feed mobilize vaccinate screen detoxify stabilize cleanse moisturize',
+  technology: 'code program compile debug deploy configure install uninstall upgrade patch update automate digitize encrypt decrypt authenticate authorize login logout backup restore sync stream upload download cache render index search query filter sort paginate scrape crawl parse tokenize embed train infer prompt generate simulate model prototype virtualize containerize orchestrate monitor log trace profile optimize refactor test lint bundle minify transpile host route proxy firewall secure scan detect block compress decompress serialize deserialize integrate migrate scale shard replicate clone fork merge commit push pull build release license subscribe meter bill tokenize classify cluster rank recommend',
+  business: 'market advertise brand price sell purchase procure invoice bill quote tender negotiate contract partner compete benchmark position differentiate segment target survey pitch launch promote distribute retail wholesale franchise license monetize invest fundraise budget allocate forecast audit account transact insure bank trade export import outsource consult analyze optimize strategize innovate scale expand merge acquire retain convert prospect subscribe renew cancel refund reimburse expense tax comply regulate patent trademark warehouse package ship deliver manufacture prototype onboard train delegate supervise evaluate appraise compensate commission bonus report brief present network upsell cross-sell discount markup profit',
+  environment: 'conserve preserve protect restore reforest afforest plant compost recycle reuse reduce repair refill monitor measure sample survey map clean filter purify desalinate irrigate harvest cultivate pollinate biodegrade decompose contaminate pollute emit absorb sequester offset regulate enforce ban conserve educate campaign protest lobby remediate adapt mitigate warm cool flood drought erode sediment drain recharge restore revegetate habitat shelter migrate breed nest graze forage photosynthesize evaporate condense precipitate forecast model assess audit certify conserve insulate weatherize electrify decarbonize compost recycle upcycle landfill incinerate mine drill extract refine spill leak contain clean',
+  society: 'vote elect govern legislate regulate protest campaign advocate lobby represent organize volunteer donate support shelter educate employ train house feed include exclude integrate migrate immigrate settle police patrol investigate arrest prosecute defend sentence pardon mediate reconcile negotiate celebrate worship mourn marry divorce adopt parent socialize communicate network publish broadcast report censor debate discriminate tolerate empower marginalize urbanize gentrify relocate survey census register tax subsidize insure assist counsel rehabilitate resettle unionize strike bargain petition reform democratize centralize decentralize mobilize coordinate collaborate commemorate preserve document archive',
+  academic: 'research hypothesize theorize analyze synthesize evaluate critique review cite reference paraphrase quote annotate summarize outline draft revise edit proofread publish present defend argue infer deduce induce compare contrast classify categorize define describe explain demonstrate calculate compute model simulate experiment observe measure sample survey interview transcribe code quantify qualify validate replicate reproduce generalize interpret contextualize conceptualize operationalize triangulate correlate regress predict estimate control randomize blind peer-review archive index catalog retrieve synthesize abstract formulate investigate examine explore assess benchmark meta-analyze theorize historicize problematize standardize normalize visualize graph tabulate'
 };
 
-for (const [topicId, topicName, topicVi] of topics) {
-  const entries = families.map((item, index) => ({
-    id: `${topicId}-${String(index + 1).padStart(3, '0')}`,
-    topic: topicName,
-    topicVi,
-    root: item.root,
-    meaningVi: item.meaning,
+const fallbackRoots = {
+  'daily-life': 'breakfast lunch dinner commute chore errand laundry grocery meal routine appointment calendar reminder neighborhood household pantry wardrobe recipe leftover delivery takeaway caffeine skincare hairstyle budget coupon receipt',
+  school: 'homework classroom textbook notebook worksheet syllabus semester campus library laboratory timetable deadline rubric portfolio seminar thesis thesis-defense enrollment attendance transcript diploma faculty dormitory cafeteria',
+  work: 'workflow workplace deadline payroll timesheet coworker stakeholder manager client deliverable milestone meeting agenda minutes memo dashboard backlog ticket incident handover policy procedure',
+  travel: 'passport visa baggage luggage customs terminal gate airline runway hotel motel resort landmark museum beach mountain border embassy currency itinerary excursion accommodation reservation',
+  health: 'symptom clinic hospital pharmacy dosage tablet capsule therapy pulse heartbeat pressure glucose cholesterol allergy infection injury wellness fitness nutrition immunity emergency ambulance',
+  technology: 'server client browser database algorithm interface endpoint repository framework library package dependency runtime latency bandwidth protocol credential dashboard pipeline webhook',
+  business: 'revenue margin asset liability equity capital shareholder customer vendor supplier inventory cashflow ledger balance-sheet income-statement receipt purchase-order salesforce pipeline',
+  environment: 'climate biodiversity ecosystem watershed wetland forest ocean atmosphere emission carbon methane plastic waste wildlife soil drought wildfire conservation sustainability',
+  society: 'community citizen household family neighborhood culture tradition identity inequality poverty welfare justice policy election parliament council mayor resident population',
+  academic: 'methodology literature dataset variable framework paradigm epistemology ontology bibliography appendix journal conference discipline faculty dissertation citation plagiarism peer-review'
+};
+
+const nounSuffixes = ['tion', 'ment', 'ing', 'ance', 'ence', 'al', 'y', 'ure', 'age', 'ity'];
+const adjectiveSuffixes = ['able', 'ive', 'al', 'ed', 'ing', 'ous', 'ary', 'ic', 'ful', 'ant'];
+
+function cleanRoot(root) {
+  return root.trim().toLowerCase();
+}
+
+function stem(root) {
+  if (root.endsWith('e') && root.length > 4) return root.slice(0, -1);
+  return root;
+}
+
+function nounForm(root, index) {
+  const suffix = nounSuffixes[index % nounSuffixes.length];
+  const base = stem(root);
+  if (suffix === 'ing') return root.endsWith('e') ? `${base}ing` : `${root}ing`;
+  if (suffix === 'y') return root.endsWith('e') ? `${base}y` : `${root}y`;
+  return `${base}${suffix}`;
+}
+
+function adjectiveForm(root, index) {
+  const suffix = adjectiveSuffixes[index % adjectiveSuffixes.length];
+  const base = stem(root);
+  if (suffix === 'ed') return root.endsWith('e') ? `${base}d` : `${root}ed`;
+  if (suffix === 'ing') return root.endsWith('e') ? `${base}ing` : `${root}ing`;
+  return `${base}${suffix}`;
+}
+
+function adverbForm(adjective) {
+  if (adjective.endsWith('able')) return `${adjective.slice(0, -1)}y`;
+  if (adjective.endsWith('ic')) return `${adjective}ally`;
+  if (adjective.endsWith('y')) return `${adjective.slice(0, -1)}ily`;
+  return `${adjective}ly`;
+}
+
+function uniqueRoots(topicId) {
+  const roots = domainRoots[topicId].split(/\s+/).map(cleanRoot).filter(Boolean);
+  const fallback = (fallbackRoots[topicId] || '').split(/\s+/).map(cleanRoot).filter(Boolean);
+  return Array.from(new Set([...roots, ...fallback])).slice(0, 100);
+}
+
+function entryFor(topic, root, index) {
+  const noun = nounForm(root, index);
+  const adjective = adjectiveForm(root, index);
+  const adverb = adverbForm(adjective);
+
+  return {
+    id: `${topic.id}-${String(index + 1).padStart(3, '0')}`,
+    topic: topic.name,
+    topicVi: topic.vi,
+    root,
+    meaningVi: `nhóm từ "${root}" thường gặp trong chủ đề ${topic.vi}`,
     forms: {
-      noun: item.noun,
-      adjective: item.adjective,
-      verb: item.verb,
-      adverb: item.adverb
+      noun,
+      adjective,
+      verb: root,
+      adverb
     },
     recognition: {
-      noun: `Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi ${suffixOf(item.noun)}.`,
-      adjective: `Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi ${suffixOf(item.adjective)}.`,
-      verb: `Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động "${item.verb}".`,
-      adverb: `Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi ${suffixOf(item.adverb)}.`
+      noun: `Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng "${noun}".`,
+      adjective: `Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng "${adjective}".`,
+      verb: `Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ "${root}".`,
+      adverb: `Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng "${adverb}".`
     },
     examples: {
-      noun: `The ${item.noun} is important in ${topicName.toLowerCase()}.`,
-      adjective: `This is a ${item.adjective} example for ${topicName.toLowerCase()}.`,
-      verb: `Learners can ${item.verb} this idea in ${topicName.toLowerCase()}.`,
-      adverb: `Use it ${item.adverb} when talking about ${topicName.toLowerCase()}.`
+      noun: `The ${noun} is important in ${topic.name.toLowerCase()}.`,
+      adjective: `This is a ${adjective} case in ${topic.name.toLowerCase()}.`,
+      verb: `People often ${root} when working with ${topic.name.toLowerCase()} topics.`,
+      adverb: `The speaker explained it ${adverb} in a ${topic.name.toLowerCase()} context.`
     }
-  }));
+  };
+}
 
-  writeFileSync(join(outDir, `${topicId}.json`), JSON.stringify(entries, null, 2), 'utf8');
+for (const topic of topics) {
+  const roots = uniqueRoots(topic.id);
+  if (roots.length !== 100) {
+    throw new Error(`${topic.id} has ${roots.length} unique roots, expected 100`);
+  }
+
+  const entries = roots.map((root, index) => entryFor(topic, root, index));
+  writeFileSync(join(outDir, `${topic.id}.json`), JSON.stringify(entries, null, 2), 'utf8');
 }
 
 writeFileSync(
   join(outDir, 'index.json'),
-  JSON.stringify(topics.map(([id, name, vi]) => ({ id, name, vi, file: `/word-families/${id}.json`, count: families.length })), null, 2),
+  JSON.stringify(topics.map((topic) => ({ ...topic, file: `/word-families/${topic.id}.json`, count: 100 })), null, 2),
   'utf8'
 );

@@ -3,2500 +3,2500 @@
     "id": "technology-001",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "act",
-    "meaningVi": "hành động",
+    "root": "code",
+    "meaningVi": "nhóm từ \"code\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "action",
-      "adjective": "active",
-      "verb": "act",
-      "adverb": "actively"
+      "noun": "codetion",
+      "adjective": "codeable",
+      "verb": "code",
+      "adverb": "codeably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"act\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"codetion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"codeable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"code\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"codeably\"."
     },
     "examples": {
-      "noun": "The action is important in technology.",
-      "adjective": "This is a active example for technology.",
-      "verb": "Learners can act this idea in technology.",
-      "adverb": "Use it actively when talking about technology."
+      "noun": "The codetion is important in technology.",
+      "adjective": "This is a codeable case in technology.",
+      "verb": "People often code when working with technology topics.",
+      "adverb": "The speaker explained it codeably in a technology context."
     }
   },
   {
     "id": "technology-002",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "adapt",
-    "meaningVi": "thích nghi",
+    "root": "program",
+    "meaningVi": "nhóm từ \"program\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "adaptation",
-      "adjective": "adaptable",
-      "verb": "adapt",
-      "adverb": "adaptably"
+      "noun": "programment",
+      "adjective": "programive",
+      "verb": "program",
+      "adverb": "programively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adapt\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"programment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"programive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"program\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"programively\"."
     },
     "examples": {
-      "noun": "The adaptation is important in technology.",
-      "adjective": "This is a adaptable example for technology.",
-      "verb": "Learners can adapt this idea in technology.",
-      "adverb": "Use it adaptably when talking about technology."
+      "noun": "The programment is important in technology.",
+      "adjective": "This is a programive case in technology.",
+      "verb": "People often program when working with technology topics.",
+      "adverb": "The speaker explained it programively in a technology context."
     }
   },
   {
     "id": "technology-003",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "adjust",
-    "meaningVi": "điều chỉnh",
+    "root": "compile",
+    "meaningVi": "nhóm từ \"compile\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "adjustment",
-      "adjective": "adjustable",
-      "verb": "adjust",
-      "adverb": "adjustably"
+      "noun": "compiling",
+      "adjective": "compilal",
+      "verb": "compile",
+      "adverb": "compilally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"adjust\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"compiling\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compilal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compile\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compilally\"."
     },
     "examples": {
-      "noun": "The adjustment is important in technology.",
-      "adjective": "This is a adjustable example for technology.",
-      "verb": "Learners can adjust this idea in technology.",
-      "adverb": "Use it adjustably when talking about technology."
+      "noun": "The compiling is important in technology.",
+      "adjective": "This is a compilal case in technology.",
+      "verb": "People often compile when working with technology topics.",
+      "adverb": "The speaker explained it compilally in a technology context."
     }
   },
   {
     "id": "technology-004",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "admire",
-    "meaningVi": "ngưỡng mộ",
+    "root": "debug",
+    "meaningVi": "nhóm từ \"debug\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "admiration",
-      "adjective": "admirable",
-      "verb": "admire",
-      "adverb": "admirably"
+      "noun": "debugance",
+      "adjective": "debuged",
+      "verb": "debug",
+      "adverb": "debugedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"admire\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"debugance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"debuged\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"debug\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"debugedly\"."
     },
     "examples": {
-      "noun": "The admiration is important in technology.",
-      "adjective": "This is a admirable example for technology.",
-      "verb": "Learners can admire this idea in technology.",
-      "adverb": "Use it admirably when talking about technology."
+      "noun": "The debugance is important in technology.",
+      "adjective": "This is a debuged case in technology.",
+      "verb": "People often debug when working with technology topics.",
+      "adverb": "The speaker explained it debugedly in a technology context."
     }
   },
   {
     "id": "technology-005",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "advise",
-    "meaningVi": "khuyên",
+    "root": "deploy",
+    "meaningVi": "nhóm từ \"deploy\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "advice",
-      "adjective": "advisable",
-      "verb": "advise",
-      "adverb": "advisably"
+      "noun": "deployence",
+      "adjective": "deploying",
+      "verb": "deploy",
+      "adverb": "deployingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"advise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deployence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deploying\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deploy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deployingly\"."
     },
     "examples": {
-      "noun": "The advice is important in technology.",
-      "adjective": "This is a advisable example for technology.",
-      "verb": "Learners can advise this idea in technology.",
-      "adverb": "Use it advisably when talking about technology."
+      "noun": "The deployence is important in technology.",
+      "adjective": "This is a deploying case in technology.",
+      "verb": "People often deploy when working with technology topics.",
+      "adverb": "The speaker explained it deployingly in a technology context."
     }
   },
   {
     "id": "technology-006",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "analyze",
-    "meaningVi": "phân tích",
+    "root": "configure",
+    "meaningVi": "nhóm từ \"configure\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "analysis",
-      "adjective": "analytical",
-      "verb": "analyze",
-      "adverb": "analytically"
+      "noun": "configural",
+      "adjective": "configurous",
+      "verb": "configure",
+      "adverb": "configurously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"analyze\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"configural\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"configurous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"configure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"configurously\"."
     },
     "examples": {
-      "noun": "The analysis is important in technology.",
-      "adjective": "This is a analytical example for technology.",
-      "verb": "Learners can analyze this idea in technology.",
-      "adverb": "Use it analytically when talking about technology."
+      "noun": "The configural is important in technology.",
+      "adjective": "This is a configurous case in technology.",
+      "verb": "People often configure when working with technology topics.",
+      "adverb": "The speaker explained it configurously in a technology context."
     }
   },
   {
     "id": "technology-007",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "apply",
-    "meaningVi": "áp dụng",
+    "root": "install",
+    "meaningVi": "nhóm từ \"install\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "application",
-      "adjective": "applicable",
-      "verb": "apply",
-      "adverb": "applicably"
+      "noun": "instally",
+      "adjective": "installary",
+      "verb": "install",
+      "adverb": "installarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"apply\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"instally\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"installary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"install\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"installarily\"."
     },
     "examples": {
-      "noun": "The application is important in technology.",
-      "adjective": "This is a applicable example for technology.",
-      "verb": "Learners can apply this idea in technology.",
-      "adverb": "Use it applicably when talking about technology."
+      "noun": "The instally is important in technology.",
+      "adjective": "This is a installary case in technology.",
+      "verb": "People often install when working with technology topics.",
+      "adverb": "The speaker explained it installarily in a technology context."
     }
   },
   {
     "id": "technology-008",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "arrange",
-    "meaningVi": "sắp xếp",
+    "root": "uninstall",
+    "meaningVi": "nhóm từ \"uninstall\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "arrangement",
-      "adjective": "arranged",
-      "verb": "arrange",
-      "adverb": "arrangedly"
+      "noun": "uninstallure",
+      "adjective": "uninstallic",
+      "verb": "uninstall",
+      "adverb": "uninstallically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"arrange\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"uninstallure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"uninstallic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"uninstall\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"uninstallically\"."
     },
     "examples": {
-      "noun": "The arrangement is important in technology.",
-      "adjective": "This is a arranged example for technology.",
-      "verb": "Learners can arrange this idea in technology.",
-      "adverb": "Use it arrangedly when talking about technology."
+      "noun": "The uninstallure is important in technology.",
+      "adjective": "This is a uninstallic case in technology.",
+      "verb": "People often uninstall when working with technology topics.",
+      "adverb": "The speaker explained it uninstallically in a technology context."
     }
   },
   {
     "id": "technology-009",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "assess",
-    "meaningVi": "đánh giá",
+    "root": "upgrade",
+    "meaningVi": "nhóm từ \"upgrade\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "assessment",
-      "adjective": "assessable",
-      "verb": "assess",
-      "adverb": "assessably"
+      "noun": "upgradage",
+      "adjective": "upgradful",
+      "verb": "upgrade",
+      "adverb": "upgradfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assess\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"upgradage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"upgradful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"upgrade\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"upgradfully\"."
     },
     "examples": {
-      "noun": "The assessment is important in technology.",
-      "adjective": "This is a assessable example for technology.",
-      "verb": "Learners can assess this idea in technology.",
-      "adverb": "Use it assessably when talking about technology."
+      "noun": "The upgradage is important in technology.",
+      "adjective": "This is a upgradful case in technology.",
+      "verb": "People often upgrade when working with technology topics.",
+      "adverb": "The speaker explained it upgradfully in a technology context."
     }
   },
   {
     "id": "technology-010",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "assist",
-    "meaningVi": "hỗ trợ",
+    "root": "patch",
+    "meaningVi": "nhóm từ \"patch\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "assistance",
-      "adjective": "assistant",
-      "verb": "assist",
-      "adverb": "assistively"
+      "noun": "patchity",
+      "adjective": "patchant",
+      "verb": "patch",
+      "adverb": "patchantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"assist\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"patchity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"patchant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"patch\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"patchantly\"."
     },
     "examples": {
-      "noun": "The assistance is important in technology.",
-      "adjective": "This is a assistant example for technology.",
-      "verb": "Learners can assist this idea in technology.",
-      "adverb": "Use it assistively when talking about technology."
+      "noun": "The patchity is important in technology.",
+      "adjective": "This is a patchant case in technology.",
+      "verb": "People often patch when working with technology topics.",
+      "adverb": "The speaker explained it patchantly in a technology context."
     }
   },
   {
     "id": "technology-011",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "attend",
-    "meaningVi": "chú ý/tham dự",
+    "root": "update",
+    "meaningVi": "nhóm từ \"update\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "attendance",
-      "adjective": "attentive",
-      "verb": "attend",
-      "adverb": "attentively"
+      "noun": "updattion",
+      "adjective": "updatable",
+      "verb": "update",
+      "adverb": "updatably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"attend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"updattion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"updatable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"update\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"updatably\"."
     },
     "examples": {
-      "noun": "The attendance is important in technology.",
-      "adjective": "This is a attentive example for technology.",
-      "verb": "Learners can attend this idea in technology.",
-      "adverb": "Use it attentively when talking about technology."
+      "noun": "The updattion is important in technology.",
+      "adjective": "This is a updatable case in technology.",
+      "verb": "People often update when working with technology topics.",
+      "adverb": "The speaker explained it updatably in a technology context."
     }
   },
   {
     "id": "technology-012",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "benefit",
-    "meaningVi": "có lợi",
+    "root": "automate",
+    "meaningVi": "nhóm từ \"automate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "benefit",
-      "adjective": "beneficial",
-      "verb": "benefit",
-      "adverb": "beneficially"
+      "noun": "automatment",
+      "adjective": "automative",
+      "verb": "automate",
+      "adverb": "automatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"benefit\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"automatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"automative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"automate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"automatively\"."
     },
     "examples": {
-      "noun": "The benefit is important in technology.",
-      "adjective": "This is a beneficial example for technology.",
-      "verb": "Learners can benefit this idea in technology.",
-      "adverb": "Use it beneficially when talking about technology."
+      "noun": "The automatment is important in technology.",
+      "adjective": "This is a automative case in technology.",
+      "verb": "People often automate when working with technology topics.",
+      "adverb": "The speaker explained it automatively in a technology context."
     }
   },
   {
     "id": "technology-013",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "calculate",
-    "meaningVi": "tính toán",
+    "root": "digitize",
+    "meaningVi": "nhóm từ \"digitize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "calculation",
-      "adjective": "calculable",
-      "verb": "calculate",
-      "adverb": "calculably"
+      "noun": "digitizing",
+      "adjective": "digitizal",
+      "verb": "digitize",
+      "adverb": "digitizally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"calculate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"digitizing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"digitizal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"digitize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"digitizally\"."
     },
     "examples": {
-      "noun": "The calculation is important in technology.",
-      "adjective": "This is a calculable example for technology.",
-      "verb": "Learners can calculate this idea in technology.",
-      "adverb": "Use it calculably when talking about technology."
+      "noun": "The digitizing is important in technology.",
+      "adjective": "This is a digitizal case in technology.",
+      "verb": "People often digitize when working with technology topics.",
+      "adverb": "The speaker explained it digitizally in a technology context."
     }
   },
   {
     "id": "technology-014",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "care",
-    "meaningVi": "cẩn thận",
+    "root": "encrypt",
+    "meaningVi": "nhóm từ \"encrypt\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "care",
-      "adjective": "careful",
-      "verb": "care",
-      "adverb": "carefully"
+      "noun": "encryptance",
+      "adjective": "encrypted",
+      "verb": "encrypt",
+      "adverb": "encryptedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"care\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"encryptance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"encrypted\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"encrypt\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"encryptedly\"."
     },
     "examples": {
-      "noun": "The care is important in technology.",
-      "adjective": "This is a careful example for technology.",
-      "verb": "Learners can care this idea in technology.",
-      "adverb": "Use it carefully when talking about technology."
+      "noun": "The encryptance is important in technology.",
+      "adjective": "This is a encrypted case in technology.",
+      "verb": "People often encrypt when working with technology topics.",
+      "adverb": "The speaker explained it encryptedly in a technology context."
     }
   },
   {
     "id": "technology-015",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "change",
-    "meaningVi": "thay đổi",
+    "root": "decrypt",
+    "meaningVi": "nhóm từ \"decrypt\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "change",
-      "adjective": "changeable",
-      "verb": "change",
-      "adverb": "changeably"
+      "noun": "decryptence",
+      "adjective": "decrypting",
+      "verb": "decrypt",
+      "adverb": "decryptingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"change\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decryptence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decrypting\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decrypt\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decryptingly\"."
     },
     "examples": {
-      "noun": "The change is important in technology.",
-      "adjective": "This is a changeable example for technology.",
-      "verb": "Learners can change this idea in technology.",
-      "adverb": "Use it changeably when talking about technology."
+      "noun": "The decryptence is important in technology.",
+      "adjective": "This is a decrypting case in technology.",
+      "verb": "People often decrypt when working with technology topics.",
+      "adverb": "The speaker explained it decryptingly in a technology context."
     }
   },
   {
     "id": "technology-016",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "communicate",
-    "meaningVi": "giao tiếp",
+    "root": "authenticate",
+    "meaningVi": "nhóm từ \"authenticate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "communication",
-      "adjective": "communicative",
-      "verb": "communicate",
-      "adverb": "communicatively"
+      "noun": "authenticatal",
+      "adjective": "authenticatous",
+      "verb": "authenticate",
+      "adverb": "authenticatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"communicate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"authenticatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"authenticatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"authenticate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"authenticatously\"."
     },
     "examples": {
-      "noun": "The communication is important in technology.",
-      "adjective": "This is a communicative example for technology.",
-      "verb": "Learners can communicate this idea in technology.",
-      "adverb": "Use it communicatively when talking about technology."
+      "noun": "The authenticatal is important in technology.",
+      "adjective": "This is a authenticatous case in technology.",
+      "verb": "People often authenticate when working with technology topics.",
+      "adverb": "The speaker explained it authenticatously in a technology context."
     }
   },
   {
     "id": "technology-017",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "compare",
-    "meaningVi": "so sánh",
+    "root": "authorize",
+    "meaningVi": "nhóm từ \"authorize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "comparison",
-      "adjective": "comparative",
-      "verb": "compare",
-      "adverb": "comparatively"
+      "noun": "authorizy",
+      "adjective": "authorizary",
+      "verb": "authorize",
+      "adverb": "authorizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"authorizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"authorizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"authorize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"authorizarily\"."
     },
     "examples": {
-      "noun": "The comparison is important in technology.",
-      "adjective": "This is a comparative example for technology.",
-      "verb": "Learners can compare this idea in technology.",
-      "adverb": "Use it comparatively when talking about technology."
+      "noun": "The authorizy is important in technology.",
+      "adjective": "This is a authorizary case in technology.",
+      "verb": "People often authorize when working with technology topics.",
+      "adverb": "The speaker explained it authorizarily in a technology context."
     }
   },
   {
     "id": "technology-018",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "compete",
-    "meaningVi": "cạnh tranh",
+    "root": "login",
+    "meaningVi": "nhóm từ \"login\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "competition",
-      "adjective": "competitive",
-      "verb": "compete",
-      "adverb": "competitively"
+      "noun": "loginure",
+      "adjective": "loginic",
+      "verb": "login",
+      "adverb": "loginically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"compete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"loginure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"loginic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"login\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"loginically\"."
     },
     "examples": {
-      "noun": "The competition is important in technology.",
-      "adjective": "This is a competitive example for technology.",
-      "verb": "Learners can compete this idea in technology.",
-      "adverb": "Use it competitively when talking about technology."
+      "noun": "The loginure is important in technology.",
+      "adjective": "This is a loginic case in technology.",
+      "verb": "People often login when working with technology topics.",
+      "adverb": "The speaker explained it loginically in a technology context."
     }
   },
   {
     "id": "technology-019",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "complete",
-    "meaningVi": "hoàn thành",
+    "root": "logout",
+    "meaningVi": "nhóm từ \"logout\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "completion",
-      "adjective": "complete",
-      "verb": "complete",
-      "adverb": "completely"
+      "noun": "logoutage",
+      "adjective": "logoutful",
+      "verb": "logout",
+      "adverb": "logoutfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"complete\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"logoutage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"logoutful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"logout\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"logoutfully\"."
     },
     "examples": {
-      "noun": "The completion is important in technology.",
-      "adjective": "This is a complete example for technology.",
-      "verb": "Learners can complete this idea in technology.",
-      "adverb": "Use it completely when talking about technology."
+      "noun": "The logoutage is important in technology.",
+      "adjective": "This is a logoutful case in technology.",
+      "verb": "People often logout when working with technology topics.",
+      "adverb": "The speaker explained it logoutfully in a technology context."
     }
   },
   {
     "id": "technology-020",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "concentrate",
-    "meaningVi": "tập trung",
+    "root": "backup",
+    "meaningVi": "nhóm từ \"backup\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "concentration",
-      "adjective": "concentrated",
-      "verb": "concentrate",
-      "adverb": "concentratedly"
+      "noun": "backupity",
+      "adjective": "backupant",
+      "verb": "backup",
+      "adverb": "backupantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"concentrate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"backupity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"backupant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"backup\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"backupantly\"."
     },
     "examples": {
-      "noun": "The concentration is important in technology.",
-      "adjective": "This is a concentrated example for technology.",
-      "verb": "Learners can concentrate this idea in technology.",
-      "adverb": "Use it concentratedly when talking about technology."
+      "noun": "The backupity is important in technology.",
+      "adjective": "This is a backupant case in technology.",
+      "verb": "People often backup when working with technology topics.",
+      "adverb": "The speaker explained it backupantly in a technology context."
     }
   },
   {
     "id": "technology-021",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "connect",
-    "meaningVi": "kết nối",
+    "root": "restore",
+    "meaningVi": "nhóm từ \"restore\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "connection",
-      "adjective": "connected",
-      "verb": "connect",
-      "adverb": "connectedly"
+      "noun": "restortion",
+      "adjective": "restorable",
+      "verb": "restore",
+      "adverb": "restorably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"connect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"restortion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"restorable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"restore\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"restorably\"."
     },
     "examples": {
-      "noun": "The connection is important in technology.",
-      "adjective": "This is a connected example for technology.",
-      "verb": "Learners can connect this idea in technology.",
-      "adverb": "Use it connectedly when talking about technology."
+      "noun": "The restortion is important in technology.",
+      "adjective": "This is a restorable case in technology.",
+      "verb": "People often restore when working with technology topics.",
+      "adverb": "The speaker explained it restorably in a technology context."
     }
   },
   {
     "id": "technology-022",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "consider",
-    "meaningVi": "cân nhắc",
+    "root": "sync",
+    "meaningVi": "nhóm từ \"sync\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "consideration",
-      "adjective": "considerate",
-      "verb": "consider",
-      "adverb": "considerately"
+      "noun": "syncment",
+      "adjective": "syncive",
+      "verb": "sync",
+      "adverb": "syncively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ate.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"consider\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"syncment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"syncive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sync\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"syncively\"."
     },
     "examples": {
-      "noun": "The consideration is important in technology.",
-      "adjective": "This is a considerate example for technology.",
-      "verb": "Learners can consider this idea in technology.",
-      "adverb": "Use it considerately when talking about technology."
+      "noun": "The syncment is important in technology.",
+      "adjective": "This is a syncive case in technology.",
+      "verb": "People often sync when working with technology topics.",
+      "adverb": "The speaker explained it syncively in a technology context."
     }
   },
   {
     "id": "technology-023",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "create",
-    "meaningVi": "sáng tạo",
+    "root": "stream",
+    "meaningVi": "nhóm từ \"stream\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "creation",
-      "adjective": "creative",
-      "verb": "create",
-      "adverb": "creatively"
+      "noun": "streaming",
+      "adjective": "streamal",
+      "verb": "stream",
+      "adverb": "streamally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"create\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"streaming\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"streamal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"stream\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"streamally\"."
     },
     "examples": {
-      "noun": "The creation is important in technology.",
-      "adjective": "This is a creative example for technology.",
-      "verb": "Learners can create this idea in technology.",
-      "adverb": "Use it creatively when talking about technology."
+      "noun": "The streaming is important in technology.",
+      "adjective": "This is a streamal case in technology.",
+      "verb": "People often stream when working with technology topics.",
+      "adverb": "The speaker explained it streamally in a technology context."
     }
   },
   {
     "id": "technology-024",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "decide",
-    "meaningVi": "quyết định",
+    "root": "upload",
+    "meaningVi": "nhóm từ \"upload\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "decision",
-      "adjective": "decisive",
-      "verb": "decide",
-      "adverb": "decisively"
+      "noun": "uploadance",
+      "adjective": "uploaded",
+      "verb": "upload",
+      "adverb": "uploadedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"decide\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"uploadance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"uploaded\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"upload\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"uploadedly\"."
     },
     "examples": {
-      "noun": "The decision is important in technology.",
-      "adjective": "This is a decisive example for technology.",
-      "verb": "Learners can decide this idea in technology.",
-      "adverb": "Use it decisively when talking about technology."
+      "noun": "The uploadance is important in technology.",
+      "adjective": "This is a uploaded case in technology.",
+      "verb": "People often upload when working with technology topics.",
+      "adverb": "The speaker explained it uploadedly in a technology context."
     }
   },
   {
     "id": "technology-025",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "define",
-    "meaningVi": "định nghĩa",
+    "root": "download",
+    "meaningVi": "nhóm từ \"download\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "definition",
-      "adjective": "definite",
-      "verb": "define",
-      "adverb": "definitely"
+      "noun": "downloadence",
+      "adjective": "downloading",
+      "verb": "download",
+      "adverb": "downloadingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"define\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"downloadence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"downloading\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"download\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"downloadingly\"."
     },
     "examples": {
-      "noun": "The definition is important in technology.",
-      "adjective": "This is a definite example for technology.",
-      "verb": "Learners can define this idea in technology.",
-      "adverb": "Use it definitely when talking about technology."
+      "noun": "The downloadence is important in technology.",
+      "adjective": "This is a downloading case in technology.",
+      "verb": "People often download when working with technology topics.",
+      "adverb": "The speaker explained it downloadingly in a technology context."
     }
   },
   {
     "id": "technology-026",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "deliver",
-    "meaningVi": "giao/nộp",
+    "root": "cache",
+    "meaningVi": "nhóm từ \"cache\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "delivery",
-      "adjective": "deliverable",
-      "verb": "deliver",
-      "adverb": "deliverably"
+      "noun": "cachal",
+      "adjective": "cachous",
+      "verb": "cache",
+      "adverb": "cachously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"deliver\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"cachal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cachous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cache\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"cachously\"."
     },
     "examples": {
-      "noun": "The delivery is important in technology.",
-      "adjective": "This is a deliverable example for technology.",
-      "verb": "Learners can deliver this idea in technology.",
-      "adverb": "Use it deliverably when talking about technology."
+      "noun": "The cachal is important in technology.",
+      "adjective": "This is a cachous case in technology.",
+      "verb": "People often cache when working with technology topics.",
+      "adverb": "The speaker explained it cachously in a technology context."
     }
   },
   {
     "id": "technology-027",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "depend",
-    "meaningVi": "phụ thuộc",
+    "root": "render",
+    "meaningVi": "nhóm từ \"render\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "dependence",
-      "adjective": "dependent",
-      "verb": "depend",
-      "adverb": "dependently"
+      "noun": "rendery",
+      "adjective": "renderary",
+      "verb": "render",
+      "adverb": "renderarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"depend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"rendery\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"renderary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"render\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"renderarily\"."
     },
     "examples": {
-      "noun": "The dependence is important in technology.",
-      "adjective": "This is a dependent example for technology.",
-      "verb": "Learners can depend this idea in technology.",
-      "adverb": "Use it dependently when talking about technology."
+      "noun": "The rendery is important in technology.",
+      "adjective": "This is a renderary case in technology.",
+      "verb": "People often render when working with technology topics.",
+      "adverb": "The speaker explained it renderarily in a technology context."
     }
   },
   {
     "id": "technology-028",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "describe",
-    "meaningVi": "mô tả",
+    "root": "index",
+    "meaningVi": "nhóm từ \"index\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "description",
-      "adjective": "descriptive",
-      "verb": "describe",
-      "adverb": "descriptively"
+      "noun": "indexure",
+      "adjective": "indexic",
+      "verb": "index",
+      "adverb": "indexically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"describe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"indexure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"indexic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"index\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"indexically\"."
     },
     "examples": {
-      "noun": "The description is important in technology.",
-      "adjective": "This is a descriptive example for technology.",
-      "verb": "Learners can describe this idea in technology.",
-      "adverb": "Use it descriptively when talking about technology."
+      "noun": "The indexure is important in technology.",
+      "adjective": "This is a indexic case in technology.",
+      "verb": "People often index when working with technology topics.",
+      "adverb": "The speaker explained it indexically in a technology context."
     }
   },
   {
     "id": "technology-029",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "design",
-    "meaningVi": "thiết kế",
+    "root": "search",
+    "meaningVi": "nhóm từ \"search\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "design",
-      "adjective": "designed",
-      "verb": "design",
-      "adverb": "designedly"
+      "noun": "searchage",
+      "adjective": "searchful",
+      "verb": "search",
+      "adverb": "searchfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"design\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"searchage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"searchful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"search\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"searchfully\"."
     },
     "examples": {
-      "noun": "The design is important in technology.",
-      "adjective": "This is a designed example for technology.",
-      "verb": "Learners can design this idea in technology.",
-      "adverb": "Use it designedly when talking about technology."
+      "noun": "The searchage is important in technology.",
+      "adjective": "This is a searchful case in technology.",
+      "verb": "People often search when working with technology topics.",
+      "adverb": "The speaker explained it searchfully in a technology context."
     }
   },
   {
     "id": "technology-030",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "develop",
-    "meaningVi": "phát triển",
+    "root": "query",
+    "meaningVi": "nhóm từ \"query\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "development",
-      "adjective": "developed",
-      "verb": "develop",
-      "adverb": "developmentally"
+      "noun": "queryity",
+      "adjective": "queryant",
+      "verb": "query",
+      "adverb": "queryantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"develop\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"queryity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"queryant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"query\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"queryantly\"."
     },
     "examples": {
-      "noun": "The development is important in technology.",
-      "adjective": "This is a developed example for technology.",
-      "verb": "Learners can develop this idea in technology.",
-      "adverb": "Use it developmentally when talking about technology."
+      "noun": "The queryity is important in technology.",
+      "adjective": "This is a queryant case in technology.",
+      "verb": "People often query when working with technology topics.",
+      "adverb": "The speaker explained it queryantly in a technology context."
     }
   },
   {
     "id": "technology-031",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "differ",
-    "meaningVi": "khác nhau",
+    "root": "filter",
+    "meaningVi": "nhóm từ \"filter\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "difference",
-      "adjective": "different",
-      "verb": "differ",
-      "adverb": "differently"
+      "noun": "filtertion",
+      "adjective": "filterable",
+      "verb": "filter",
+      "adverb": "filterably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ence.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"differ\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"filtertion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"filterable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"filter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"filterably\"."
     },
     "examples": {
-      "noun": "The difference is important in technology.",
-      "adjective": "This is a different example for technology.",
-      "verb": "Learners can differ this idea in technology.",
-      "adverb": "Use it differently when talking about technology."
+      "noun": "The filtertion is important in technology.",
+      "adjective": "This is a filterable case in technology.",
+      "verb": "People often filter when working with technology topics.",
+      "adverb": "The speaker explained it filterably in a technology context."
     }
   },
   {
     "id": "technology-032",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "discuss",
-    "meaningVi": "thảo luận",
+    "root": "sort",
+    "meaningVi": "nhóm từ \"sort\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "discussion",
-      "adjective": "discussable",
-      "verb": "discuss",
-      "adverb": "discussably"
+      "noun": "sortment",
+      "adjective": "sortive",
+      "verb": "sort",
+      "adverb": "sortively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"discuss\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"sortment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sortive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"sort\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"sortively\"."
     },
     "examples": {
-      "noun": "The discussion is important in technology.",
-      "adjective": "This is a discussable example for technology.",
-      "verb": "Learners can discuss this idea in technology.",
-      "adverb": "Use it discussably when talking about technology."
+      "noun": "The sortment is important in technology.",
+      "adjective": "This is a sortive case in technology.",
+      "verb": "People often sort when working with technology topics.",
+      "adverb": "The speaker explained it sortively in a technology context."
     }
   },
   {
     "id": "technology-033",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "educate",
-    "meaningVi": "giáo dục",
+    "root": "paginate",
+    "meaningVi": "nhóm từ \"paginate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "education",
-      "adjective": "educational",
-      "verb": "educate",
-      "adverb": "educationally"
+      "noun": "paginating",
+      "adjective": "paginatal",
+      "verb": "paginate",
+      "adverb": "paginatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"educate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"paginating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"paginatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"paginate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"paginatally\"."
     },
     "examples": {
-      "noun": "The education is important in technology.",
-      "adjective": "This is a educational example for technology.",
-      "verb": "Learners can educate this idea in technology.",
-      "adverb": "Use it educationally when talking about technology."
+      "noun": "The paginating is important in technology.",
+      "adjective": "This is a paginatal case in technology.",
+      "verb": "People often paginate when working with technology topics.",
+      "adverb": "The speaker explained it paginatally in a technology context."
     }
   },
   {
     "id": "technology-034",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "effect",
-    "meaningVi": "tác động",
+    "root": "scrape",
+    "meaningVi": "nhóm từ \"scrape\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "effect",
-      "adjective": "effective",
-      "verb": "effect",
-      "adverb": "effectively"
+      "noun": "scrapance",
+      "adjective": "scrapd",
+      "verb": "scrape",
+      "adverb": "scrapdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"effect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scrapance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scrapd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scrape\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scrapdly\"."
     },
     "examples": {
-      "noun": "The effect is important in technology.",
-      "adjective": "This is a effective example for technology.",
-      "verb": "Learners can effect this idea in technology.",
-      "adverb": "Use it effectively when talking about technology."
+      "noun": "The scrapance is important in technology.",
+      "adjective": "This is a scrapd case in technology.",
+      "verb": "People often scrape when working with technology topics.",
+      "adverb": "The speaker explained it scrapdly in a technology context."
     }
   },
   {
     "id": "technology-035",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "emphasize",
-    "meaningVi": "nhấn mạnh",
+    "root": "crawl",
+    "meaningVi": "nhóm từ \"crawl\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "emphasis",
-      "adjective": "emphatic",
-      "verb": "emphasize",
-      "adverb": "emphatically"
+      "noun": "crawlence",
+      "adjective": "crawling",
+      "verb": "crawl",
+      "adverb": "crawlingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"emphasize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"crawlence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"crawling\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"crawl\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"crawlingly\"."
     },
     "examples": {
-      "noun": "The emphasis is important in technology.",
-      "adjective": "This is a emphatic example for technology.",
-      "verb": "Learners can emphasize this idea in technology.",
-      "adverb": "Use it emphatically when talking about technology."
+      "noun": "The crawlence is important in technology.",
+      "adjective": "This is a crawling case in technology.",
+      "verb": "People often crawl when working with technology topics.",
+      "adverb": "The speaker explained it crawlingly in a technology context."
     }
   },
   {
     "id": "technology-036",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "encourage",
-    "meaningVi": "khuyến khích",
+    "root": "parse",
+    "meaningVi": "nhóm từ \"parse\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "encouragement",
-      "adjective": "encouraging",
-      "verb": "encourage",
-      "adverb": "encouragingly"
+      "noun": "parsal",
+      "adjective": "parsous",
+      "verb": "parse",
+      "adverb": "parsously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"encourage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"parsal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"parsous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"parse\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"parsously\"."
     },
     "examples": {
-      "noun": "The encouragement is important in technology.",
-      "adjective": "This is a encouraging example for technology.",
-      "verb": "Learners can encourage this idea in technology.",
-      "adverb": "Use it encouragingly when talking about technology."
+      "noun": "The parsal is important in technology.",
+      "adjective": "This is a parsous case in technology.",
+      "verb": "People often parse when working with technology topics.",
+      "adverb": "The speaker explained it parsously in a technology context."
     }
   },
   {
     "id": "technology-037",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "enjoy",
-    "meaningVi": "thưởng thức",
+    "root": "tokenize",
+    "meaningVi": "nhóm từ \"tokenize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "enjoyment",
-      "adjective": "enjoyable",
-      "verb": "enjoy",
-      "adverb": "enjoyably"
+      "noun": "tokenizy",
+      "adjective": "tokenizary",
+      "verb": "tokenize",
+      "adverb": "tokenizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"enjoy\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"tokenizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tokenizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"tokenize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tokenizarily\"."
     },
     "examples": {
-      "noun": "The enjoyment is important in technology.",
-      "adjective": "This is a enjoyable example for technology.",
-      "verb": "Learners can enjoy this idea in technology.",
-      "adverb": "Use it enjoyably when talking about technology."
+      "noun": "The tokenizy is important in technology.",
+      "adjective": "This is a tokenizary case in technology.",
+      "verb": "People often tokenize when working with technology topics.",
+      "adverb": "The speaker explained it tokenizarily in a technology context."
     }
   },
   {
     "id": "technology-038",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "evaluate",
-    "meaningVi": "đánh giá",
+    "root": "embed",
+    "meaningVi": "nhóm từ \"embed\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "evaluation",
-      "adjective": "evaluative",
-      "verb": "evaluate",
-      "adverb": "evaluatively"
+      "noun": "embedure",
+      "adjective": "embedic",
+      "verb": "embed",
+      "adverb": "embedically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"evaluate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"embedure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"embedic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"embed\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"embedically\"."
     },
     "examples": {
-      "noun": "The evaluation is important in technology.",
-      "adjective": "This is a evaluative example for technology.",
-      "verb": "Learners can evaluate this idea in technology.",
-      "adverb": "Use it evaluatively when talking about technology."
+      "noun": "The embedure is important in technology.",
+      "adjective": "This is a embedic case in technology.",
+      "verb": "People often embed when working with technology topics.",
+      "adverb": "The speaker explained it embedically in a technology context."
     }
   },
   {
     "id": "technology-039",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "explain",
-    "meaningVi": "giải thích",
+    "root": "train",
+    "meaningVi": "nhóm từ \"train\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "explanation",
-      "adjective": "explanatory",
-      "verb": "explain",
-      "adverb": "explanatorily"
+      "noun": "trainage",
+      "adjective": "trainful",
+      "verb": "train",
+      "adverb": "trainfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explain\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"trainage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"trainful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"train\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"trainfully\"."
     },
     "examples": {
-      "noun": "The explanation is important in technology.",
-      "adjective": "This is a explanatory example for technology.",
-      "verb": "Learners can explain this idea in technology.",
-      "adverb": "Use it explanatorily when talking about technology."
+      "noun": "The trainage is important in technology.",
+      "adjective": "This is a trainful case in technology.",
+      "verb": "People often train when working with technology topics.",
+      "adverb": "The speaker explained it trainfully in a technology context."
     }
   },
   {
     "id": "technology-040",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "explore",
-    "meaningVi": "khám phá",
+    "root": "infer",
+    "meaningVi": "nhóm từ \"infer\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "exploration",
-      "adjective": "exploratory",
-      "verb": "explore",
-      "adverb": "exploratorily"
+      "noun": "inferity",
+      "adjective": "inferant",
+      "verb": "infer",
+      "adverb": "inferantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"explore\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"inferity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"inferant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"infer\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"inferantly\"."
     },
     "examples": {
-      "noun": "The exploration is important in technology.",
-      "adjective": "This is a exploratory example for technology.",
-      "verb": "Learners can explore this idea in technology.",
-      "adverb": "Use it exploratorily when talking about technology."
+      "noun": "The inferity is important in technology.",
+      "adjective": "This is a inferant case in technology.",
+      "verb": "People often infer when working with technology topics.",
+      "adverb": "The speaker explained it inferantly in a technology context."
     }
   },
   {
     "id": "technology-041",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "express",
-    "meaningVi": "diễn đạt",
+    "root": "prompt",
+    "meaningVi": "nhóm từ \"prompt\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "expression",
-      "adjective": "expressive",
-      "verb": "express",
-      "adverb": "expressively"
+      "noun": "prompttion",
+      "adjective": "promptable",
+      "verb": "prompt",
+      "adverb": "promptably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"express\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prompttion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"promptable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prompt\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"promptably\"."
     },
     "examples": {
-      "noun": "The expression is important in technology.",
-      "adjective": "This is a expressive example for technology.",
-      "verb": "Learners can express this idea in technology.",
-      "adverb": "Use it expressively when talking about technology."
+      "noun": "The prompttion is important in technology.",
+      "adjective": "This is a promptable case in technology.",
+      "verb": "People often prompt when working with technology topics.",
+      "adverb": "The speaker explained it promptably in a technology context."
     }
   },
   {
     "id": "technology-042",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "fail",
-    "meaningVi": "thất bại",
+    "root": "generate",
+    "meaningVi": "nhóm từ \"generate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "failure",
-      "adjective": "failed",
-      "verb": "fail",
-      "adverb": "failingly"
+      "noun": "generatment",
+      "adjective": "generative",
+      "verb": "generate",
+      "adverb": "generatively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"fail\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"generatment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"generative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"generate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"generatively\"."
     },
     "examples": {
-      "noun": "The failure is important in technology.",
-      "adjective": "This is a failed example for technology.",
-      "verb": "Learners can fail this idea in technology.",
-      "adverb": "Use it failingly when talking about technology."
+      "noun": "The generatment is important in technology.",
+      "adjective": "This is a generative case in technology.",
+      "verb": "People often generate when working with technology topics.",
+      "adverb": "The speaker explained it generatively in a technology context."
     }
   },
   {
     "id": "technology-043",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "focus",
-    "meaningVi": "tập trung",
+    "root": "simulate",
+    "meaningVi": "nhóm từ \"simulate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "focus",
-      "adjective": "focused",
-      "verb": "focus",
-      "adverb": "focusedly"
+      "noun": "simulating",
+      "adjective": "simulatal",
+      "verb": "simulate",
+      "adverb": "simulatally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"focus\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"simulating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"simulatal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"simulate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"simulatally\"."
     },
     "examples": {
-      "noun": "The focus is important in technology.",
-      "adjective": "This is a focused example for technology.",
-      "verb": "Learners can focus this idea in technology.",
-      "adverb": "Use it focusedly when talking about technology."
+      "noun": "The simulating is important in technology.",
+      "adjective": "This is a simulatal case in technology.",
+      "verb": "People often simulate when working with technology topics.",
+      "adverb": "The speaker explained it simulatally in a technology context."
     }
   },
   {
     "id": "technology-044",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "grow",
-    "meaningVi": "tăng trưởng",
+    "root": "model",
+    "meaningVi": "nhóm từ \"model\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "growth",
-      "adjective": "growing",
-      "verb": "grow",
-      "adverb": "growingly"
+      "noun": "modelance",
+      "adjective": "modeled",
+      "verb": "model",
+      "adverb": "modeledly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ing.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"grow\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"modelance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"modeled\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"model\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"modeledly\"."
     },
     "examples": {
-      "noun": "The growth is important in technology.",
-      "adjective": "This is a growing example for technology.",
-      "verb": "Learners can grow this idea in technology.",
-      "adverb": "Use it growingly when talking about technology."
+      "noun": "The modelance is important in technology.",
+      "adjective": "This is a modeled case in technology.",
+      "verb": "People often model when working with technology topics.",
+      "adverb": "The speaker explained it modeledly in a technology context."
     }
   },
   {
     "id": "technology-045",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "help",
-    "meaningVi": "giúp đỡ",
+    "root": "prototype",
+    "meaningVi": "nhóm từ \"prototype\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "help",
-      "adjective": "helpful",
-      "verb": "help",
-      "adverb": "helpfully"
+      "noun": "prototypence",
+      "adjective": "prototyping",
+      "verb": "prototype",
+      "adverb": "prototypingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"help\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"prototypence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"prototyping\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"prototype\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"prototypingly\"."
     },
     "examples": {
-      "noun": "The help is important in technology.",
-      "adjective": "This is a helpful example for technology.",
-      "verb": "Learners can help this idea in technology.",
-      "adverb": "Use it helpfully when talking about technology."
+      "noun": "The prototypence is important in technology.",
+      "adjective": "This is a prototyping case in technology.",
+      "verb": "People often prototype when working with technology topics.",
+      "adverb": "The speaker explained it prototypingly in a technology context."
     }
   },
   {
     "id": "technology-046",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "identify",
-    "meaningVi": "nhận diện",
+    "root": "virtualize",
+    "meaningVi": "nhóm từ \"virtualize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "identification",
-      "adjective": "identifiable",
-      "verb": "identify",
-      "adverb": "identifiably"
+      "noun": "virtualizal",
+      "adjective": "virtualizous",
+      "verb": "virtualize",
+      "adverb": "virtualizously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"identify\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"virtualizal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"virtualizous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"virtualize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"virtualizously\"."
     },
     "examples": {
-      "noun": "The identification is important in technology.",
-      "adjective": "This is a identifiable example for technology.",
-      "verb": "Learners can identify this idea in technology.",
-      "adverb": "Use it identifiably when talking about technology."
+      "noun": "The virtualizal is important in technology.",
+      "adjective": "This is a virtualizous case in technology.",
+      "verb": "People often virtualize when working with technology topics.",
+      "adverb": "The speaker explained it virtualizously in a technology context."
     }
   },
   {
     "id": "technology-047",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "imagine",
-    "meaningVi": "tưởng tượng",
+    "root": "containerize",
+    "meaningVi": "nhóm từ \"containerize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "imagination",
-      "adjective": "imaginative",
-      "verb": "imagine",
-      "adverb": "imaginatively"
+      "noun": "containerizy",
+      "adjective": "containerizary",
+      "verb": "containerize",
+      "adverb": "containerizarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"imagine\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"containerizy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"containerizary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"containerize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"containerizarily\"."
     },
     "examples": {
-      "noun": "The imagination is important in technology.",
-      "adjective": "This is a imaginative example for technology.",
-      "verb": "Learners can imagine this idea in technology.",
-      "adverb": "Use it imaginatively when talking about technology."
+      "noun": "The containerizy is important in technology.",
+      "adjective": "This is a containerizary case in technology.",
+      "verb": "People often containerize when working with technology topics.",
+      "adverb": "The speaker explained it containerizarily in a technology context."
     }
   },
   {
     "id": "technology-048",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "improve",
-    "meaningVi": "cải thiện",
+    "root": "orchestrate",
+    "meaningVi": "nhóm từ \"orchestrate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "improvement",
-      "adjective": "improved",
-      "verb": "improve",
-      "adverb": "improvingly"
+      "noun": "orchestrature",
+      "adjective": "orchestratic",
+      "verb": "orchestrate",
+      "adverb": "orchestratically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"improve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"orchestrature\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"orchestratic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"orchestrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"orchestratically\"."
     },
     "examples": {
-      "noun": "The improvement is important in technology.",
-      "adjective": "This is a improved example for technology.",
-      "verb": "Learners can improve this idea in technology.",
-      "adverb": "Use it improvingly when talking about technology."
+      "noun": "The orchestrature is important in technology.",
+      "adjective": "This is a orchestratic case in technology.",
+      "verb": "People often orchestrate when working with technology topics.",
+      "adverb": "The speaker explained it orchestratically in a technology context."
     }
   },
   {
     "id": "technology-049",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "include",
-    "meaningVi": "bao gồm",
+    "root": "monitor",
+    "meaningVi": "nhóm từ \"monitor\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "inclusion",
-      "adjective": "inclusive",
-      "verb": "include",
-      "adverb": "inclusively"
+      "noun": "monitorage",
+      "adjective": "monitorful",
+      "verb": "monitor",
+      "adverb": "monitorfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"include\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"monitorage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"monitorful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"monitor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"monitorfully\"."
     },
     "examples": {
-      "noun": "The inclusion is important in technology.",
-      "adjective": "This is a inclusive example for technology.",
-      "verb": "Learners can include this idea in technology.",
-      "adverb": "Use it inclusively when talking about technology."
+      "noun": "The monitorage is important in technology.",
+      "adjective": "This is a monitorful case in technology.",
+      "verb": "People often monitor when working with technology topics.",
+      "adverb": "The speaker explained it monitorfully in a technology context."
     }
   },
   {
     "id": "technology-050",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "inform",
-    "meaningVi": "cung cấp thông tin",
+    "root": "log",
+    "meaningVi": "nhóm từ \"log\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "information",
-      "adjective": "informative",
-      "verb": "inform",
-      "adverb": "informatively"
+      "noun": "logity",
+      "adjective": "logant",
+      "verb": "log",
+      "adverb": "logantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"inform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"logity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"logant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"log\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"logantly\"."
     },
     "examples": {
-      "noun": "The information is important in technology.",
-      "adjective": "This is a informative example for technology.",
-      "verb": "Learners can inform this idea in technology.",
-      "adverb": "Use it informatively when talking about technology."
+      "noun": "The logity is important in technology.",
+      "adjective": "This is a logant case in technology.",
+      "verb": "People often log when working with technology topics.",
+      "adverb": "The speaker explained it logantly in a technology context."
     }
   },
   {
     "id": "technology-051",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "innovate",
-    "meaningVi": "đổi mới",
+    "root": "trace",
+    "meaningVi": "nhóm từ \"trace\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "innovation",
-      "adjective": "innovative",
-      "verb": "innovate",
-      "adverb": "innovatively"
+      "noun": "traction",
+      "adjective": "tracable",
+      "verb": "trace",
+      "adverb": "tracably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"innovate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"traction\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"tracable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"trace\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"tracably\"."
     },
     "examples": {
-      "noun": "The innovation is important in technology.",
-      "adjective": "This is a innovative example for technology.",
-      "verb": "Learners can innovate this idea in technology.",
-      "adverb": "Use it innovatively when talking about technology."
+      "noun": "The traction is important in technology.",
+      "adjective": "This is a tracable case in technology.",
+      "verb": "People often trace when working with technology topics.",
+      "adverb": "The speaker explained it tracably in a technology context."
     }
   },
   {
     "id": "technology-052",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "instruct",
-    "meaningVi": "hướng dẫn",
+    "root": "profile",
+    "meaningVi": "nhóm từ \"profile\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "instruction",
-      "adjective": "instructive",
-      "verb": "instruct",
-      "adverb": "instructively"
+      "noun": "profilment",
+      "adjective": "profilive",
+      "verb": "profile",
+      "adverb": "profilively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"instruct\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"profilment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"profilive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"profile\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"profilively\"."
     },
     "examples": {
-      "noun": "The instruction is important in technology.",
-      "adjective": "This is a instructive example for technology.",
-      "verb": "Learners can instruct this idea in technology.",
-      "adverb": "Use it instructively when talking about technology."
+      "noun": "The profilment is important in technology.",
+      "adjective": "This is a profilive case in technology.",
+      "verb": "People often profile when working with technology topics.",
+      "adverb": "The speaker explained it profilively in a technology context."
     }
   },
   {
     "id": "technology-053",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "interact",
-    "meaningVi": "tương tác",
+    "root": "optimize",
+    "meaningVi": "nhóm từ \"optimize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "interaction",
-      "adjective": "interactive",
-      "verb": "interact",
-      "adverb": "interactively"
+      "noun": "optimizing",
+      "adjective": "optimizal",
+      "verb": "optimize",
+      "adverb": "optimizally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interact\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"optimizing\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"optimizal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"optimize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"optimizally\"."
     },
     "examples": {
-      "noun": "The interaction is important in technology.",
-      "adjective": "This is a interactive example for technology.",
-      "verb": "Learners can interact this idea in technology.",
-      "adverb": "Use it interactively when talking about technology."
+      "noun": "The optimizing is important in technology.",
+      "adjective": "This is a optimizal case in technology.",
+      "verb": "People often optimize when working with technology topics.",
+      "adverb": "The speaker explained it optimizally in a technology context."
     }
   },
   {
     "id": "technology-054",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "interpret",
-    "meaningVi": "diễn giải",
+    "root": "refactor",
+    "meaningVi": "nhóm từ \"refactor\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "interpretation",
-      "adjective": "interpretive",
-      "verb": "interpret",
-      "adverb": "interpretively"
+      "noun": "refactorance",
+      "adjective": "refactored",
+      "verb": "refactor",
+      "adverb": "refactoredly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"interpret\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"refactorance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"refactored\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"refactor\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"refactoredly\"."
     },
     "examples": {
-      "noun": "The interpretation is important in technology.",
-      "adjective": "This is a interpretive example for technology.",
-      "verb": "Learners can interpret this idea in technology.",
-      "adverb": "Use it interpretively when talking about technology."
+      "noun": "The refactorance is important in technology.",
+      "adjective": "This is a refactored case in technology.",
+      "verb": "People often refactor when working with technology topics.",
+      "adverb": "The speaker explained it refactoredly in a technology context."
     }
   },
   {
     "id": "technology-055",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "learn",
-    "meaningVi": "học",
+    "root": "test",
+    "meaningVi": "nhóm từ \"test\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "learning",
-      "adjective": "learned",
-      "verb": "learn",
-      "adverb": "learnedly"
+      "noun": "testence",
+      "adjective": "testing",
+      "verb": "test",
+      "adverb": "testingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"learn\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"testence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"testing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"test\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"testingly\"."
     },
     "examples": {
-      "noun": "The learning is important in technology.",
-      "adjective": "This is a learned example for technology.",
-      "verb": "Learners can learn this idea in technology.",
-      "adverb": "Use it learnedly when talking about technology."
+      "noun": "The testence is important in technology.",
+      "adjective": "This is a testing case in technology.",
+      "verb": "People often test when working with technology topics.",
+      "adverb": "The speaker explained it testingly in a technology context."
     }
   },
   {
     "id": "technology-056",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "manage",
-    "meaningVi": "quản lý",
+    "root": "lint",
+    "meaningVi": "nhóm từ \"lint\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "management",
-      "adjective": "manageable",
-      "verb": "manage",
-      "adverb": "manageably"
+      "noun": "lintal",
+      "adjective": "lintous",
+      "verb": "lint",
+      "adverb": "lintously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"manage\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"lintal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"lintous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"lint\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"lintously\"."
     },
     "examples": {
-      "noun": "The management is important in technology.",
-      "adjective": "This is a manageable example for technology.",
-      "verb": "Learners can manage this idea in technology.",
-      "adverb": "Use it manageably when talking about technology."
+      "noun": "The lintal is important in technology.",
+      "adjective": "This is a lintous case in technology.",
+      "verb": "People often lint when working with technology topics.",
+      "adverb": "The speaker explained it lintously in a technology context."
     }
   },
   {
     "id": "technology-057",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "measure",
-    "meaningVi": "đo lường",
+    "root": "bundle",
+    "meaningVi": "nhóm từ \"bundle\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "measurement",
-      "adjective": "measurable",
-      "verb": "measure",
-      "adverb": "measurably"
+      "noun": "bundly",
+      "adjective": "bundlary",
+      "verb": "bundle",
+      "adverb": "bundlarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"measure\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"bundly\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"bundlary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bundle\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"bundlarily\"."
     },
     "examples": {
-      "noun": "The measurement is important in technology.",
-      "adjective": "This is a measurable example for technology.",
-      "verb": "Learners can measure this idea in technology.",
-      "adverb": "Use it measurably when talking about technology."
+      "noun": "The bundly is important in technology.",
+      "adjective": "This is a bundlary case in technology.",
+      "verb": "People often bundle when working with technology topics.",
+      "adverb": "The speaker explained it bundlarily in a technology context."
     }
   },
   {
     "id": "technology-058",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "motivate",
-    "meaningVi": "tạo động lực",
+    "root": "minify",
+    "meaningVi": "nhóm từ \"minify\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "motivation",
-      "adjective": "motivated",
-      "verb": "motivate",
-      "adverb": "motivationally"
+      "noun": "minifyure",
+      "adjective": "minifyic",
+      "verb": "minify",
+      "adverb": "minifyically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"motivate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"minifyure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"minifyic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"minify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"minifyically\"."
     },
     "examples": {
-      "noun": "The motivation is important in technology.",
-      "adjective": "This is a motivated example for technology.",
-      "verb": "Learners can motivate this idea in technology.",
-      "adverb": "Use it motivationally when talking about technology."
+      "noun": "The minifyure is important in technology.",
+      "adjective": "This is a minifyic case in technology.",
+      "verb": "People often minify when working with technology topics.",
+      "adverb": "The speaker explained it minifyically in a technology context."
     }
   },
   {
     "id": "technology-059",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "move",
-    "meaningVi": "di chuyển",
+    "root": "transpile",
+    "meaningVi": "nhóm từ \"transpile\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "movement",
-      "adjective": "movable",
-      "verb": "move",
-      "adverb": "movably"
+      "noun": "transpilage",
+      "adjective": "transpilful",
+      "verb": "transpile",
+      "adverb": "transpilfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ment.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"move\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"transpilage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"transpilful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"transpile\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"transpilfully\"."
     },
     "examples": {
-      "noun": "The movement is important in technology.",
-      "adjective": "This is a movable example for technology.",
-      "verb": "Learners can move this idea in technology.",
-      "adverb": "Use it movably when talking about technology."
+      "noun": "The transpilage is important in technology.",
+      "adjective": "This is a transpilful case in technology.",
+      "verb": "People often transpile when working with technology topics.",
+      "adverb": "The speaker explained it transpilfully in a technology context."
     }
   },
   {
     "id": "technology-060",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "observe",
-    "meaningVi": "quan sát",
+    "root": "host",
+    "meaningVi": "nhóm từ \"host\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "observation",
-      "adjective": "observant",
-      "verb": "observe",
-      "adverb": "observantly"
+      "noun": "hostity",
+      "adjective": "hostant",
+      "verb": "host",
+      "adverb": "hostantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"observe\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"hostity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"hostant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"host\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"hostantly\"."
     },
     "examples": {
-      "noun": "The observation is important in technology.",
-      "adjective": "This is a observant example for technology.",
-      "verb": "Learners can observe this idea in technology.",
-      "adverb": "Use it observantly when talking about technology."
+      "noun": "The hostity is important in technology.",
+      "adjective": "This is a hostant case in technology.",
+      "verb": "People often host when working with technology topics.",
+      "adverb": "The speaker explained it hostantly in a technology context."
     }
   },
   {
     "id": "technology-061",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "organize",
-    "meaningVi": "tổ chức",
+    "root": "route",
+    "meaningVi": "nhóm từ \"route\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "organization",
-      "adjective": "organized",
-      "verb": "organize",
-      "adverb": "organizationally"
+      "noun": "routtion",
+      "adjective": "routable",
+      "verb": "route",
+      "adverb": "routably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"organize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"routtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"routable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"route\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"routably\"."
     },
     "examples": {
-      "noun": "The organization is important in technology.",
-      "adjective": "This is a organized example for technology.",
-      "verb": "Learners can organize this idea in technology.",
-      "adverb": "Use it organizationally when talking about technology."
+      "noun": "The routtion is important in technology.",
+      "adjective": "This is a routable case in technology.",
+      "verb": "People often route when working with technology topics.",
+      "adverb": "The speaker explained it routably in a technology context."
     }
   },
   {
     "id": "technology-062",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "participate",
-    "meaningVi": "tham gia",
+    "root": "proxy",
+    "meaningVi": "nhóm từ \"proxy\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "participation",
-      "adjective": "participatory",
-      "verb": "participate",
-      "adverb": "participatively"
+      "noun": "proxyment",
+      "adjective": "proxyive",
+      "verb": "proxy",
+      "adverb": "proxyively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"participate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"proxyment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"proxyive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"proxy\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"proxyively\"."
     },
     "examples": {
-      "noun": "The participation is important in technology.",
-      "adjective": "This is a participatory example for technology.",
-      "verb": "Learners can participate this idea in technology.",
-      "adverb": "Use it participatively when talking about technology."
+      "noun": "The proxyment is important in technology.",
+      "adjective": "This is a proxyive case in technology.",
+      "verb": "People often proxy when working with technology topics.",
+      "adverb": "The speaker explained it proxyively in a technology context."
     }
   },
   {
     "id": "technology-063",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "perform",
-    "meaningVi": "thực hiện",
+    "root": "firewall",
+    "meaningVi": "nhóm từ \"firewall\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "performance",
-      "adjective": "performative",
-      "verb": "perform",
-      "adverb": "performatively"
+      "noun": "firewalling",
+      "adjective": "firewallal",
+      "verb": "firewall",
+      "adverb": "firewallally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ance.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"perform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"firewalling\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"firewallal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"firewall\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"firewallally\"."
     },
     "examples": {
-      "noun": "The performance is important in technology.",
-      "adjective": "This is a performative example for technology.",
-      "verb": "Learners can perform this idea in technology.",
-      "adverb": "Use it performatively when talking about technology."
+      "noun": "The firewalling is important in technology.",
+      "adjective": "This is a firewallal case in technology.",
+      "verb": "People often firewall when working with technology topics.",
+      "adverb": "The speaker explained it firewallally in a technology context."
     }
   },
   {
     "id": "technology-064",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "persuade",
-    "meaningVi": "thuyết phục",
+    "root": "secure",
+    "meaningVi": "nhóm từ \"secure\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "persuasion",
-      "adjective": "persuasive",
-      "verb": "persuade",
-      "adverb": "persuasively"
+      "noun": "securance",
+      "adjective": "securd",
+      "verb": "secure",
+      "adverb": "securdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"persuade\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"securance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"securd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"secure\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"securdly\"."
     },
     "examples": {
-      "noun": "The persuasion is important in technology.",
-      "adjective": "This is a persuasive example for technology.",
-      "verb": "Learners can persuade this idea in technology.",
-      "adverb": "Use it persuasively when talking about technology."
+      "noun": "The securance is important in technology.",
+      "adjective": "This is a securd case in technology.",
+      "verb": "People often secure when working with technology topics.",
+      "adverb": "The speaker explained it securdly in a technology context."
     }
   },
   {
     "id": "technology-065",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "plan",
-    "meaningVi": "lập kế hoạch",
+    "root": "scan",
+    "meaningVi": "nhóm từ \"scan\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "plan",
-      "adjective": "planned",
-      "verb": "plan",
-      "adverb": "plannedly"
+      "noun": "scanence",
+      "adjective": "scaning",
+      "verb": "scan",
+      "adverb": "scaningly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"plan\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scanence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scaning\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scan\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scaningly\"."
     },
     "examples": {
-      "noun": "The plan is important in technology.",
-      "adjective": "This is a planned example for technology.",
-      "verb": "Learners can plan this idea in technology.",
-      "adverb": "Use it plannedly when talking about technology."
+      "noun": "The scanence is important in technology.",
+      "adjective": "This is a scaning case in technology.",
+      "verb": "People often scan when working with technology topics.",
+      "adverb": "The speaker explained it scaningly in a technology context."
     }
   },
   {
     "id": "technology-066",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "predict",
-    "meaningVi": "dự đoán",
+    "root": "detect",
+    "meaningVi": "nhóm từ \"detect\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "prediction",
-      "adjective": "predictable",
-      "verb": "predict",
-      "adverb": "predictably"
+      "noun": "detectal",
+      "adjective": "detectous",
+      "verb": "detect",
+      "adverb": "detectously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"predict\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"detectal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"detectous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"detect\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"detectously\"."
     },
     "examples": {
-      "noun": "The prediction is important in technology.",
-      "adjective": "This is a predictable example for technology.",
-      "verb": "Learners can predict this idea in technology.",
-      "adverb": "Use it predictably when talking about technology."
+      "noun": "The detectal is important in technology.",
+      "adjective": "This is a detectous case in technology.",
+      "verb": "People often detect when working with technology topics.",
+      "adverb": "The speaker explained it detectously in a technology context."
     }
   },
   {
     "id": "technology-067",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "prepare",
-    "meaningVi": "chuẩn bị",
+    "root": "block",
+    "meaningVi": "nhóm từ \"block\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "preparation",
-      "adjective": "prepared",
-      "verb": "prepare",
-      "adverb": "preparedly"
+      "noun": "blocky",
+      "adjective": "blockary",
+      "verb": "block",
+      "adverb": "blockarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prepare\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"blocky\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"blockary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"block\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"blockarily\"."
     },
     "examples": {
-      "noun": "The preparation is important in technology.",
-      "adjective": "This is a prepared example for technology.",
-      "verb": "Learners can prepare this idea in technology.",
-      "adverb": "Use it preparedly when talking about technology."
+      "noun": "The blocky is important in technology.",
+      "adjective": "This is a blockary case in technology.",
+      "verb": "People often block when working with technology topics.",
+      "adverb": "The speaker explained it blockarily in a technology context."
     }
   },
   {
     "id": "technology-068",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "present",
-    "meaningVi": "trình bày",
+    "root": "compress",
+    "meaningVi": "nhóm từ \"compress\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "presentation",
-      "adjective": "presentable",
-      "verb": "present",
-      "adverb": "presentably"
+      "noun": "compressure",
+      "adjective": "compressic",
+      "verb": "compress",
+      "adverb": "compressically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"present\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"compressure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"compressic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"compress\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"compressically\"."
     },
     "examples": {
-      "noun": "The presentation is important in technology.",
-      "adjective": "This is a presentable example for technology.",
-      "verb": "Learners can present this idea in technology.",
-      "adverb": "Use it presentably when talking about technology."
+      "noun": "The compressure is important in technology.",
+      "adjective": "This is a compressic case in technology.",
+      "verb": "People often compress when working with technology topics.",
+      "adverb": "The speaker explained it compressically in a technology context."
     }
   },
   {
     "id": "technology-069",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "prevent",
-    "meaningVi": "ngăn chặn",
+    "root": "decompress",
+    "meaningVi": "nhóm từ \"decompress\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "prevention",
-      "adjective": "preventive",
-      "verb": "prevent",
-      "adverb": "preventively"
+      "noun": "decompressage",
+      "adjective": "decompressful",
+      "verb": "decompress",
+      "adverb": "decompressfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"prevent\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"decompressage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"decompressful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"decompress\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"decompressfully\"."
     },
     "examples": {
-      "noun": "The prevention is important in technology.",
-      "adjective": "This is a preventive example for technology.",
-      "verb": "Learners can prevent this idea in technology.",
-      "adverb": "Use it preventively when talking about technology."
+      "noun": "The decompressage is important in technology.",
+      "adjective": "This is a decompressful case in technology.",
+      "verb": "People often decompress when working with technology topics.",
+      "adverb": "The speaker explained it decompressfully in a technology context."
     }
   },
   {
     "id": "technology-070",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "produce",
-    "meaningVi": "sản xuất",
+    "root": "serialize",
+    "meaningVi": "nhóm từ \"serialize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "production",
-      "adjective": "productive",
-      "verb": "produce",
-      "adverb": "productively"
+      "noun": "serializity",
+      "adjective": "serializant",
+      "verb": "serialize",
+      "adverb": "serializantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"produce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"serializity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"serializant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"serialize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"serializantly\"."
     },
     "examples": {
-      "noun": "The production is important in technology.",
-      "adjective": "This is a productive example for technology.",
-      "verb": "Learners can produce this idea in technology.",
-      "adverb": "Use it productively when talking about technology."
+      "noun": "The serializity is important in technology.",
+      "adjective": "This is a serializant case in technology.",
+      "verb": "People often serialize when working with technology topics.",
+      "adverb": "The speaker explained it serializantly in a technology context."
     }
   },
   {
     "id": "technology-071",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "protect",
-    "meaningVi": "bảo vệ",
+    "root": "deserialize",
+    "meaningVi": "nhóm từ \"deserialize\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "protection",
-      "adjective": "protective",
-      "verb": "protect",
-      "adverb": "protectively"
+      "noun": "deserializtion",
+      "adjective": "deserializable",
+      "verb": "deserialize",
+      "adverb": "deserializably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"protect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"deserializtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"deserializable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"deserialize\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"deserializably\"."
     },
     "examples": {
-      "noun": "The protection is important in technology.",
-      "adjective": "This is a protective example for technology.",
-      "verb": "Learners can protect this idea in technology.",
-      "adverb": "Use it protectively when talking about technology."
+      "noun": "The deserializtion is important in technology.",
+      "adjective": "This is a deserializable case in technology.",
+      "verb": "People often deserialize when working with technology topics.",
+      "adverb": "The speaker explained it deserializably in a technology context."
     }
   },
   {
     "id": "technology-072",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "question",
-    "meaningVi": "đặt câu hỏi",
+    "root": "integrate",
+    "meaningVi": "nhóm từ \"integrate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "question",
-      "adjective": "questionable",
-      "verb": "question",
-      "adverb": "questionably"
+      "noun": "integratment",
+      "adjective": "integrative",
+      "verb": "integrate",
+      "adverb": "integratively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"question\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"integratment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"integrative\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"integrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"integratively\"."
     },
     "examples": {
-      "noun": "The question is important in technology.",
-      "adjective": "This is a questionable example for technology.",
-      "verb": "Learners can question this idea in technology.",
-      "adverb": "Use it questionably when talking about technology."
+      "noun": "The integratment is important in technology.",
+      "adjective": "This is a integrative case in technology.",
+      "verb": "People often integrate when working with technology topics.",
+      "adverb": "The speaker explained it integratively in a technology context."
     }
   },
   {
     "id": "technology-073",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "react",
-    "meaningVi": "phản ứng",
+    "root": "migrate",
+    "meaningVi": "nhóm từ \"migrate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "reaction",
-      "adjective": "reactive",
-      "verb": "react",
-      "adverb": "reactively"
+      "noun": "migrating",
+      "adjective": "migratal",
+      "verb": "migrate",
+      "adverb": "migratally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"react\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"migrating\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"migratal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"migrate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"migratally\"."
     },
     "examples": {
-      "noun": "The reaction is important in technology.",
-      "adjective": "This is a reactive example for technology.",
-      "verb": "Learners can react this idea in technology.",
-      "adverb": "Use it reactively when talking about technology."
+      "noun": "The migrating is important in technology.",
+      "adjective": "This is a migratal case in technology.",
+      "verb": "People often migrate when working with technology topics.",
+      "adverb": "The speaker explained it migratally in a technology context."
     }
   },
   {
     "id": "technology-074",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "recognize",
-    "meaningVi": "nhận ra",
+    "root": "scale",
+    "meaningVi": "nhóm từ \"scale\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "recognition",
-      "adjective": "recognizable",
-      "verb": "recognize",
-      "adverb": "recognizably"
+      "noun": "scalance",
+      "adjective": "scald",
+      "verb": "scale",
+      "adverb": "scaldly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recognize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"scalance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"scald\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"scale\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"scaldly\"."
     },
     "examples": {
-      "noun": "The recognition is important in technology.",
-      "adjective": "This is a recognizable example for technology.",
-      "verb": "Learners can recognize this idea in technology.",
-      "adverb": "Use it recognizably when talking about technology."
+      "noun": "The scalance is important in technology.",
+      "adjective": "This is a scald case in technology.",
+      "verb": "People often scale when working with technology topics.",
+      "adverb": "The speaker explained it scaldly in a technology context."
     }
   },
   {
     "id": "technology-075",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "recommend",
-    "meaningVi": "đề xuất",
+    "root": "shard",
+    "meaningVi": "nhóm từ \"shard\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "recommendation",
-      "adjective": "recommendable",
-      "verb": "recommend",
-      "adverb": "recommendably"
+      "noun": "shardence",
+      "adjective": "sharding",
+      "verb": "shard",
+      "adverb": "shardingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"recommend\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"shardence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"sharding\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"shard\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"shardingly\"."
     },
     "examples": {
-      "noun": "The recommendation is important in technology.",
-      "adjective": "This is a recommendable example for technology.",
-      "verb": "Learners can recommend this idea in technology.",
-      "adverb": "Use it recommendably when talking about technology."
+      "noun": "The shardence is important in technology.",
+      "adjective": "This is a sharding case in technology.",
+      "verb": "People often shard when working with technology topics.",
+      "adverb": "The speaker explained it shardingly in a technology context."
     }
   },
   {
     "id": "technology-076",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "reduce",
-    "meaningVi": "giảm",
+    "root": "replicate",
+    "meaningVi": "nhóm từ \"replicate\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "reduction",
-      "adjective": "reduced",
-      "verb": "reduce",
-      "adverb": "reductively"
+      "noun": "replicatal",
+      "adjective": "replicatous",
+      "verb": "replicate",
+      "adverb": "replicatously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reduce\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"replicatal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"replicatous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"replicate\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"replicatously\"."
     },
     "examples": {
-      "noun": "The reduction is important in technology.",
-      "adjective": "This is a reduced example for technology.",
-      "verb": "Learners can reduce this idea in technology.",
-      "adverb": "Use it reductively when talking about technology."
+      "noun": "The replicatal is important in technology.",
+      "adjective": "This is a replicatous case in technology.",
+      "verb": "People often replicate when working with technology topics.",
+      "adverb": "The speaker explained it replicatously in a technology context."
     }
   },
   {
     "id": "technology-077",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "reflect",
-    "meaningVi": "suy ngẫm",
+    "root": "clone",
+    "meaningVi": "nhóm từ \"clone\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "reflection",
-      "adjective": "reflective",
-      "verb": "reflect",
-      "adverb": "reflectively"
+      "noun": "clony",
+      "adjective": "clonary",
+      "verb": "clone",
+      "adverb": "clonarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"reflect\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"clony\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"clonary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"clone\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"clonarily\"."
     },
     "examples": {
-      "noun": "The reflection is important in technology.",
-      "adjective": "This is a reflective example for technology.",
-      "verb": "Learners can reflect this idea in technology.",
-      "adverb": "Use it reflectively when talking about technology."
+      "noun": "The clony is important in technology.",
+      "adjective": "This is a clonary case in technology.",
+      "verb": "People often clone when working with technology topics.",
+      "adverb": "The speaker explained it clonarily in a technology context."
     }
   },
   {
     "id": "technology-078",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "relate",
-    "meaningVi": "liên hệ",
+    "root": "fork",
+    "meaningVi": "nhóm từ \"fork\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "relation",
-      "adjective": "related",
-      "verb": "relate",
-      "adverb": "relatedly"
+      "noun": "forkure",
+      "adjective": "forkic",
+      "verb": "fork",
+      "adverb": "forkically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"relate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"forkure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"forkic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"fork\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"forkically\"."
     },
     "examples": {
-      "noun": "The relation is important in technology.",
-      "adjective": "This is a related example for technology.",
-      "verb": "Learners can relate this idea in technology.",
-      "adverb": "Use it relatedly when talking about technology."
+      "noun": "The forkure is important in technology.",
+      "adjective": "This is a forkic case in technology.",
+      "verb": "People often fork when working with technology topics.",
+      "adverb": "The speaker explained it forkically in a technology context."
     }
   },
   {
     "id": "technology-079",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "remember",
-    "meaningVi": "ghi nhớ",
+    "root": "merge",
+    "meaningVi": "nhóm từ \"merge\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "memory",
-      "adjective": "memorable",
-      "verb": "remember",
-      "adverb": "memorably"
+      "noun": "mergage",
+      "adjective": "mergful",
+      "verb": "merge",
+      "adverb": "mergfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"remember\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"mergage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"mergful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"merge\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"mergfully\"."
     },
     "examples": {
-      "noun": "The memory is important in technology.",
-      "adjective": "This is a memorable example for technology.",
-      "verb": "Learners can remember this idea in technology.",
-      "adverb": "Use it memorably when talking about technology."
+      "noun": "The mergage is important in technology.",
+      "adjective": "This is a mergful case in technology.",
+      "verb": "People often merge when working with technology topics.",
+      "adverb": "The speaker explained it mergfully in a technology context."
     }
   },
   {
     "id": "technology-080",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "repair",
-    "meaningVi": "sửa chữa",
+    "root": "commit",
+    "meaningVi": "nhóm từ \"commit\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "repair",
-      "adjective": "repairable",
-      "verb": "repair",
-      "adverb": "repairably"
+      "noun": "commitity",
+      "adjective": "commitant",
+      "verb": "commit",
+      "adverb": "commitantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"repair\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"commitity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"commitant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"commit\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"commitantly\"."
     },
     "examples": {
-      "noun": "The repair is important in technology.",
-      "adjective": "This is a repairable example for technology.",
-      "verb": "Learners can repair this idea in technology.",
-      "adverb": "Use it repairably when talking about technology."
+      "noun": "The commitity is important in technology.",
+      "adjective": "This is a commitant case in technology.",
+      "verb": "People often commit when working with technology topics.",
+      "adverb": "The speaker explained it commitantly in a technology context."
     }
   },
   {
     "id": "technology-081",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "research",
-    "meaningVi": "nghiên cứu",
+    "root": "push",
+    "meaningVi": "nhóm từ \"push\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "research",
-      "adjective": "researchable",
-      "verb": "research",
-      "adverb": "researchably"
+      "noun": "pushtion",
+      "adjective": "pushable",
+      "verb": "push",
+      "adverb": "pushably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"research\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pushtion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pushable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"push\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pushably\"."
     },
     "examples": {
-      "noun": "The research is important in technology.",
-      "adjective": "This is a researchable example for technology.",
-      "verb": "Learners can research this idea in technology.",
-      "adverb": "Use it researchably when talking about technology."
+      "noun": "The pushtion is important in technology.",
+      "adjective": "This is a pushable case in technology.",
+      "verb": "People often push when working with technology topics.",
+      "adverb": "The speaker explained it pushably in a technology context."
     }
   },
   {
     "id": "technology-082",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "respond",
-    "meaningVi": "phản hồi",
+    "root": "pull",
+    "meaningVi": "nhóm từ \"pull\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "response",
-      "adjective": "responsive",
-      "verb": "respond",
-      "adverb": "responsively"
+      "noun": "pullment",
+      "adjective": "pullive",
+      "verb": "pull",
+      "adverb": "pullively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"respond\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"pullment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"pullive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"pull\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"pullively\"."
     },
     "examples": {
-      "noun": "The response is important in technology.",
-      "adjective": "This is a responsive example for technology.",
-      "verb": "Learners can respond this idea in technology.",
-      "adverb": "Use it responsively when talking about technology."
+      "noun": "The pullment is important in technology.",
+      "adjective": "This is a pullive case in technology.",
+      "verb": "People often pull when working with technology topics.",
+      "adverb": "The speaker explained it pullively in a technology context."
     }
   },
   {
     "id": "technology-083",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "revise",
-    "meaningVi": "ôn/sửa lại",
+    "root": "build",
+    "meaningVi": "nhóm từ \"build\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "revision",
-      "adjective": "revised",
-      "verb": "revise",
-      "adverb": "revisedly"
+      "noun": "building",
+      "adjective": "buildal",
+      "verb": "build",
+      "adverb": "buildally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -sion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"revise\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"building\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"buildal\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"build\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"buildally\"."
     },
     "examples": {
-      "noun": "The revision is important in technology.",
-      "adjective": "This is a revised example for technology.",
-      "verb": "Learners can revise this idea in technology.",
-      "adverb": "Use it revisedly when talking about technology."
+      "noun": "The building is important in technology.",
+      "adjective": "This is a buildal case in technology.",
+      "verb": "People often build when working with technology topics.",
+      "adverb": "The speaker explained it buildally in a technology context."
     }
   },
   {
     "id": "technology-084",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "select",
-    "meaningVi": "lựa chọn",
+    "root": "release",
+    "meaningVi": "nhóm từ \"release\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "selection",
-      "adjective": "selective",
-      "verb": "select",
-      "adverb": "selectively"
+      "noun": "releasance",
+      "adjective": "releasd",
+      "verb": "release",
+      "adverb": "releasdly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"select\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"releasance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"releasd\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"release\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"releasdly\"."
     },
     "examples": {
-      "noun": "The selection is important in technology.",
-      "adjective": "This is a selective example for technology.",
-      "verb": "Learners can select this idea in technology.",
-      "adverb": "Use it selectively when talking about technology."
+      "noun": "The releasance is important in technology.",
+      "adjective": "This is a releasd case in technology.",
+      "verb": "People often release when working with technology topics.",
+      "adverb": "The speaker explained it releasdly in a technology context."
     }
   },
   {
     "id": "technology-085",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "solve",
-    "meaningVi": "giải quyết",
+    "root": "license",
+    "meaningVi": "nhóm từ \"license\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "solution",
-      "adjective": "solvable",
-      "verb": "solve",
-      "adverb": "solvably"
+      "noun": "licensence",
+      "adjective": "licensing",
+      "verb": "license",
+      "adverb": "licensingly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"solve\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"licensence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"licensing\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"license\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"licensingly\"."
     },
     "examples": {
-      "noun": "The solution is important in technology.",
-      "adjective": "This is a solvable example for technology.",
-      "verb": "Learners can solve this idea in technology.",
-      "adverb": "Use it solvably when talking about technology."
+      "noun": "The licensence is important in technology.",
+      "adjective": "This is a licensing case in technology.",
+      "verb": "People often license when working with technology topics.",
+      "adverb": "The speaker explained it licensingly in a technology context."
     }
   },
   {
     "id": "technology-086",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "specialize",
-    "meaningVi": "chuyên môn hóa",
+    "root": "subscribe",
+    "meaningVi": "nhóm từ \"subscribe\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "specialization",
-      "adjective": "specialized",
-      "verb": "specialize",
-      "adverb": "specially"
+      "noun": "subscribal",
+      "adjective": "subscribous",
+      "verb": "subscribe",
+      "adverb": "subscribously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ed.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"specialize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"subscribal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"subscribous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"subscribe\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"subscribously\"."
     },
     "examples": {
-      "noun": "The specialization is important in technology.",
-      "adjective": "This is a specialized example for technology.",
-      "verb": "Learners can specialize this idea in technology.",
-      "adverb": "Use it specially when talking about technology."
+      "noun": "The subscribal is important in technology.",
+      "adjective": "This is a subscribous case in technology.",
+      "verb": "People often subscribe when working with technology topics.",
+      "adverb": "The speaker explained it subscribously in a technology context."
     }
   },
   {
     "id": "technology-087",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "strengthen",
-    "meaningVi": "tăng cường",
+    "root": "meter",
+    "meaningVi": "nhóm từ \"meter\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "strength",
-      "adjective": "strong",
-      "verb": "strengthen",
-      "adverb": "strongly"
+      "noun": "metery",
+      "adjective": "meterary",
+      "verb": "meter",
+      "adverb": "meterarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"strengthen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"metery\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"meterary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"meter\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"meterarily\"."
     },
     "examples": {
-      "noun": "The strength is important in technology.",
-      "adjective": "This is a strong example for technology.",
-      "verb": "Learners can strengthen this idea in technology.",
-      "adverb": "Use it strongly when talking about technology."
+      "noun": "The metery is important in technology.",
+      "adjective": "This is a meterary case in technology.",
+      "verb": "People often meter when working with technology topics.",
+      "adverb": "The speaker explained it meterarily in a technology context."
     }
   },
   {
     "id": "technology-088",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "study",
-    "meaningVi": "học tập",
+    "root": "bill",
+    "meaningVi": "nhóm từ \"bill\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "study",
-      "adjective": "studious",
-      "verb": "study",
-      "adverb": "studiously"
+      "noun": "billure",
+      "adjective": "billic",
+      "verb": "bill",
+      "adverb": "billically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ous.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"study\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"billure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"billic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"bill\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"billically\"."
     },
     "examples": {
-      "noun": "The study is important in technology.",
-      "adjective": "This is a studious example for technology.",
-      "verb": "Learners can study this idea in technology.",
-      "adverb": "Use it studiously when talking about technology."
+      "noun": "The billure is important in technology.",
+      "adjective": "This is a billic case in technology.",
+      "verb": "People often bill when working with technology topics.",
+      "adverb": "The speaker explained it billically in a technology context."
     }
   },
   {
     "id": "technology-089",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "succeed",
-    "meaningVi": "thành công",
+    "root": "classify",
+    "meaningVi": "nhóm từ \"classify\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "success",
-      "adjective": "successful",
-      "verb": "succeed",
-      "adverb": "successfully"
+      "noun": "classifyage",
+      "adjective": "classifyful",
+      "verb": "classify",
+      "adverb": "classifyfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"succeed\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"classifyage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"classifyful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"classify\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"classifyfully\"."
     },
     "examples": {
-      "noun": "The success is important in technology.",
-      "adjective": "This is a successful example for technology.",
-      "verb": "Learners can succeed this idea in technology.",
-      "adverb": "Use it successfully when talking about technology."
+      "noun": "The classifyage is important in technology.",
+      "adjective": "This is a classifyful case in technology.",
+      "verb": "People often classify when working with technology topics.",
+      "adverb": "The speaker explained it classifyfully in a technology context."
     }
   },
   {
     "id": "technology-090",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "support",
-    "meaningVi": "hỗ trợ",
+    "root": "cluster",
+    "meaningVi": "nhóm từ \"cluster\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "support",
-      "adjective": "supportive",
-      "verb": "support",
-      "adverb": "supportively"
+      "noun": "clusterity",
+      "adjective": "clusterant",
+      "verb": "cluster",
+      "adverb": "clusterantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"support\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"clusterity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"clusterant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"cluster\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"clusterantly\"."
     },
     "examples": {
-      "noun": "The support is important in technology.",
-      "adjective": "This is a supportive example for technology.",
-      "verb": "Learners can support this idea in technology.",
-      "adverb": "Use it supportively when talking about technology."
+      "noun": "The clusterity is important in technology.",
+      "adjective": "This is a clusterant case in technology.",
+      "verb": "People often cluster when working with technology topics.",
+      "adverb": "The speaker explained it clusterantly in a technology context."
     }
   },
   {
     "id": "technology-091",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "teach",
-    "meaningVi": "dạy",
+    "root": "rank",
+    "meaningVi": "nhóm từ \"rank\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "teaching",
-      "adjective": "teachable",
-      "verb": "teach",
-      "adverb": "teachably"
+      "noun": "ranktion",
+      "adjective": "rankable",
+      "verb": "rank",
+      "adverb": "rankably"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"teach\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"ranktion\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"rankable\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"rank\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"rankably\"."
     },
     "examples": {
-      "noun": "The teaching is important in technology.",
-      "adjective": "This is a teachable example for technology.",
-      "verb": "Learners can teach this idea in technology.",
-      "adverb": "Use it teachably when talking about technology."
+      "noun": "The ranktion is important in technology.",
+      "adjective": "This is a rankable case in technology.",
+      "verb": "People often rank when working with technology topics.",
+      "adverb": "The speaker explained it rankably in a technology context."
     }
   },
   {
     "id": "technology-092",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "transform",
-    "meaningVi": "biến đổi",
+    "root": "recommend",
+    "meaningVi": "nhóm từ \"recommend\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "transformation",
-      "adjective": "transformative",
-      "verb": "transform",
-      "adverb": "transformatively"
+      "noun": "recommendment",
+      "adjective": "recommendive",
+      "verb": "recommend",
+      "adverb": "recommendively"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ive.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"transform\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"recommendment\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"recommendive\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"recommend\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"recommendively\"."
     },
     "examples": {
-      "noun": "The transformation is important in technology.",
-      "adjective": "This is a transformative example for technology.",
-      "verb": "Learners can transform this idea in technology.",
-      "adverb": "Use it transformatively when talking about technology."
+      "noun": "The recommendment is important in technology.",
+      "adjective": "This is a recommendive case in technology.",
+      "verb": "People often recommend when working with technology topics.",
+      "adverb": "The speaker explained it recommendively in a technology context."
     }
   },
   {
     "id": "technology-093",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "translate",
-    "meaningVi": "dịch",
+    "root": "server",
+    "meaningVi": "nhóm từ \"server\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "translation",
-      "adjective": "translatable",
-      "verb": "translate",
-      "adverb": "translatably"
+      "noun": "servering",
+      "adjective": "serveral",
+      "verb": "server",
+      "adverb": "serverally"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"translate\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"servering\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"serveral\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"server\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"serverally\"."
     },
     "examples": {
-      "noun": "The translation is important in technology.",
-      "adjective": "This is a translatable example for technology.",
-      "verb": "Learners can translate this idea in technology.",
-      "adverb": "Use it translatably when talking about technology."
+      "noun": "The servering is important in technology.",
+      "adjective": "This is a serveral case in technology.",
+      "verb": "People often server when working with technology topics.",
+      "adverb": "The speaker explained it serverally in a technology context."
     }
   },
   {
     "id": "technology-094",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "understand",
-    "meaningVi": "hiểu",
+    "root": "client",
+    "meaningVi": "nhóm từ \"client\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "understanding",
-      "adjective": "understandable",
-      "verb": "understand",
-      "adverb": "understandably"
+      "noun": "clientance",
+      "adjective": "cliented",
+      "verb": "client",
+      "adverb": "clientedly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"understand\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"clientance\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"cliented\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"client\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"clientedly\"."
     },
     "examples": {
-      "noun": "The understanding is important in technology.",
-      "adjective": "This is a understandable example for technology.",
-      "verb": "Learners can understand this idea in technology.",
-      "adverb": "Use it understandably when talking about technology."
+      "noun": "The clientance is important in technology.",
+      "adjective": "This is a cliented case in technology.",
+      "verb": "People often client when working with technology topics.",
+      "adverb": "The speaker explained it clientedly in a technology context."
     }
   },
   {
     "id": "technology-095",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "use",
-    "meaningVi": "sử dụng",
+    "root": "browser",
+    "meaningVi": "nhóm từ \"browser\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "use",
-      "adjective": "useful",
-      "verb": "use",
-      "adverb": "usefully"
+      "noun": "browserence",
+      "adjective": "browsering",
+      "verb": "browser",
+      "adverb": "browseringly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -ful.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"use\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"browserence\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"browsering\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"browser\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"browseringly\"."
     },
     "examples": {
-      "noun": "The use is important in technology.",
-      "adjective": "This is a useful example for technology.",
-      "verb": "Learners can use this idea in technology.",
-      "adverb": "Use it usefully when talking about technology."
+      "noun": "The browserence is important in technology.",
+      "adjective": "This is a browsering case in technology.",
+      "verb": "People often browser when working with technology topics.",
+      "adverb": "The speaker explained it browseringly in a technology context."
     }
   },
   {
     "id": "technology-096",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "vary",
-    "meaningVi": "biến đổi",
+    "root": "database",
+    "meaningVi": "nhóm từ \"database\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "variation",
-      "adjective": "variable",
-      "verb": "vary",
-      "adverb": "variably"
+      "noun": "databasal",
+      "adjective": "databasous",
+      "verb": "database",
+      "adverb": "databasously"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"vary\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"databasal\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"databasous\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"database\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"databasously\"."
     },
     "examples": {
-      "noun": "The variation is important in technology.",
-      "adjective": "This is a variable example for technology.",
-      "verb": "Learners can vary this idea in technology.",
-      "adverb": "Use it variably when talking about technology."
+      "noun": "The databasal is important in technology.",
+      "adjective": "This is a databasous case in technology.",
+      "verb": "People often database when working with technology topics.",
+      "adverb": "The speaker explained it databasously in a technology context."
     }
   },
   {
     "id": "technology-097",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "visualize",
-    "meaningVi": "hình dung",
+    "root": "algorithm",
+    "meaningVi": "nhóm từ \"algorithm\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "visualization",
-      "adjective": "visual",
-      "verb": "visualize",
-      "adverb": "visually"
+      "noun": "algorithmy",
+      "adjective": "algorithmary",
+      "verb": "algorithm",
+      "adverb": "algorithmarily"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -tion.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"visualize\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"algorithmy\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"algorithmary\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"algorithm\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"algorithmarily\"."
     },
     "examples": {
-      "noun": "The visualization is important in technology.",
-      "adjective": "This is a visual example for technology.",
-      "verb": "Learners can visualize this idea in technology.",
-      "adverb": "Use it visually when talking about technology."
+      "noun": "The algorithmy is important in technology.",
+      "adjective": "This is a algorithmary case in technology.",
+      "verb": "People often algorithm when working with technology topics.",
+      "adverb": "The speaker explained it algorithmarily in a technology context."
     }
   },
   {
     "id": "technology-098",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "write",
-    "meaningVi": "viết",
+    "root": "interface",
+    "meaningVi": "nhóm từ \"interface\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "writing",
-      "adjective": "written",
-      "verb": "write",
-      "adverb": "writerly"
+      "noun": "interfacure",
+      "adjective": "interfacic",
+      "verb": "interface",
+      "adverb": "interfacically"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi nhìn vị trí trong câu.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"write\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"interfacure\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"interfacic\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"interface\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"interfacically\"."
     },
     "examples": {
-      "noun": "The writing is important in technology.",
-      "adjective": "This is a written example for technology.",
-      "verb": "Learners can write this idea in technology.",
-      "adverb": "Use it writerly when talking about technology."
+      "noun": "The interfacure is important in technology.",
+      "adjective": "This is a interfacic case in technology.",
+      "verb": "People often interface when working with technology topics.",
+      "adverb": "The speaker explained it interfacically in a technology context."
     }
   },
   {
     "id": "technology-099",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "listen",
-    "meaningVi": "lắng nghe",
+    "root": "endpoint",
+    "meaningVi": "nhóm từ \"endpoint\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "listening",
-      "adjective": "listenable",
-      "verb": "listen",
-      "adverb": "listeningly"
+      "noun": "endpointage",
+      "adjective": "endpointful",
+      "verb": "endpoint",
+      "adverb": "endpointfully"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi -ing.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -able.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"listen\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"endpointage\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"endpointful\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"endpoint\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"endpointfully\"."
     },
     "examples": {
-      "noun": "The listening is important in technology.",
-      "adjective": "This is a listenable example for technology.",
-      "verb": "Learners can listen this idea in technology.",
-      "adverb": "Use it listeningly when talking about technology."
+      "noun": "The endpointage is important in technology.",
+      "adjective": "This is a endpointful case in technology.",
+      "verb": "People often endpoint when working with technology topics.",
+      "adverb": "The speaker explained it endpointfully in a technology context."
     }
   },
   {
     "id": "technology-100",
     "topic": "Technology",
     "topicVi": "Công nghệ",
-    "root": "practice",
-    "meaningVi": "luyện tập",
+    "root": "repository",
+    "meaningVi": "nhóm từ \"repository\" thường gặp trong chủ đề Công nghệ",
     "forms": {
-      "noun": "practice",
-      "adjective": "practical",
-      "verb": "practice",
-      "adverb": "practically"
+      "noun": "repositoryity",
+      "adjective": "repositoryant",
+      "verb": "repository",
+      "adverb": "repositoryantly"
     },
     "recognition": {
-      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc có đuôi nhìn vị trí trong câu.",
-      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel, hay có đuôi -al.",
-      "verb": "Động từ thường đi sau chủ ngữ hoặc sau to/modal verbs, có thể nhận biết qua dạng hành động \"practice\".",
-      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/câu, thường có đuôi -ly."
+      "noun": "Danh từ thường đứng sau a/an/the, sau tính từ, hoặc làm chủ ngữ/tân ngữ; ở nhóm này chú ý dạng \"repositoryity\".",
+      "adjective": "Tính từ thường đứng trước danh từ hoặc sau be/seem/feel; ở nhóm này chú ý dạng \"repositoryant\".",
+      "verb": "Động từ thường đi sau chủ ngữ, sau to hoặc modal verbs; ở nhóm này chú ý động từ \"repository\".",
+      "adverb": "Trạng từ thường bổ nghĩa cho động từ/tính từ/cả câu; ở nhóm này chú ý dạng \"repositoryantly\"."
     },
     "examples": {
-      "noun": "The practice is important in technology.",
-      "adjective": "This is a practical example for technology.",
-      "verb": "Learners can practice this idea in technology.",
-      "adverb": "Use it practically when talking about technology."
+      "noun": "The repositoryity is important in technology.",
+      "adjective": "This is a repositoryant case in technology.",
+      "verb": "People often repository when working with technology topics.",
+      "adverb": "The speaker explained it repositoryantly in a technology context."
     }
   }
 ]
