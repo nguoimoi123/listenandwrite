@@ -668,7 +668,12 @@ export default function App() {
       setGDriveFoldersList(folders);
     } catch (err: any) {
       console.error("Lỗi lấy danh sách thư mục GDrive:", err);
-      alert("⚠️ Không thể lấy danh sách thư mục từ Google Drive: " + (err.message || err));
+      const message = err.message || String(err);
+      if (message.includes('403') || message.includes('insufficient authentication scopes')) {
+        alert("⚠️ Tài khoản Google chưa cấp đủ quyền Drive cho ứng dụng.\n\nHãy bấm Đăng xuất Google Drive, sau đó Kết nối Google Drive lại và chọn Allow/Cho phép ở màn hình cấp quyền.");
+      } else {
+        alert("⚠️ Không thể lấy danh sách thư mục từ Google Drive: " + message);
+      }
     } finally {
       setIsGdriveFoldersLoading(false);
     }

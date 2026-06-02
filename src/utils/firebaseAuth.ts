@@ -9,6 +9,10 @@ export const auth = getAuth(app);
 // Use Google Auth Provider with Google Drive scopes
 export const provider = new GoogleAuthProvider();
 provider.addScope('https://www.googleapis.com/auth/drive');
+provider.addScope('https://www.googleapis.com/auth/drive.metadata.readonly');
+provider.setCustomParameters({
+  prompt: 'consent'
+});
 
 let isSigningIn = false;
 let cachedAccessToken: string | null = null;
