@@ -340,8 +340,14 @@ export default function VocabularyModule({
   };
 
   const isSyncActive = localDirectoryHandle || (storageMode === 'gdrive' && gdriveFolderId);
+  const syncLabel = localDirectoryHandle
+    ? `${localDirectoryName || 'Local folder'}/vocabulary.json`
+    : storageMode === 'gdrive' && gdriveFolderId
+      ? `${gdriveFolderName || 'Google Drive'}/vocabulary.json`
+      : 'Mã nguồn + bộ nhớ trình duyệt';
+  const requireSyncBeforeVocabulary = false;
 
-  if (!isSyncActive) {
+  if (requireSyncBeforeVocabulary && !isSyncActive) {
     return (
       <div className="w-full flex flex-col gap-6 select-text animate-fade-in py-8">
         <div className="max-w-xl mx-auto w-full bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-10 space-y-6 text-center shadow-2xl relative">
@@ -508,7 +514,7 @@ export default function VocabularyModule({
           <div className="flex items-center gap-1.5 px-3 py-1.5 bg-emerald-500/5 border border-emerald-500/10 text-[10px] text-emerald-400 font-bold rounded-xl shadow-inner select-none">
             <span className="h-1.5 w-1.5 bg-emerald-450 rounded-full animate-pulse" />
             <span className="font-mono text-slate-500 font-medium">Đồng bộ:</span>
-            <span>{localDirectoryName}/vocabulary.json</span>
+            <span>{syncLabel}</span>
           </div>
         </div>
 
