@@ -31,7 +31,8 @@ import {
   Eye,
   EyeOff,
   Info,
-  RefreshCw
+  RefreshCw,
+  Target
 } from 'lucide-react';
 import { computeWordDiff, calculateAccuracy, DiffToken } from './utils/diff';
 import { getLocalLessons, saveLocalLesson, deleteLocalLesson, SavedLesson, initDB } from './utils/db';
@@ -46,6 +47,7 @@ import {
   gdriveListFolders
 } from './utils/gdrive';
 import VocabularyModule from './components/VocabularyModule';
+import PartOfSpeechDrill from './components/PartOfSpeechDrill';
 
 interface PracticeHistory {
   id: string;
@@ -70,7 +72,7 @@ export interface VocabularyWord {
 
 export default function App() {
   // Navigation Module Selector
-  const [activeModule, setActiveModule] = useState<'listenwrite' | 'vocabulary'>('listenwrite');
+  const [activeModule, setActiveModule] = useState<'listenwrite' | 'vocabulary' | 'partsOfSpeech'>('listenwrite');
 
   // Vocabulary Feature States
   const [vocabWords, setVocabWords] = useState<VocabularyWord[]>(() => {
@@ -2681,6 +2683,18 @@ ${evaluationResult.diffs.map(d => {
               <span>🎴 THẺ TỪ VỰNG THÔNG MINH (Flashcards)</span>
               <span className="hidden sm:inline bg-emerald-500/15 text-emerald-400 text-[9px] font-black px-1.5 py-0.5 rounded border border-emerald-500/20 uppercase tracking-wider animate-pulse">Hot</span>
             </button>
+            <button
+              onClick={() => setActiveModule('partsOfSpeech')}
+              className={`py-3 px-4 text-xs sm:text-sm font-extrabold flex items-center gap-2 border-b-2 transition-all cursor-pointer relative ${
+                activeModule === 'partsOfSpeech'
+                  ? 'border-emerald-500 text-emerald-400 bg-emerald-500/5'
+                  : 'border-transparent text-slate-400 hover:text-slate-200 hover:bg-slate-900-50/10'
+              }`}
+            >
+              <Target className="h-4 w-4 shrink-0 text-sky-400" />
+              <span>PART 5 TU LOAI TRONG CAU</span>
+              <span className="hidden sm:inline bg-sky-500/15 text-sky-300 text-[9px] font-black px-1.5 py-0.5 rounded border border-sky-500/20 uppercase tracking-wider">500 cau</span>
+            </button>
           </div>
         </div>
       </header>
@@ -4144,7 +4158,7 @@ ${evaluationResult.diffs.map(d => {
 
         </div>
         </>
-        ) : (
+        ) : activeModule === 'vocabulary' ? (
           <VocabularyModule
             vocabWords={vocabWords}
             setVocabWords={setVocabWords}
@@ -4158,6 +4172,8 @@ ${evaluationResult.diffs.map(d => {
             gdriveUser={gdriveUser}
             handleGoogleSignIn={handleGoogleSignIn}
           />
+        ) : (
+          <PartOfSpeechDrill />
         )}
 
       </main>
