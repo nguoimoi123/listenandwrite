@@ -39,6 +39,7 @@ interface DrillQuestion {
 
 const QUESTIONS_PER_DAY = 20;
 const TOTAL_DAYS = 25;
+const TOTAL_QUESTIONS = QUESTIONS_PER_DAY * TOTAL_DAYS;
 const STORAGE_KEY = 'lw_pos_drill_progress';
 
 const posLabels: Record<PartOfSpeech, string> = {
@@ -49,7 +50,7 @@ const posLabels: Record<PartOfSpeech, string> = {
 };
 
 const wordFamilies: WordFamily[] = [
-  { root: 'finance', meaning: 'tài chính', forms: { noun: 'finance', verb: 'finance', adjective: 'financial', adverb: 'financially' } },
+  { root: 'finance', meaning: 'tài chính', forms: { noun: 'funding', verb: 'finance', adjective: 'financial', adverb: 'financially' } },
   { root: 'approve', meaning: 'phê duyệt', forms: { noun: 'approval', verb: 'approve', adjective: 'approved', adverb: 'approvingly' } },
   { root: 'produce', meaning: 'sản xuất', forms: { noun: 'production', verb: 'produce', adjective: 'productive', adverb: 'productively' } },
   { root: 'compete', meaning: 'cạnh tranh', forms: { noun: 'competition', verb: 'compete', adjective: 'competitive', adverb: 'competitively' } },
@@ -61,10 +62,10 @@ const wordFamilies: WordFamily[] = [
   { root: 'develop', meaning: 'phát triển', forms: { noun: 'development', verb: 'develop', adjective: 'developed', adverb: 'rapidly' } },
   { root: 'inform', meaning: 'thông tin', forms: { noun: 'information', verb: 'inform', adjective: 'informative', adverb: 'informatively' } },
   { root: 'succeed', meaning: 'thành công', forms: { noun: 'success', verb: 'succeed', adjective: 'successful', adverb: 'successfully' } },
-  { root: 'care', meaning: 'cẩn thận', forms: { noun: 'care', verb: 'care', adjective: 'careful', adverb: 'carefully' } },
+  { root: 'care', meaning: 'cẩn thận', forms: { noun: 'carefulness', verb: 'handle', adjective: 'careful', adverb: 'carefully' } },
   { root: 'regular', meaning: 'đều đặn', forms: { noun: 'regularity', verb: 'regulate', adjective: 'regular', adverb: 'regularly' } },
   { root: 'accurate', meaning: 'chính xác', forms: { noun: 'accuracy', verb: 'verify', adjective: 'accurate', adverb: 'accurately' } },
-  { root: 'secure', meaning: 'bảo mật', forms: { noun: 'security', verb: 'secure', adjective: 'secure', adverb: 'securely' } },
+  { root: 'secure', meaning: 'bảo mật', forms: { noun: 'security', verb: 'secure', adjective: 'secured', adverb: 'securely' } },
   { root: 'possible', meaning: 'có thể', forms: { noun: 'possibility', verb: 'enable', adjective: 'possible', adverb: 'possibly' } },
   { root: 'active', meaning: 'chủ động', forms: { noun: 'activity', verb: 'activate', adjective: 'active', adverb: 'actively' } },
   { root: 'clear', meaning: 'rõ ràng', forms: { noun: 'clarity', verb: 'clarify', adjective: 'clear', adverb: 'clearly' } },
@@ -73,7 +74,85 @@ const wordFamilies: WordFamily[] = [
   { root: 'stable', meaning: 'ổn định', forms: { noun: 'stability', verb: 'stabilize', adjective: 'stable', adverb: 'stably' } },
   { root: 'specific', meaning: 'cụ thể', forms: { noun: 'specification', verb: 'specify', adjective: 'specific', adverb: 'specifically' } },
   { root: 'modern', meaning: 'hiện đại', forms: { noun: 'modernization', verb: 'modernize', adjective: 'modern', adverb: 'modernly' } },
-  { root: 'benefit', meaning: 'lợi ích', forms: { noun: 'benefit', verb: 'benefit', adjective: 'beneficial', adverb: 'beneficially' } },
+  { root: 'benefit', meaning: 'lợi ích', forms: { noun: 'benefits', verb: 'benefit', adjective: 'beneficial', adverb: 'beneficially' } },
+  { root: 'arrange', meaning: 'sắp xếp', forms: { noun: 'arrangement', verb: 'arrange', adjective: 'arranged', adverb: 'systematically' } },
+  { root: 'assist', meaning: 'hỗ trợ', forms: { noun: 'assistance', verb: 'assist', adjective: 'assistant', adverb: 'helpfully' } },
+  { root: 'attend', meaning: 'tham dự', forms: { noun: 'attendance', verb: 'attend', adjective: 'attentive', adverb: 'attentively' } },
+  { root: 'attract', meaning: 'thu hút', forms: { noun: 'attraction', verb: 'attract', adjective: 'attractive', adverb: 'attractively' } },
+  { root: 'available', meaning: 'có sẵn', forms: { noun: 'availability', verb: 'provide', adjective: 'available', adverb: 'readily' } },
+  { root: 'aware', meaning: 'nhận thức', forms: { noun: 'awareness', verb: 'notice', adjective: 'aware', adverb: 'consciously' } },
+  { root: 'certain', meaning: 'chắc chắn', forms: { noun: 'certainty', verb: 'confirm', adjective: 'certain', adverb: 'certainly' } },
+  { root: 'collect', meaning: 'thu thập', forms: { noun: 'collection', verb: 'collect', adjective: 'collective', adverb: 'collectively' } },
+  { root: 'comfort', meaning: 'thoải mái', forms: { noun: 'comfortness', verb: 'comfort', adjective: 'comfortable', adverb: 'comfortably' } },
+  { root: 'communicate', meaning: 'giao tiếp', forms: { noun: 'communication', verb: 'communicate', adjective: 'communicative', adverb: 'clearly' } },
+  { root: 'complete', meaning: 'hoàn thành', forms: { noun: 'completion', verb: 'complete', adjective: 'completed', adverb: 'completely' } },
+  { root: 'confident', meaning: 'tự tin', forms: { noun: 'confidence', verb: 'assure', adjective: 'confident', adverb: 'confidently' } },
+  { root: 'confirm', meaning: 'xác nhận', forms: { noun: 'confirmation', verb: 'confirm', adjective: 'confirmed', adverb: 'formally' } },
+  { root: 'construct', meaning: 'xây dựng', forms: { noun: 'construction', verb: 'construct', adjective: 'constructive', adverb: 'constructively' } },
+  { root: 'consult', meaning: 'tư vấn', forms: { noun: 'consultation', verb: 'consult', adjective: 'consultative', adverb: 'professionally' } },
+  { root: 'convenient', meaning: 'thuận tiện', forms: { noun: 'convenience', verb: 'simplify', adjective: 'convenient', adverb: 'conveniently' } },
+  { root: 'create', meaning: 'tạo ra', forms: { noun: 'creation', verb: 'create', adjective: 'creative', adverb: 'creatively' } },
+  { root: 'decide', meaning: 'quyết định', forms: { noun: 'decision', verb: 'decide', adjective: 'decisive', adverb: 'decisively' } },
+  { root: 'demonstrate', meaning: 'trình bày', forms: { noun: 'demonstration', verb: 'demonstrate', adjective: 'demonstrable', adverb: 'clearly' } },
+  { root: 'depend', meaning: 'phụ thuộc', forms: { noun: 'dependence', verb: 'depend', adjective: 'dependent', adverb: 'dependably' } },
+  { root: 'direct', meaning: 'trực tiếp', forms: { noun: 'direction', verb: 'direct', adjective: 'directional', adverb: 'directly' } },
+  { root: 'distribute', meaning: 'phân phối', forms: { noun: 'distribution', verb: 'distribute', adjective: 'distributed', adverb: 'widely' } },
+  { root: 'economy', meaning: 'kinh tế', forms: { noun: 'economy', verb: 'economize', adjective: 'economic', adverb: 'economically' } },
+  { root: 'educate', meaning: 'đào tạo', forms: { noun: 'education', verb: 'educate', adjective: 'educational', adverb: 'educationally' } },
+  { root: 'employ', meaning: 'tuyển dụng', forms: { noun: 'employment', verb: 'employ', adjective: 'employable', adverb: 'gainfully' } },
+  { root: 'encourage', meaning: 'khuyến khích', forms: { noun: 'encouragement', verb: 'encourage', adjective: 'encouraging', adverb: 'encouragingly' } },
+  { root: 'equip', meaning: 'trang bị', forms: { noun: 'equipment', verb: 'equip', adjective: 'equipped', adverb: 'properly' } },
+  { root: 'evaluate', meaning: 'đánh giá', forms: { noun: 'evaluation', verb: 'evaluate', adjective: 'evaluative', adverb: 'objectively' } },
+  { root: 'expand', meaning: 'mở rộng', forms: { noun: 'expansion', verb: 'expand', adjective: 'expanded', adverb: 'rapidly' } },
+  { root: 'expect', meaning: 'mong đợi', forms: { noun: 'expectation', verb: 'expect', adjective: 'expected', adverb: 'expectedly' } },
+  { root: 'expense', meaning: 'chi phí', forms: { noun: 'expense', verb: 'spend', adjective: 'expensive', adverb: 'expensively' } },
+  { root: 'flexible', meaning: 'linh hoạt', forms: { noun: 'flexibility', verb: 'adapt', adjective: 'flexible', adverb: 'flexibly' } },
+  { root: 'frequent', meaning: 'thường xuyên', forms: { noun: 'frequency', verb: 'repeat', adjective: 'frequent', adverb: 'frequently' } },
+  { root: 'generate', meaning: 'tạo ra', forms: { noun: 'generation', verb: 'generate', adjective: 'generative', adverb: 'automatically' } },
+  { root: 'identify', meaning: 'xác định', forms: { noun: 'identification', verb: 'identify', adjective: 'identifiable', adverb: 'accurately' } },
+  { root: 'immediate', meaning: 'ngay lập tức', forms: { noun: 'immediacy', verb: 'expedite', adjective: 'immediate', adverb: 'immediately' } },
+  { root: 'improve', meaning: 'cải thiện', forms: { noun: 'improvement', verb: 'improve', adjective: 'improved', adverb: 'steadily' } },
+  { root: 'inspect', meaning: 'kiểm tra', forms: { noun: 'inspection', verb: 'inspect', adjective: 'inspective', adverb: 'closely' } },
+  { root: 'install', meaning: 'cài đặt', forms: { noun: 'installation', verb: 'install', adjective: 'installed', adverb: 'properly' } },
+  { root: 'instruct', meaning: 'hướng dẫn', forms: { noun: 'instruction', verb: 'instruct', adjective: 'instructional', adverb: 'clearly' } },
+  { root: 'invite', meaning: 'mời', forms: { noun: 'invitation', verb: 'invite', adjective: 'invited', adverb: 'cordially' } },
+  { root: 'locate', meaning: 'định vị', forms: { noun: 'location', verb: 'locate', adjective: 'local', adverb: 'locally' } },
+  { root: 'maintain', meaning: 'duy trì', forms: { noun: 'maintenance', verb: 'maintain', adjective: 'maintained', adverb: 'regularly' } },
+  { root: 'motivate', meaning: 'thúc đẩy', forms: { noun: 'motivation', verb: 'motivate', adjective: 'motivated', adverb: 'enthusiastically' } },
+  { root: 'negotiate', meaning: 'đàm phán', forms: { noun: 'negotiation', verb: 'negotiate', adjective: 'negotiable', adverb: 'successfully' } },
+  { root: 'operate', meaning: 'vận hành', forms: { noun: 'operation', verb: 'operate', adjective: 'operational', adverb: 'operationally' } },
+  { root: 'organize', meaning: 'tổ chức', forms: { noun: 'organization', verb: 'organize', adjective: 'organized', adverb: 'efficiently' } },
+  { root: 'participate', meaning: 'tham gia', forms: { noun: 'participation', verb: 'participate', adjective: 'participatory', adverb: 'actively' } },
+  { root: 'perform', meaning: 'thực hiện', forms: { noun: 'performance', verb: 'perform', adjective: 'performing', adverb: 'effectively' } },
+  { root: 'permit', meaning: 'cho phép', forms: { noun: 'permission', verb: 'permit', adjective: 'permissible', adverb: 'legally' } },
+  { root: 'prepare', meaning: 'chuẩn bị', forms: { noun: 'preparation', verb: 'prepare', adjective: 'prepared', adverb: 'thoroughly' } },
+  { root: 'present', meaning: 'trình bày', forms: { noun: 'presentation', verb: 'present', adjective: 'presentable', adverb: 'professionally' } },
+  { root: 'prevent', meaning: 'ngăn chặn', forms: { noun: 'prevention', verb: 'prevent', adjective: 'preventive', adverb: 'effectively' } },
+  { root: 'process', meaning: 'xử lý', forms: { noun: 'processing', verb: 'process', adjective: 'procedural', adverb: 'systematically' } },
+  { root: 'protect', meaning: 'bảo vệ', forms: { noun: 'protection', verb: 'protect', adjective: 'protective', adverb: 'securely' } },
+  { root: 'publish', meaning: 'xuất bản', forms: { noun: 'publication', verb: 'publish', adjective: 'published', adverb: 'publicly' } },
+  { root: 'purchase', meaning: 'mua hàng', forms: { noun: 'purchasing', verb: 'purchase', adjective: 'purchased', adverb: 'online' } },
+  { root: 'recommend', meaning: 'đề xuất', forms: { noun: 'recommendation', verb: 'recommend', adjective: 'recommended', adverb: 'strongly' } },
+  { root: 'reduce', meaning: 'giảm', forms: { noun: 'reduction', verb: 'reduce', adjective: 'reduced', adverb: 'significantly' } },
+  { root: 'refer', meaning: 'tham khảo', forms: { noun: 'reference', verb: 'refer', adjective: 'referential', adverb: 'specifically' } },
+  { root: 'register', meaning: 'đăng ký', forms: { noun: 'registration', verb: 'register', adjective: 'registered', adverb: 'online' } },
+  { root: 'repair', meaning: 'sửa chữa', forms: { noun: 'repairs', verb: 'repair', adjective: 'repaired', adverb: 'quickly' } },
+  { root: 'replace', meaning: 'thay thế', forms: { noun: 'replacement', verb: 'replace', adjective: 'replaceable', adverb: 'easily' } },
+  { root: 'reserve', meaning: 'đặt trước', forms: { noun: 'reservation', verb: 'reserve', adjective: 'reserved', adverb: 'early' } },
+  { root: 'respond', meaning: 'phản hồi', forms: { noun: 'response', verb: 'respond', adjective: 'responsive', adverb: 'promptly' } },
+  { root: 'satisfy', meaning: 'hài lòng', forms: { noun: 'satisfaction', verb: 'satisfy', adjective: 'satisfactory', adverb: 'satisfactorily' } },
+  { root: 'schedule', meaning: 'lên lịch', forms: { noun: 'scheduling', verb: 'schedule', adjective: 'scheduled', adverb: 'regularly' } },
+  { root: 'select', meaning: 'chọn lựa', forms: { noun: 'selection', verb: 'select', adjective: 'selective', adverb: 'selectively' } },
+  { root: 'special', meaning: 'đặc biệt', forms: { noun: 'specialty', verb: 'specialize', adjective: 'special', adverb: 'specially' } },
+  { root: 'strategy', meaning: 'chiến lược', forms: { noun: 'strategy', verb: 'strategize', adjective: 'strategic', adverb: 'strategically' } },
+  { root: 'submit', meaning: 'nộp', forms: { noun: 'submission', verb: 'submit', adjective: 'submitted', adverb: 'electronically' } },
+  { root: 'supply', meaning: 'cung cấp', forms: { noun: 'supplies', verb: 'supply', adjective: 'supplied', adverb: 'regularly' } },
+  { root: 'support', meaning: 'hỗ trợ', forms: { noun: 'supporting', verb: 'support', adjective: 'supportive', adverb: 'supportively' } },
+  { root: 'train', meaning: 'đào tạo', forms: { noun: 'training', verb: 'train', adjective: 'trained', adverb: 'professionally' } },
+  { root: 'transport', meaning: 'vận chuyển', forms: { noun: 'transportation', verb: 'transport', adjective: 'transportable', adverb: 'safely' } },
+  { root: 'update', meaning: 'cập nhật', forms: { noun: 'updates', verb: 'update', adjective: 'updated', adverb: 'regularly' } },
+  { root: 'use', meaning: 'sử dụng', forms: { noun: 'usage', verb: 'use', adjective: 'useful', adverb: 'usefully' } },
+  { root: 'vary', meaning: 'thay đổi', forms: { noun: 'variety', verb: 'vary', adjective: 'various', adverb: 'variously' } },
 ];
 
 const templates: DrillTemplate[] = [
@@ -134,6 +213,7 @@ function buildQuestions(): DrillQuestion[] {
 
   return questions
     .sort((first, second) => seededValue(first.id) - seededValue(second.id))
+    .slice(0, TOTAL_QUESTIONS)
     .map((question, index) => ({
       ...question,
       day: Math.floor(index / QUESTIONS_PER_DAY) + 1,
@@ -201,7 +281,7 @@ export default function PartOfSpeechDrill() {
             <div>
               <h2 className="text-2xl sm:text-3xl font-black text-white tracking-tight">Từ loại trong câu</h2>
               <p className="text-sm text-slate-400 mt-2 max-w-2xl leading-relaxed">
-                500 câu trong 25 ngày. Mỗi ngày làm 20 câu mới được trộn từ nhiều nhóm từ; từ ngày 2 trở đi sẽ có thêm 20 câu ôn của ngày trước.
+                500 câu trong 25 ngày, lấy từ kho {wordFamilies.length} nhóm từ TOEIC. Mỗi ngày làm 20 câu mới được trộn từ nhiều nhóm từ; từ ngày 2 trở đi sẽ có thêm 20 câu ôn của ngày trước.
                 Mỗi câu giải thích theo dấu hiệu câu, không học bằng cách dịch từng từ.
               </p>
             </div>
