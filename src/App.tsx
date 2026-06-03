@@ -2692,8 +2692,8 @@ ${evaluationResult.diffs.map(d => {
               }`}
             >
               <Target className="h-4 w-4 shrink-0 text-sky-400" />
-              <span>PART 5 TU LOAI TRONG CAU</span>
-              <span className="hidden sm:inline bg-sky-500/15 text-sky-300 text-[9px] font-black px-1.5 py-0.5 rounded border border-sky-500/20 uppercase tracking-wider">500 cau</span>
+              <span>PART 5 TỪ LOẠI TRONG CÂU</span>
+              <span className="hidden sm:inline bg-sky-500/15 text-sky-300 text-[9px] font-black px-1.5 py-0.5 rounded border border-sky-500/20 uppercase tracking-wider">500 câu</span>
             </button>
           </div>
         </div>
