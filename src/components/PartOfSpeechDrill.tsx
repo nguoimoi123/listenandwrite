@@ -99,8 +99,17 @@ const templates: DrillTemplate[] = [
   { pos: 'adverb', sentence: 'She responded _____ to the client email.', clue: 'responded + _____', reason: 'Chỗ trống bổ nghĩa cho động từ “responded”, nên cần trạng từ.' },
 ];
 
+function seededValue(text: string): number {
+  let hash = 2166136261;
+  for (let index = 0; index < text.length; index += 1) {
+    hash ^= text.charCodeAt(index);
+    hash = Math.imul(hash, 16777619);
+  }
+  return hash >>> 0;
+}
+
 function buildQuestions(): DrillQuestion[] {
-  return wordFamilies.flatMap((family, familyIndex) =>
+  const questions = wordFamilies.flatMap((family, familyIndex) =>
     templates.map((template, templateIndex) => {
       const options = [
         family.forms.noun,
@@ -122,6 +131,13 @@ function buildQuestions(): DrillQuestion[] {
       };
     })
   );
+
+  return questions
+    .sort((first, second) => seededValue(first.id) - seededValue(second.id))
+    .map((question, index) => ({
+      ...question,
+      day: Math.floor(index / QUESTIONS_PER_DAY) + 1,
+    }));
 }
 
 function loadCompletedDays(): number[] {
@@ -185,7 +201,7 @@ export default function PartOfSpeechDrill() {
             <div>
               <h2 className="text-2xl sm:text-3xl font-black text-white tracking-tight">Từ loại trong câu</h2>
               <p className="text-sm text-slate-400 mt-2 max-w-2xl leading-relaxed">
-                500 câu trong 25 ngày. Mỗi ngày làm 20 câu mới; từ ngày 2 trở đi sẽ có thêm 20 câu ôn của ngày trước.
+                500 câu trong 25 ngày. Mỗi ngày làm 20 câu mới được trộn từ nhiều nhóm từ; từ ngày 2 trở đi sẽ có thêm 20 câu ôn của ngày trước.
                 Mỗi câu giải thích theo dấu hiệu câu, không học bằng cách dịch từng từ.
               </p>
             </div>
