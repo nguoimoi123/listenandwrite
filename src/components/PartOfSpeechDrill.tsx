@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import {
   Award,
   BookOpenCheck,
@@ -41,6 +41,8 @@ const QUESTIONS_PER_DAY = 20;
 const TOTAL_DAYS = 25;
 const TOTAL_QUESTIONS = QUESTIONS_PER_DAY * TOTAL_DAYS;
 const STORAGE_KEY = 'lw_pos_drill_progress';
+const COURSE_START_DATE_KEY = '2026-06-11';
+const DAY_IN_MS = 24 * 60 * 60 * 1000;
 
 const posLabels: Record<PartOfSpeech, string> = {
   noun: 'Danh từ',
@@ -231,14 +233,57 @@ function loadCompletedDays(): number[] {
   }
 }
 
+function getLocalDateKey(date = new Date()): string {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function parseLocalDateKey(dateKey: string): Date {
+  const [year, month, day] = dateKey.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function getScheduledDay(date = new Date()): number {
+  const courseStart = parseLocalDateKey(COURSE_START_DATE_KEY);
+  const today = parseLocalDateKey(getLocalDateKey(date));
+  const daysSinceStart = Math.floor((today.getTime() - courseStart.getTime()) / DAY_IN_MS);
+  return Math.min(Math.max(daysSinceStart + 1, 1), TOTAL_DAYS);
+}
+
+function getNextLocalMidnightDelay(): number {
+  const now = new Date();
+  const nextMidnight = new Date(now);
+  nextMidnight.setHours(24, 0, 5, 0);
+  return Math.max(nextMidnight.getTime() - now.getTime(), 1000);
+}
+
 export default function PartOfSpeechDrill() {
   const allQuestions = useMemo(() => buildQuestions(), []);
-  const [selectedDay, setSelectedDay] = useState<number>(() => {
-    const completed = loadCompletedDays();
-    return Math.min(Math.max((completed.at(-1) || 0) + 1, 1), TOTAL_DAYS);
-  });
+  const [calendarDateKey, setCalendarDateKey] = useState<string>(() => getLocalDateKey());
+  const [selectedDay, setSelectedDay] = useState<number>(() => getScheduledDay());
   const [answers, setAnswers] = useState<Record<string, number>>({});
   const [completedDays, setCompletedDays] = useState<number[]>(() => loadCompletedDays());
+  const scheduledDay = useMemo(() => getScheduledDay(parseLocalDateKey(calendarDateKey)), [calendarDateKey]);
+
+  useEffect(() => {
+    let intervalId: number | undefined;
+    const syncToToday = () => {
+      setCalendarDateKey(getLocalDateKey());
+      setSelectedDay(getScheduledDay());
+    };
+
+    const timeoutId = window.setTimeout(() => {
+      syncToToday();
+      intervalId = window.setInterval(syncToToday, 60 * 60 * 1000);
+    }, getNextLocalMidnightDelay());
+
+    return () => {
+      window.clearTimeout(timeoutId);
+      if (intervalId !== undefined) window.clearInterval(intervalId);
+    };
+  }, []);
 
   const newQuestions = allQuestions.slice((selectedDay - 1) * QUESTIONS_PER_DAY, selectedDay * QUESTIONS_PER_DAY);
   const reviewQuestions =
@@ -309,6 +354,9 @@ export default function PartOfSpeechDrill() {
           <CalendarDays className="h-5 w-5 text-emerald-400" />
           <div>
             <div className="text-sm font-black text-white">Ngày {selectedDay}/{TOTAL_DAYS}</div>
+            <div className="text-xs text-slate-500">
+              Lịch thật: {calendarDateKey} = Ngày {scheduledDay}{selectedDay !== scheduledDay ? `, đang xem lại Ngày ${selectedDay}` : ''}
+            </div>
             <div className="text-xs text-slate-500">20 câu mới{selectedDay > 1 ? ' + 20 câu ôn hôm qua' : ''}</div>
           </div>
         </div>
@@ -330,6 +378,13 @@ export default function PartOfSpeechDrill() {
               <option key={day} value={day}>Ngày {day}</option>
             ))}
           </select>
+          <button
+            type="button"
+            onClick={() => setSelectedDay(scheduledDay)}
+            className="h-10 px-3 rounded-xl border border-sky-500/30 bg-sky-500/10 text-sky-300 hover:bg-sky-500/15 flex items-center gap-2 text-sm font-black"
+          >
+            Hôm nay
+          </button>
           <button
             type="button"
             onClick={() => setSelectedDay((day) => Math.min(TOTAL_DAYS, day + 1))}
