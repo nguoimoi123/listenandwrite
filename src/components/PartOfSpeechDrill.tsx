@@ -292,14 +292,19 @@ export default function PartOfSpeechDrill() {
       : [];
   const todayQuestions = [...newQuestions, ...reviewQuestions];
   const answeredCount = todayQuestions.filter((question) => answers[question.id] !== undefined).length;
+  const newAnsweredCount = newQuestions.filter((question) => answers[question.id] !== undefined).length;
   const correctCount = todayQuestions.filter((question) => answers[question.id] === question.answerIndex).length;
   const progressPercent = Math.round((completedDays.length / TOTAL_DAYS) * 100);
+  const isSelectedDayCompleted = completedDays.includes(selectedDay);
+  const canCompleteDay = newAnsweredCount === QUESTIONS_PER_DAY && !isSelectedDayCompleted;
 
   const answerQuestion = (questionId: string, optionIndex: number) => {
     setAnswers((current) => ({ ...current, [questionId]: optionIndex }));
   };
 
   const completeDay = () => {
+    if (!canCompleteDay) return;
+
     const nextCompleted = Array.from(new Set([...completedDays, selectedDay])).sort((a, b) => a - b);
     setCompletedDays(nextCompleted);
     localStorage.setItem(STORAGE_KEY, JSON.stringify({ completedDays: nextCompleted }));
@@ -357,7 +362,13 @@ export default function PartOfSpeechDrill() {
             <div className="text-xs text-slate-500">
               Lịch thật: {calendarDateKey} = Ngày {scheduledDay}{selectedDay !== scheduledDay ? `, đang xem lại Ngày ${selectedDay}` : ''}
             </div>
-            <div className="text-xs text-slate-500">20 câu mới{selectedDay > 1 ? ' + 20 câu ôn hôm qua' : ''}</div>
+            <div className="text-xs text-slate-500">Đã làm {newAnsweredCount}/{QUESTIONS_PER_DAY} câu mới{selectedDay > 1 ? ' + 20 câu ôn hôm qua' : ''}</div>
+            {isSelectedDayCompleted && (
+              <div className="mt-1 inline-flex items-center gap-1.5 rounded-full border border-emerald-500/25 bg-emerald-500/10 px-2.5 py-1 text-[11px] font-black text-emerald-300">
+                <CheckCircle className="h-3.5 w-3.5" />
+                Bạn đã hoàn thành
+              </div>
+            )}
           </div>
         </div>
         <div className="flex flex-wrap items-center gap-2">
@@ -404,10 +415,15 @@ export default function PartOfSpeechDrill() {
           <button
             type="button"
             onClick={completeDay}
-            className="h-10 px-3 rounded-xl border border-emerald-500/30 bg-emerald-500/10 text-emerald-300 hover:bg-emerald-500/15 flex items-center gap-2 text-sm font-black"
+            disabled={!canCompleteDay}
+            className={`h-10 px-3 rounded-xl border flex items-center gap-2 text-sm font-black transition-all ${
+              canCompleteDay
+                ? 'border-emerald-500/30 bg-emerald-500/10 text-emerald-300 hover:bg-emerald-500/15'
+                : 'border-slate-800 bg-slate-950/60 text-slate-600 cursor-not-allowed'
+            }`}
           >
             <CheckCircle className="h-4 w-4" />
-            Hoàn thành ngày
+            {isSelectedDayCompleted ? 'Đã hoàn thành' : 'Hoàn thành ngày'}
           </button>
         </div>
       </div>
