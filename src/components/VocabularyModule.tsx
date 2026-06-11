@@ -350,10 +350,8 @@ export default function VocabularyModule({
 
   const isSyncActive = localDirectoryHandle || (storageMode === 'gdrive' && gdriveFolderId);
   const syncLabel = localDirectoryHandle
-    ? `${localDirectoryName || 'Local folder'}/vocabulary.json`
-    : storageMode === 'gdrive' && gdriveFolderId
-      ? `${gdriveFolderName || 'Google Drive'}/vocabulary.json`
-      : 'Mã nguồn + bộ nhớ trình duyệt';
+    ? (localDirectoryName || 'Local folder') + '/vocabulary.json'
+    : 'TOEIC 800+ in app + browser memory';
   const requireSyncBeforeVocabulary = false;
 
   if (requireSyncBeforeVocabulary && !isSyncActive) {

@@ -48,6 +48,7 @@ import {
 } from './utils/gdrive';
 import VocabularyModule from './components/VocabularyModule';
 import PartOfSpeechDrill from './components/PartOfSpeechDrill';
+import { TOEIC_VOCABULARY_VERSION, toeicVocabulary } from './data/toeicVocabulary';
 
 interface PracticeHistory {
   id: string;
@@ -70,115 +71,34 @@ export interface VocabularyWord {
   tags: string[];
 }
 
+const getInitialVocabularyWords = (): VocabularyWord[] => {
+  const savedVersion = localStorage.getItem('lw_vocabulary_seed_version');
+
+  if (savedVersion !== TOEIC_VOCABULARY_VERSION) {
+    localStorage.setItem('lw_vocabulary_seed_version', TOEIC_VOCABULARY_VERSION);
+    localStorage.setItem('lw_v_words', JSON.stringify(toeicVocabulary));
+    return toeicVocabulary;
+  }
+
+  const saved = localStorage.getItem('lw_v_words');
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+      if (Array.isArray(parsed)) return parsed;
+    } catch (e) {
+      console.error(e);
+    }
+  }
+
+  return toeicVocabulary;
+};
+
 export default function App() {
   // Navigation Module Selector
   const [activeModule, setActiveModule] = useState<'listenwrite' | 'vocabulary' | 'partsOfSpeech'>('listenwrite');
 
   // Vocabulary Feature States
-  const [vocabWords, setVocabWords] = useState<VocabularyWord[]>(() => {
-    const saved = localStorage.getItem('lw_v_words');
-    if (saved) {
-      try { return JSON.parse(saved); } catch (e) { console.error(e); }
-    }
-    return [
-      {
-        id: 'v1',
-        word: 'Aesthetic',
-        phonetic: '/esˈθet.ɪk/',
-        definition: 'Concerned with beauty or the appreciation of beauty.',
-        translate: 'Thuộc về mỹ học, có tính thẩm mỹ cao.',
-        example: 'The new design has a highly modern aesthetic.',
-        exampleTranslate: 'Thiết kế mới mang một phong cách thẩm mỹ cực kỳ hiện đại.',
-        category: 'IELTS Academic',
-        box: 1,
-        tags: ['Academic', 'Arts']
-      },
-      {
-        id: 'v2',
-        word: 'Resilient',
-        phonetic: '/rɪˈzɪl.jənt/',
-        definition: 'Able to withstand or recover quickly from difficult conditions.',
-        translate: 'Kiên cường, bền bỉ, hồi phục nhanh chóng.',
-        example: 'She is resilient and recovered from setbacks quickly.',
-        exampleTranslate: 'Cô ấy rất kiên cường và nhanh chóng phục hồi sau các khó khăn.',
-        category: 'Essential',
-        box: 1,
-        tags: ['Personality', 'General']
-      },
-      {
-        id: 'v3',
-        word: 'Eloquent',
-        phonetic: '/ˈel.ə.kwənt/',
-        definition: 'Fluent or persuasive in speaking or writing.',
-        translate: 'Có tài hùng kiến, lưu loát và đầy thuyết phục.',
-        example: 'His eloquent speech inspired the entire team.',
-        exampleTranslate: 'Bài phát biểu đầy sức thuyết phục của anh ấy đã truyền cảm hứng cho toàn đội.',
-        category: 'IELTS Academic',
-        box: 1,
-        tags: ['Communication']
-      },
-      {
-        id: 'v4',
-        word: 'Ephemeral',
-        phonetic: '/ɪˈfem.ər.əl/',
-        definition: 'Lasting for a very short time.',
-        translate: 'Phù du, chóng tàn, ngắn ngủi.',
-        example: 'Our beautiful cherry blossoms are glorious but ephemeral.',
-        exampleTranslate: 'Hoa anh đào tuyệt đẹp khoe sắc rực rỡ nhưng rất chóng tàn.',
-        category: 'SAT Words',
-        box: 1,
-        tags: ['Time', 'Nature']
-      },
-      {
-        id: 'v5',
-        word: 'Meticulous',
-        phonetic: '/məˈtɪk.jə.ləs/',
-        definition: 'Showing great attention to detail; very careful and precise.',
-        translate: 'Tỉ mỉ, kỹ càng, cực kỳ cẩn thận.',
-        example: 'The designer is meticulous about alignments and colors.',
-        exampleTranslate: 'Nhà thiết kế rất tỉ mỉ về căn chỉnh bố cục và màu sắc.',
-        category: 'Essential',
-        box: 1,
-        tags: ['Work']
-      },
-      {
-        id: 'v6',
-        word: 'Ubiquitous',
-        phonetic: '/juːˈbɪk.wɪ.təs/',
-        definition: 'Present, appearing, or found everywhere.',
-        translate: 'Ở đâu cũng có, phổ biến khắp mọi nơi.',
-        example: 'Smartphone technology became ubiquitous within a decade.',
-        exampleTranslate: 'Công nghệ điện thoại thông minh trở nên phổ biến chỉ trong vòng một thập kỷ.',
-        category: 'IELTS Academic',
-        box: 1,
-        tags: ['Technology', 'Society']
-      },
-      {
-        id: 'v7',
-        word: 'Pragmatic',
-        phonetic: '/præɡˈmæt.ɪk/',
-        definition: 'Dealing with things sensibly and realistically.',
-        translate: 'Thực tế, thực dụng, trọng thực tiễn.',
-        example: 'We need to take a pragmatic approach to resolve this issue.',
-        exampleTranslate: 'Chúng ta cần chọn một hướng tiếp cận thực tế để giải quyết vấn đề.',
-        category: 'SAT Words',
-        box: 1,
-        tags: ['Decisions']
-      },
-      {
-        id: 'v8',
-        word: 'Serendipity',
-        phonetic: '/ˌser.ənˈdɪp.ə.ti/',
-        definition: 'The occurrence of events by chance in a happy or beneficial way.',
-        translate: 'Sự tình cờ may mắn, duyên may ngẫu nhiên.',
-        example: 'Meeting my favorite artist at a diner was pure serendipity.',
-        exampleTranslate: 'Gặp gỡ nghệ sĩ yêu thích tại quán ăn hoàn toàn là duyên may kỳ diệu.',
-        category: 'SAT Words',
-        box: 1,
-        tags: ['Life', 'Feelings']
-      }
-    ].filter(() => false);
-  });
+  const [vocabWords, setVocabWords] = useState<VocabularyWord[]>(getInitialVocabularyWords);
 
   const [currentFlashcardIndex, setCurrentFlashcardIndex] = useState<number>(0);
   const [isCardFlipped, setIsCardFlipped] = useState<boolean>(false);
@@ -352,8 +272,6 @@ export default function App() {
     localStorage.setItem('lw_v_words', JSON.stringify(vocabWords));
     if (localDirectoryHandle) {
       saveVocabToDirectory(localDirectoryHandle, vocabWords);
-    } else if (storageMode === 'gdrive' && gdriveToken && gdriveFolderId) {
-      saveVocabToGDrive(gdriveToken, gdriveFolderId, vocabWords);
     }
   }, [vocabWords, localDirectoryHandle]);
 
@@ -618,24 +536,6 @@ export default function App() {
         setCustomTranscriptText('');
         setCustomTranslateText('');
         handleClearCustomAudio();
-      }
-
-      // Sync vocabulary
-      const vocabFile = await gdriveFindFile(token, 'vocabulary.json', folderId);
-      if (vocabFile) {
-        try {
-          const vocabText = await gdriveReadFileText(token, vocabFile.id);
-          const parsed = JSON.parse(vocabText);
-          if (Array.isArray(parsed)) {
-            setVocabWords(parsed);
-            localStorage.setItem('lw_v_words', JSON.stringify(parsed));
-          }
-        } catch (vErr) {
-          console.error("Lỗi đọc từ vựng từ GDrive:", vErr);
-        }
-      } else {
-        setVocabWords([]);
-        localStorage.setItem('lw_v_words', JSON.stringify([]));
       }
 
       // Sync Practice logs
